@@ -1,0 +1,121 @@
+2023/07/31 09:07:28.735 - INICIO REGISTRO
+2023/07/31 09:07:28.744 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/07/31 09:07:28.859 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/07/31 09:07:31.749 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/07/31 09:07:31.800 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/07/31 09:07:31.843 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/07/31 09:07:31.876 - MENSAJE: 
+2023/07/31 09:07:31.918 - MENSAJE: ConexionExitosa_Dispensador
+2023/07/31 09:07:32.140 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/07/31 09:07:32.780 - MENSAJE: Sin_Tarjeta
+2023/07/31 09:07:37.987 - MENSAJE: 
+2023/07/31 09:07:37.987 - MENSAJE: 
+2023/07/31 09:07:39.467 - MENSAJE: 
+2023/07/31 09:07:41.887 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/07/31 09:07:44.101 - MENSAJE: Tarjeta_Alistada
+2023/07/31 09:07:44.160 - MENSAJE: Tarjeta Encontrada: 067A2227
+2023/07/31 09:07:45.111 - MENSAJE: (FrontEnd Despues AlistarTarjetaNew)
+2023/07/31 09:07:45.630 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/07/31 09:10:54.238 - INICIO REGISTRO
+2023/07/31 09:10:54.247 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/07/31 09:10:54.385 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/07/31 09:10:55.131 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/07/31 09:10:55.166 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/07/31 09:10:55.191 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/07/31 09:10:55.216 - MENSAJE: 
+2023/07/31 09:10:55.259 - MENSAJE: ConexionExitosa_Dispensador
+2023/07/31 09:10:55.366 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/07/31 09:10:58.503 - MENSAJE: 
+2023/07/31 09:10:58.504 - MENSAJE: 
+2023/07/31 09:10:58.869 - MENSAJE: 
+2023/07/31 09:11:00.040 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/07/31 09:11:02.319 - MENSAJE: Tarjeta_Alistada
+2023/07/31 09:11:02.367 - MENSAJE: Tarjeta Encontrada: 067A2227
+2023/07/31 09:11:03.102 - MENSAJE: (FrontEnd Despues AlistarTarjetaNew)
+2023/07/31 09:11:03.638 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/07/31 09:11:17.898 - MENSAJE: (FrontEnd CapturaPlaca) Placa: BVC133
+2023/07/31 09:11:24.815 - MENSAJE: (FrontEnd Antes CapturaPlaca) BVC133
+2023/07/31 09:11:32.615 - MENSAJE: oAutorizado.PlacaAuto : BVC133
+2023/07/31 09:11:34.008 - MENSAJE: 
+2023/07/31 09:11:34.008 - MENSAJE: 
+2023/07/31 09:11:35.361 - MENSAJE: 
+2023/07/31 09:11:44.709 - MENSAJE: Tarjeta_Escrita
+2023/07/31 09:11:44.721 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2023/07/31 09:14:17.118 - INICIO REGISTRO
+2023/07/31 09:14:17.125 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/07/31 09:14:17.254 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/07/31 09:14:17.944 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/07/31 09:14:17.972 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/07/31 09:14:17.996 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/07/31 09:14:18.022 - MENSAJE: 
+2023/07/31 09:14:18.061 - MENSAJE: ConexionExitosa_Dispensador
+2023/07/31 09:14:18.160 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/07/31 09:14:18.809 - MENSAJE: Sin_Tarjeta
+2023/07/31 09:14:24.193 - MENSAJE: 
+2023/07/31 09:14:24.198 - MENSAJE: 
+2023/07/31 09:14:24.199 - MENSAJE: 
+2023/07/31 09:14:35.768 - INICIO REGISTRO
+2023/07/31 09:14:35.778 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/07/31 09:14:35.907 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/07/31 09:14:36.603 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/07/31 09:14:36.628 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/07/31 09:14:36.650 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/07/31 09:14:36.675 - MENSAJE: 
+2023/07/31 09:14:36.708 - MENSAJE: ConexionExitosa_Dispensador
+2023/07/31 09:14:36.803 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/07/31 09:14:37.444 - MENSAJE: Sin_Tarjeta
+2023/07/31 09:14:39.488 - MENSAJE: 
+2023/07/31 09:14:39.489 - MENSAJE: 
+2023/07/31 09:14:39.496 - MENSAJE: 
+2023/07/31 09:14:41.109 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/07/31 09:14:43.787 - MENSAJE: Tarjeta_Alistada
+2023/07/31 09:14:43.846 - MENSAJE: Tarjeta Encontrada: 9A0F818B
+2023/07/31 09:14:44.501 - MENSAJE: (FrontEnd Despues AlistarTarjetaNew)
+2023/07/31 09:14:44.805 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/07/31 09:14:46.388 - MENSAJE: (FrontEnd CapturaPlaca) Placa: BVC133
+2023/07/31 09:16:09.074 - INICIO REGISTRO
+2023/07/31 09:16:09.083 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/07/31 09:16:09.266 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/07/31 09:16:14.515 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/07/31 09:16:14.553 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/07/31 09:16:14.588 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/07/31 09:16:14.628 - MENSAJE: 
+2023/07/31 09:16:14.679 - MENSAJE: ConexionExitosa_Dispensador
+2023/07/31 09:16:14.806 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/07/31 09:16:19.555 - MENSAJE: 
+2023/07/31 09:16:19.558 - MENSAJE: 
+2023/07/31 09:16:19.754 - MENSAJE: 
+2023/07/31 09:16:21.100 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/07/31 09:16:23.101 - MENSAJE: Tarjeta_Alistada
+2023/07/31 09:16:23.158 - MENSAJE: Tarjeta Encontrada: 9A0F818B
+2023/07/31 09:16:23.845 - MENSAJE: (FrontEnd Despues AlistarTarjetaNew)
+2023/07/31 09:16:24.284 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/07/31 09:16:25.751 - MENSAJE: (FrontEnd CapturaPlaca) Placa: BVC133
+2023/07/31 09:18:07.039 - INICIO REGISTRO
+2023/07/31 09:18:07.048 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/07/31 09:18:07.194 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/07/31 09:18:29.994 - INICIO REGISTRO
+2023/07/31 09:18:30.002 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/07/31 09:18:30.126 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/07/31 09:18:43.081 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2023/07/31 09:19:10.193 - INICIO REGISTRO
+2023/07/31 09:19:10.202 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/07/31 09:19:10.336 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/07/31 09:21:19.728 - INICIO REGISTRO
+2023/07/31 09:21:19.738 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/07/31 09:21:19.864 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/07/31 09:21:25.133 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/07/31 09:21:25.180 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/07/31 09:21:25.238 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/07/31 09:21:25.272 - MENSAJE: 
+2023/07/31 09:21:25.315 - MENSAJE: ConexionExitosa_Dispensador
+2023/07/31 09:21:25.430 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/07/31 09:21:33.653 - MENSAJE: 
+2023/07/31 09:21:34.177 - MENSAJE: 
+2023/07/31 09:21:46.057 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/07/31 09:21:48.365 - MENSAJE: Tarjeta_Alistada
+2023/07/31 09:21:48.436 - MENSAJE: Tarjeta Encontrada: 9A0F818B
+2023/07/31 09:21:49.227 - MENSAJE: (FrontEnd Despues AlistarTarjetaNew)
+2023/07/31 09:21:49.903 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/07/31 09:21:52.294 - MENSAJE: (FrontEnd CapturaPlaca) Placa: BVC133
+2023/07/31 09:22:21.605 - MENSAJE: (FrontEnd Antes CapturaPlaca) BVC133

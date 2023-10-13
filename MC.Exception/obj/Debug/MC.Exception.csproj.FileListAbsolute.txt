@@ -1,0 +1,162 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Global.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Global.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkingMC\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Exception\bin\Debug\MC.Global.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Exception\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Exception\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.Exception\bin\Debug\MC.Global.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkFlorida\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Exception\bin\Debug\MC.Global.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Exception\bin\Debug\MC.Global.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Exception\bin\Debug\MC.Global.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Global.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Exception\obj\Debug\MC.Exception.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Exception.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Exception.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Global.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Utilidades.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Global.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Utilidades.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Exception\obj\Debug\MC.Exception.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Global.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Global.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Exception\obj\Debug\MC.Exception.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Exception\bin\Debug\MC.Exception.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Exception\bin\Debug\MC.Exception.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Exception\bin\Debug\MC.Global.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Exception\bin\Debug\MC.Utilidades.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Exception\bin\Debug\MC.Global.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Exception\bin\Debug\MC.Utilidades.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Exception\bin\Debug\MC.Global.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Exception\bin\Debug\MC.Global.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Exception\bin\Debug\MC.Global.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.pdb

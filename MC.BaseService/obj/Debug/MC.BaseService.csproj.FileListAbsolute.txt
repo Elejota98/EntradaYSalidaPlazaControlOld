@@ -1,0 +1,80 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkingMC\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkFlorida\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.BaseService\obj\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.BaseService\bin\Debug\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.BaseService\bin\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.BaseService\obj\Debug\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.BaseService\obj\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.BaseService\bin\Debug\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.BaseService\bin\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.BaseService\obj\Debug\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BaseService\obj\Debug\MC.BaseService.pdb

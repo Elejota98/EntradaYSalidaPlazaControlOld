@@ -1,0 +1,110 @@
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.CRT_570Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.CRT_570Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.CRT_570Device\bin\Debug\GS.HexLibrary.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\bin\Debug\GS.HexLibrary.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\bin\Debug\GS.HexLibrary.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\GS.HexLibrary.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\GS.HexLibrary.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\EGlobalT.Device.Tools.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\GS.HexLibrary.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\GS.HexLibrary.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.CRT_570Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.CRT_570Device\bin\Debug\GS.HexLibrary.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.CRT_570Device\bin\Debug\EGlobalT.Device.Tools.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.CRT_570Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.CRT_570Device\bin\Debug\GS.HexLibrary.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.CRT_570Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT_570Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT_570Device\bin\Debug\GS.HexLibrary.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT_570Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.CRT_570Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.CRT_570Device\bin\Debug\GS.HexLibrary.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.CRT_570Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache

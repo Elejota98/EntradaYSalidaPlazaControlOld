@@ -1,0 +1,195 @@
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Host.ActionServer\bin\MC.EntradaService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Host.ActionServer\bin\MC.BaseService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Host.ActionServer\bin\MC.BusinessService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Host.ActionServer\bin\MC.DataService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Host.ActionServer\bin\MC.BaseService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Host.ActionServer\bin\MC.DataService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Host.ActionServer\bin\MC.EntradaService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Host.ActionServer\bin\MC.BaseService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Host.ActionServer\bin\MC.BusinessService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Host.ActionServer\bin\MC.DataService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Host.ActionServer\bin\MC.BaseService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Host.ActionServer\bin\MC.DataService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Host.ActionServer\bin\MC.EntradaService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Host.ActionServer\bin\MC.BaseService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Host.ActionServer\bin\MC.BusinessService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Host.ActionServer\bin\MC.DataService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Host.ActionServer\bin\MC.BaseService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Host.ActionServer\bin\MC.DataService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.Host.ActionServer\bin\MC.EntradaService.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.Host.ActionServer\bin\MC.BaseService.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.Host.ActionServer\bin\MC.BusinessService.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.Host.ActionServer\bin\MC.DataService.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.Host.ActionServer\bin\MC.BaseService.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.Host.ActionServer\bin\MC.DataService.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkFlorida\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Host.ActionServer\bin\MC.EntradaService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Host.ActionServer\bin\MC.BaseService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Host.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Host.ActionServer\bin\MC.DataService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Host.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Host.ActionServer\bin\MC.DataService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.EntradaService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.BaseService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.DataService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.DataService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.EntradaService.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.BaseService.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.DataService.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\bin\MC.DataService.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.EntradaService.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BaseService.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.DataService.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.DataService.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.EntradaService.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BusinessService.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.DataService.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.DataService.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.EntradaService.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BaseService.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.DataService.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.DataService.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.EntradaService.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BaseService.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.DataService.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Host.ActionServer\bin\MC.DataService.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Host.ActionServer\bin\MC.EntradaService.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Host.ActionServer\bin\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Host.ActionServer\bin\MC.BusinessService.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Host.ActionServer\bin\MC.DataService.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Host.ActionServer\bin\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Host.ActionServer\bin\MC.DataService.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Host.ActionServer\bin\MC.EntradaService.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Host.ActionServer\bin\MC.BaseService.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Host.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Host.ActionServer\bin\MC.DataService.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Host.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Host.ActionServer\bin\MC.DataService.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.EntradaService.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.BaseService.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.DataService.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.DataService.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.EntradaService.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.BaseService.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.DataService.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\bin\MC.DataService.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb

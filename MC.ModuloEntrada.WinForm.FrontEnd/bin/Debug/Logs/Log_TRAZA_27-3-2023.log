@@ -1,0 +1,151 @@
+2023/03/27 10:01:23.026 - INICIO REGISTRO
+2023/03/27 10:01:23.036 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/27 10:01:23.145 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/27 10:01:25.076 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/27 10:01:25.141 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/27 10:01:25.183 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/27 10:01:25.228 - MENSAJE: 
+2023/03/27 10:01:25.424 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/27 10:01:26.035 - MENSAJE: 
+2023/03/27 10:01:26.038 - MENSAJE: 
+2023/03/27 10:01:26.044 - MENSAJE: 
+2023/03/27 10:01:26.620 - MENSAJE: 
+2023/03/27 10:01:26.622 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/27 10:01:26.622 - MENSAJE: 
+2023/03/27 10:01:26.630 - MENSAJE: 
+2023/03/27 10:01:26.631 - MENSAJE: Error_AlistarTarjeta
+2023/03/27 10:01:26.632 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/27 10:01:26.653 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/27 10:01:30.863 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2100
+2023/03/27 10:01:30.864 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/27 10:01:30.911 - MENSAJE: Error Conexion PLC
+2023/03/27 10:01:30.972 - MENSAJE: Error Conexion PLC
+2023/03/27 10:01:31.046 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/27 10:01:31.047 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/27 10:01:31.048 - MENSAJE: Error_MoverTarjetaReceptor_TO_BINBOX Tarjeta Atascada
+2023/03/27 10:02:10.836 - INICIO REGISTRO
+2023/03/27 10:02:10.846 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/27 10:02:10.954 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/27 10:02:11.396 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/27 10:02:11.425 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/27 10:02:11.445 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/27 10:02:11.475 - MENSAJE: 
+2023/03/27 10:02:11.564 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/27 10:02:20.187 - MENSAJE: 
+2023/03/27 03:30:02.116 - INICIO REGISTRO
+2023/03/27 03:30:02.124 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/27 03:30:02.229 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/27 03:30:03.931 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/27 03:30:03.976 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/27 03:30:04.008 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/27 03:30:04.043 - MENSAJE: 
+2023/03/27 03:30:04.223 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/27 03:30:04.837 - MENSAJE: 
+2023/03/27 03:33:24.342 - INICIO REGISTRO
+2023/03/27 03:33:24.350 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/27 03:33:24.467 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/27 03:33:25.179 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/27 03:33:25.206 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/27 03:33:25.242 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/27 03:33:25.268 - MENSAJE: 
+2023/03/27 03:33:25.344 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/27 03:33:25.964 - MENSAJE: 
+2023/03/27 03:33:25.970 - MENSAJE: 
+2023/03/27 03:33:32.150 - MENSAJE: 
+2023/03/27 03:33:32.150 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/27 03:33:32.154 - MENSAJE: Error_AlistarTarjeta
+2023/03/27 03:33:32.155 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/27 03:33:32.177 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/27 03:33:36.340 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2100
+2023/03/27 03:33:36.341 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/27 03:33:36.390 - MENSAJE: Error Conexion PLC
+2023/03/27 03:33:36.454 - MENSAJE: Error Conexion PLC
+2023/03/27 03:33:36.528 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/27 03:33:36.530 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/27 03:33:36.530 - MENSAJE: Error_MoverTarjetaReceptor_TO_BINBOX Tarjeta Atascada
+2023/03/27 03:39:25.487 - INICIO REGISTRO
+2023/03/27 03:39:25.496 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/27 03:39:25.611 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/27 03:39:26.344 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/27 03:39:26.375 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/27 03:39:26.396 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/27 03:39:26.423 - MENSAJE: 
+2023/03/27 03:39:26.501 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/27 03:39:27.133 - MENSAJE: 
+2023/03/27 04:27:09.440 - INICIO REGISTRO
+2023/03/27 04:27:09.447 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/27 04:27:09.553 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/27 04:27:10.713 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/27 04:27:10.741 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/27 04:27:10.764 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/27 04:27:10.792 - MENSAJE: 
+2023/03/27 04:27:10.959 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/27 04:27:11.556 - MENSAJE: 
+2023/03/27 04:27:49.122 - MENSAJE: 
+2023/03/27 04:27:49.144 - MENSAJE: 
+2023/03/27 04:29:02.625 - INICIO REGISTRO
+2023/03/27 04:29:02.634 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/27 04:29:02.737 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/27 04:29:03.482 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/27 04:29:03.515 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/27 04:29:03.548 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/27 04:29:03.573 - MENSAJE: 
+2023/03/27 04:29:03.654 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/27 04:29:04.271 - MENSAJE: 
+2023/03/27 04:30:15.220 - INICIO REGISTRO
+2023/03/27 04:30:15.228 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/27 04:30:15.348 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/27 04:30:16.072 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/27 04:30:16.102 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/27 04:30:16.123 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/27 04:30:16.151 - MENSAJE: 
+2023/03/27 04:30:16.229 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/27 04:30:16.855 - MENSAJE: 
+2023/03/27 04:31:36.814 - INICIO REGISTRO
+2023/03/27 04:31:36.822 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/27 04:31:36.936 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/27 04:31:37.668 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/27 04:31:37.698 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/27 04:31:37.721 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/27 04:31:53.725 - MENSAJE: 
+2023/03/27 04:31:53.781 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/27 04:31:54.380 - MENSAJE: 
+2023/03/27 04:41:32.080 - INICIO REGISTRO
+2023/03/27 04:41:32.092 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/27 04:41:32.210 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/27 04:41:33.979 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/27 04:41:34.018 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/27 04:41:34.049 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/27 04:41:34.089 - MENSAJE: 
+2023/03/27 04:41:34.167 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/27 04:41:34.777 - MENSAJE: 
+2023/03/27 04:53:34.393 - INICIO REGISTRO
+2023/03/27 04:53:34.402 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/27 04:53:34.519 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/27 04:53:45.738 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2023/03/27 04:54:07.331 - INICIO REGISTRO
+2023/03/27 04:54:07.339 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/27 04:54:07.455 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/27 04:54:18.644 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2023/03/27 04:55:01.069 - INICIO REGISTRO
+2023/03/27 04:55:01.079 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/27 04:55:01.193 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/27 04:55:03.002 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/27 04:55:03.060 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/27 04:55:03.111 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/27 04:55:03.146 - MENSAJE: 
+2023/03/27 04:55:03.231 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/27 04:55:03.842 - MENSAJE: 
+2023/03/27 04:55:57.115 - INICIO REGISTRO
+2023/03/27 04:55:57.125 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/27 04:55:57.226 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/27 04:55:57.990 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/27 04:55:58.017 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/27 04:55:58.037 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/27 04:55:58.061 - MENSAJE: 
+2023/03/27 04:55:58.138 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/27 04:55:58.761 - MENSAJE: 

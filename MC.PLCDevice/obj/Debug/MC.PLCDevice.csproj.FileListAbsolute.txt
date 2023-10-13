@@ -1,0 +1,250 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Proyecto\Desarrollo ParkingMC\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Proyecto\Desarrollo ParkingMC\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Proyecto\Desarrollo ParkingMC\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkingMC\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\bin\Debug\log4net.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\bin\Debug\Unme.Common.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.PLCDevice\bin\Debug\log4net.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.PLCDevice\bin\Debug\Unme.Common.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\bin\Debug\log4net.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\bin\Debug\Unme.Common.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.PLCDevice\bin\Debug\log4net.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.PLCDevice\bin\Debug\Unme.Common.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkFlorida\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.PLCDevice\bin\Debug\log4net.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.PLCDevice\bin\Debug\Unme.Common.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\log4net.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\Unme.Common.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\log4net.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\Unme.Common.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\log4net.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\Unme.Common.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\Modbus.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\log4net.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\Unme.Common.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\log4net.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\Unme.Common.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\log4net.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\Unme.Common.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.PLCDevice\bin\Debug\Modbus.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.PLCDevice\bin\Debug\log4net.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.PLCDevice\bin\Debug\Unme.Common.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.PLCDevice\bin\Debug\log4net.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.PLCDevice\bin\Debug\Unme.Common.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\log4net.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\Unme.Common.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\log4net.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\Unme.Common.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb

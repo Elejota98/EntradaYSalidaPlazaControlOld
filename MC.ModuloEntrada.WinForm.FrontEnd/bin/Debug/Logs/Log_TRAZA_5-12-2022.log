@@ -1,0 +1,302 @@
+2022/12/05 08:52:40.005 - INICIO REGISTRO
+2022/12/05 08:52:40.014 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/12/05 08:52:40.122 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/12/05 08:52:40.699 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/12/05 08:52:40.725 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/12/05 08:52:40.760 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/12/05 08:52:41.031 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/12/05 08:52:41.170 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 08:52:41.198 - MENSAJE: ConexionExitosa_Dispensador
+2022/12/05 08:52:41.281 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 08:52:41.915 - MENSAJE: Sin_Tarjeta
+2022/12/05 08:53:32.355 - MENSAJE: Vehiculo En Mueble
+2022/12/05 08:53:33.721 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/12/05 08:53:36.577 - MENSAJE: Tarjeta_Alistada
+2022/12/05 08:53:36.622 - MENSAJE: Tarjeta Encontrada: 945E5EED
+2022/12/05 08:53:37.986 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2022/12/05 08:53:43.407 - MENSAJE: (FrontEnd CapturaPlaca) Placa: DUP324
+2022/12/05 08:53:45.350 - MENSAJE: (FrontEnd CapturaPlaca) Placa: DUP324
+2022/12/05 08:53:48.515 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2022/12/05 08:54:00.422 - MENSAJE: Vehiculo En Mueble
+2022/12/05 08:54:59.435 - MENSAJE: Vehiculo En Mueble
+2022/12/05 08:55:00.112 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/12/05 08:55:02.034 - MENSAJE: Tarjeta_Alistada
+2022/12/05 08:55:02.071 - MENSAJE: Tarjeta Encontrada: 945E5EED
+2022/12/05 08:55:03.004 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2022/12/05 08:55:07.931 - MENSAJE: (FrontEnd CapturaPlaca) Placa: DUP324
+2022/12/05 08:55:12.067 - MENSAJE: (FrontEnd CapturaPlaca) HWM650
+2022/12/05 08:55:15.307 - MENSAJE: oAutorizado.PlacaAuto : HWM650
+2022/12/05 08:55:25.068 - MENSAJE: Vehiculo En Mueble
+2022/12/05 08:55:32.424 - MENSAJE: Tarjeta_Escrita
+2022/12/05 08:55:32.436 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/12/05 08:58:09.316 - INICIO REGISTRO
+2022/12/05 08:58:09.325 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/12/05 08:58:09.429 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/12/05 08:58:09.854 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/12/05 08:58:09.879 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/12/05 08:58:09.899 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/12/05 08:58:10.075 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/12/05 08:58:10.215 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 08:58:10.245 - MENSAJE: ConexionExitosa_Dispensador
+2022/12/05 08:58:10.325 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 08:58:10.939 - MENSAJE: Sin_Tarjeta
+2022/12/05 08:58:12.942 - MENSAJE: Vehiculo En Mueble
+2022/12/05 08:58:13.838 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/12/05 08:58:17.845 - MENSAJE: Tarjeta_Alistada
+2022/12/05 08:58:17.895 - MENSAJE: Tarjeta Encontrada: 145046ED
+2022/12/05 08:58:18.595 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2022/12/05 08:58:23.451 - MENSAJE: (FrontEnd CapturaPlaca) Placa: DUP324
+2022/12/05 08:58:25.217 - MENSAJE: (FrontEnd CapturaPlaca) Placa: DUP324
+2022/12/05 08:58:30.417 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2022/12/05 08:58:32.540 - MENSAJE: Vehiculo En Mueble
+2022/12/05 08:58:38.133 - MENSAJE: Tarjeta_Escrita
+2022/12/05 08:58:38.145 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/12/05 08:58:46.626 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:58:46.627 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:58:52.807 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 08:59:29.650 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:29.650 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:32.646 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 08:59:53.347 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:53.348 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:53.349 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 08:59:54.080 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:54.081 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:54.082 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 08:59:54.888 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:54.889 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:54.889 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 08:59:55.884 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:55.885 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:55.885 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 08:59:56.878 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:56.878 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:56.879 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 08:59:57.875 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:57.876 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:57.876 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 08:59:58.887 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:58.887 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:58.888 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 08:59:59.885 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:59.886 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 08:59:59.887 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:00.883 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:00.883 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:00.884 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:01.877 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:01.877 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:01.878 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:02.891 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:02.892 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:02.893 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:03.890 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:03.891 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:03.892 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:04.886 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:04.887 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:04.888 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:05.882 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:05.883 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:05.953 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:06.893 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:06.893 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:06.894 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:07.889 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:07.890 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:07.890 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:08.884 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:08.885 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:08.885 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:09.883 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:09.884 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:09.884 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:10.880 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:10.880 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:10.881 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:11.877 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:11.877 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:11.914 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:12.885 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:12.887 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:12.923 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:13.926 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:13.927 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:14.042 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 09:00:20.898 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:20.899 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/12/05 09:00:22.653 - MENSAJE: Tarjeta_Alistada
+2022/12/05 09:00:22.676 - MENSAJE: Tarjeta Encontrada: 145046ED
+2022/12/05 09:00:22.676 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2022/12/05 09:00:23.413 - MENSAJE: (FrontEnd CapturaPlaca) Placa: DUP324
+2022/12/05 09:00:23.485 - MENSAJE: (FrontEnd CapturaPlaca) Placa: DUP324
+2022/12/05 09:00:23.487 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2022/12/05 09:00:23.548 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:25.669 - MENSAJE: Tarjeta_Escrita
+2022/12/05 09:00:25.681 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/12/05 09:00:26.380 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:26.381 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:26.418 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:27.051 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:27.052 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:27.105 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:27.878 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:27.879 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:27.917 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:28.879 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:28.879 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:28.932 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:29.894 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:29.894 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:29.895 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:30.885 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:30.886 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:30.886 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:31.881 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:31.881 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:31.882 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:32.876 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:32.877 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:32.878 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:33.894 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:33.894 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:33.895 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:34.876 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:34.877 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:34.878 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:35.886 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:35.887 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:35.888 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:36.882 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:36.883 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:36.883 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:37.881 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:37.881 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:37.920 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:38.927 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:38.928 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:38.966 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:39.909 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:39.910 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:40.056 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 09:00:42.902 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:42.904 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/12/05 09:00:44.655 - MENSAJE: Tarjeta_Alistada
+2022/12/05 09:00:44.681 - MENSAJE: Tarjeta Encontrada: 145046ED
+2022/12/05 09:00:44.681 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2022/12/05 09:00:44.717 - MENSAJE: (FrontEnd CapturaPlaca) Placa: DUP324
+2022/12/05 09:00:44.805 - MENSAJE: (FrontEnd CapturaPlaca) Placa: DUP324
+2022/12/05 09:00:44.806 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2022/12/05 09:00:44.866 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:46.986 - MENSAJE: Tarjeta_Escrita
+2022/12/05 09:00:46.999 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/12/05 09:00:47.716 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:47.717 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:47.717 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:48.372 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:48.373 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:48.373 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:49.054 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:49.055 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:49.056 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:49.897 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:49.897 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:49.898 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:50.892 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:50.893 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:50.894 - MENSAJE: oAutorizado.IdTarjeta : E6E52F27
+2022/12/05 09:00:51.906 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:51.906 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:51.944 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:52.889 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:52.890 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:52.929 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:53.901 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:53.902 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:00:54.063 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 09:00:58.917 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:00:58.918 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/12/05 09:01:00.664 - MENSAJE: Tarjeta_Alistada
+2022/12/05 09:01:00.688 - MENSAJE: Tarjeta Encontrada: 145046ED
+2022/12/05 09:01:00.688 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2022/12/05 09:01:00.743 - MENSAJE: (FrontEnd CapturaPlaca) Placa: DUP324
+2022/12/05 09:01:00.813 - MENSAJE: (FrontEnd CapturaPlaca) Placa: DUP324
+2022/12/05 09:01:00.814 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2022/12/05 09:01:00.875 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:01:02.994 - MENSAJE: Tarjeta_Escrita
+2022/12/05 09:01:03.006 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/12/05 09:01:03.797 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:01:03.798 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:01:03.799 - MENSAJE: oAutorizado.IdTarjeta : D3E09879
+2022/12/05 09:01:03.975 - MENSAJE: Talanquera Abierta
+2022/12/05 09:01:08.384 - MENSAJE: Vehiculo En Talanquera
+2022/12/05 09:01:09.385 - MENSAJE: Vehiculo Salio Talanquera
+2022/12/05 09:01:09.448 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 09:01:09.542 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 09:01:43.984 - INICIO REGISTRO
+2022/12/05 09:01:43.994 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/12/05 09:01:44.098 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/12/05 09:01:44.541 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/12/05 09:01:44.566 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/12/05 09:01:44.591 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/12/05 09:01:44.845 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/12/05 09:01:44.987 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 09:01:45.016 - MENSAJE: ConexionExitosa_Dispensador
+2022/12/05 09:01:45.094 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 09:01:45.765 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:01:45.765 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/12/05 09:01:47.497 - MENSAJE: Tarjeta_Alistada
+2022/12/05 09:01:47.525 - MENSAJE: Tarjeta Encontrada: 145046ED
+2022/12/05 09:01:47.525 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2022/12/05 09:01:48.493 - MENSAJE: (FrontEnd CapturaPlaca) Placa: DUP324
+2022/12/05 09:01:48.575 - MENSAJE: (FrontEnd CapturaPlaca) Placa: DUP324
+2022/12/05 09:01:48.575 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2022/12/05 09:01:48.641 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:01:50.812 - MENSAJE: Tarjeta_Escrita
+2022/12/05 09:01:50.824 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/12/05 09:01:51.496 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:01:51.496 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:01:51.497 - MENSAJE: oAutorizado.IdTarjeta : 742748ED
+2022/12/05 09:01:51.672 - MENSAJE: Talanquera Abierta
+2022/12/05 09:02:01.022 - MENSAJE: Vehiculo En Talanquera
+2022/12/05 09:02:03.032 - MENSAJE: Vehiculo Salio Talanquera
+2022/12/05 09:02:03.095 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 09:02:03.156 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 09:02:07.557 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:02:07.558 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/12/05 09:02:09.309 - MENSAJE: Tarjeta_Alistada
+2022/12/05 09:02:09.326 - MENSAJE: Tarjeta Encontrada: 145046ED
+2022/12/05 09:02:09.327 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2022/12/05 09:02:09.344 - MENSAJE: (FrontEnd CapturaPlaca) Placa: GZP322
+2022/12/05 09:02:09.410 - MENSAJE: (FrontEnd CapturaPlaca) GZP322
+2022/12/05 09:02:09.410 - MENSAJE: oAutorizado.PlacaAuto : GZP322
+2022/12/05 09:02:12.589 - MENSAJE: Talanquera Abierta
+2022/12/05 09:02:12.665 - MENSAJE: Vehiculo En Talanquera
+2022/12/05 09:02:19.020 - MENSAJE: Vehiculo Salio Talanquera
+2022/12/05 09:02:19.082 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 09:02:19.209 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 09:02:20.564 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:02:20.565 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/12/05 09:02:22.303 - MENSAJE: Tarjeta_Alistada
+2022/12/05 09:02:22.328 - MENSAJE: Tarjeta Encontrada: 145046ED
+2022/12/05 09:02:22.329 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2022/12/05 09:02:22.362 - MENSAJE: (FrontEnd CapturaPlaca) Placa: GZP322
+2022/12/05 09:02:22.449 - MENSAJE: (FrontEnd CapturaPlaca) Placa: GZP322
+2022/12/05 09:02:22.449 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2022/12/05 09:02:22.512 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:02:24.633 - MENSAJE: Tarjeta_Escrita
+2022/12/05 09:02:24.644 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/12/05 09:02:25.251 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:02:25.251 - MENSAJE: Tarjeta_En_Boca
+2022/12/05 09:02:25.289 - MENSAJE: Vehiculo En Mueble
+2022/12/05 09:02:25.863 - MENSAJE: Sin_Tarjeta
+2022/12/05 09:02:25.916 - MENSAJE: Talanquera Abierta
+2022/12/05 09:02:25.923 - MENSAJE: (Presenter CapturaFoto) admin Parquearse123
+2022/12/05 09:02:25.924 - MENSAJE: (Presenter CapturaFoto) COMANDO http://192.168.119.229/Streaming/channels/101/picture
+2022/12/05 09:02:26.402 - MENSAJE: (Presenter CapturaFoto) admin Parquearse123
+2022/12/05 09:02:26.403 - MENSAJE: (Presenter CapturaFoto) COMANDO http://192.168.119.229/Streaming/channels/101/picture
+2022/12/05 09:02:31.032 - MENSAJE: Vehiculo En Talanquera
+2022/12/05 09:02:32.027 - MENSAJE: Vehiculo Salio Talanquera
+2022/12/05 09:02:32.088 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 09:02:32.183 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/12/05 09:02:33.534 - MENSAJE: Sin_Tarjeta

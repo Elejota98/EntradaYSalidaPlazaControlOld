@@ -1,0 +1,390 @@
+2022/06/16 02:01:35.319 - INICIO REGISTRO
+2022/06/16 02:01:35.329 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/06/16 02:01:35.447 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/06/16 02:01:36.090 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/06/16 02:01:36.138 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/06/16 02:01:36.187 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/06/16 02:01:36.428 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/06/16 02:01:36.570 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 02:01:36.600 - MENSAJE: ConexionExitosa_Dispensador
+2022/06/16 02:01:47.270 - MENSAJE: Vehiculo En Mueble
+2022/06/16 02:01:47.270 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/16 02:02:29.659 - INICIO REGISTRO
+2022/06/16 02:02:29.668 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/06/16 02:02:29.791 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/06/16 02:02:30.360 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/06/16 02:02:30.394 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/06/16 02:02:30.423 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/06/16 02:02:30.631 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/06/16 02:02:30.787 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 02:02:30.820 - MENSAJE: ConexionExitosa_Dispensador
+2022/06/16 02:02:33.029 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 02:02:46.245 - MENSAJE: Vehiculo En Mueble
+2022/06/16 02:02:46.247 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/16 02:02:47.985 - MENSAJE: Tarjeta_Alistada
+2022/06/16 02:02:48.014 - MENSAJE: Tarjeta Encontrada: 24194DED
+2022/06/16 02:02:50.649 - MENSAJE: Tarjeta_Borrada
+2022/06/16 02:02:50.649 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/16 02:02:51.397 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2022/06/16 02:02:51.409 - MENSAJE: Tarjeta_Movida_TOBINBOX
+2022/06/16 02:02:59.421 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:03:00.030 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:00.638 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:01.236 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:02.227 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:03.226 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:04.221 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:05.227 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:06.216 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:07.219 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:08.226 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:09.230 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:10.221 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:11.224 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:12.237 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:13.236 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:14.236 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:15.237 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:16.236 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:17.236 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:18.224 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:19.226 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:20.219 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:21.234 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:22.224 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:23.212 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:24.228 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:25.216 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:26.235 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:27.235 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:28.220 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:29.233 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:30.241 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:30.261 - MENSAJE: Vehiculo En Mueble
+2022/06/16 02:03:30.262 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/16 02:03:32.000 - MENSAJE: Tarjeta_Alistada
+2022/06/16 02:03:32.014 - MENSAJE: Tarjeta Encontrada: 26FE4028
+2022/06/16 02:03:34.635 - MENSAJE: Tarjeta_Borrada
+2022/06/16 02:03:34.635 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/16 02:03:34.699 - MENSAJE: Vehiculo En Mueble
+2022/06/16 02:03:35.320 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2022/06/16 02:03:35.331 - MENSAJE: Tarjeta_Movida_TOBINBOX
+2022/06/16 02:03:43.343 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:03:43.994 - MENSAJE: Sin_Tarjeta
+2022/06/16 02:03:44.014 - MENSAJE: Vehiculo En Mueble
+2022/06/16 02:03:44.015 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/16 02:03:45.746 - MENSAJE: Tarjeta_Alistada
+2022/06/16 02:03:45.759 - MENSAJE: Tarjeta Encontrada: C48148ED
+2022/06/16 02:03:48.391 - MENSAJE: Tarjeta_Borrada
+2022/06/16 02:03:48.391 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/16 02:03:48.456 - MENSAJE: Vehiculo En Mueble
+2022/06/16 02:03:49.073 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2022/06/16 02:03:49.084 - MENSAJE: Tarjeta_Movida_TOBINBOX
+2022/06/16 02:03:57.093 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:03:57.744 - MENSAJE: Estado_StackerSinTarjetas
+2022/06/16 02:03:57.997 - MENSAJE: Error_Estado_Stacker
+2022/06/16 02:03:58.752 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:03:59.764 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:00.767 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:01.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:02.760 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:03.763 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:04.764 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:05.763 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:06.761 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:07.755 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:08.752 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:09.759 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:10.762 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:11.765 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:12.753 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:13.758 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:14.756 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:15.760 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:16.759 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:17.759 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:18.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:19.760 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:20.756 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:21.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:22.759 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:23.769 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:24.761 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:25.752 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:26.754 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:27.762 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:28.752 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:29.756 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:30.760 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:31.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:32.756 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:33.756 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:34.758 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:35.765 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:36.763 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:37.764 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:38.761 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:39.765 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:40.767 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:41.764 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:42.778 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:43.752 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:44.754 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:45.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:46.763 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:47.775 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:48.762 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:49.754 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:50.758 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:51.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:52.762 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:53.758 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:54.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:55.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:56.760 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:57.756 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:58.755 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:04:59.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:00.760 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:01.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:02.765 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:03.754 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:04.756 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:05.752 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:06.760 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:07.781 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:08.763 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:09.751 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:10.765 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:11.753 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:12.754 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:13.754 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:14.752 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:15.768 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:16.754 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:17.759 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:18.779 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:19.765 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:20.768 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:21.753 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:22.763 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:23.770 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:24.752 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:25.764 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:26.764 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:27.763 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:28.761 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:29.762 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:30.764 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:31.765 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:32.756 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:33.765 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:34.754 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:35.756 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:36.756 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:37.761 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:38.767 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:39.760 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:40.764 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:41.762 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:42.756 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:43.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:44.755 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:45.753 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:46.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:47.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:48.763 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:49.765 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:50.753 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:51.755 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:52.756 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:53.774 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:54.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:55.763 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:56.753 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:57.758 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:58.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:05:59.758 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:00.751 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:01.764 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:02.752 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:03.758 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:04.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:05.760 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:06.758 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:07.760 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:08.763 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:09.752 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:10.757 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:11.755 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:12.759 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:13.779 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:14.751 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:15.756 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:16.760 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:17.761 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:18.765 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:19.762 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:20.764 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:21.761 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:22.759 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:23.760 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:24.762 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:25.762 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:26.762 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:27.749 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:28.781 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:06:29.769 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:07:19.137 - INICIO REGISTRO
+2022/06/16 02:07:19.145 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/06/16 02:07:19.262 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/06/16 02:07:19.774 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/06/16 02:07:19.817 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/06/16 02:07:19.842 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/06/16 02:07:20.067 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/06/16 02:07:20.253 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 02:07:20.296 - MENSAJE: ConexionExitosa_Dispensador
+2022/06/16 02:07:23.209 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 02:07:23.788 - MENSAJE: Estado_StackerSinTarjetas
+2022/06/16 02:07:24.061 - MENSAJE: Error_Estado_Stacker
+2022/06/16 02:07:24.210 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:07:25.211 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:07:26.195 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:07:27.209 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:07:28.372 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:07:29.202 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 02:07:30.189 - MENSAJE: Error_AlistarTarjeta
+2022/06/16 05:22:58.472 - INICIO REGISTRO
+2022/06/16 05:22:58.480 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/06/16 05:22:58.600 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/06/16 05:22:59.144 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/06/16 05:22:59.179 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/06/16 05:22:59.204 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/06/16 05:22:59.416 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/06/16 05:22:59.571 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 05:22:59.614 - MENSAJE: ConexionExitosa_Dispensador
+2022/06/16 05:23:01.685 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 05:23:02.397 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:03.040 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:04.013 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:05.016 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:06.016 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:07.021 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:08.024 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:09.016 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:10.018 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:11.026 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:12.043 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:13.027 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:14.015 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:15.015 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:16.027 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:17.025 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:18.028 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:19.018 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:20.034 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:21.023 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:22.031 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:23.023 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:24.028 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:25.027 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:26.031 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:27.029 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:28.022 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:29.029 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:30.040 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:31.045 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:32.033 - MENSAJE: Sin_Tarjeta
+2022/06/16 05:23:32.067 - MENSAJE: Vehiculo En Mueble
+2022/06/16 05:23:32.068 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/16 05:23:33.817 - MENSAJE: Tarjeta_Alistada
+2022/06/16 05:23:33.842 - MENSAJE: Tarjeta Encontrada: E42940ED
+2022/06/16 05:23:36.477 - MENSAJE: Tarjeta_Borrada
+2022/06/16 05:23:36.477 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/16 05:23:36.556 - MENSAJE: Vehiculo En Mueble
+2022/06/16 05:26:23.926 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2022/06/16 05:26:23.940 - MENSAJE: Tarjeta_Movida_TOBINBOX
+2022/06/16 05:26:29.772 - MENSAJE: (FrontEnd CapturaPlaca) Placa: PBPC1
+2022/06/16 05:27:08.001 - MENSAJE: Tarjeta_Alistada
+2022/06/16 05:27:08.038 - MENSAJE: Tarjeta Encontrada: 04924DED
+2022/06/16 05:27:10.677 - MENSAJE: Tarjeta_Borrada
+2022/06/16 05:27:58.420 - MENSAJE: Vehiculo En Mueble
+2022/06/16 05:27:59.326 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/16 05:28:16.815 - MENSAJE: Tarjeta_Alistada
+2022/06/16 05:28:16.843 - MENSAJE: Tarjeta Encontrada: 04924DED
+2022/06/16 05:28:19.477 - MENSAJE: Tarjeta_Borrada
+2022/06/16 05:28:32.575 - MENSAJE: (FrontEnd CapturaPlaca) PBPC1
+2022/06/16 05:28:42.390 - MENSAJE: oAutorizado.PlacaAuto : PBPC1
+2022/06/16 05:29:47.868 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2022/06/16 05:29:47.879 - MENSAJE: Tarjeta_Movida_TOBINBOX
+2022/06/16 05:32:38.051 - MENSAJE: Tarjeta_Alistada
+2022/06/16 05:32:38.088 - MENSAJE: Tarjeta Encontrada: B4CC5EED
+2022/06/16 05:32:40.720 - MENSAJE: Tarjeta_Borrada
+2022/06/16 05:36:14.164 - INICIO REGISTRO
+2022/06/16 05:36:14.174 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/06/16 05:36:14.291 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/06/16 05:36:14.810 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/06/16 05:36:14.845 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/06/16 05:36:14.881 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/06/16 05:36:15.096 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/06/16 05:36:15.253 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 05:36:15.295 - MENSAJE: ConexionExitosa_Dispensador
+2022/06/16 05:36:18.312 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 05:37:48.728 - MENSAJE: Vehiculo En Mueble
+2022/06/16 05:37:48.729 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/16 05:38:21.545 - MENSAJE: Tarjeta_Alistada
+2022/06/16 05:38:21.581 - MENSAJE: Tarjeta Encontrada: B4CC5EED
+2022/06/16 05:38:24.219 - MENSAJE: Tarjeta_Borrada
+2022/06/16 05:39:05.550 - INICIO REGISTRO
+2022/06/16 05:39:05.560 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/06/16 05:39:05.682 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/06/16 05:39:06.213 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/06/16 05:39:06.247 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/06/16 05:39:06.270 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/06/16 05:39:06.459 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/06/16 05:39:06.615 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 05:39:06.653 - MENSAJE: ConexionExitosa_Dispensador
+2022/06/16 05:39:08.270 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 05:41:16.911 - INICIO REGISTRO
+2022/06/16 05:41:16.923 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/06/16 05:41:17.081 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/06/16 05:41:17.767 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/06/16 05:41:17.811 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/06/16 05:41:17.836 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/06/16 05:41:18.109 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/06/16 05:41:18.310 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 05:41:18.361 - MENSAJE: ConexionExitosa_Dispensador
+2022/06/16 05:41:19.974 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 05:41:51.149 - INICIO REGISTRO
+2022/06/16 05:41:51.162 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/06/16 05:41:51.314 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/06/16 05:41:51.969 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/06/16 05:41:52.014 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/06/16 05:41:52.042 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/06/16 05:41:52.302 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/06/16 05:41:52.491 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 05:41:52.539 - MENSAJE: ConexionExitosa_Dispensador
+2022/06/16 05:41:54.982 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/16 05:42:46.741 - MENSAJE: Vehiculo En Mueble
+2022/06/16 05:42:46.742 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/16 05:43:36.340 - MENSAJE: Tarjeta_Alistada
+2022/06/16 05:43:36.385 - MENSAJE: Tarjeta Encontrada: B4CC5EED
+2022/06/16 05:43:39.004 - MENSAJE: Tarjeta_Borrada
+2022/06/16 05:43:56.476 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/16 05:44:04.811 - MENSAJE: Vehiculo En Mueble
+2022/06/16 05:46:05.804 - MENSAJE: Tarjeta_Borrada
+2022/06/16 05:46:30.021 - MENSAJE: Vehiculo En Mueble
+2022/06/16 05:46:30.022 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/16 05:46:34.328 - MENSAJE: Tarjeta_Alistada
+2022/06/16 05:46:34.384 - MENSAJE: Tarjeta Encontrada: B4CC5EED
+2022/06/16 05:46:37.015 - MENSAJE: Tarjeta_Borrada
+2022/06/16 05:46:37.015 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/16 05:46:37.080 - MENSAJE: Vehiculo En Mueble
+2022/06/16 05:46:41.023 - MENSAJE: Tarjeta_Borrada
+2022/06/16 05:46:41.713 - MENSAJE: Vehiculo En Mueble
+2022/06/16 05:46:41.714 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/16 05:47:00.081 - MENSAJE: Tarjeta_Alistada
+2022/06/16 05:47:00.107 - MENSAJE: Tarjeta Encontrada: B4CC5EED
+2022/06/16 05:47:02.729 - MENSAJE: Tarjeta_Borrada
+2022/06/16 05:47:05.936 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/16 05:47:10.769 - MENSAJE: Vehiculo En Mueble

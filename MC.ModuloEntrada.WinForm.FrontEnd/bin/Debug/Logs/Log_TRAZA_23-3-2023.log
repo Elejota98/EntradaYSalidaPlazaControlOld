@@ -1,0 +1,637 @@
+2023/03/23 08:46:36.283 - INICIO REGISTRO
+2023/03/23 08:46:59.846 - INICIO REGISTRO
+2023/03/23 08:47:21.846 - INICIO REGISTRO
+2023/03/23 08:47:28.489 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 08:47:29.670 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 08:47:34.900 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 08:47:34.958 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 08:47:34.996 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 08:47:37.135 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2023/03/23 08:47:37.291 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2023/03/23 08:47:37.345 - MENSAJE: ConexionExitosa_Dispensador
+2023/03/23 08:47:40.916 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2023/03/23 08:47:44.747 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:47:45.389 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:47:46.023 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:47:47.018 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:47:48.013 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:47:49.012 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:47:50.012 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:47:51.025 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:47:51.045 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:47:51.046 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 08:47:55.100 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 08:47:55.101 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 08:47:55.138 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 08:47:59.308 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27003
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2101
+2023/03/23 08:47:59.308 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 08:47:59.943 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 08:48:00.540 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:01.141 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:02.011 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:03.018 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:04.006 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:05.019 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:06.006 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:07.008 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:08.006 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:09.018 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:10.016 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:11.013 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:12.009 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:13.021 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:14.019 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:15.022 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:16.018 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:17.019 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:18.013 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:19.009 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:20.008 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:21.023 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:22.024 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:23.021 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:24.019 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:25.019 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:26.020 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:27.023 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:28.019 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:29.016 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:30.027 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:31.038 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:32.020 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:33.016 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:34.012 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:35.011 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:36.014 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:37.009 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:38.011 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:39.005 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:40.023 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:41.023 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:42.024 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:43.017 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:44.017 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:45.018 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:46.019 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:47.019 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:48.013 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:49.012 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:50.008 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:51.020 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:52.023 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:53.021 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:54.017 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:55.013 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:56.014 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:57.012 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:58.009 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:48:59.024 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:49:00.023 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:49:01.023 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:49:02.014 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:49:03.014 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:49:04.013 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:49:05.024 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:49:06.029 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:49:07.025 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:49:57.576 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:51:18.357 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:51:21.773 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 08:51:27.053 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 08:51:49.856 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 08:51:59.827 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 08:52:47.823 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 08:53:02.175 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27003
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2101
+2023/03/23 08:53:05.409 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 08:53:07.237 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:53:10.475 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 08:53:21.733 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:53:23.071 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:53:23.394 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 08:53:27.631 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 08:53:28.284 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 08:53:30.675 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 08:53:34.816 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27003
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2101
+2023/03/23 08:53:35.540 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 08:53:37.375 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:53:40.357 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 08:54:00.287 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:54:00.309 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:54:00.310 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 08:54:04.349 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 08:54:04.349 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 08:54:04.350 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 08:54:08.501 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27003
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2101
+2023/03/23 08:54:08.502 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 08:54:08.577 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:54:09.112 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 08:54:12.371 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:54:12.372 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 08:54:14.126 - MENSAJE: Tarjeta_Alistada
+2023/03/23 08:54:14.180 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 08:54:14.181 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 08:54:18.338 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27003
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2101
+2023/03/23 08:54:18.338 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 08:54:18.421 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:54:18.955 - MENSAJE: Tarjeta_Alistada
+2023/03/23 08:54:19.592 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:54:19.593 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 08:54:21.339 - MENSAJE: Tarjeta_Alistada
+2023/03/23 08:54:21.369 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 08:54:21.370 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 08:54:25.521 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27003
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2101
+2023/03/23 08:54:25.522 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 08:54:25.587 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:54:26.122 - MENSAJE: Tarjeta_Alistada
+2023/03/23 08:54:26.755 - MENSAJE: Sin_Tarjeta
+2023/03/23 08:54:26.776 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:54:26.777 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 08:54:30.834 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 08:54:30.834 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 08:54:30.835 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 08:54:34.986 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27003
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2101
+2023/03/23 08:54:34.987 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 08:54:35.048 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:54:35.584 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 08:54:36.190 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:54:36.191 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 08:54:37.936 - MENSAJE: Tarjeta_Alistada
+2023/03/23 08:54:37.975 - MENSAJE: Tarjeta Encontrada: 06994528
+2023/03/23 08:54:37.975 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 08:54:37.976 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 08:54:42.120 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27003
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2101
+2023/03/23 08:54:42.121 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 08:54:42.185 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:54:42.720 - MENSAJE: Tarjeta_Alistada
+2023/03/23 08:54:43.366 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:54:43.367 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 08:54:45.099 - MENSAJE: Tarjeta_Alistada
+2023/03/23 08:54:45.130 - MENSAJE: Tarjeta Encontrada: 06994528
+2023/03/23 08:54:45.131 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 08:54:45.132 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 08:54:49.243 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27003
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2101
+2023/03/23 08:54:49.244 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 08:54:49.309 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:54:49.842 - MENSAJE: Tarjeta_Alistada
+2023/03/23 08:54:50.513 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:54:50.514 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 08:54:52.275 - MENSAJE: Tarjeta_Alistada
+2023/03/23 08:54:52.316 - MENSAJE: Tarjeta Encontrada: 06994528
+2023/03/23 08:54:52.316 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 08:54:52.318 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 08:54:56.474 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27003
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2101
+2023/03/23 08:54:56.475 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 08:54:56.538 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:54:57.078 - MENSAJE: Tarjeta_Alistada
+2023/03/23 08:55:02.514 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:55:03.462 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 08:55:05.411 - MENSAJE: Tarjeta_Alistada
+2023/03/23 08:55:05.449 - MENSAJE: Tarjeta Encontrada: 06994528
+2023/03/23 08:55:06.068 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 08:55:08.610 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 08:55:12.734 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27003
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2101
+2023/03/23 08:55:13.921 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 08:55:14.756 - MENSAJE: Vehiculo En Mueble
+2023/03/23 08:55:19.890 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:00:56.276 - MENSAJE: Sin_Tarjeta
+2023/03/23 09:02:18.767 - MENSAJE: Sin_Tarjeta
+2023/03/23 09:02:29.484 - MENSAJE: Sin_Tarjeta
+2023/03/23 09:03:06.571 - MENSAJE: Sin_Tarjeta
+2023/03/23 09:03:13.959 - MENSAJE: Sin_Tarjeta
+2023/03/23 09:03:19.605 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 09:03:25.553 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 09:03:27.584 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 09:03:39.945 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 09:03:44.110 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27003
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2101
+2023/03/23 09:11:34.631 - INICIO REGISTRO
+2023/03/23 09:11:55.138 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 09:11:56.028 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 09:11:58.953 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 09:11:59.013 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 09:11:59.069 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 09:12:00.338 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2023/03/23 09:12:00.479 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2023/03/23 09:12:00.529 - MENSAJE: ConexionExitosa_Dispensador
+2023/03/23 09:12:01.589 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2023/03/23 09:12:20.850 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 09:12:22.888 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:12:23.226 - MENSAJE: Tarjeta Encontrada: F6983628
+2023/03/23 09:12:23.845 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 09:12:28.744 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 09:29:40.757 - INICIO REGISTRO
+2023/03/23 09:29:47.941 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 09:29:48.479 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 09:29:50.833 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 09:29:50.891 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 09:29:50.956 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 09:29:52.235 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2023/03/23 09:29:52.437 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2023/03/23 09:29:52.490 - MENSAJE: ConexionExitosa_Dispensador
+2023/03/23 09:29:53.794 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2023/03/23 09:31:22.065 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 09:31:24.135 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:31:24.185 - MENSAJE: Tarjeta Encontrada: F6983628
+2023/03/23 09:31:24.843 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 09:31:28.753 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 09:31:37.025 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.43.224:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2101
+2023/03/23 09:31:42.457 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 09:31:59.761 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.43.224:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2101
+2023/03/23 09:32:02.696 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 09:34:32.605 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:35:17.462 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2023/03/23 09:35:57.028 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:35:58.182 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 09:36:00.143 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:36:06.887 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 09:36:11.160 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 09:36:19.423 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.43.224:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew()
+2023/03/23 09:36:20.589 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 09:36:22.406 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:36:25.792 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:36:30.234 - MENSAJE: Error_MoverTarjetaTO_BINBOX
+2023/03/23 09:36:58.232 - INICIO REGISTRO
+2023/03/23 09:38:34.011 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 09:38:34.734 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 09:38:37.590 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 09:38:37.637 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 09:38:37.680 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 09:38:39.225 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2023/03/23 09:38:39.398 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2023/03/23 09:38:39.450 - MENSAJE: ConexionExitosa_Dispensador
+2023/03/23 09:38:40.043 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2023/03/23 09:38:48.072 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:38:49.404 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 09:39:06.567 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:39:06.638 - MENSAJE: Tarjeta Encontrada: F6983628
+2023/03/23 09:39:10.888 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 09:39:14.532 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 09:39:22.771 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.43.224:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2102
+2023/03/23 09:39:23.436 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 09:39:25.299 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:39:39.794 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:39:49.626 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:39:49.627 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 09:39:51.371 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:39:51.418 - MENSAJE: Tarjeta Encontrada: F6983628
+2023/03/23 09:39:51.418 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 09:39:51.420 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 09:39:59.613 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.43.224:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2102
+2023/03/23 09:39:59.613 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 09:39:59.738 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:40:00.267 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:40:04.938 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:40:04.939 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 09:40:06.675 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:40:06.707 - MENSAJE: Tarjeta Encontrada: F6983628
+2023/03/23 09:40:06.707 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 09:40:06.709 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 09:40:14.889 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.43.224:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2102
+2023/03/23 09:40:14.890 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 09:40:14.997 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:40:15.521 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:40:16.192 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:40:16.193 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 09:40:17.939 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:40:17.971 - MENSAJE: Tarjeta Encontrada: F6983628
+2023/03/23 09:40:17.972 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 09:40:17.973 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 09:40:26.143 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.43.224:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2102
+2023/03/23 09:40:26.143 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 09:40:26.205 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:40:26.735 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:40:27.412 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:40:27.413 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 09:40:29.165 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:40:29.196 - MENSAJE: Tarjeta Encontrada: F6983628
+2023/03/23 09:40:29.196 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 09:40:29.198 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 09:40:37.394 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.43.224:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2102
+2023/03/23 09:40:37.394 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 09:40:37.454 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:40:37.982 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:41:06.914 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:41:07.685 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 09:41:09.595 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:41:09.624 - MENSAJE: Tarjeta Encontrada: F6983628
+2023/03/23 09:41:28.884 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 09:41:32.575 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 09:41:40.784 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 192.168.43.224:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew()
+2023/03/23 09:41:45.269 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 09:41:46.047 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:41:53.538 - MENSAJE: Tarjeta_Alistada
+2023/03/23 09:42:22.062 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:42:44.365 - MENSAJE: Conexion_Exitosa_Dispensador
+2023/03/23 09:42:46.094 - MENSAJE: MC.CRT603Device.WinSCardException
+   at MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\WinSCard_Methods.cs:line 341
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 410
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 366
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 317
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 292
+   at MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 245
+   at MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 234
+   at MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\CRTDevice.cs:line 75
+2023/03/23 09:44:21.583 - MENSAJE: Vehiculo En Mueble
+2023/03/23 09:44:38.873 - MENSAJE: Conexion_Exitosa_Dispensador
+2023/03/23 09:44:40.551 - MENSAJE: MC.CRT603Device.WinSCardException
+   at MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\WinSCard_Methods.cs:line 341
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 410
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 366
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 317
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 292
+   at MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 245
+   at MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 234
+   at MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\CRTDevice.cs:line 75
+2023/03/23 10:53:57.756 - INICIO REGISTRO
+2023/03/23 10:53:57.768 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 10:53:57.886 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 10:53:59.771 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 10:53:59.820 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 10:53:59.852 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 10:54:00.172 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2023/03/23 10:54:00.675 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 10:54:27.135 - INICIO REGISTRO
+2023/03/23 10:54:31.875 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 10:54:33.153 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 10:54:36.951 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 10:54:36.978 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 10:54:36.998 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 10:54:38.847 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2023/03/23 10:54:39.298 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 10:54:46.824 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2023/03/23 10:54:48.313 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 10:54:59.465 - MENSAJE: ConexionExitosa_Dispensador
+2023/03/23 10:55:07.603 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 10:55:10.927 - MENSAJE: Sin_Tarjeta
+2023/03/23 10:55:11.338 - MENSAJE: Error Conexion PLC
+2023/03/23 10:56:34.867 - INICIO REGISTRO
+2023/03/23 10:56:34.874 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 10:56:34.987 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 10:56:36.342 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 10:56:36.382 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 10:56:36.416 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 10:56:36.595 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2023/03/23 10:56:37.063 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 10:57:31.907 - INICIO REGISTRO
+2023/03/23 10:57:31.915 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 10:57:32.064 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 10:57:32.545 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 10:57:32.581 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 10:57:32.613 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 10:57:32.820 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2023/03/23 10:57:33.331 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 10:58:25.484 - INICIO REGISTRO
+2023/03/23 10:58:27.177 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 10:58:27.934 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 10:58:34.013 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 10:58:34.043 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 10:58:34.064 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 10:58:56.778 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2023/03/23 10:59:15.454 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2023/03/23 10:59:19.901 - MENSAJE: ConexionExitosa_Dispensador
+2023/03/23 10:59:35.959 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 10:59:39.417 - MENSAJE: Sin_Tarjeta
+2023/03/23 10:59:42.060 - MENSAJE: Error Conexion PLC
+2023/03/23 11:00:06.987 - MENSAJE: Error Conexion PLC
+2023/03/23 11:00:12.944 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 11:00:17.510 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 11:00:18.369 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 11:00:21.229 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 11:00:25.376 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2099
+2023/03/23 11:00:27.188 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 11:00:28.321 - MENSAJE: Error Conexion PLC
+2023/03/23 11:00:28.698 - MENSAJE: Error Conexion PLC
+2023/03/23 11:00:31.476 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 11:14:27.327 - INICIO REGISTRO
+2023/03/23 11:14:44.418 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 11:14:44.589 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 11:14:45.580 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 11:14:45.609 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 11:14:45.630 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 11:15:03.362 - MENSAJE: 
+2023/03/23 11:29:24.949 - INICIO REGISTRO
+2023/03/23 11:29:27.219 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 11:29:27.941 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 11:29:31.252 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 11:29:31.281 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 11:29:31.301 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 11:29:35.392 - MENSAJE: 
+2023/03/23 11:29:38.486 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 11:30:01.046 - MENSAJE: 
+2023/03/23 11:30:02.521 - MENSAJE: 
+2023/03/23 11:30:09.560 - MENSAJE: 
+2023/03/23 11:30:09.561 - MENSAJE: 
+2023/03/23 11:30:09.710 - MENSAJE: 
+2023/03/23 11:30:20.922 - MENSAJE: 
+2023/03/23 11:30:20.923 - MENSAJE: 
+2023/03/23 11:30:21.755 - MENSAJE: 
+2023/03/23 11:30:32.220 - MENSAJE: 
+2023/03/23 11:30:32.220 - MENSAJE: 
+2023/03/23 11:30:32.856 - MENSAJE: 
+2023/03/23 11:30:44.482 - MENSAJE: 
+2023/03/23 11:30:44.482 - MENSAJE: 
+2023/03/23 11:30:45.396 - MENSAJE: 
+2023/03/23 11:30:50.014 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 11:30:50.641 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 11:30:51.202 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 11:30:54.388 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 11:30:58.530 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2099
+2023/03/23 11:30:59.290 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 11:31:00.075 - MENSAJE: Error Conexion PLC
+2023/03/23 11:31:00.136 - MENSAJE: Error Conexion PLC
+2023/03/23 11:31:02.171 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/23 11:31:02.172 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/23 11:31:02.173 - MENSAJE: Error_MoverTarjetaReceptor_TO_BINBOX Tarjeta Atascada
+2023/03/23 11:32:12.385 - INICIO REGISTRO
+2023/03/23 11:32:25.369 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 11:32:25.542 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 11:32:26.621 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 11:32:26.665 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 11:32:26.692 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 11:32:31.094 - MENSAJE: 
+2023/03/23 11:32:31.179 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 11:32:45.985 - MENSAJE: 
+2023/03/23 11:32:46.961 - MENSAJE: 
+2023/03/23 11:32:56.174 - MENSAJE: 
+2023/03/23 11:32:56.174 - MENSAJE: 
+2023/03/23 11:32:56.812 - MENSAJE: 
+2023/03/23 11:33:28.922 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 11:33:29.133 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 11:33:29.679 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 11:33:33.438 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 11:33:37.574 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2100
+2023/03/23 11:33:38.410 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 11:33:39.093 - MENSAJE: Error Conexion PLC
+2023/03/23 11:33:39.152 - MENSAJE: Error Conexion PLC
+2023/03/23 11:33:41.678 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/23 11:33:41.680 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/23 11:33:41.680 - MENSAJE: Error_MoverTarjetaReceptor_TO_BINBOX Tarjeta Atascada
+2023/03/23 11:35:16.588 - INICIO REGISTRO
+2023/03/23 11:35:20.631 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 11:35:20.756 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 11:35:21.500 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 11:35:21.532 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 11:35:21.554 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 11:35:21.582 - MENSAJE: 
+2023/03/23 11:35:21.647 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 11:35:29.124 - MENSAJE: 
+2023/03/23 11:35:29.792 - MENSAJE: 
+2023/03/23 11:35:31.832 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 11:35:32.023 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 11:35:32.329 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 11:35:34.298 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 11:35:38.434 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2100
+2023/03/23 11:35:39.039 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 11:35:39.703 - MENSAJE: Error Conexion PLC
+2023/03/23 11:35:39.770 - MENSAJE: Error Conexion PLC
+2023/03/23 11:35:45.112 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/23 11:35:45.114 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/23 11:35:45.117 - MENSAJE: Error_MoverTarjetaReceptor_TO_BINBOX Tarjeta Atascada
+2023/03/23 11:35:51.228 - INICIO REGISTRO
+2023/03/23 11:35:51.237 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 11:35:51.357 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 11:35:52.117 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 11:35:52.147 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 11:35:52.167 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 11:35:52.195 - MENSAJE: 
+2023/03/23 11:35:52.275 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 11:35:58.664 - MENSAJE: 
+2023/03/23 11:36:04.183 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 11:36:04.180 - MENSAJE: 
+2023/03/23 11:36:04.463 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 11:36:04.670 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 11:36:08.331 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 11:36:12.524 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2100
+2023/03/23 11:36:12.524 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 11:36:12.575 - MENSAJE: Error Conexion PLC
+2023/03/23 11:36:12.642 - MENSAJE: Error Conexion PLC
+2023/03/23 11:36:12.658 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/23 11:36:12.661 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/23 11:36:12.662 - MENSAJE: Error_MoverTarjetaReceptor_TO_BINBOX Tarjeta Atascada
+2023/03/23 11:42:50.686 - INICIO REGISTRO
+2023/03/23 11:42:50.696 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 11:42:50.849 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 11:42:56.425 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 11:42:56.459 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 11:42:56.484 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 11:42:56.515 - MENSAJE: 
+2023/03/23 11:42:56.602 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 11:43:12.622 - MENSAJE: 
+2023/03/23 11:43:12.625 - MENSAJE: 
+2023/03/23 11:43:15.725 - MENSAJE: 
+2023/03/23 11:43:15.725 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 11:43:15.921 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 11:43:16.107 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 11:43:19.061 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 11:43:23.203 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2100
+2023/03/23 11:43:23.204 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 11:43:23.254 - MENSAJE: Error Conexion PLC
+2023/03/23 11:43:23.325 - MENSAJE: Error Conexion PLC
+2023/03/23 11:43:23.362 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/23 11:43:23.364 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/23 11:43:23.364 - MENSAJE: Error_MoverTarjetaReceptor_TO_BINBOX Tarjeta Atascada
+2023/03/23 11:44:28.716 - INICIO REGISTRO
+2023/03/23 11:44:28.724 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 11:44:28.870 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 11:44:34.300 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 11:44:34.335 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 11:44:34.358 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 11:44:34.387 - MENSAJE: 
+2023/03/23 11:44:34.476 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 11:44:40.151 - MENSAJE: 
+2023/03/23 11:45:22.663 - INICIO REGISTRO
+2023/03/23 11:45:22.672 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 11:45:22.794 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 11:45:28.307 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 11:45:28.341 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 11:45:28.365 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 11:45:28.396 - MENSAJE: 
+2023/03/23 11:45:28.483 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 11:45:30.602 - MENSAJE: 
+2023/03/23 11:45:32.332 - MENSAJE: 
+2023/03/23 11:45:38.674 - MENSAJE: 
+2023/03/23 11:45:38.674 - MENSAJE: 
+2023/03/23 11:45:39.307 - MENSAJE: 
+2023/03/23 11:49:56.152 - INICIO REGISTRO
+2023/03/23 11:49:56.160 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 11:49:56.285 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 11:50:01.901 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 11:50:01.955 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 11:50:01.980 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 11:51:20.693 - INICIO REGISTRO
+2023/03/23 11:51:20.702 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/03/23 11:51:20.847 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/03/23 11:51:26.378 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/03/23 11:51:26.411 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/03/23 11:51:26.436 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/03/23 11:51:26.494 - MENSAJE: 
+2023/03/23 11:51:26.580 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/03/23 11:51:45.560 - MENSAJE: 
+2023/03/23 11:51:47.939 - MENSAJE: 
+2023/03/23 11:53:10.825 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/03/23 11:53:10.827 - MENSAJE: 
+2023/03/23 11:53:10.835 - MENSAJE: Error_AlistarTarjeta
+2023/03/23 11:53:10.836 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/03/23 11:53:10.865 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 
+2023/03/23 11:53:15.034 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.32.0.86:27001
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlacaNew() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:line 2100
+2023/03/23 11:53:15.035 - MENSAJE: (FrontEnd CapturaPlaca) 
+2023/03/23 11:53:15.085 - MENSAJE: Error Conexion PLC
+2023/03/23 11:53:15.151 - MENSAJE: Error Conexion PLC
+2023/03/23 11:53:15.184 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/23 11:53:15.187 - MENSAJE: MC.BusinessObjects.Entities.ResultadoOperacion
+2023/03/23 11:53:15.190 - MENSAJE: Error_MoverTarjetaReceptor_TO_BINBOX Tarjeta Atascada

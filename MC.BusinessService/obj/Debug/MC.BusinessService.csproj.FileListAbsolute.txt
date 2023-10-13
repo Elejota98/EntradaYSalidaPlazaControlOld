@@ -1,0 +1,78 @@
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Users\SERVER_DS\Documents\Desarrollo ParkingMC\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo ParkingMC\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Proyectos\Desarrollo ParkingMC\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Proyectos\MC\Desarrollo ParkingMC\MC.BusinessService\obj\Debug\MC.BusinessService.csprojResolveAssemblyReference.cache
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.BusinessService\obj\Debug\MC.BusinessService.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkFlorida\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.BusinessService\obj\Debug\MC.BusinessService.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.BusinessService\obj\Debug\MC.BusinessService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.BusinessService\obj\Debug\MC.BusinessService.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.BusinessService\obj\Debug\MC.BusinessService.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BusinessService\obj\Debug\MC.BusinessService.pdb

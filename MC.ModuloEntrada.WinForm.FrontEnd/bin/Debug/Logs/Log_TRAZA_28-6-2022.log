@@ -1,0 +1,178 @@
+2022/06/28 03:21:54.884 - INICIO REGISTRO
+2022/06/28 03:21:54.893 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/06/28 03:21:55.020 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/06/28 03:21:55.586 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/06/28 03:21:55.627 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/06/28 03:21:55.648 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/06/28 03:21:55.956 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/06/28 03:21:56.100 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/28 03:21:56.133 - MENSAJE: ConexionExitosa_Dispensador
+2022/06/28 03:21:58.589 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/28 03:22:25.589 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:25.590 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/28 03:22:27.334 - MENSAJE: Tarjeta_Alistada
+2022/06/28 03:22:27.369 - MENSAJE: Tarjeta Encontrada: F4DC3FED
+2022/06/28 03:22:27.370 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/28 03:22:27.451 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:29.644 - MENSAJE: Tarjeta_Escrita
+2022/06/28 03:22:29.656 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/28 03:22:30.389 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:30.390 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:30.428 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:31.137 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:31.144 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:31.442 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:32.226 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:32.227 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:32.328 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:32.935 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:32.936 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:32.971 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:33.632 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:33.633 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:33.669 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:34.617 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:34.617 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:34.654 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:35.612 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:35.612 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:35.651 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:36.616 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:36.616 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:36.653 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:37.619 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:37.620 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:37.657 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:38.619 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:38.620 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:38.655 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:39.626 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:39.626 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:39.664 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:40.625 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:40.626 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:40.663 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:41.627 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:41.627 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:41.661 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:42.626 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:42.627 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:42.663 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:43.623 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:43.623 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:43.661 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:44.626 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:44.627 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:44.663 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:45.626 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:45.627 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:46.737 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:47.365 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:47.366 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:47.403 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:47.996 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:47.997 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:48.035 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:48.635 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:48.636 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:48.671 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:49.642 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:49.642 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:49.678 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:50.653 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:50.654 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:50.699 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:51.660 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:51.660 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:51.696 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:52.664 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:52.665 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:52.703 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:53.661 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:53.662 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:53.699 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:54.672 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:54.672 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:54.710 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:55.675 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:55.676 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:55.713 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:56.696 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:56.697 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:56.734 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:57.700 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:57.700 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:57.736 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:58.688 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:58.688 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:58.726 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:22:59.684 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:59.684 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:22:59.722 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:00.679 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:00.680 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:00.717 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:01.725 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:01.726 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:01.762 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:02.736 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:02.737 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:02.774 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:03.719 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:03.719 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:03.755 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:04.712 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:04.712 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:04.750 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:05.735 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:05.735 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:05.773 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:06.709 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:06.709 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:06.747 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:07.697 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:07.697 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:07.749 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:08.690 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:08.690 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:08.727 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:09.691 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:09.692 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:09.728 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:10.691 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:10.692 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:10.727 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:11.702 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:11.703 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:11.739 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:12.706 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:12.706 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:12.742 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:13.688 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:13.689 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:13.727 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:23:24.639 - INICIO REGISTRO
+2022/06/28 03:23:24.648 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/06/28 03:23:24.765 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/06/28 03:23:25.243 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/06/28 03:23:25.275 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/06/28 03:23:25.299 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/06/28 03:23:25.495 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/06/28 03:23:25.640 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/28 03:23:25.682 - MENSAJE: ConexionExitosa_Dispensador
+2022/06/28 03:23:27.386 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/28 03:23:28.106 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:23:28.107 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:24:36.386 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:24:37.973 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/28 03:25:47.456 - MENSAJE: Tarjeta_Alistada
+2022/06/28 03:25:47.500 - MENSAJE: Tarjeta Encontrada: F4DC3FED
+2022/06/28 03:26:01.575 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/28 03:26:09.140 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:50:31.527 - MENSAJE: Tarjeta_Escrita
+2022/06/28 03:50:31.539 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/28 03:50:32.332 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:50:32.333 - MENSAJE: Tarjeta_En_Boca
+2022/06/28 03:50:32.543 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/28 03:51:20.302 - MENSAJE: Vehiculo En Mueble
+2022/06/28 03:51:20.303 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)

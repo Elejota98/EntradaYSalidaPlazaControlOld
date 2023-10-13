@@ -1,0 +1,88 @@
+2022/11/15 04:38:47.086 - INICIO REGISTRO
+2022/11/15 04:38:47.097 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/11/15 04:38:47.230 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/11/15 04:38:48.040 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2022/11/15 04:40:10.544 - INICIO REGISTRO
+2022/11/15 04:40:10.551 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/11/15 04:40:10.666 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/11/15 04:40:11.186 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/11/15 04:40:11.219 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/11/15 04:40:11.241 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/11/15 04:40:11.513 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/11/15 04:40:11.655 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/11/15 04:40:11.722 - MENSAJE: ConexionExitosa_Dispensador
+2022/11/15 04:40:11.812 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/11/15 04:40:14.408 - MENSAJE: Sin_Tarjeta
+2022/11/15 04:41:47.240 - MENSAJE: Vehiculo En Mueble
+2022/11/15 04:41:52.611 - MENSAJE: (FrontEnd CapturaPlaca) Placa: GHR567
+2022/11/15 04:42:00.492 - MENSAJE: (FrontEnd CapturaPlaca) Placa: GHR567
+2022/11/15 04:42:03.298 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/11/15 04:42:05.339 - MENSAJE: Tarjeta_Alistada
+2022/11/15 04:42:05.468 - MENSAJE: Tarjeta Encontrada: E42648ED
+2022/11/15 04:42:06.273 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2022/11/15 04:42:11.668 - MENSAJE: Vehiculo En Mueble
+2022/11/15 04:42:16.409 - MENSAJE: Tarjeta_Escrita
+2022/11/15 04:42:16.421 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/11/15 04:42:25.335 - MENSAJE: Sin_Tarjeta
+2022/11/15 04:42:25.390 - MENSAJE: Talanquera Abierta
+2022/11/15 04:42:25.399 - MENSAJE: (Presenter CapturaFoto) admin Parquearse123
+2022/11/15 04:42:25.405 - MENSAJE: (Presenter CapturaFoto) COMANDO http://192.168.119.229/Streaming/channels/101/picture
+2022/11/15 04:42:25.467 - MENSAJE: Vehiculo En Talanquera
+2022/11/15 04:42:25.644 - MENSAJE: Vehiculo Salio Talanquera
+2022/11/15 04:42:25.716 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/11/15 04:42:25.778 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/11/15 04:42:25.899 - MENSAJE: (Presenter CapturaFoto) admin Parquearse123
+2022/11/15 04:42:25.900 - MENSAJE: (Presenter CapturaFoto) COMANDO http://192.168.119.229/Streaming/channels/101/picture
+2022/11/15 04:42:30.153 - MENSAJE: Sin_Tarjeta
+2022/11/15 04:42:30.175 - MENSAJE: Vehiculo En Mueble
+2022/11/15 04:42:30.186 - MENSAJE: (FrontEnd CapturaPlaca) Placa: GHR567
+2022/11/15 04:42:30.255 - MENSAJE: (FrontEnd CapturaPlaca) Placa: GHR567
+2022/11/15 04:42:30.255 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/11/15 04:42:31.992 - MENSAJE: Tarjeta_Alistada
+2022/11/15 04:42:32.033 - MENSAJE: Tarjeta Encontrada: C48048ED
+2022/11/15 04:42:32.034 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2022/11/15 04:42:32.095 - MENSAJE: Vehiculo En Mueble
+2022/11/15 04:42:34.210 - MENSAJE: Tarjeta_Escrita
+2022/11/15 04:42:34.221 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/11/15 04:42:34.893 - MENSAJE: Tarjeta_En_Boca
+2022/11/15 04:42:34.894 - MENSAJE: Tarjeta_En_Boca
+2022/11/15 04:42:35.006 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/11/15 04:42:53.155 - MENSAJE: Vehiculo En Mueble
+2022/11/15 04:42:53.173 - MENSAJE: (FrontEnd CapturaPlaca) Placa: GHR567
+2022/11/15 04:42:53.236 - MENSAJE: (FrontEnd CapturaPlaca) Placa: GHR567
+2022/11/15 04:42:53.237 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/11/15 04:42:54.987 - MENSAJE: Tarjeta_Alistada
+2022/11/15 04:42:55.011 - MENSAJE: Tarjeta Encontrada: C48048ED
+2022/11/15 04:42:55.011 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2022/11/15 04:42:55.072 - MENSAJE: Vehiculo En Mueble
+2022/11/15 04:42:57.197 - MENSAJE: Tarjeta_Escrita
+2022/11/15 04:42:57.209 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/11/15 04:42:57.873 - MENSAJE: Tarjeta_En_Boca
+2022/11/15 04:42:57.873 - MENSAJE: Tarjeta_En_Boca
+2022/11/15 04:42:57.910 - MENSAJE: Vehiculo En Mueble
+2022/11/15 04:42:58.509 - MENSAJE: Tarjeta_En_Boca
+2022/11/15 04:42:58.509 - MENSAJE: Tarjeta_En_Boca
+2022/11/15 04:42:58.562 - MENSAJE: Vehiculo En Mueble
+2022/11/15 04:42:59.150 - MENSAJE: Sin_Tarjeta
+2022/11/15 04:42:59.203 - MENSAJE: Talanquera Abierta
+2022/11/15 04:42:59.209 - MENSAJE: (Presenter CapturaFoto) admin Parquearse123
+2022/11/15 04:42:59.211 - MENSAJE: (Presenter CapturaFoto) COMANDO http://192.168.119.229/Streaming/channels/101/picture
+2022/11/15 04:42:59.626 - MENSAJE: Vehiculo En Talanquera
+2022/11/15 04:42:59.666 - MENSAJE: (Presenter CapturaFoto) admin Parquearse123
+2022/11/15 04:42:59.667 - MENSAJE: (Presenter CapturaFoto) COMANDO http://192.168.119.229/Streaming/channels/101/picture
+2022/11/15 04:43:00.623 - MENSAJE: Vehiculo Salio Talanquera
+2022/11/15 04:43:00.685 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/11/15 04:43:00.780 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/11/15 04:43:02.129 - MENSAJE: Sin_Tarjeta
+2022/11/15 04:43:02.151 - MENSAJE: Vehiculo En Mueble
+2022/11/15 04:43:02.169 - MENSAJE: (FrontEnd CapturaPlaca) Placa: GHR567
+2022/11/15 04:43:02.235 - MENSAJE: (FrontEnd CapturaPlaca) Placa: GHR567
+2022/11/15 04:43:02.236 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/11/15 04:43:03.981 - MENSAJE: Tarjeta_Alistada
+2022/11/15 04:43:03.998 - MENSAJE: Tarjeta Encontrada: 74164CED
+2022/11/15 04:43:03.999 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2022/11/15 04:43:06.174 - MENSAJE: Tarjeta_Escrita
+2022/11/15 04:43:06.186 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/11/15 04:43:06.853 - MENSAJE: Tarjeta_En_Boca
+2022/11/15 04:43:06.853 - MENSAJE: Tarjeta_En_Boca
+2022/11/15 04:43:07.032 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC

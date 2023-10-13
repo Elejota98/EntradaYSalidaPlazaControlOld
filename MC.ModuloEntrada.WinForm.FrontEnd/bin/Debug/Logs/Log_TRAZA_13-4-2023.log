@@ -1,0 +1,84 @@
+2023/04/13 03:41:35.521 - INICIO REGISTRO
+2023/04/13 03:41:35.533 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/04/13 03:41:35.692 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/04/13 03:41:39.276 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/04/13 03:41:39.318 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/04/13 03:41:39.349 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/04/13 03:41:39.380 - MENSAJE: 
+2023/04/13 03:41:39.411 - MENSAJE: ConexionExitosa_Dispensador
+2023/04/13 03:41:39.627 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/04/13 03:42:00.125 - MENSAJE: 
+2023/04/13 03:42:00.125 - MENSAJE: 
+2023/04/13 03:42:00.747 - MENSAJE: 
+2023/04/13 03:42:01.982 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/04/13 03:42:05.150 - MENSAJE: Tarjeta_Alistada
+2023/04/13 03:42:05.210 - MENSAJE: Tarjeta Encontrada: 463E3328
+2023/04/13 03:42:05.911 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/04/13 03:42:40.089 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 10.32.0.85
+2023/04/13 03:42:40.092 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2023/04/13 03:42:40.766 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2023/04/13 03:42:41.445 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2023/04/13 03:42:56.325 - MENSAJE: Tarjeta_Escrita
+2023/04/13 03:42:56.337 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2023/04/13 03:43:05.825 - MENSAJE: Conexion_Exitosa_Dispensador
+2023/04/13 03:43:06.133 - MENSAJE: MC.CRT603Device.WinSCardException
+   at MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\WinSCard_Methods.cs:line 341
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 410
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 366
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 317
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 292
+   at MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 245
+   at MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 234
+   at MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\CRTDevice.cs:line 75
+2023/04/13 03:43:07.170 - MENSAJE: Tarjeta_En_Boca
+2023/04/13 03:43:07.171 - MENSAJE: Tarjeta_En_Boca
+2023/04/13 03:43:14.931 - MENSAJE: oAutorizado.IdTarjeta : B40B4DED
+2023/04/13 03:46:50.705 - INICIO REGISTRO
+2023/04/13 03:46:50.715 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/04/13 03:46:50.840 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/04/13 03:46:51.583 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/04/13 03:46:51.617 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/04/13 03:46:51.642 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/04/13 03:46:51.668 - MENSAJE: 
+2023/04/13 03:46:51.701 - MENSAJE: ConexionExitosa_Dispensador
+2023/04/13 03:47:52.198 - INICIO REGISTRO
+2023/04/13 03:47:52.207 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/04/13 03:47:52.318 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/04/13 03:47:53.018 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/04/13 03:47:53.046 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/04/13 03:47:53.066 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/04/13 03:47:53.093 - MENSAJE: 
+2023/04/13 03:47:53.125 - MENSAJE: ConexionExitosa_Dispensador
+2023/04/13 03:47:53.222 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/04/13 03:47:56.358 - MENSAJE: 
+2023/04/13 03:47:56.360 - MENSAJE: 
+2023/04/13 03:47:56.368 - MENSAJE: 
+2023/04/13 03:47:57.704 - MENSAJE: 
+2023/04/13 03:47:57.705 - MENSAJE: 
+2023/04/13 03:47:57.715 - MENSAJE: 
+2023/04/13 03:47:59.968 - MENSAJE: 
+2023/04/13 03:47:59.968 - MENSAJE: 
+2023/04/13 03:47:59.968 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2023/04/13 03:47:59.978 - MENSAJE: 
+2023/04/13 03:48:01.713 - MENSAJE: Tarjeta_Alistada
+2023/04/13 03:48:01.757 - MENSAJE: Tarjeta Encontrada: 463E3328
+2023/04/13 03:48:01.757 - MENSAJE: (FrontEnd Antes CapturaPlaca) 
+2023/04/13 03:48:01.775 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 10.32.0.85
+2023/04/13 03:48:01.778 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2023/04/13 03:48:02.570 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2023/04/13 03:48:02.570 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2023/04/13 03:48:04.709 - MENSAJE: Tarjeta_Escrita
+2023/04/13 03:48:04.721 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2023/04/13 03:48:07.059 - MENSAJE: Conexion_Exitosa_Dispensador
+2023/04/13 03:48:07.309 - MENSAJE: MC.CRT603Device.WinSCardException
+   at MC.CRT603Device.WinSCard.Transmit(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\WinSCard_Methods.cs:line 341
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[] responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 410
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Int32 sendLength, Byte[]& responseBuffer, Int32& responseLength, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 366
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Byte[]& responseBuffer, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 317
+   at MC.CRT603Device.PCSCReader.Exchange(Byte[] sendBuffer, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 292
+   at MC.CRT603Device.PCSCReader.Exchange(String cmdApdu, Nullable`1 expectedSW1SW2) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 245
+   at MC.CRT603Device.PCSCReader.Exchange(String cmdApdu) in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\PCSC_Reader.cs:line 234
+   at MC.CRT603Device.CRTDeviceClass.GetIdCardCRT() in c:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.CRT603Device\CRTDevice.cs:line 75
+2023/04/13 03:48:08.368 - MENSAJE: Tarjeta_En_Boca
+2023/04/13 03:48:08.369 - MENSAJE: Tarjeta_En_Boca
+2023/04/13 03:48:11.685 - MENSAJE: oAutorizado.IdTarjeta : B40B4DED

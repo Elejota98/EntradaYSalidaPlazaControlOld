@@ -1,0 +1,220 @@
+2021/06/25 10:30:39.164 - INICIO REGISTRO
+2021/06/25 10:30:39.178 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/06/25 10:30:39.311 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/06/25 10:30:41.819 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/06/25 10:30:41.861 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/06/25 10:30:41.891 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/06/25 10:31:03.424 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/06/25 10:31:03.563 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 10:31:11.252 - MENSAJE: ConexionExitosa_Dispensador
+2021/06/25 10:31:17.702 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 10:31:23.186 - MENSAJE: Tarjeta_Alistada
+2021/06/25 10:31:39.062 - MENSAJE: Tarjeta_Alistada
+2021/06/25 10:31:47.702 - MENSAJE: Vehiculo En Mueble
+2021/06/25 10:31:51.478 - MENSAJE: Tarjeta_Alistada
+2021/06/25 10:31:54.328 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/06/25 10:31:54.825 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/06/25 10:31:54.838 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/06/25 10:31:55.600 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2021/06/25 10:31:56.130 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2021/06/25 10:31:57.933 - MENSAJE: Vehiculo En Mueble
+2021/06/25 10:32:25.208 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2021/06/25 10:33:19.047 - MENSAJE: Tarjeta_Alistada
+2021/06/25 10:33:19.088 - MENSAJE: Vehiculo En Mueble
+2021/06/25 10:34:42.812 - INICIO REGISTRO
+2021/06/25 10:34:42.823 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/06/25 10:34:42.951 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/06/25 10:34:43.833 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/06/25 10:34:43.858 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/06/25 10:34:43.881 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/06/25 10:34:47.826 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/06/25 10:34:47.966 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 10:34:49.041 - MENSAJE: ConexionExitosa_Dispensador
+2021/06/25 10:34:49.914 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 10:34:54.967 - MENSAJE: Tarjeta_Alistada
+2021/06/25 10:34:55.019 - MENSAJE: Vehiculo En Mueble
+2021/06/25 10:34:55.929 - MENSAJE: Tarjeta_Alistada
+2021/06/25 10:34:58.185 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/06/25 10:34:58.442 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/06/25 10:34:58.449 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/06/25 10:34:59.178 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2021/06/25 10:34:59.609 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2021/06/25 10:35:00.683 - MENSAJE: Vehiculo En Mueble
+2021/06/25 10:35:06.555 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2021/06/25 10:35:49.462 - MENSAJE: Tarjeta_En_Boca
+2021/06/25 10:35:49.523 - MENSAJE: Vehiculo En Mueble
+2021/06/25 10:36:01.181 - MENSAJE: Tarjeta_En_Boca
+2021/06/25 10:36:01.225 - MENSAJE: Vehiculo En Mueble
+2021/06/25 10:38:29.313 - INICIO REGISTRO
+2021/06/25 10:38:29.321 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/06/25 10:38:29.441 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/06/25 10:38:30.341 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/06/25 10:38:30.370 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/06/25 10:38:30.390 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/06/25 10:38:32.052 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/06/25 10:38:32.180 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 10:38:33.275 - MENSAJE: ConexionExitosa_Dispensador
+2021/06/25 10:38:34.770 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 10:38:45.899 - MENSAJE: Sin_Tarjeta
+2021/06/25 10:38:45.956 - MENSAJE: Vehiculo En Mueble
+2021/06/25 10:38:46.850 - MENSAJE: Tarjeta_Alistada
+2021/06/25 10:38:48.601 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/06/25 10:38:48.609 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/06/25 10:38:48.612 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/06/25 10:38:49.423 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2021/06/25 10:38:49.424 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2021/06/25 10:38:49.457 - MENSAJE: Vehiculo En Mueble
+2021/06/25 10:38:53.980 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2021/06/25 10:39:10.102 - MENSAJE: Tarjeta_En_Boca
+2021/06/25 10:39:11.784 - MENSAJE: Vehiculo En Mueble
+2021/06/25 10:39:16.466 - MENSAJE: Tarjeta_En_Boca
+2021/06/25 10:39:25.182 - MENSAJE: Vehiculo En Mueble
+2021/06/25 10:40:08.852 - MENSAJE: Sin_Tarjeta
+2021/06/25 10:40:21.168 - MENSAJE: Talanquera Abierta
+2021/06/25 10:55:49.937 - INICIO REGISTRO
+2021/06/25 10:55:49.946 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/06/25 10:55:50.073 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/06/25 10:55:50.922 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/06/25 10:55:50.952 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/06/25 10:55:50.971 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/06/25 10:55:54.001 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/06/25 10:55:54.123 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 10:55:54.979 - MENSAJE: ConexionExitosa_Dispensador
+2021/06/25 10:55:56.598 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 10:55:58.764 - MENSAJE: Tarjeta_Alistada
+2021/06/25 10:56:19.884 - INICIO REGISTRO
+2021/06/25 10:56:19.898 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/06/25 10:56:20.049 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/06/25 10:56:20.989 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/06/25 10:56:21.015 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/06/25 10:56:21.037 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/06/25 10:56:23.541 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/06/25 10:56:23.667 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 10:56:28.532 - MENSAJE: ConexionExitosa_Dispensador
+2021/06/25 10:56:30.445 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 10:56:43.653 - INICIO REGISTRO
+2021/06/25 10:56:43.663 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/06/25 10:56:43.788 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/06/25 10:56:44.611 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/06/25 10:56:44.638 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/06/25 10:56:44.660 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/06/25 10:56:46.402 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/06/25 10:56:46.527 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 10:56:47.826 - MENSAJE: ConexionExitosa_Dispensador
+2021/06/25 10:56:49.439 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 10:58:04.429 - MENSAJE: Vehiculo En Mueble
+2021/06/25 10:58:18.320 - MENSAJE: Error_AlistarTarjeta
+2021/06/25 10:58:20.452 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/06/25 10:58:21.500 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/06/25 10:58:21.503 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/06/25 10:58:22.180 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2021/06/25 10:58:22.676 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2021/06/25 10:58:24.114 - MENSAJE: Vehiculo En Mueble
+2021/06/25 10:58:29.974 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2021/06/25 10:59:03.443 - INICIO REGISTRO
+2021/06/25 10:59:03.455 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/06/25 10:59:03.585 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/06/25 10:59:04.483 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/06/25 10:59:04.509 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/06/25 10:59:04.528 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/06/25 10:59:06.370 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/06/25 10:59:06.497 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 10:59:07.875 - MENSAJE: ConexionExitosa_Dispensador
+2021/06/25 10:59:09.011 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 10:59:33.812 - MENSAJE: Sin_Tarjeta
+2021/06/25 10:59:44.993 - MENSAJE: Vehiculo En Mueble
+2021/06/25 11:00:45.634 - INICIO REGISTRO
+2021/06/25 11:00:45.645 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/06/25 11:00:45.778 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/06/25 11:00:46.659 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/06/25 11:00:46.687 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/06/25 11:00:46.706 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/06/25 11:00:48.934 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/06/25 11:00:49.059 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 11:00:52.755 - MENSAJE: ConexionExitosa_Dispensador
+2021/06/25 11:00:53.836 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 11:00:59.522 - MENSAJE: Sin_Tarjeta
+2021/06/25 11:00:59.569 - MENSAJE: Vehiculo En Mueble
+2021/06/25 11:01:58.480 - MENSAJE: Tarjeta_Alistada
+2021/06/25 11:03:49.407 - INICIO REGISTRO
+2021/06/25 11:03:49.418 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/06/25 11:03:49.548 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/06/25 11:03:50.485 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/06/25 11:03:50.510 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/06/25 11:03:50.530 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/06/25 11:03:52.628 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/06/25 11:03:52.753 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 11:03:53.691 - MENSAJE: ConexionExitosa_Dispensador
+2021/06/25 11:03:54.681 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 11:03:59.707 - MENSAJE: Vehiculo En Mueble
+2021/06/25 11:04:20.467 - INICIO REGISTRO
+2021/06/25 11:04:20.475 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/06/25 11:04:20.608 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/06/25 11:04:21.534 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/06/25 11:04:21.560 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/06/25 11:04:21.580 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/06/25 11:04:22.985 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/06/25 11:04:23.109 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 11:04:26.547 - MENSAJE: ConexionExitosa_Dispensador
+2021/06/25 11:04:29.015 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 11:05:29.515 - MENSAJE: Vehiculo En Mueble
+2021/06/25 11:06:07.550 - MENSAJE: Tarjeta_Alistada
+2021/06/25 11:06:30.472 - MENSAJE: Tarjeta Encontrada: F1146FC0
+2021/06/25 11:06:50.035 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/06/25 11:06:50.812 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/06/25 11:06:50.815 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/06/25 11:06:51.500 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2021/06/25 11:06:52.043 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2021/06/25 11:07:23.367 - INICIO REGISTRO
+2021/06/25 11:07:23.380 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/06/25 11:07:23.566 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/06/25 11:07:24.579 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/06/25 11:07:24.605 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/06/25 11:07:24.626 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/06/25 11:07:29.235 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/06/25 11:07:29.375 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 11:07:30.901 - MENSAJE: ConexionExitosa_Dispensador
+2021/06/25 11:07:32.095 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 11:07:35.908 - MENSAJE: Vehiculo En Mueble
+2021/06/25 11:07:45.851 - MENSAJE: Error_AlistarTarjeta
+2021/06/25 11:07:59.634 - MENSAJE: Error_AlistarTarjeta
+2021/06/25 11:08:15.233 - MENSAJE: Error_AlistarTarjeta
+2021/06/25 11:08:34.964 - MENSAJE: Tarjeta_Alistada
+2021/06/25 11:08:39.674 - MENSAJE: Tarjeta Encontrada: F1146FC0
+2021/06/25 11:09:50.334 - INICIO REGISTRO
+2021/06/25 11:09:50.344 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/06/25 11:09:50.473 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/06/25 11:09:51.406 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/06/25 11:09:51.431 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/06/25 11:09:51.451 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/06/25 11:09:53.972 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/06/25 11:09:54.100 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 11:09:54.713 - MENSAJE: ConexionExitosa_Dispensador
+2021/06/25 11:09:55.539 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 11:09:57.490 - MENSAJE: Vehiculo En Mueble
+2021/06/25 11:10:12.405 - MENSAJE: Tarjeta_Alistada
+2021/06/25 11:10:15.489 - MENSAJE: Tarjeta Encontrada: F1146FC0
+2021/06/25 11:10:25.065 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/06/25 11:10:25.068 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/06/25 11:10:25.071 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/06/25 11:10:25.770 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2021/06/25 11:10:25.771 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2021/06/25 11:10:30.653 - MENSAJE: Vehiculo En Mueble
+2021/06/25 11:10:49.011 - INICIO REGISTRO
+2021/06/25 11:10:49.019 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/06/25 11:10:49.158 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/06/25 11:10:50.312 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/06/25 11:10:50.340 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/06/25 11:10:50.376 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/06/25 11:11:12.589 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/06/25 11:11:12.730 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 11:11:12.764 - MENSAJE: ConexionExitosa_Dispensador
+2021/06/25 11:11:12.840 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/25 11:11:13.011 - MENSAJE: Vehiculo En Mueble
+2021/06/25 11:11:14.764 - MENSAJE: Tarjeta_Alistada
+2021/06/25 11:11:14.792 - MENSAJE: Tarjeta Encontrada: F1146FC0
+2021/06/25 11:11:14.793 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/06/25 11:11:14.796 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/06/25 11:11:14.798 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/06/25 11:11:15.487 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2021/06/25 11:11:15.487 - MENSAJE: (FrontEnd CapturaPlaca) ------

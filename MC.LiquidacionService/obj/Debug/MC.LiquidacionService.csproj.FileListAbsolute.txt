@@ -1,0 +1,195 @@
+C:\Proyectos\MC\Desarrollo MillensPark\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+C:\Proyectos\MC\Desarrollo MillensPark\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
+C:\Proyectos\MC\Desarrollo MillensPark\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo Parking Colombia\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo Parking Colombia\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+C:\Proyectos\Desarrollo Parking Colombia\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+C:\Proyectos\Desarrollo_ParkingColombia\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
+C:\Proyectos\Desarrollo_ParkingColombia\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkFlorida\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+C:\Proyectos\Desarrollo ParkFlorida\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+C:\Proyectos\Desarrollo ParkFlorida\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+C:\Proyectos\Desarrollo ParkFlorida\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+C:\Users\Admin\Documents\usta fl\CODIGOS ENTRADA 2\CODIGOS ENTRADA 2\ESCRITORIO\SANTO THOMAS\SANTO THOMAS\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+C:\Users\Admin\Documents\Parquearse Install\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+D:\PROYECTOS\PARQUEARSE\NEOMUNDO\Codigos\Entrada\Codigos new\Codigos new\NEOMUNDO NEW\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+C:\Users\Admin\Documents\NEOMUNDO NEW\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+C:\Users\Kingdel\Documents\NEOMUNDO NEW\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+D:\PROYECTOS\PARQUEARSE\USTA NORTE\CodigoEntrada\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+C:\Users\Admin\Desktop\ENTRADA USTA\CodigoEntrada\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+C:\Users\Admin\Documents\Parquearse Install\EntradaControladora\CodigoEntrada\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BaseService.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BusinessService.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.DataService.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.Utilidades.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BaseService.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
+C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb

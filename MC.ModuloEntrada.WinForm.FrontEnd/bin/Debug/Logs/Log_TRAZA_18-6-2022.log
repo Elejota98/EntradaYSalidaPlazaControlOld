@@ -1,0 +1,1576 @@
+2022/06/18 08:33:17.602 - INICIO REGISTRO
+2022/06/18 08:33:17.610 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/06/18 08:33:17.725 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/06/18 08:33:18.531 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/06/18 08:33:18.561 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/06/18 08:33:18.591 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/06/18 08:33:18.760 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/06/18 08:33:18.899 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:33:18.931 - MENSAJE: ConexionExitosa_Dispensador
+2022/06/18 08:34:18.923 - INICIO REGISTRO
+2022/06/18 08:34:18.933 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/06/18 08:34:19.048 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/06/18 08:34:19.495 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/06/18 08:34:19.544 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/06/18 08:34:19.573 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/06/18 08:34:19.749 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/06/18 08:34:19.915 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:34:19.944 - MENSAJE: ConexionExitosa_Dispensador
+2022/06/18 08:34:22.910 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:34:25.499 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:34:25.500 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:34:27.252 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:34:27.282 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:34:29.909 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:34:29.909 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:34:58.308 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:34:59.577 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:00.235 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:00.236 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:35:01.982 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:35:01.997 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:35:04.629 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:04.629 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:35:04.692 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:05.936 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:06.526 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:06.527 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:35:08.271 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:35:08.281 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:35:10.909 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:10.909 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:35:10.974 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:12.223 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:12.812 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:12.813 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:35:14.557 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:35:14.575 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:35:17.195 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:17.195 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:35:17.258 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:18.508 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:19.136 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:19.137 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:35:20.888 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:35:20.902 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:35:23.512 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:23.512 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:35:23.574 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:24.830 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:25.428 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:25.428 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:35:27.175 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:35:27.190 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:35:29.813 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:29.813 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:35:29.877 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:31.127 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:31.721 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:31.722 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:35:33.465 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:35:33.483 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:35:36.110 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:36.110 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:35:36.173 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:37.424 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:38.049 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:38.049 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:35:39.789 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:35:39.802 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:35:42.439 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:42.439 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:35:42.502 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:43.760 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:44.348 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:44.349 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:35:46.097 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:35:46.119 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:35:48.748 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:48.748 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:35:48.813 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:50.067 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:50.692 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:50.693 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:35:52.439 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:35:52.454 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:35:55.080 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:55.080 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:35:55.145 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:56.388 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:35:57.070 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:35:57.071 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:35:58.811 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:35:58.824 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:36:01.464 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:36:01.464 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:36:01.528 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:36:02.781 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:36:03.390 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:36:03.391 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:36:05.144 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:36:05.160 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:36:07.795 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:36:07.795 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:36:07.858 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:36:09.097 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:36:09.720 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:36:09.721 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:36:11.475 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:36:11.497 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:36:14.124 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:36:14.124 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:36:14.191 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:36:15.428 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:36:16.096 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:36:16.097 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:36:17.846 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:36:17.861 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:36:20.492 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:36:20.492 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:36:20.558 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:36:21.805 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:36:22.413 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:36:22.414 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:36:24.165 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:36:24.182 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:36:26.816 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:36:26.817 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:36:26.879 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:36:28.122 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:36:28.776 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:36:50.329 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:36:53.571 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:36:53.610 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:36:56.240 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:36:59.328 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:37:25.776 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:43:06.108 - INICIO REGISTRO
+2022/06/18 08:43:06.118 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/06/18 08:43:06.219 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/06/18 08:43:06.653 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/06/18 08:43:06.683 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/06/18 08:43:06.702 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/06/18 08:43:06.868 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/06/18 08:43:07.008 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:43:07.038 - MENSAJE: ConexionExitosa_Dispensador
+2022/06/18 08:43:09.474 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:43:10.170 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:43:10.206 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:43:13.981 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:43:15.731 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:43:15.776 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:43:18.426 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:43:18.426 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:43:18.507 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:43:19.762 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:43:20.400 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:43:43.547 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:43:45.295 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:43:45.317 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:43:47.943 - MENSAJE: Tarjeta_Borrada
+2022/06/18 08:43:47.943 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:46:03.245 - INICIO REGISTRO
+2022/06/18 08:46:03.251 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2022/06/18 08:46:03.355 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2022/06/18 08:46:03.775 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2022/06/18 08:46:03.802 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2022/06/18 08:46:03.820 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2022/06/18 08:46:03.980 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2022/06/18 08:46:04.118 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:46:04.147 - MENSAJE: ConexionExitosa_Dispensador
+2022/06/18 08:46:07.868 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:46:29.665 - MENSAJE: (FrontEnd CapturaPlaca) Placa: BVD144
+2022/06/18 08:46:29.813 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:46:29.813 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:46:31.565 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:46:31.590 - MENSAJE: Tarjeta Encontrada: B6E62427
+2022/06/18 08:46:31.590 - MENSAJE: (FrontEnd CapturaPlaca) BVD144
+2022/06/18 08:46:31.604 - MENSAJE: oAutorizado.PlacaAuto : BVD144
+2022/06/18 08:46:31.662 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:47:25.408 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:47:25.420 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:47:26.116 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:47:26.116 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:47:26.117 - MENSAJE: oAutorizado.PlacaAuto : BVD144
+2022/06/18 08:47:26.199 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:47:27.453 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:47:27.453 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:47:27.486 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:47:28.103 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:47:28.104 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:47:28.104 - MENSAJE: oAutorizado.PlacaAuto : BVD144
+2022/06/18 08:47:28.170 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:47:29.408 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:47:29.408 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:47:29.442 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:47:30.040 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:47:30.094 - MENSAJE: Talanquera Abierta
+2022/06/18 08:47:30.295 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:47:31.290 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:47:31.352 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:47:31.414 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:47:32.802 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:47:32.824 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:47:32.825 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:47:34.574 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:47:34.589 - MENSAJE: Tarjeta Encontrada: B4CC5EED
+2022/06/18 08:47:34.590 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:47:34.642 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:47:36.602 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:47:36.613 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:47:37.234 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:47:37.235 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:47:37.272 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:47:37.820 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:47:37.821 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:47:37.875 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:47:38.802 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:47:38.802 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:47:38.839 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:47:39.797 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:47:39.849 - MENSAJE: Talanquera Abierta
+2022/06/18 08:47:52.885 - MENSAJE: (FrontEnd CapturaPlaca) Placa: KKT745
+2022/06/18 08:47:53.297 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:47:55.295 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:47:55.358 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:47:55.437 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:47:56.786 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:47:57.787 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:47:58.798 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:47:59.790 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:00.799 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:01.806 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:01.828 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:01.829 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:48:03.572 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:48:03.590 - MENSAJE: Tarjeta Encontrada: 24194DED
+2022/06/18 08:48:03.591 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:48:03.656 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:05.611 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:48:05.622 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:48:06.273 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:06.273 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:06.309 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:06.896 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:06.896 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:06.932 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:07.798 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:07.851 - MENSAJE: Talanquera Abierta
+2022/06/18 08:48:08.287 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:48:09.297 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:48:09.360 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:48:09.438 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:48:10.795 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:10.818 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:10.819 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:48:12.554 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:48:12.569 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:48:14.579 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:48:14.590 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:48:15.195 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:15.195 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:15.311 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:48:15.903 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:15.904 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:48:17.652 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:48:17.671 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:48:17.737 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:19.695 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:48:19.706 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:48:20.344 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:20.344 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:20.381 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:21.045 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:21.046 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:21.082 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:21.808 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:21.859 - MENSAJE: Talanquera Abierta
+2022/06/18 08:48:23.288 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:48:24.298 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:48:24.361 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:48:24.509 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:48:25.803 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:26.808 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:27.807 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:27.826 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:27.826 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:48:29.576 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:48:29.590 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:48:29.659 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:31.617 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:48:31.628 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:48:32.236 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:32.237 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:32.273 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:32.810 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:32.811 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:32.848 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:33.820 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:33.875 - MENSAJE: Talanquera Abierta
+2022/06/18 08:48:34.294 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:48:35.286 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:48:35.348 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:48:35.441 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:48:36.795 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:36.817 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:36.817 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:48:38.554 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:48:38.568 - MENSAJE: Tarjeta Encontrada: 546748ED
+2022/06/18 08:48:38.569 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:48:38.623 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:40.574 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:48:40.585 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:48:41.273 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:41.273 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:41.311 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:41.899 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:41.899 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:42.013 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:48:42.824 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:42.825 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:48:44.569 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:48:44.584 - MENSAJE: Tarjeta Encontrada: 546748ED
+2022/06/18 08:48:44.585 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:48:44.640 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:46.615 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:48:46.626 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:48:47.235 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:47.236 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:47.274 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:47.825 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:47.875 - MENSAJE: Talanquera Abierta
+2022/06/18 08:48:48.295 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:48:49.286 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:48:49.349 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:48:49.426 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:48:50.799 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:50.821 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:50.822 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:48:52.572 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:48:52.587 - MENSAJE: Tarjeta Encontrada: 04924DED
+2022/06/18 08:48:52.588 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:48:52.641 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:54.593 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:48:54.604 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:48:55.220 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:55.221 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:55.258 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:55.839 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:55.839 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:48:55.878 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:56.804 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:56.859 - MENSAJE: Talanquera Abierta
+2022/06/18 08:48:57.294 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:48:58.290 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:48:58.351 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:48:58.457 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:48:59.802 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:48:59.823 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:48:59.823 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:49:01.573 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:49:01.587 - MENSAJE: Tarjeta Encontrada: 94AA52ED
+2022/06/18 08:49:01.588 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:49:01.640 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:49:03.590 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:49:03.601 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:49:04.239 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:49:04.239 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:49:04.276 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:49:04.816 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:49:04.871 - MENSAJE: Talanquera Abierta
+2022/06/18 08:49:05.291 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:49:06.298 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:49:06.360 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:49:06.438 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:49:07.796 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:49:07.818 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:49:07.819 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:49:09.569 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:49:09.585 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:49:09.638 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:49:11.597 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:49:11.608 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:49:12.309 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:49:12.309 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:49:12.346 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:49:12.929 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:49:12.983 - MENSAJE: Talanquera Abierta
+2022/06/18 08:49:13.290 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:49:14.298 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:49:14.361 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:49:14.456 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:49:15.794 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:49:15.814 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:49:15.815 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:49:17.567 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:49:17.582 - MENSAJE: Tarjeta Encontrada: 84DA47ED
+2022/06/18 08:49:17.583 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:49:17.617 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:49:19.588 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:49:19.599 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:49:20.283 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:49:20.283 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:49:20.446 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:50:51.824 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:50:51.825 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:50:53.574 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:50:53.588 - MENSAJE: Tarjeta Encontrada: 84DA47ED
+2022/06/18 08:50:53.589 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:50:53.611 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:50:55.567 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:50:55.578 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:50:56.187 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:50:56.187 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:50:56.224 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:50:56.839 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:50:56.840 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:50:56.877 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:50:57.827 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:50:57.894 - MENSAJE: Talanquera Abierta
+2022/06/18 08:50:58.326 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:50:59.322 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:50:59.386 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:50:59.447 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:51:00.839 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:51:01.853 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:51:01.874 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:01.874 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:51:03.623 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:51:03.639 - MENSAJE: Tarjeta Encontrada: 84095EED
+2022/06/18 08:51:03.639 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:51:03.695 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:05.655 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:51:05.666 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:51:06.337 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:06.338 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:06.375 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:06.988 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:06.989 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:07.025 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:07.859 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:07.860 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:07.900 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:08.837 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:51:08.909 - MENSAJE: Talanquera Abierta
+2022/06/18 08:51:09.329 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:51:10.319 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:51:10.382 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:51:10.558 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:51:11.824 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:51:11.846 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:11.847 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:51:13.588 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:51:13.605 - MENSAJE: Tarjeta Encontrada: 462E2327
+2022/06/18 08:51:13.606 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:51:13.670 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:15.639 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:51:15.650 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:51:16.306 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:16.307 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:16.344 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:16.973 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:16.974 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:17.024 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:17.828 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:17.828 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:17.866 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:18.838 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:18.839 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:18.874 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:19.830 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:51:19.853 - MENSAJE: Talanquera Abierta
+2022/06/18 08:51:20.331 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:51:21.326 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:51:21.387 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:51:21.501 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:51:22.824 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:51:22.845 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:22.846 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:51:24.587 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:51:24.602 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:51:26.613 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:51:26.625 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:51:27.388 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:27.389 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:27.423 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:28.071 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:28.071 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:28.109 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:28.824 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:28.825 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:28.863 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:29.829 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:51:29.899 - MENSAJE: Talanquera Abierta
+2022/06/18 08:51:30.329 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:51:31.325 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:51:31.386 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:51:31.448 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:51:32.837 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:51:32.860 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:32.861 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:51:34.606 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:51:34.626 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:51:34.693 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:36.652 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:51:36.663 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:51:37.333 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:37.334 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:37.374 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:37.987 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:37.988 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:38.024 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:38.826 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:38.826 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:38.862 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:39.834 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:51:39.907 - MENSAJE: Talanquera Abierta
+2022/06/18 08:51:40.322 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:51:41.331 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:51:41.392 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:51:41.454 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:51:42.828 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:51:42.852 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:42.853 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:51:44.603 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:51:44.620 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:51:44.674 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:46.630 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:51:46.641 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:51:47.382 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:47.383 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:47.423 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:48.038 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:48.038 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:48.075 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:48.826 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:48.827 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:48.865 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:49.829 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:49.830 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:51:49.884 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:50.821 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:51:50.891 - MENSAJE: Talanquera Abierta
+2022/06/18 08:51:57.319 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:51:58.325 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:51:58.388 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:51:58.450 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:51:59.837 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:51:59.875 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:51:59.876 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:52:01.621 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:52:01.638 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:52:01.694 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:03.654 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:52:03.666 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:52:04.428 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:04.428 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:04.467 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:05.093 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:52:05.115 - MENSAJE: Talanquera Abierta
+2022/06/18 08:52:06.326 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:52:07.316 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:52:07.379 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:52:07.441 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:52:08.838 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:52:08.861 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:08.862 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:52:10.615 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:52:10.627 - MENSAJE: Tarjeta Encontrada: B64D2227
+2022/06/18 08:52:10.627 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:52:10.652 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:12.617 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:52:12.628 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:52:13.266 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:13.266 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:13.305 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:13.855 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:13.855 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:13.908 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:14.835 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:14.836 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:14.873 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:15.825 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:15.825 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:15.863 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:16.862 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:16.863 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:16.902 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:17.839 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:17.839 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:17.877 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:18.824 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:18.824 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:18.863 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:19.835 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:19.836 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:19.888 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:20.829 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:20.830 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:20.868 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:21.821 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:21.822 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:21.858 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:22.834 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:22.834 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:22.874 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:23.831 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:23.831 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:23.869 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:24.827 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:24.827 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:24.865 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:25.818 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:25.819 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:25.870 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:26.823 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:52:26.845 - MENSAJE: Talanquera Abierta
+2022/06/18 08:52:31.325 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:52:32.317 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:52:32.379 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:52:32.441 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:52:33.839 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:52:33.874 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:33.874 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:52:35.621 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:52:35.637 - MENSAJE: Tarjeta Encontrada: 74055FED
+2022/06/18 08:52:35.638 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:52:35.674 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:37.630 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:52:37.641 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:52:38.264 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:38.265 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:38.301 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:38.886 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:38.886 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:38.925 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:39.849 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:52:39.869 - MENSAJE: Talanquera Abierta
+2022/06/18 08:52:44.320 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:52:45.330 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:52:45.392 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:52:45.533 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:52:46.830 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:52:46.851 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:46.852 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:52:48.600 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:52:48.615 - MENSAJE: Tarjeta Encontrada: E4F752ED
+2022/06/18 08:52:48.616 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:52:48.635 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:50.592 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:52:50.603 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:52:51.256 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:51.256 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:51.293 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:51.875 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:51.875 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:52:51.913 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:52.830 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:52:52.883 - MENSAJE: Talanquera Abierta
+2022/06/18 08:52:54.324 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:52:55.328 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:52:55.391 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:52:55.453 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:52:56.826 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:52:56.847 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:52:56.848 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:52:58.583 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:52:58.592 - MENSAJE: Tarjeta Encontrada: 84DA47ED
+2022/06/18 08:52:58.593 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:52:58.618 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:00.582 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:53:00.593 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:53:01.283 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:01.283 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:01.319 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:01.923 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:01.923 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:01.958 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:02.838 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:02.839 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:02.875 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:03.829 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:03.830 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:03.867 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:04.825 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:53:04.878 - MENSAJE: Talanquera Abierta
+2022/06/18 08:53:09.325 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:53:10.321 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:53:10.383 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:53:10.461 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:53:11.294 - MENSAJE: (FrontEnd CapturaPlaca) Placa: KSW235
+2022/06/18 08:53:11.826 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:53:11.847 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:11.848 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:53:13.604 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:53:13.619 - MENSAJE: Tarjeta Encontrada: 84095EED
+2022/06/18 08:53:13.619 - MENSAJE: (FrontEnd CapturaPlaca) KSW235
+2022/06/18 08:53:13.620 - MENSAJE: oAutorizado.PlacaAuto : KSW235
+2022/06/18 08:53:13.655 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:15.621 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:53:15.632 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:53:16.256 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:16.256 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:16.257 - MENSAJE: oAutorizado.PlacaAuto : KSW235
+2022/06/18 08:53:16.292 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:17.542 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:17.542 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:17.575 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:18.190 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:18.190 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:18.191 - MENSAJE: oAutorizado.PlacaAuto : KSW235
+2022/06/18 08:53:18.229 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:19.480 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:19.480 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:19.512 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:20.139 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:20.139 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:20.140 - MENSAJE: oAutorizado.PlacaAuto : KSW235
+2022/06/18 08:53:20.177 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:21.427 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:21.427 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:21.459 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:22.093 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:53:22.115 - MENSAJE: Talanquera Abierta
+2022/06/18 08:53:22.329 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:53:30.327 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:53:30.389 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:53:30.466 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:53:31.825 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:53:31.847 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:31.848 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:53:33.598 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:53:33.612 - MENSAJE: Tarjeta Encontrada: 462E2327
+2022/06/18 08:53:33.613 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:53:33.637 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:35.593 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:53:35.604 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:53:36.253 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:36.254 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:36.293 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:36.880 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:53:36.933 - MENSAJE: Talanquera Abierta
+2022/06/18 08:53:42.322 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:53:43.329 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:53:43.390 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:53:43.453 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:53:44.825 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:53:44.846 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:44.847 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:53:46.590 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:53:46.605 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:53:46.626 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:48.578 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:53:48.589 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:53:49.211 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:49.212 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:53:49.251 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:49.846 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:53:49.867 - MENSAJE: Talanquera Abierta
+2022/06/18 08:53:53.328 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:53:54.325 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:53:54.387 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:53:54.497 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:53:55.840 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:53:55.860 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:55.861 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:53:57.607 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:53:57.617 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:53:57.647 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:53:59.614 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:53:59.625 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:54:00.297 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:00.297 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:00.335 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:00.917 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:00.918 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:00.955 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:01.834 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:54:01.855 - MENSAJE: Talanquera Abierta
+2022/06/18 08:54:07.325 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:54:08.331 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:54:08.394 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:54:08.489 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:54:09.836 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:54:09.856 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:09.857 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:54:11.588 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:54:11.603 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:54:11.626 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:13.584 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:54:13.595 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:54:14.237 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:14.238 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:14.289 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:14.873 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:14.873 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:14.911 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:15.835 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:54:15.888 - MENSAJE: Talanquera Abierta
+2022/06/18 08:54:20.320 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:54:21.317 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:54:21.378 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:54:21.456 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:54:22.835 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:54:22.857 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:22.858 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:54:24.606 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:54:24.621 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:54:24.644 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:26.618 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:54:26.629 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:54:27.239 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:27.239 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:27.277 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:27.907 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:27.908 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:27.946 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:28.826 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:28.826 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:28.878 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:29.832 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:29.833 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:29.870 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:30.842 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:30.843 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:30.880 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:31.830 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:54:31.884 - MENSAJE: Talanquera Abierta
+2022/06/18 08:54:32.318 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:54:33.327 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:54:33.389 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:54:33.514 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:54:34.827 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:54:34.848 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:34.849 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:54:36.594 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:54:36.612 - MENSAJE: Tarjeta Encontrada: 348F4DED
+2022/06/18 08:54:36.612 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:54:36.633 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:38.597 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:54:38.608 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:54:39.308 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:39.309 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:39.346 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:39.927 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:39.928 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:39.965 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:40.830 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:40.831 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:40.866 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:41.840 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:41.841 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:41.878 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:42.834 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:42.834 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:42.886 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:43.825 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:54:43.879 - MENSAJE: Talanquera Abierta
+2022/06/18 08:54:45.323 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:54:46.319 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:54:46.381 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:54:46.441 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:54:47.829 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:54:47.850 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:47.851 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:54:49.589 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:54:49.603 - MENSAJE: Tarjeta Encontrada: 26FE4028
+2022/06/18 08:54:49.604 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:54:49.628 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:54:51.585 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:54:51.596 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:54:52.249 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:52.249 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:54:52.411 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:56:20.572 - MENSAJE: (FrontEnd CapturaPlaca) Placa: CCM725
+2022/06/18 08:56:20.871 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:56:20.872 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:56:22.621 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:56:22.636 - MENSAJE: Tarjeta Encontrada: 26FE4028
+2022/06/18 08:56:22.637 - MENSAJE: (FrontEnd CapturaPlaca) CCM725
+2022/06/18 08:56:22.638 - MENSAJE: oAutorizado.PlacaAuto : CCM725
+2022/06/18 08:56:22.676 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:56:24.643 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:56:24.654 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:56:25.322 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:25.323 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:25.323 - MENSAJE: oAutorizado.PlacaAuto : CCM725
+2022/06/18 08:56:25.360 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:56:26.607 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:26.607 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:26.639 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:56:27.177 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:27.178 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:27.178 - MENSAJE: oAutorizado.PlacaAuto : CCM725
+2022/06/18 08:56:27.216 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:56:28.460 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:28.460 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:28.508 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:56:29.123 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:29.123 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:29.124 - MENSAJE: oAutorizado.PlacaAuto : CCM725
+2022/06/18 08:56:29.160 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:56:30.402 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:30.402 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:30.435 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:56:31.034 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:31.034 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:31.035 - MENSAJE: oAutorizado.PlacaAuto : CCM725
+2022/06/18 08:56:31.071 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:56:32.322 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:32.322 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:32.355 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:56:33.001 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:56:33.021 - MENSAJE: Talanquera Abierta
+2022/06/18 08:56:37.375 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:56:42.365 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:56:42.427 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:56:42.536 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:56:43.883 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:56:44.875 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:56:45.886 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:56:46.878 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:56:47.873 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:56:47.932 - MENSAJE: (FrontEnd CapturaPlaca) Placa: FSL527
+2022/06/18 08:56:48.882 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:56:48.903 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:56:48.904 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:56:50.661 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:56:50.679 - MENSAJE: Tarjeta Encontrada: C48148ED
+2022/06/18 08:56:50.680 - MENSAJE: (FrontEnd CapturaPlaca) FSL527
+2022/06/18 08:56:50.681 - MENSAJE: oAutorizado.PlacaAuto : FSL527
+2022/06/18 08:56:50.715 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:56:52.676 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:56:52.687 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:56:53.290 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:53.290 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:53.291 - MENSAJE: oAutorizado.PlacaAuto : FSL527
+2022/06/18 08:56:53.328 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:56:54.570 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:54.570 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:56:54.604 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:56:55.249 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:56:55.270 - MENSAJE: Talanquera Abierta
+2022/06/18 08:56:59.365 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:57:03.259 - MENSAJE: (FrontEnd CapturaPlaca) Placa: UDV121
+2022/06/18 08:57:11.365 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:57:11.427 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:57:11.523 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:57:12.872 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:13.881 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:13.904 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:57:13.905 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:57:15.652 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:57:15.670 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 08:57:15.691 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:57:17.652 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:57:17.663 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:57:18.342 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:57:18.342 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 08:57:18.380 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:57:18.961 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:18.984 - MENSAJE: Talanquera Abierta
+2022/06/18 08:57:24.377 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:57:28.379 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:57:28.439 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:57:28.548 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:57:28.732 - MENSAJE: (FrontEnd CapturaPlaca) Placa: GHN595
+2022/06/18 08:57:29.879 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:29.903 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:57:29.904 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:57:31.655 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:57:31.673 - MENSAJE: (FrontEnd CapturaPlaca) GHN595
+2022/06/18 08:57:31.674 - MENSAJE: oAutorizado.PlacaAuto : GHN595
+2022/06/18 08:57:33.677 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:57:33.688 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:57:34.432 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:34.500 - MENSAJE: Talanquera Abierta
+2022/06/18 08:57:34.547 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:57:41.371 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:57:41.431 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:57:41.622 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:57:42.866 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:43.875 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:44.895 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:45.894 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:46.888 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:47.884 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:48.875 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:49.884 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:50.878 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:51.871 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:52.883 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:53.874 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:54.883 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:55.877 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:56.870 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:57.879 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:58.882 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:57:59.874 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:00.883 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:01.878 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:02.871 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:03.881 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:04.868 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:05.878 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:06.888 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:07.883 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:08.878 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:09.882 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:10.874 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:11.871 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:12.875 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:13.868 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:14.877 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:15.871 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:16.878 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:17.871 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:18.879 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:19.872 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:20.883 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:21.877 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:22.872 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:23.879 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:24.871 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:25.878 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:26.868 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:27.880 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:28.888 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:29.881 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:30.879 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:31.871 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:32.876 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:33.875 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:34.884 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:35.881 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:36.871 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:37.875 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:38.886 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:39.877 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:40.872 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:41.880 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:42.881 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:43.867 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:44.882 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:45.871 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:46.286 - MENSAJE: (FrontEnd CapturaPlaca) Placa: CWE292
+2022/06/18 08:58:46.873 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:47.897 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:48.893 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:49.890 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:50.879 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:51.878 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:52.868 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:53.880 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:54.885 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:55.883 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:56.876 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:57.882 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:58:57.904 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:58:57.905 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 08:58:59.651 - MENSAJE: Tarjeta_Alistada
+2022/06/18 08:58:59.668 - MENSAJE: (FrontEnd CapturaPlaca) CWE292
+2022/06/18 08:58:59.670 - MENSAJE: oAutorizado.PlacaAuto : CWE292
+2022/06/18 08:58:59.709 - MENSAJE: Vehiculo En Mueble
+2022/06/18 08:59:01.677 - MENSAJE: Tarjeta_Escrita
+2022/06/18 08:59:01.689 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 08:59:02.371 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:02.442 - MENSAJE: Talanquera Abierta
+2022/06/18 08:59:06.380 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 08:59:11.383 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 08:59:11.445 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:59:11.619 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 08:59:12.886 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:13.897 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:14.893 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:15.884 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:16.890 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:17.899 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:18.892 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:19.875 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:20.895 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:21.886 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:22.890 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:23.895 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:24.894 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:25.899 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:26.890 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:27.897 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:28.908 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:29.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:30.896 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:31.885 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:32.898 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:33.891 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:34.900 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:35.894 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:36.886 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:37.900 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:38.889 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:39.889 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:40.897 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:41.888 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:42.894 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:43.889 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:44.888 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:45.894 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:46.892 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:47.901 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:48.892 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:49.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:50.898 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:51.886 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:52.895 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:53.885 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:54.896 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:55.889 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:56.898 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:57.891 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:58.896 - MENSAJE: Sin_Tarjeta
+2022/06/18 08:59:59.890 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:00.898 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:01.890 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:02.901 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:03.891 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:04.886 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:05.890 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:06.901 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:07.908 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:08.898 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:09.905 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:10.916 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:11.909 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:12.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:13.911 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:14.900 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:15.907 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:16.911 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:17.896 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:18.911 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:19.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:20.915 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:21.909 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:22.901 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:23.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:24.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:25.912 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:26.907 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:27.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:28.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:29.911 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:30.909 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:31.901 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:32.912 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:33.905 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:34.915 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:35.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:36.902 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:37.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:38.908 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:39.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:40.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:41.912 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:42.911 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:43.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:44.901 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:45.896 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:46.911 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:47.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:48.912 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:49.924 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:50.918 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:51.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:52.907 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:53.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:54.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:55.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:56.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:57.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:58.915 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:00:59.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:00.897 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:01.908 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:02.905 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:03.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:04.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:05.915 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:06.908 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:07.898 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:08.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:09.900 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:10.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:11.908 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:12.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:13.908 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:14.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:15.902 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:16.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:17.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:18.934 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:19.924 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:20.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:21.907 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:22.916 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:23.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:24.899 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:25.909 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:26.899 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:27.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:28.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:29.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:30.912 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:31.909 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:32.901 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:33.908 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:34.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:35.905 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:36.911 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:37.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:38.898 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:39.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:40.900 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:41.911 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:42.907 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:43.929 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:44.926 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:45.918 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:46.912 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:47.909 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:48.898 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:49.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:50.915 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:51.898 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:52.899 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:53.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:54.907 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:55.901 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:56.908 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:57.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:58.902 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:01:59.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:00.905 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:01.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:02.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:03.909 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:04.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:05.912 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:06.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:07.902 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:08.911 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:09.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:10.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:11.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:12.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:13.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:14.915 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:15.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:16.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:17.905 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:18.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:19.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:20.896 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:21.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:22.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:23.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:24.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:25.902 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:26.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:27.899 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:28.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:29.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:30.899 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:31.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:32.907 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:33.918 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:34.912 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:35.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:36.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:37.916 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:38.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:39.902 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:40.912 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:41.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:42.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:43.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:44.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:45.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:46.905 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:47.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:48.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:49.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:50.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:51.894 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:52.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:53.901 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:54.917 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:55.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:56.901 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:57.924 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:58.921 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:02:59.919 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:00.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:01.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:02.915 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:03.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:04.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:05.909 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:06.918 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:07.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:08.902 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:09.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:10.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:11.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:12.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:13.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:14.911 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:15.905 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:16.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:17.915 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:18.924 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:19.918 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:20.909 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:21.901 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:22.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:23.908 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:24.901 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:25.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:26.902 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:27.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:28.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:29.900 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:30.909 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:30.938 - MENSAJE: (FrontEnd CapturaPlaca) Placa: KJS871
+2022/06/18 09:03:31.892 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:31.914 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:03:31.915 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 09:03:33.666 - MENSAJE: Tarjeta_Alistada
+2022/06/18 09:03:33.682 - MENSAJE: Tarjeta Encontrada: AAB63C5F
+2022/06/18 09:03:33.683 - MENSAJE: (FrontEnd CapturaPlaca) KJS871
+2022/06/18 09:03:33.684 - MENSAJE: oAutorizado.PlacaAuto : KJS871
+2022/06/18 09:03:33.721 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:03:35.673 - MENSAJE: Tarjeta_Escrita
+2022/06/18 09:03:35.684 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 09:03:36.484 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:36.508 - MENSAJE: Talanquera Abierta
+2022/06/18 09:03:40.396 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 09:03:46.404 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 09:03:46.467 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 09:03:46.593 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 09:03:47.909 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:48.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:49.900 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:50.913 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:51.403 - MENSAJE: (FrontEnd CapturaPlaca) Placa: GMU715
+2022/06/18 09:03:51.907 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:51.929 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:03:51.930 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 09:03:53.684 - MENSAJE: Tarjeta_Alistada
+2022/06/18 09:03:53.703 - MENSAJE: (FrontEnd CapturaPlaca) GMU715
+2022/06/18 09:03:53.705 - MENSAJE: oAutorizado.PlacaAuto : GMU715
+2022/06/18 09:03:53.737 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:03:55.709 - MENSAJE: Tarjeta_Escrita
+2022/06/18 09:03:55.720 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 09:03:56.375 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:03:56.445 - MENSAJE: Talanquera Abierta
+2022/06/18 09:04:00.406 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 09:04:05.401 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 09:04:05.462 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 09:04:05.607 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 09:04:06.904 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:07.915 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:08.907 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:09.916 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:10.909 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:11.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:12.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:13.902 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:14.907 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:15.916 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:16.908 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:17.915 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:18.905 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:19.902 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:20.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:21.915 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:22.907 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:23.902 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:24.926 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:25.920 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:26.915 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:27.902 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:28.909 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:29.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:30.906 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:31.901 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:32.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:33.903 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:34.915 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:35.910 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:36.905 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:36.929 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:04:36.930 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 09:04:37.417 - MENSAJE: (FrontEnd CapturaPlaca) Placa: GIX773
+2022/06/18 09:04:38.676 - MENSAJE: Tarjeta_Alistada
+2022/06/18 09:04:38.704 - MENSAJE: Tarjeta Encontrada: AA44CF0C
+2022/06/18 09:04:38.704 - MENSAJE: (FrontEnd CapturaPlaca) GIX773
+2022/06/18 09:04:38.706 - MENSAJE: oAutorizado.PlacaAuto : GIX773
+2022/06/18 09:04:38.758 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:04:40.712 - MENSAJE: Tarjeta_Escrita
+2022/06/18 09:04:40.722 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 09:04:41.437 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:04:41.438 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:04:41.439 - MENSAJE: oAutorizado.PlacaAuto : GIX773
+2022/06/18 09:04:41.475 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:04:42.713 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:04:42.713 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:04:42.763 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:04:43.410 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:04:43.410 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:04:43.411 - MENSAJE: oAutorizado.PlacaAuto : GIX773
+2022/06/18 09:04:43.448 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:04:44.703 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:04:44.703 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:04:44.753 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:04:45.397 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:04:45.421 - MENSAJE: Talanquera Abierta
+2022/06/18 09:04:47.402 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 09:05:07.416 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 09:05:07.477 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 09:05:07.539 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 09:05:08.920 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:09.929 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:09.951 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:05:09.952 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 09:05:11.697 - MENSAJE: Tarjeta_Alistada
+2022/06/18 09:05:11.710 - MENSAJE: Tarjeta Encontrada: AAAE265F
+2022/06/18 09:05:11.710 - MENSAJE: (FrontEnd CapturaPlaca) 
+2022/06/18 09:05:11.768 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:05:13.731 - MENSAJE: Tarjeta_Escrita
+2022/06/18 09:05:13.742 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 09:05:14.385 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:05:14.386 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:05:14.421 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:05:15.045 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:05:15.045 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:05:15.082 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:05:15.926 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:15.994 - MENSAJE: Talanquera Abierta
+2022/06/18 09:05:28.419 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 09:05:29.414 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 09:05:29.477 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 09:05:29.540 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 09:05:30.942 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:31.939 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:32.929 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:33.921 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:34.916 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:35.925 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:36.917 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:37.923 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:38.929 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:39.919 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:40.929 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:41.920 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:42.931 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:43.922 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:44.931 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:45.917 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:46.926 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:47.918 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:48.931 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:49.926 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:50.918 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:51.925 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:52.919 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:53.927 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:54.917 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:55.928 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:56.922 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:57.917 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:58.923 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:05:59.934 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:00.929 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:01.925 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:02.918 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:03.927 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:04.921 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:05.918 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:06.929 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:07.920 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:08.928 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:09.916 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:10.919 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:11.924 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:12.928 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:13.925 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:14.916 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:15.924 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:16.920 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:17.930 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:18.922 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:19.929 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:20.928 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:21.918 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:22.927 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:23.916 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:24.926 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:25.919 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:26.927 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:27.916 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:28.926 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:29.917 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:30.923 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:31.931 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:32.927 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:33.917 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:34.924 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:35.918 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:36.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:37.918 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:38.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:39.938 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:40.932 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:41.931 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:42.925 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:43.930 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:44.918 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:44.939 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:06:44.940 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2022/06/18 09:06:46.520 - MENSAJE: (FrontEnd CapturaPlaca) Placa: HVY452
+2022/06/18 09:06:46.696 - MENSAJE: Tarjeta_Alistada
+2022/06/18 09:06:46.712 - MENSAJE: Tarjeta Encontrada: 26FE4028
+2022/06/18 09:06:46.712 - MENSAJE: (FrontEnd CapturaPlaca) HVY452
+2022/06/18 09:06:46.714 - MENSAJE: oAutorizado.PlacaAuto : HVY452
+2022/06/18 09:06:46.755 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:06:48.711 - MENSAJE: Tarjeta_Escrita
+2022/06/18 09:06:48.722 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2022/06/18 09:06:49.376 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:06:49.376 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:06:49.377 - MENSAJE: oAutorizado.PlacaAuto : HVY452
+2022/06/18 09:06:49.415 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:06:50.666 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:06:50.666 - MENSAJE: Tarjeta_En_Boca
+2022/06/18 09:06:50.701 - MENSAJE: Vehiculo En Mueble
+2022/06/18 09:06:51.329 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:51.350 - MENSAJE: Talanquera Abierta
+2022/06/18 09:06:51.446 - MENSAJE: Vehiculo En Talanquera
+2022/06/18 09:06:52.424 - MENSAJE: Vehiculo Salio Talanquera
+2022/06/18 09:06:52.485 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 09:06:52.625 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2022/06/18 09:06:53.917 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:54.920 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:55.932 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:56.925 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:57.916 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:58.923 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:06:59.943 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:07:00.934 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:07:01.920 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:07:02.925 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:07:03.914 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:07:04.927 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:07:05.923 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:07:06.934 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:07:07.926 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:07:08.944 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:07:09.930 - MENSAJE: Sin_Tarjeta
+2022/06/18 09:07:10.922 - MENSAJE: Sin_Tarjeta

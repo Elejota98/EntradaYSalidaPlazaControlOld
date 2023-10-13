@@ -1,0 +1,25 @@
+2021/04/07 04:00:22.222 - INICIO REGISTRO
+2021/04/07 04:00:22.245 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/07 04:00:23.092 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/07 04:01:11.060 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/07 04:01:11.160 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/07 04:01:11.206 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/07 04:01:17.460 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/07 04:01:18.439 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/07 04:01:19.434 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/07 04:01:24.719 - MENSAJE: Error_AlistarTarjeta
+2021/04/07 04:01:25.298 - MENSAJE: Error_AlistarTarjeta
+2021/04/07 04:01:25.536 - MENSAJE: Error_AlistarTarjeta
+2021/04/07 04:01:26.269 - MENSAJE: Error_AlistarTarjeta
+2021/04/07 04:01:27.284 - MENSAJE: Error_AlistarTarjeta
+2021/04/07 04:01:28.289 - MENSAJE: Error_AlistarTarjeta
+2021/04/07 04:02:36.730 - INICIO REGISTRO
+2021/04/07 04:02:36.753 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/07 04:02:37.539 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/07 04:02:40.574 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/07 04:02:40.651 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/07 04:02:40.683 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/07 04:02:40.971 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/07 04:02:41.890 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/07 04:02:42.601 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/07 04:02:43.512 - MENSAJE: Error_AlistarTarjeta

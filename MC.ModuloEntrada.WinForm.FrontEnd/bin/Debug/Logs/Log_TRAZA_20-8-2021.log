@@ -1,0 +1,314 @@
+2021/08/20 02:55:58.563 - INICIO REGISTRO
+2021/08/20 02:55:58.574 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/08/20 02:55:58.699 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/08/20 02:56:01.921 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/08/20 02:56:01.991 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/08/20 02:56:02.030 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/08/20 02:56:02.199 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/08/20 02:56:02.324 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 02:56:02.351 - MENSAJE: ConexionExitosa_Dispensador
+2021/08/20 02:56:02.433 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 02:56:03.609 - MENSAJE: Vehiculo En Mueble
+2021/08/20 02:56:09.460 - MENSAJE: Tarjeta_Alistada
+2021/08/20 02:56:09.499 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 02:56:12.133 - MENSAJE: Tarjeta_Borrada
+2021/08/20 02:56:12.133 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 02:56:12.135 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 02:56:12.139 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 02:56:13.403 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MVK282
+2021/08/20 02:56:13.403 - MENSAJE: (FrontEnd CapturaPlaca) MVK282
+2021/08/20 02:57:14.159 - INICIO REGISTRO
+2021/08/20 02:57:14.170 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/08/20 02:57:14.304 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/08/20 02:57:49.043 - INICIO REGISTRO
+2021/08/20 02:57:49.049 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/08/20 02:57:49.152 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/08/20 02:58:11.634 - INICIO REGISTRO
+2021/08/20 02:58:13.122 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/08/20 02:58:14.007 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/08/20 02:59:45.194 - INICIO REGISTRO
+2021/08/20 02:59:46.090 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/08/20 02:59:46.664 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/08/20 03:00:50.781 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2021/08/20 03:03:50.262 - INICIO REGISTRO
+2021/08/20 03:03:50.273 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/08/20 03:03:50.394 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/08/20 03:04:04.394 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/08/20 03:04:05.862 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/08/20 03:04:07.111 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/08/20 03:04:12.603 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/08/20 03:04:12.728 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 03:04:12.758 - MENSAJE: ConexionExitosa_Dispensador
+2021/08/20 03:04:12.839 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 03:04:12.980 - MENSAJE: Vehiculo En Mueble
+2021/08/20 03:04:37.373 - MENSAJE: Tarjeta_Alistada
+2021/08/20 03:04:37.416 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 03:04:40.052 - MENSAJE: Tarjeta_Borrada
+2021/08/20 03:04:46.402 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 03:04:46.405 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 03:04:46.410 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 03:04:47.384 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 03:04:47.384 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 03:05:10.368 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:05:53.898 - INICIO REGISTRO
+2021/08/20 04:05:53.908 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/08/20 04:05:54.013 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/08/20 04:05:59.653 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/08/20 04:05:59.693 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/08/20 04:05:59.724 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/08/20 04:06:03.614 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/08/20 04:06:03.752 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:06:03.781 - MENSAJE: ConexionExitosa_Dispensador
+2021/08/20 04:06:03.861 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:06:27.951 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:06:32.739 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:06:32.773 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:06:35.409 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:06:36.292 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:06:36.524 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:06:36.526 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:06:37.386 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MND534
+2021/08/20 04:06:39.397 - MENSAJE: (FrontEnd CapturaPlaca) MND534
+2021/08/20 04:06:59.342 - MENSAJE: oAutorizado.PlacaAuto : MND534
+2021/08/20 04:09:20.529 - INICIO REGISTRO
+2021/08/20 04:09:20.542 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/08/20 04:09:20.657 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/08/20 04:09:21.421 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/08/20 04:09:21.455 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/08/20 04:09:21.476 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/08/20 04:09:21.553 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/08/20 04:09:21.692 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:09:21.725 - MENSAJE: ConexionExitosa_Dispensador
+2021/08/20 04:09:21.800 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:09:21.908 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:09:27.215 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:09:27.249 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:09:29.885 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:09:40.885 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:09:41.366 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:09:41.369 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:09:42.666 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:09:42.862 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:09:52.365 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:11:54.862 - INICIO REGISTRO
+2021/08/20 04:11:54.870 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/08/20 04:11:54.987 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/08/20 04:11:55.771 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/08/20 04:11:55.797 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/08/20 04:11:55.817 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/08/20 04:11:55.885 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/08/20 04:11:56.024 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:11:56.054 - MENSAJE: ConexionExitosa_Dispensador
+2021/08/20 04:11:56.133 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:11:56.273 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:11:59.543 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:11:59.589 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:12:02.222 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:12:02.223 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:12:02.224 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:12:02.226 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:12:03.629 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:12:03.629 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:12:08.304 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:22:13.065 - MENSAJE: Talanquera Abierta
+2021/08/20 04:22:13.218 - MENSAJE: Vehiculo En Talanquera
+2021/08/20 04:22:13.898 - MENSAJE: Vehiculo Salio Talanquera
+2021/08/20 04:22:13.961 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:22:14.022 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:22:34.903 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:22:37.928 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:22:37.952 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:22:40.579 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:22:53.242 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:22:53.246 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:22:53.253 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:22:54.336 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:22:54.337 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:22:57.117 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:23:53.984 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:23:54.899 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:24:02.634 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:24:02.649 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:24:05.272 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:24:05.272 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:24:05.273 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:24:05.274 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:24:06.580 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:24:06.580 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:24:11.750 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:24:15.974 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:24:16.906 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:24:18.653 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:24:18.667 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:24:21.298 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:24:21.298 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:24:21.299 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:24:21.300 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:24:22.708 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:24:22.708 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:24:22.710 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:24:26.932 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:24:27.910 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:24:29.660 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:24:29.675 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:24:32.299 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:24:32.299 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:24:32.300 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:24:32.301 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:24:33.645 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:24:33.645 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:24:33.647 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:24:37.941 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:24:38.901 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:24:40.667 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:24:40.681 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:24:43.309 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:24:43.309 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:24:43.310 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:24:43.316 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:24:44.646 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:24:44.646 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:24:44.648 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:24:48.943 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:24:49.903 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:24:51.651 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:24:51.667 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:24:54.285 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:24:54.285 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:24:54.286 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:24:54.292 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:24:55.514 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNQ534
+2021/08/20 04:24:55.515 - MENSAJE: (FrontEnd CapturaPlaca) MNQ534
+2021/08/20 04:24:55.516 - MENSAJE: oAutorizado.PlacaAuto : MNQ534
+2021/08/20 04:24:57.468 - MENSAJE: Tarjeta_Escrita
+2021/08/20 04:24:57.480 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2021/08/20 04:25:05.584 - MENSAJE: Error_Estado_Stacker
+2021/08/20 04:25:05.695 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:25:17.904 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:25:19.655 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:25:19.671 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:25:22.309 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:25:22.309 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:25:22.310 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:25:22.311 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:25:23.445 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:25:23.445 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:25:23.447 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:25:23.561 - MENSAJE: Talanquera Abierta
+2021/08/20 04:25:23.638 - MENSAJE: Vehiculo En Talanquera
+2021/08/20 04:25:23.910 - MENSAJE: Vehiculo Salio Talanquera
+2021/08/20 04:25:23.971 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:25:24.097 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:25:24.897 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:25:26.662 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:25:26.676 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:25:29.308 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:25:29.308 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:25:29.309 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:25:29.310 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:25:30.417 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:25:30.417 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:25:30.419 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:25:34.935 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:25:35.898 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:25:37.655 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:25:37.669 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:25:40.295 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:25:40.295 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:25:40.296 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:25:40.297 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:25:41.186 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:25:41.186 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:25:41.188 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:25:46.002 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:25:46.905 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:25:48.655 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:25:48.670 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:25:51.299 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:25:51.299 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:25:51.300 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:25:51.301 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:25:52.379 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:25:52.379 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:25:52.381 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:25:56.928 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:25:57.907 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:25:59.674 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:25:59.689 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:26:02.318 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:26:02.318 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:26:02.319 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:26:02.320 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:26:03.290 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:26:03.290 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:26:03.292 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:26:07.946 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:26:08.897 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:26:10.651 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:26:10.665 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:26:13.299 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:26:13.299 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:26:13.300 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:26:13.301 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:26:14.177 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:26:14.177 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:26:14.179 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:26:18.932 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:26:38.898 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:26:40.651 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:26:40.666 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:26:43.304 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:26:43.304 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:26:43.305 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:26:43.306 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:26:44.179 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:26:44.179 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:26:44.181 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:26:44.269 - MENSAJE: Talanquera Abierta
+2021/08/20 04:26:44.318 - MENSAJE: Vehiculo En Talanquera
+2021/08/20 04:26:44.904 - MENSAJE: Vehiculo Salio Talanquera
+2021/08/20 04:26:44.967 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:26:45.058 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:26:45.909 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:26:47.672 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:26:47.685 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:26:50.305 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:26:50.305 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:26:50.306 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:26:50.307 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:26:51.122 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:26:51.122 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:26:51.124 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:26:55.929 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:26:56.910 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:26:58.663 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:26:58.677 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:27:01.314 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:27:01.314 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:27:01.315 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:27:01.316 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:27:02.364 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:27:02.364 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:27:02.366 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:27:06.936 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:27:07.910 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:27:09.665 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:27:09.680 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:27:12.312 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:27:12.312 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:27:12.313 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:27:12.315 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:27:13.231 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:27:13.231 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:27:13.233 - MENSAJE: oAutorizado.PlacaAuto : MNO534
+2021/08/20 04:27:17.940 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/08/20 04:27:18.903 - MENSAJE: Vehiculo En Mueble
+2021/08/20 04:27:20.657 - MENSAJE: Tarjeta_Alistada
+2021/08/20 04:27:20.670 - MENSAJE: Tarjeta Encontrada: E6454F28
+2021/08/20 04:27:23.295 - MENSAJE: Tarjeta_Borrada
+2021/08/20 04:27:23.295 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/08/20 04:27:23.296 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.54
+2021/08/20 04:27:23.303 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/08/20 04:27:24.418 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/08/20 04:27:24.418 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/08/20 04:27:24.420 - MENSAJE: oAutorizado.PlacaAuto : MNO534

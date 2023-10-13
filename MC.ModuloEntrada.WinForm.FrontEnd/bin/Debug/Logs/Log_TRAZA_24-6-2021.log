@@ -1,0 +1,22 @@
+2021/06/24 03:16:01.273 - INICIO REGISTRO
+2021/06/24 03:16:01.282 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/06/24 03:16:01.404 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/06/24 03:16:04.194 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/06/24 03:16:04.310 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/06/24 03:16:04.342 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/06/24 03:17:09.894 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/06/24 03:17:11.301 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/24 03:17:22.014 - MENSAJE: ConexionExitosa_Dispensador
+2021/06/24 03:20:47.836 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/06/24 03:22:58.601 - MENSAJE: Tarjeta_Alistada
+2021/06/24 03:23:09.471 - MENSAJE: Tarjeta_Alistada
+2021/06/24 03:24:08.502 - MENSAJE: Vehiculo En Mueble
+2021/06/24 03:24:36.143 - MENSAJE: Tarjeta_Alistada
+2021/06/24 03:24:37.392 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/06/24 03:24:37.708 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/06/24 03:24:39.822 - MENSAJE: (FrontEnd ERROR CapturaPlaca) System.Net.Sockets.SocketException (0x80004005): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 192.168.1.87:27001
+   en System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.CapturaPlaca() en c:\Users\Kingdel\Desktop\SANTO THOMAS\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 1198
+2021/06/24 03:24:41.009 - MENSAJE: (FrontEnd CapturaPlaca) 
+2021/06/24 03:25:07.628 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2021/06/24 03:38:54.748 - MENSAJE: Tarjeta_Alistada

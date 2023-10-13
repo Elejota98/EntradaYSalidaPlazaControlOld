@@ -1,0 +1,494 @@
+2021/04/19 09:40:21.042 - INICIO REGISTRO
+2021/04/19 09:40:21.049 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 09:40:21.756 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 09:40:30.680 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 09:40:30.750 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 09:40:30.786 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 09:40:35.005 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 09:40:36.365 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:40:40.696 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 09:41:02.079 - INICIO REGISTRO
+2021/04/19 09:41:02.087 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 09:41:02.754 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 09:41:03.398 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 09:41:03.423 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 09:41:03.442 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 09:41:03.617 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 09:41:03.741 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:41:08.149 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 09:41:08.307 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:41:08.580 - MENSAJE: TestDispensador_ERROR
+2021/04/19 09:41:09.140 - MENSAJE: Error_AlistarTarjeta
+2021/04/19 09:41:10.134 - MENSAJE: Error_AlistarTarjeta
+2021/04/19 09:41:11.145 - MENSAJE: Error_AlistarTarjeta
+2021/04/19 09:41:18.853 - INICIO REGISTRO
+2021/04/19 09:41:18.860 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 09:41:19.605 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 09:41:20.239 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 09:41:20.264 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 09:41:20.282 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 09:41:20.400 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 09:41:20.574 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:41:20.604 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 09:48:41.578 - INICIO REGISTRO
+2021/04/19 09:48:41.583 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 09:48:42.227 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 09:48:42.848 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 09:48:42.878 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 09:48:42.898 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 09:48:43.029 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 09:48:43.153 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:48:43.188 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 09:48:43.245 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:48:43.552 - MENSAJE: TestDispensador_ERROR
+2021/04/19 09:48:43.762 - MENSAJE: Error_AlistarTarjeta
+2021/04/19 09:48:44.636 - MENSAJE: Error_AlistarTarjeta
+2021/04/19 09:48:45.627 - MENSAJE: Error_AlistarTarjeta
+2021/04/19 09:48:52.703 - INICIO REGISTRO
+2021/04/19 09:48:52.710 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 09:48:53.446 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 09:48:54.072 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 09:48:54.098 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 09:48:54.118 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 09:48:54.241 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 09:48:54.366 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:48:54.398 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 09:49:11.705 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:50:45.297 - INICIO REGISTRO
+2021/04/19 09:50:45.304 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 09:50:45.965 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 09:50:46.678 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 09:50:46.710 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 09:50:46.731 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 09:50:46.861 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 09:50:46.985 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:50:47.014 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 09:50:49.582 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:51:59.721 - MENSAJE: Tarjeta_Alistada
+2021/04/19 09:52:16.215 - INICIO REGISTRO
+2021/04/19 09:52:16.223 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 09:52:16.883 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 09:52:17.571 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 09:52:17.600 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 09:52:17.628 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 09:52:17.777 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 09:52:17.937 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:52:18.822 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 09:52:18.887 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:52:34.495 - INICIO REGISTRO
+2021/04/19 09:52:34.500 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 09:52:35.148 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 09:52:35.842 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 09:52:35.871 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 09:52:35.892 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 09:52:36.009 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 09:52:36.131 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:52:37.209 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 09:52:37.273 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:54:49.209 - INICIO REGISTRO
+2021/04/19 09:54:49.215 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 09:54:49.863 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 09:54:50.516 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 09:54:50.544 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 09:54:50.565 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 09:54:50.698 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 09:54:50.853 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:54:50.884 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 09:54:50.945 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:58:09.295 - INICIO REGISTRO
+2021/04/19 09:58:09.304 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 09:58:09.968 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 09:58:10.621 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 09:58:10.652 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 09:58:10.683 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 09:58:10.828 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 09:58:10.954 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 09:58:10.982 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 09:58:11.046 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 10:12:05.071 - INICIO REGISTRO
+2021/04/19 10:12:05.079 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 10:12:05.211 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 10:12:05.939 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 10:12:06.020 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 10:12:06.082 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 10:12:06.247 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 10:12:06.371 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 10:12:06.408 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 10:12:06.466 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 10:20:11.069 - INICIO REGISTRO
+2021/04/19 10:20:11.078 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 10:20:11.223 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 10:20:11.954 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 10:20:11.990 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 10:20:12.044 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 10:20:12.190 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 10:20:12.332 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 10:20:12.368 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 10:20:12.425 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 10:23:18.931 - INICIO REGISTRO
+2021/04/19 10:23:18.939 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 10:23:19.086 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 10:23:19.791 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 10:23:19.822 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 10:23:19.844 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 10:23:19.965 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 10:23:20.107 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 10:23:20.139 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 10:23:20.200 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:23:00.620 - INICIO REGISTRO
+2021/04/19 03:23:00.629 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 03:23:00.744 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 03:23:03.773 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 03:23:03.844 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 03:23:03.919 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 03:23:04.380 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 03:23:04.519 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:23:04.549 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 03:23:04.643 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:23:32.868 - MENSAJE: Vehiculo En Mueble
+2021/04/19 03:23:39.497 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/04/19 03:24:32.061 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/04/19 03:24:34.998 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/04/19 03:24:39.974 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/04/19 03:24:44.415 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/04/19 03:28:05.803 - INICIO REGISTRO
+2021/04/19 03:28:05.813 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 03:28:05.938 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 03:28:06.591 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 03:28:06.618 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 03:28:06.636 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 03:28:06.770 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 03:28:06.895 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:28:06.923 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 03:28:06.973 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:28:13.928 - MENSAJE: Vehiculo En Mueble
+2021/04/19 03:28:19.582 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/04/19 03:28:19.585 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/04/19 03:28:19.587 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/04/19 03:28:21.473 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/04/19 03:28:21.474 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/04/19 03:28:29.484 - MENSAJE: Talanquera Abierta
+2021/04/19 03:28:54.001 - INICIO REGISTRO
+2021/04/19 03:28:54.009 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 03:28:54.216 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 03:28:54.945 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 03:28:54.998 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 03:28:55.048 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 03:28:55.185 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 03:28:55.312 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:28:55.343 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 03:28:55.407 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:29:10.166 - MENSAJE: Vehiculo En Mueble
+2021/04/19 03:29:14.280 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/04/19 03:29:17.094 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/04/19 03:29:18.876 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/04/19 03:29:21.486 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/04/19 03:29:25.889 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/04/19 03:29:52.275 - MENSAJE: Talanquera Abierta
+2021/04/19 03:32:05.904 - INICIO REGISTRO
+2021/04/19 03:32:05.912 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 03:32:06.049 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 03:32:08.865 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 03:32:08.891 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 03:32:08.910 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 03:32:09.209 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 03:32:09.334 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:32:09.362 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 03:32:09.426 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:32:15.013 - MENSAJE: Vehiculo En Mueble
+2021/04/19 03:32:17.321 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/04/19 03:32:17.324 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/04/19 03:32:17.330 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/04/19 03:32:19.526 - MENSAJE: (FrontEnd CapturaPlaca) Placa: MNO534
+2021/04/19 03:32:19.527 - MENSAJE: (FrontEnd CapturaPlaca) MNO534
+2021/04/19 03:32:24.947 - MENSAJE: Talanquera Abierta
+2021/04/19 03:32:35.779 - MENSAJE: Vehiculo En Talanquera
+2021/04/19 03:32:35.856 - MENSAJE: Vehiculo Salio Talanquera
+2021/04/19 03:32:35.918 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:32:35.980 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:35:06.336 - MENSAJE: Vehiculo En Mueble
+2021/04/19 03:35:08.170 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/04/19 03:35:09.833 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/04/19 03:35:11.282 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/04/19 03:35:12.754 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2021/04/19 03:35:20.445 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2021/04/19 03:37:56.372 - MENSAJE: Moto En Mueble
+2021/04/19 03:39:02.572 - MENSAJE: Conexion_Exitosa_Dispensador
+2021/04/19 03:56:14.951 - INICIO REGISTRO
+2021/04/19 03:56:14.958 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 03:56:15.085 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 03:56:16.095 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 03:56:16.198 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 03:56:25.128 - MENSAJE: (Presenter ObtenerInfoParametros) Sistema Suspendido - Info Parametros Error
+2021/04/19 03:56:35.428 - INICIO REGISTRO
+2021/04/19 03:56:35.436 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 03:56:35.569 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 03:56:37.247 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 03:56:37.295 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 03:56:37.386 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 03:56:38.027 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 03:56:38.155 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:56:41.834 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 03:56:41.900 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:56:42.019 - MENSAJE: Tarjeta_Alistada
+2021/04/19 03:56:42.471 - MENSAJE: Tarjeta_Alistada
+2021/04/19 03:56:43.465 - MENSAJE: Tarjeta_Alistada
+2021/04/19 03:56:44.457 - MENSAJE: Tarjeta_Alistada
+2021/04/19 03:56:45.470 - MENSAJE: Tarjeta_Alistada
+2021/04/19 03:56:46.462 - MENSAJE: Tarjeta_Alistada
+2021/04/19 03:56:46.483 - MENSAJE: Vehiculo En Mueble
+2021/04/19 03:56:46.497 - MENSAJE: Tarjeta_Alistada
+2021/04/19 03:56:49.919 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/04/19 03:56:50.303 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/04/19 03:56:50.307 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/04/19 03:56:51.562 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2021/04/19 03:56:52.181 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2021/04/19 03:56:54.034 - MENSAJE: Vehiculo En Mueble
+2021/04/19 03:58:15.641 - INICIO REGISTRO
+2021/04/19 03:58:15.651 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 03:58:15.781 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 03:58:16.817 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 03:58:16.910 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 03:58:16.970 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 03:58:17.371 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 03:58:17.493 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:58:17.530 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 03:58:17.587 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 03:58:17.699 - MENSAJE: Tarjeta_Alistada
+2021/04/19 03:58:17.745 - MENSAJE: Vehiculo En Mueble
+2021/04/19 03:58:17.759 - MENSAJE: Tarjeta_Alistada
+2021/04/19 03:58:19.689 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/04/19 03:58:19.967 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/04/19 03:58:19.974 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/04/19 03:58:20.977 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2021/04/19 03:58:21.124 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2021/04/19 03:58:23.182 - MENSAJE: Vehiculo En Mueble
+2021/04/19 03:59:02.073 - MENSAJE: Vehiculo En Mueble
+2021/04/19 04:00:39.923 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2021/04/19 04:01:02.566 - MENSAJE: Error_LoadKeyCRT
+2021/04/19 04:03:46.689 - INICIO REGISTRO
+2021/04/19 04:03:46.697 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 04:03:46.836 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 04:03:48.033 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 04:03:48.140 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 04:03:48.169 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 04:03:48.539 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 04:03:48.664 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 04:03:58.590 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 04:03:58.644 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 04:04:06.736 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:08.052 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:08.839 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:09.541 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:11.974 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:12.081 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:12.738 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:13.740 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:14.747 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:15.742 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:16.737 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:17.738 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:18.749 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:19.747 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:20.742 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:21.738 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:22.748 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:23.744 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:24.743 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:25.742 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:26.740 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:27.752 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:28.769 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:29.768 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:30.754 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:31.763 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:32.762 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:33.757 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:34.767 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:35.756 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:36.754 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:37.768 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:38.762 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:39.754 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:40.767 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:41.933 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:42.771 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:43.784 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:44.783 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:45.784 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:46.780 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:47.780 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:48.770 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:48.793 - MENSAJE: Vehiculo En Mueble
+2021/04/19 04:04:48.806 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:04:57.124 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/04/19 04:04:57.127 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/04/19 04:04:57.133 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/04/19 04:04:57.961 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2021/04/19 04:04:57.961 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2021/04/19 04:04:57.998 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2021/04/19 04:05:37.302 - MENSAJE: ERROR AL LEER LA TARJETA MENSUALIDAD
+2021/04/19 04:05:53.234 - MENSAJE: ERROR AL LEER LA TARJETA MENSUALIDAD
+2021/04/19 04:19:46.494 - INICIO REGISTRO
+2021/04/19 04:19:46.504 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 04:19:46.643 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 04:19:47.782 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 04:19:47.905 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 04:19:48.049 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 04:19:48.334 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 04:19:48.455 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 04:19:48.488 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 04:19:48.551 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 04:19:48.659 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:19:49.523 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:19:50.522 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:19:51.537 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:19:52.519 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:19:53.533 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:19:54.533 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:19:55.530 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:19:56.524 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:19:57.531 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:19:58.527 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:19:59.519 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:00.577 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:01.525 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:02.524 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:03.764 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:04.533 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:05.542 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:06.540 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:07.535 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:08.540 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:09.542 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:10.535 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:11.546 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:12.539 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:13.534 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:14.550 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:15.562 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:16.552 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:17.567 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:18.555 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:19.563 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:20.558 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:21.552 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:22.561 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:23.560 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:24.559 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:25.551 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:26.564 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:27.556 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:28.553 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:29.555 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:30.549 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:31.557 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:32.549 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:33.549 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:34.560 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:35.557 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:36.551 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:37.557 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:38.563 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:39.562 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:40.558 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:41.555 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:42.564 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:43.563 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:44.553 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:45.554 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:46.564 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:47.558 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:48.555 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:49.551 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:50.562 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:51.555 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:52.574 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:53.564 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:54.561 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:55.556 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:56.564 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:57.559 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:58.551 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:20:59.564 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:00.559 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:01.557 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:02.551 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:03.559 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:04.561 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:05.555 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:06.563 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:07.559 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:08.548 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:09.559 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:10.555 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:11.551 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:12.550 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:13.560 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:14.557 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:15.556 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:16.553 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:17.561 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:18.553 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:19.562 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:20.559 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:21.556 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:22.552 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:23.551 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:24.562 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:25.558 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:26.563 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:27.553 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:28.565 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:29.558 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:30.557 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:31.552 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:32.573 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:33.558 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:33.578 - MENSAJE: Vehiculo En Mueble
+2021/04/19 04:21:33.592 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:21:38.074 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/04/19 04:21:38.369 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 192.168.1.87
+2021/04/19 04:21:38.374 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/04/19 04:21:39.491 - MENSAJE: (FrontEnd CapturaPlaca) Placa: 
+2021/04/19 04:21:39.631 - MENSAJE: (FrontEnd CapturaPlaca) ------
+2021/04/19 04:21:40.235 - MENSAJE: Vehiculo En Mueble
+2021/04/19 04:21:41.783 - MENSAJE: Tarjeta_MovidaReceptor_RF_TO_FRONT
+2021/04/19 04:28:21.600 - INICIO REGISTRO
+2021/04/19 04:28:21.608 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 04:28:21.728 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 04:28:22.924 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 04:28:23.037 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 04:28:23.070 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 04:28:23.452 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 04:28:23.592 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 04:28:23.622 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 04:28:23.703 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 04:28:23.815 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:24.630 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:25.629 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:26.640 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:27.633 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:28.629 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:29.636 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:30.628 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:31.654 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:32.638 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:33.638 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:34.628 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:35.638 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:36.630 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:37.628 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:28:38.635 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:29:12.370 - INICIO REGISTRO
+2021/04/19 04:29:12.378 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/04/19 04:29:12.507 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/04/19 04:29:13.492 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/04/19 04:29:13.566 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/04/19 04:29:13.618 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/04/19 04:29:13.924 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/04/19 04:29:14.062 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 04:29:14.090 - MENSAJE: ConexionExitosa_Dispensador
+2021/04/19 04:29:14.170 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/04/19 04:29:14.284 - MENSAJE: Tarjeta_Alistada
+2021/04/19 04:29:14.398 - MENSAJE: Tarjeta_Alistada

@@ -1,0 +1,22 @@
+2021/09/10 04:29:09.614 - INICIO REGISTRO
+2021/09/10 04:29:09.624 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2021/09/10 04:29:09.747 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2021/09/10 04:29:13.030 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2021/09/10 04:29:13.081 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2021/09/10 04:29:13.117 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2021/09/10 04:29:20.854 - MENSAJE: (PRESENTER) Conexion Exitosa PLC
+2021/09/10 04:29:23.871 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/09/10 04:29:24.662 - MENSAJE: ConexionExitosa_Dispensador
+2021/09/10 04:29:29.629 - MENSAJE: (PRESENTER) Borrado Exitoso Variables PLC
+2021/09/10 04:29:52.659 - MENSAJE: Vehiculo En Mueble
+2021/09/10 04:29:52.660 - MENSAJE: (FrontEnd Antes AlistarTarjetaNew)
+2021/09/10 04:29:56.786 - MENSAJE: Tarjeta_Alistada
+2021/09/10 04:29:56.851 - MENSAJE: Tarjeta Encontrada: B6644228
+2021/09/10 04:29:59.480 - MENSAJE: Tarjeta_Borrada
+2021/09/10 04:30:00.276 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2021/09/10 04:30:00.622 - MENSAJE: (FrontEnd CapturaPlaca) ipServer: 172.16.63.60
+2021/09/10 04:30:00.630 - MENSAJE: (FrontEnd CapturaPlaca) message: [lpr;1;1;242CF]
+2021/09/10 04:30:04.145 - MENSAJE: (FrontEnd CapturaPlaca) Placa: UDV143
+2021/09/10 04:30:04.870 - MENSAJE: (FrontEnd CapturaPlaca) UDV143
+2021/09/10 04:30:15.360 - MENSAJE: oAutorizado.PlacaAuto : UDV143
+2021/09/10 04:30:18.118 - MENSAJE: Error Conexion PLC
