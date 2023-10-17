@@ -79,3 +79,8 @@ C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Utilidades\
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Utilidades\bin\Debug\MC.Utilidades.pdb
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Utilidades\obj\Debug\MC.Utilidades.dll
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Utilidades\obj\Debug\MC.Utilidades.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Utilidades\bin\Debug\MC.Utilidades.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Utilidades\bin\Debug\MC.Utilidades.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Utilidades\obj\Debug\MC.Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Utilidades\obj\Debug\MC.Utilidades.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Utilidades\obj\Debug\MC.Utilidades.pdb

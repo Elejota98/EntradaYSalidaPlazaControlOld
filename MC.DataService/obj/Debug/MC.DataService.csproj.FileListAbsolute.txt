@@ -135,3 +135,11 @@ C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.DataService
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.DataService\obj\Debug\MC.DataService.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.DataService\obj\Debug\MC.DataService.dll
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.DataService\obj\Debug\MC.DataService.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.DataService\bin\Debug\MC.DataService.dll.config
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.DataService\bin\Debug\MC.DataService.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.DataService\bin\Debug\MC.DataService.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.DataService\bin\Debug\MC.BusinessService.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.DataService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.DataService\obj\Debug\MC.DataService.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.DataService\obj\Debug\MC.DataService.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.DataService\obj\Debug\MC.DataService.pdb

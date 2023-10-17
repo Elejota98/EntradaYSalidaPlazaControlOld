@@ -120,3 +120,10 @@ C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BusinessObj
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BusinessObjects\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BusinessObjects\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb

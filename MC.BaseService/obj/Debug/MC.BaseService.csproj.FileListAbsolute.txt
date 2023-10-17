@@ -78,3 +78,8 @@ C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BaseService
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BaseService\bin\Debug\MC.BaseService.pdb
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BaseService\obj\Debug\MC.BaseService.dll
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.BaseService\obj\Debug\MC.BaseService.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.pdb

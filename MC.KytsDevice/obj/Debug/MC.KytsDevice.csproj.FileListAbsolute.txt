@@ -264,3 +264,17 @@ C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.KytsDevice\
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.KytsDevice\obj\Debug\MC.KytsDevice.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.KytsDevice\obj\Debug\MC.KytsDevice.dll
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.KytsDevice\obj\Debug\MC.KytsDevice.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.KytsDevice\bin\Debug\MC.KytsDevice.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.KytsDevice\bin\Debug\MC.KytsDevice.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardDispensers.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardFeeders.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.KytsDevice\bin\Debug\EGlobalT.Device.SmartCardReaders.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.KytsDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.KytsDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.KytsDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.KytsDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.KytsDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.KytsDevice\obj\Debug\MC.KytsDevice.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.KytsDevice\obj\Debug\MC.KytsDevice.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.KytsDevice\obj\Debug\MC.KytsDevice.pdb

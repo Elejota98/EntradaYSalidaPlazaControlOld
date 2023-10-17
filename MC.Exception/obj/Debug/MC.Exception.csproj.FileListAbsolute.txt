@@ -160,3 +160,12 @@ C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Exception\b
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.dll
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Exception\obj\Debug\MC.Exception.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Exception\bin\Debug\MC.Exception.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Exception\bin\Debug\MC.Exception.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Exception\bin\Debug\MC.Global.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Exception\bin\Debug\MC.Utilidades.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Exception\bin\Debug\MC.Global.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Exception\bin\Debug\MC.Utilidades.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Exception\obj\Debug\MC.Exception.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Exception\obj\Debug\MC.Exception.pdb

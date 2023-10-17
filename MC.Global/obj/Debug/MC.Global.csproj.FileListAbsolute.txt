@@ -124,3 +124,10 @@ C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Global\bin\
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Global\obj\Debug\MC.Global.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Global\obj\Debug\MC.Global.dll
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.Global\obj\Debug\MC.Global.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Global\bin\Debug\MC.Global.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Global\bin\Debug\MC.Global.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Global\bin\Debug\MC.Utilidades.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Global\bin\Debug\MC.Utilidades.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Global\obj\Debug\MC.Global.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Global\obj\Debug\MC.Global.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Global\obj\Debug\MC.Global.pdb

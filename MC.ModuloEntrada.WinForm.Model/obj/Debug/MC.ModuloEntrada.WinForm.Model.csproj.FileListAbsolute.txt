@@ -332,3 +332,22 @@ C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.ModuloEntra
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.dll
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.pdb
