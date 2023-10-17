@@ -54,7 +54,6 @@
     </Compile>
     <Compile Include="DataSetSincronizacion.cs">
       <DependentUpon>DataSetSincronizacion.xsd</DependentUpon>
-      <SubType>Component</SubType>
     </Compile>
     <Compile Include="DataSetSincronizacion.Designer.cs">
       <AutoGen>True</AutoGen>
