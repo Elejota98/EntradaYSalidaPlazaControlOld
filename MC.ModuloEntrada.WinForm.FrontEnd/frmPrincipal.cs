@@ -1870,21 +1870,22 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                 if (_ControlReady)
                 {
-                    _frmPrincipal_Presenter.ConectarDispensadorNew();
+                    ok = true;
+                    //_frmPrincipal_Presenter.ConectarDispensadorNew();
 
-                    if (KytReady)
-                    {
-                        //_frmPrincipal_Presenter.AlistarTarjetaNew();
+                    //if (KytReady)
+                    //{
+                    //    //_frmPrincipal_Presenter.AlistarTarjetaNew();
 
-                        //if (CardKytReady)
-                        //{
-                        //    _frmPrincipal_Presenter.LimpiarTarjeta();
-                        if (_frmPrincipal_Presenter.conexionACR())
-                        {
-                            ok = true;
-                        }
-                        //}
-                    }
+                    //    //if (CardKytReady)
+                    //    //{
+                    //    //    _frmPrincipal_Presenter.LimpiarTarjeta();
+                    //    if (_frmPrincipal_Presenter.conexionACR())
+                    //    {
+                    //        ok = true;
+                    //    }
+                    //    //}
+                    //}
                 }
             }
             return ok;
