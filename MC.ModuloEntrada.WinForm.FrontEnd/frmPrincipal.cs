@@ -255,10 +255,10 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                     //if (_frmPrincipal_Presenter.TestConexionDispositivos())
                     //{
-                    _frmPrincipal_Presenter.StateDispenserNew();
+                    //_frmPrincipal_Presenter.StateDispenserNew();
 
-                    if (!_SinTarjetas)
-                    {
+                    //if (!_SinTarjetas)
+                    //{
                         if (Convert.ToBoolean(Globales.sPLC) == true)
                         {
 
@@ -1059,7 +1059,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                             _frmPrincipal_Presenter.ActualizarEventoDispo(Convert.ToInt64(Resul[1]));
                         }
-                    }
+                    //}
                     //}
                     break;
 
