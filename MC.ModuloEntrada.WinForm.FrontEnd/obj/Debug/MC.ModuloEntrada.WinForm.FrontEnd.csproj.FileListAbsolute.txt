@@ -1356,5 +1356,7 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.AssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.CopyComplete

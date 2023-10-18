@@ -177,4 +177,6 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Exception\bin\Debug\MC
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Exception\bin\Debug\MC.Utilidades.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Exception\obj\Debug\MC.Exception.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Exception\obj\Debug\MC.Exception.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Exception\obj\Debug\MC.Exception.csproj.AssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Exception\obj\Debug\MC.Exception.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Exception\obj\Debug\MC.Exception.csproj.CopyComplete

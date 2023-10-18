@@ -251,4 +251,7 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Deb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.Utilidades.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.DataService.dll.config
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csproj.AssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csproj.CopyComplete

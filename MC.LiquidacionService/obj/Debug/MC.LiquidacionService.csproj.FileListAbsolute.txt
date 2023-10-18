@@ -218,4 +218,7 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.LiquidacionService\bin
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.LiquidacionService\bin\Debug\MC.DataService.dll.config
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csproj.AssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csproj.CopyComplete

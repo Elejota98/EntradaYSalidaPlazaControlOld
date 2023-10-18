@@ -275,4 +275,6 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\bin\Debug\MC
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.csproj.AssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.csproj.CopyComplete

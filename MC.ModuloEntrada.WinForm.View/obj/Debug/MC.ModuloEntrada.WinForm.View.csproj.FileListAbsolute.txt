@@ -209,4 +209,6 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csproj.AssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csproj.CopyComplete

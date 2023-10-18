@@ -218,4 +218,8 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServ
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll.config
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\bin\MC.DataService.dll.config
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csproj.AssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csproj.CopyComplete

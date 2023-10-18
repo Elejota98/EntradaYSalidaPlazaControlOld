@@ -87,3 +87,5 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BaseService\bin\Debug\
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BaseService\bin\Debug\MC.BaseService.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.csproj.AssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.csproj.CoreCompileInputs.cache

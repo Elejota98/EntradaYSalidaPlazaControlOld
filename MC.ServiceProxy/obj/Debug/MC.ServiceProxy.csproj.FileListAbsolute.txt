@@ -367,4 +367,6 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ServiceProxy\bin\Debug
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ServiceProxy\bin\Debug\MC.Global.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ServiceProxy\obj\Debug\MC.ServiceProxy.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ServiceProxy\obj\Debug\MC.ServiceProxy.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ServiceProxy\obj\Debug\MC.ServiceProxy.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ServiceProxy\obj\Debug\MC.ServiceProxy.csproj.AssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ServiceProxy\obj\Debug\MC.ServiceProxy.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ServiceProxy\obj\Debug\MC.ServiceProxy.csproj.CopyComplete

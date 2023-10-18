@@ -218,4 +218,8 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\MC.BusinessService.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll.config
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\MC.DataService.dll.config
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csproj.AssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csproj.CopyComplete

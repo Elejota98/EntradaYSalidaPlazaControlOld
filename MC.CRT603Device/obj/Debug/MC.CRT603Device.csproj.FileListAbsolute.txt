@@ -211,4 +211,6 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT603Device\bin\Debug
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT603Device\bin\Debug\MC.BusinessObjects.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT603Device\obj\Debug\MC.CRT603Device.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT603Device\obj\Debug\MC.CRT603Device.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT603Device\obj\Debug\MC.CRT603Device.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT603Device\obj\Debug\MC.CRT603Device.csproj.AssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT603Device\obj\Debug\MC.CRT603Device.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT603Device\obj\Debug\MC.CRT603Device.csproj.CopyComplete

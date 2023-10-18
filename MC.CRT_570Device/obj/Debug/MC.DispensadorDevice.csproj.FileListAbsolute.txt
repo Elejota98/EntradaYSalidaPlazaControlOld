@@ -127,4 +127,6 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT_570Device\bin\Debu
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csproj.AssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csproj.CopyComplete
