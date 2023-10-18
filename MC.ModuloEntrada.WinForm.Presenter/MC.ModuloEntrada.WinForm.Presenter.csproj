@@ -54,6 +54,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Base\Presenter.cs" />
+    <Compile Include="DataSetEntrada.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetEntrada.xsd</DependentUpon>
+    </Compile>
     <Compile Include="frmPrincipal_Presenter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -94,6 +99,20 @@
       <Project>{92337c15-a11e-4456-a77e-0b29bb31ead4}</Project>
       <Name>MC.Utilidades</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSetEntrada.xsc">
+      <DependentUpon>DataSetEntrada.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetEntrada.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetEntrada.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetEntrada.xss">
+      <DependentUpon>DataSetEntrada.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\DataSetEntrada.datasource" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

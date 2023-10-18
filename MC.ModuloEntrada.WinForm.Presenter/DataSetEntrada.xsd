@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetEntrada" targetNamespace="http://tempuri.org/DataSetEntrada.xsd" xmlns:mstns="http://tempuri.org/DataSetEntrada.xsd" xmlns="http://tempuri.org/DataSetEntrada.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetEntrada" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetEntrada" msprop:Generator_UserDSName="DataSetEntrada">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TablaDatosEntrada" msprop:Generator_TableClassName="TablaDatosEntradaDataTable" msprop:Generator_TableVarName="tableTablaDatosEntrada" msprop:Generator_RowChangedName="TablaDatosEntradaRowChanged" msprop:Generator_TablePropName="TablaDatosEntrada" msprop:Generator_RowDeletingName="TablaDatosEntradaRowDeleting" msprop:Generator_RowChangingName="TablaDatosEntradaRowChanging" msprop:Generator_RowEvHandlerName="TablaDatosEntradaRowChangeEventHandler" msprop:Generator_RowDeletedName="TablaDatosEntradaRowDeleted" msprop:Generator_RowClassName="TablaDatosEntradaRow" msprop:Generator_UserTableName="TablaDatosEntrada" msprop:Generator_RowEvArgName="TablaDatosEntradaRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IdTransaccion" msprop:Generator_ColumnVarNameInTable="columnIdTransaccion" msprop:Generator_ColumnPropNameInRow="IdTransaccion" msprop:Generator_ColumnPropNameInTable="IdTransaccionColumn" msprop:Generator_UserColumnName="IdTransaccion" type="xs:string" minOccurs="0" />
+              <xs:element name="PlacaEntrada" msprop:Generator_ColumnVarNameInTable="columnPlacaEntrada" msprop:Generator_ColumnPropNameInRow="PlacaEntrada" msprop:Generator_ColumnPropNameInTable="PlacaEntradaColumn" msprop:Generator_UserColumnName="PlacaEntrada" type="xs:string" minOccurs="0" />
+              <xs:element name="FechaEntrada" msprop:Generator_ColumnVarNameInTable="columnFechaEntrada" msprop:Generator_ColumnPropNameInRow="FechaEntrada" msprop:Generator_ColumnPropNameInTable="FechaEntradaColumn" msprop:Generator_UserColumnName="FechaEntrada" type="xs:string" minOccurs="0" />
+              <xs:element name="TipoVehiculo" msprop:Generator_ColumnVarNameInTable="columnTipoVehiculo" msprop:Generator_ColumnPropNameInRow="TipoVehiculo" msprop:Generator_ColumnPropNameInTable="TipoVehiculoColumn" msprop:Generator_UserColumnName="TipoVehiculo" type="xs:string" minOccurs="0" />
+              <xs:element name="ModuloEntrada" msprop:Generator_ColumnVarNameInTable="columnModuloEntrada" msprop:Generator_ColumnPropNameInRow="ModuloEntrada" msprop:Generator_ColumnPropNameInTable="ModuloEntradaColumn" msprop:Generator_UserColumnName="ModuloEntrada" type="xs:string" minOccurs="0" />
+              <xs:element name="Direccion" msprop:Generator_ColumnVarNameInTable="columnDireccion" msprop:Generator_ColumnPropNameInRow="Direccion" msprop:Generator_ColumnPropNameInTable="DireccionColumn" msprop:Generator_UserColumnName="Direccion" type="xs:string" minOccurs="0" />
+              <xs:element name="Telefono" msprop:Generator_ColumnVarNameInTable="columnTelefono" msprop:Generator_ColumnPropNameInRow="Telefono" msprop:Generator_ColumnPropNameInTable="TelefonoColumn" msprop:Generator_UserColumnName="Telefono" type="xs:string" minOccurs="0" />
+              <xs:element name="Estacionamiento" msprop:Generator_ColumnVarNameInTable="columnEstacionamiento" msprop:Generator_ColumnPropNameInRow="Estacionamiento" msprop:Generator_ColumnPropNameInTable="EstacionamientoColumn" msprop:Generator_UserColumnName="Estacionamiento" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

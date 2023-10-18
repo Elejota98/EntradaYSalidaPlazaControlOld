@@ -14,6 +14,7 @@ using MC.PLCDevice;
 using MC.Utilidades;
 using System;
 using System.Collections.Generic;
+using System.Data.Odbc;
 using System.IO;
 using System.Linq;
 using System.Net;
@@ -1639,6 +1640,25 @@ namespace MC.ModuloEntrada.WinForm.Presenter
             }
 
             return ok;
+        }
+        #endregion
+
+        #region Printer
+
+        public DataSetEntrada GenerarTicketEntrada(long idTransaccion)
+        {
+            DataSetEntrada dataSetEntrada = new DataSetEntrada();
+
+            DataSetEntrada.TablaDatosEntradaRow tablaDatosEntradaRow = dataSetEntrada.TablaDatosEntrada.NewTablaDatosEntradaRow();
+            
+
+
+            tablaDatosEntradaRow.IdTransaccion = Convert.ToString(idTransaccion);
+
+
+            
+
+
         }
         #endregion
 
