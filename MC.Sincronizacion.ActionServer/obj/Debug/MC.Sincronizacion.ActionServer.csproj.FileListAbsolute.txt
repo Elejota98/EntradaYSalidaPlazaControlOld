@@ -206,3 +206,16 @@ C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Sinc
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.dll
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.Sincronizacion.ActionServer.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.Sincronizacion.ActionServer.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.SincronizacionService.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.BaseService.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.DataService.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.BusinessService.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.SincronizacionService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.BaseService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.DataService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.BusinessService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.csprojResolveAssemblyReference.cache

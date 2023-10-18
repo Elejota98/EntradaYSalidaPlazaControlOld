@@ -262,3 +262,17 @@ C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.PLCD
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\bin\Debug\Modbus.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\bin\Debug\log4net.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\bin\Debug\Unme.Common.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
