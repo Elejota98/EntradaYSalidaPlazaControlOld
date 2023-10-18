@@ -4,9 +4,11 @@ using EGlobalT.Device.SmartCardReaders.Entities;
 using MC.BusinessObjects.DataTransferObject;
 using MC.BusinessObjects.Entities;
 using MC.BusinessObjects.Enums;
+using MC.ModuloEntrada.WinForm.FrontEnd.Tickets;
 using MC.ModuloEntrada.WinForm.Presenter;
 using MC.ModuloEntrada.WinForm.View;
 using MC.Utilidades;
+using Microsoft.Reporting.WinForms;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -15,6 +17,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
 using System.Drawing.Imaging;
+using System.Drawing.Printing;
 using System.IO;
 using System.Linq;
 using System.Media;
@@ -1923,6 +1926,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             }
 
             _frmPrincipal_Presenter.RegistrarEntrada(oTransaccion);
+            Imprimir(oTransaccion);
+
 
             Presentacion = Pantalla.DisfruteVisita;
 
@@ -2506,6 +2511,33 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             set
             {
                 TraceHandler.WriteLine(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"Logs\Log"), "MENSAJE: " + value, TipoLog.TRAZA);
+            }
+        }
+
+        public void Imprimir(Transaccion transaccion)
+        {
+            try
+            {
+                General_Events = "FrondEnd-Imprimir -> Funcion imprimir Ticket.";
+                ReportDataSource dataSource = new ReportDataSource();
+                LocalReport localReport = new LocalReport();
+                dataSource = new ReportDataSource("DataSetEntrada", _frmPrincipal_Presenter.GenerarTicketEntrada(transaccion).Tables[0]);
+                localReport.ReportPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, string.Format(@"Tickets\{0}.rdlc", "TicketEntrada"));
+                localReport.DataSources.Add(dataSource);
+                localReport.Refresh();
+                ReportPrintDocument ore = new ReportPrintDocument(localReport);
+                //ore.PrinterSettings.PrinterName = Globales.sNombreImpresoraTickets;
+                ore.PrintController = new StandardPrintController();
+                ore.Print();
+                ore.Dispose();
+                ore = null;
+                localReport.Dispose();
+
+            }
+            catch (Exception ex )
+            {
+
+                General_Events = "Error- FrondEnd-Imprimir ->" + ex.ToString();
             }
         }
         #endregion

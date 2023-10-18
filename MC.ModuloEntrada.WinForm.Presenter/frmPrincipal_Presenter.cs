@@ -1645,20 +1645,29 @@ namespace MC.ModuloEntrada.WinForm.Presenter
 
         #region Printer
 
-        public DataSetEntrada GenerarTicketEntrada(long idTransaccion)
+        public DataSetEntrada GenerarTicketEntrada(Transaccion transaccion)
         {
             DataSetEntrada dataSetEntrada = new DataSetEntrada();
 
             DataSetEntrada.TablaDatosEntradaRow tablaDatosEntradaRow = dataSetEntrada.TablaDatosEntrada.NewTablaDatosEntradaRow();
-            
 
+            tablaDatosEntradaRow.IdTransaccion = Convert.ToString(transaccion.IdTransaccion);
+            tablaDatosEntradaRow.PlacaEntrada = Convert.ToString(transaccion.PlacaEntrada);
+            tablaDatosEntradaRow.FechaEntrada = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
+            tablaDatosEntradaRow.ModuloEntrada = transaccion.ModuloEntrada;
+            if (transaccion.TipoVehiculo == 1)
+            {
+                tablaDatosEntradaRow.TipoVehiculo = "Carro";
+            }
+            else
+            {
+                tablaDatosEntradaRow.TipoVehiculo = "Moto";
+            }
+            tablaDatosEntradaRow.Estacionamiento = "EDIFIO PLAZA CENTAL PH";
+            tablaDatosEntradaRow.Direccion = "CRA 16 # 33-44";
+            tablaDatosEntradaRow.Telefono = "6076700040";
 
-            tablaDatosEntradaRow.IdTransaccion = Convert.ToString(idTransaccion);
-
-
-            
-
-
+            return dataSetEntrada;
         }
         #endregion
 
