@@ -1663,7 +1663,7 @@ namespace MC.ModuloEntrada.WinForm.Presenter
             {
                 tablaDatosEntradaRow.TipoVehiculo = "Moto";
             }
-            tablaDatosEntradaRow.Estacionamiento = "EDIFIO PLAZA CENTAL PH";
+            tablaDatosEntradaRow.Estacionamiento = "EDIFICIO PLAZA CENTAL PH";
             tablaDatosEntradaRow.Direccion = "CRA 16 # 33-44";
             tablaDatosEntradaRow.Telefono = "6076700040";
             dataSetEntrada.TablaDatosEntrada.AddTablaDatosEntradaRow(tablaDatosEntradaRow);

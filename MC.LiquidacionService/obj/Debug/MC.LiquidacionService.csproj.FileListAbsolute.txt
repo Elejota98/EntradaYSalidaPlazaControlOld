@@ -203,7 +203,6 @@ C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Liqu
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.LiquidacionService\bin\Debug\MC.BusinessService.pdb
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.LiquidacionService\bin\Debug\MC.DataService.pdb
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.LiquidacionService\bin\Debug\MC.Utilidades.pdb
-C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.dll
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.LiquidacionService\bin\Debug\MC.LiquidacionService.dll
@@ -222,3 +221,4 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.LiquidacionService\bin
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csproj.AssemblyReference.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csproj.CoreCompileInputs.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csproj.CopyComplete
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.LiquidacionService\obj\Debug\MC.LiquidacionService.csprojResolveAssemblyReference.cache

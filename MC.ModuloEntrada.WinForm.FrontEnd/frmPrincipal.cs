@@ -831,8 +831,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                // _sPlaca = "hdm257";
 
 
-                                SoundPlayer simpleSound = new SoundPlayer();
-                                //simpleSound.Play();
+                                SoundPlayer simpleSound = new SoundPlayer(_sPathBienvenido);
+                                simpleSound.Play();
 
                                 SecuenciaTransaccion = DateTime.Now.ToString("yyyyMMddHHmmss") + Globales.sCarril + Globales.iCodigoEstacionamiento;
 
@@ -875,7 +875,6 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                                                 if (_lstDtoAutorizado[i].EstadoAutorizacion && _lstDtoAutorizado[i].Estado && DateTime.Now >= _lstDtoAutorizado[i].FechaInicial && DateTime.Now <= _lstDtoAutorizado[i].FechaFinal)
                                                 {
-                                                #region Tarjeta
                                                 if (_frmPrincipal_Presenter.ValidarIngresoAuto(_lstDtoAutorizado[i].IdTarjeta))
                                                 {
                                                     ok2 = true;
@@ -906,7 +905,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                     if (Globales.sCarrilMixto == "NO")
                                                     {
                                                         VehiculoMoto = true;
-
+                                                        #region Tarjeta
                                                         //escribir
                                                         //_Tarjeta.ActiveCycle = true;
                                                         //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
@@ -915,11 +914,12 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                         //_Tarjeta.EntranceModule = Globales.sSerial;
 
                                                         //_frmPrincipal_Presenter.Escribirtarjeta();
+                                                        #endregion
                                                     }
                                                     else
                                                     {
                                                         VehiculoMoto = false;
-
+                                                        #region Tarjeta
                                                         //escribir
                                                         //_Tarjeta.ActiveCycle = true;
                                                         //_Tarjeta.EntrancePlate = _sPlaca;
@@ -928,6 +928,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                         //_Tarjeta.EntranceModule = Globales.sSerial;
 
                                                         //_frmPrincipal_Presenter.Escribirtarjeta();
+                                                        #endregion
                                                     }
                                                     //Presentacion = Pantalla.TarjetaSinRegistroSalida;
                                                     break;
@@ -938,8 +939,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                     ////CntAuto = i;
                                                     ////break;
                                                 }
-                                                #endregion
-                                            }
+                                        
+                                                }
                                                 else
                                                 {
                                                     simpleSound = new SoundPlayer(_sPathAutoVencida);
@@ -949,7 +950,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                     if (_VehiculoMueble == false)
                                                     {
                                                         VehiculoMoto = true;
-
+                                                        #region Tarjeta
                                                         //escribir
                                                         //_Tarjeta.ActiveCycle = true;
                                                         //_Tarjeta.DateTimeEntrance = _FechaCompleta;
@@ -957,11 +958,13 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                         //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
 
                                                         //_frmPrincipal_Presenter.Escribirtarjeta();
+                                                        #endregion
                                                     }
                                                     else
                                                     {
                                                         VehiculoMoto = false;
 
+                                                        #region Tarjeta
                                                         //escribir
                                                         //_Tarjeta.ActiveCycle = true;
                                                         //_Tarjeta.DateTimeEntrance = _FechaCompleta;
@@ -969,6 +972,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                         //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
 
                                                         //_frmPrincipal_Presenter.Escribirtarjeta();
+                                                        #endregion
                                                     }
 
                                                 }
@@ -1031,29 +1035,35 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                                         VehiculoMoto = true;
 
-                                        //escribir
-                                        _Tarjeta.ActiveCycle = true;
-                                        _Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
-                                        _Tarjeta.EntrancePlate = _sPlaca;
-                                        _Tarjeta.DateTimeEntrance = _FechaCompleta;
-                                        _Tarjeta.EntranceModule = Globales.sSerial;
-                                        General_Events = "(FrontEnd Antes EscribirTarjetaNew)";
-                                        _frmPrincipal_Presenter.Escribirtarjeta();
-                                        General_Events = "(FrontEnd Despues EscribirTarjetaNew)";
+                                        #region Tarjeta
+                                        ////escribir
+                                        //_Tarjeta.ActiveCycle = true;
+                                        //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
+                                        //_Tarjeta.EntrancePlate = _sPlaca;
+                                        //_Tarjeta.DateTimeEntrance = _FechaCompleta;
+                                        //_Tarjeta.EntranceModule = Globales.sSerial;
+                                        //General_Events = "(FrontEnd Antes EscribirTarjetaNew)";
+                                        //_frmPrincipal_Presenter.Escribirtarjeta();
+                                        //General_Events = "(FrontEnd Despues EscribirTarjetaNew)";
+                                        #endregion
+                                        Presentacion = Pantalla.RetireTarjeta;
                                     }
                                     else
                                     {
                                         VehiculoMoto = false;
+                                        #region Tarjeta     
+                                        ////escribir
+                                        //_Tarjeta.ActiveCycle = true;
+                                        //_Tarjeta.EntrancePlate = _sPlaca;
+                                        //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
+                                        //_Tarjeta.DateTimeEntrance = _FechaCompleta;
+                                        //_Tarjeta.EntranceModule = Globales.sSerial;
+                                        //General_Events = "(FrontEnd Antes EscribirTarjetaNew)";
+                                        //_frmPrincipal_Presenter.Escribirtarjeta();
+                                        //General_Events = "(FrontEnd Despues EscribirTarjetaNew)";
+                                        #endregion
 
-                                        //escribir
-                                        _Tarjeta.ActiveCycle = true;
-                                        _Tarjeta.EntrancePlate = _sPlaca;
-                                        _Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
-                                        _Tarjeta.DateTimeEntrance = _FechaCompleta;
-                                        _Tarjeta.EntranceModule = Globales.sSerial;
-                                        General_Events = "(FrontEnd Antes EscribirTarjetaNew)";
-                                        _frmPrincipal_Presenter.Escribirtarjeta();
-                                        General_Events = "(FrontEnd Despues EscribirTarjetaNew)";
+                                        Presentacion = Pantalla.RetireTarjeta;
                                     }
                                 }
                             }
@@ -1083,330 +1093,336 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                 case Pantalla.RetireTarjeta:
 
-                    //_frmPrincipal_Presenter.PocisionCard();
-                    //_frmPrincipal_Presenter.GetIdCard();
-                    _frmPrincipal_Presenter.ReadCard();
-                    _frmPrincipal_Presenter.StateDispenserNew();
+                    #region Tarjeta
+                    ////_frmPrincipal_Presenter.PocisionCard();
+                    ////_frmPrincipal_Presenter.GetIdCard();
+                    //_frmPrincipal_Presenter.ReadCard();
+                    //_frmPrincipal_Presenter.StateDispenserNew();
+#endregion
 
                     bool bAutoVencida = false;
                     bool bTarjetaInvalida = false;
                     bool ok = false;
 
-                    if (_RemoveCard)
-                    {
+                    //if (_RemoveCard)
+                    //{
                         RegistroEntrada();
-                    }
-                    else if (_IdCardAutorizado != string.Empty && _IdCardAutorizado != "USO")
-                    {
-                        CntAuto = 0;
-                        bool TarOK = false;
-                        _frmPrincipal_Presenter.DevolverTarjetaNew();
-                        //RspIdCard = Lector.ObtenerIDTarjeta();
-                        //VALIDAR AUTORIZADO
-                        Autorizado oAutorizado = new Autorizado();
-                        oAutorizado.IdTarjeta = _IdCardAutorizado;
-                        _IdCardAutorizado = oAutorizado.IdTarjeta;
-                        General_Events = "oAutorizado.IdTarjeta : " + oAutorizado.IdTarjeta;
+                    //}
 
-                        if (_frmPrincipal_Presenter.ObtenerTarjetas())
-                        {
-                            for (int i = 0; i < _lstDtoTarjetas.Count; i++)
-                            {
+                    #region Tarjeta
+                    //else if (_IdCardAutorizado != string.Empty && _IdCardAutorizado != "USO")
+                    //{
+                    //    CntAuto = 0;
+                    //    bool TarOK = false;
+                    //    _frmPrincipal_Presenter.DevolverTarjetaNew();
+                    //    //RspIdCard = Lector.ObtenerIDTarjeta();
+                    //    //VALIDAR AUTORIZADO
+                    //    Autorizado oAutorizado = new Autorizado();
+                    //    oAutorizado.IdTarjeta = _IdCardAutorizado;
+                    //    _IdCardAutorizado = oAutorizado.IdTarjeta;
+                    //    General_Events = "oAutorizado.IdTarjeta : " + oAutorizado.IdTarjeta;
 
-                                if (_lstDtoTarjetas[i].IdTarjeta == oAutorizado.IdTarjeta && _lstDtoTarjetas[i].Estado)
-                                {
-                                    TarOK = true;
-                                    break;
-                                }
-                            }
-                        }
+                    //    if (_frmPrincipal_Presenter.ObtenerTarjetas())
+                    //    {
+                    //        for (int i = 0; i < _lstDtoTarjetas.Count; i++)
+                    //        {
+
+                    //            if (_lstDtoTarjetas[i].IdTarjeta == oAutorizado.IdTarjeta && _lstDtoTarjetas[i].Estado)
+                    //            {
+                    //                TarOK = true;
+                    //                break;
+                    //            }
+                    //        }
+                    //    }
 
 
-                        if (TarOK)
-                        {
+                    //    if (TarOK)
+                    //    {
 
-                            if (_frmPrincipal_Presenter.ObtenerAutorizado(oAutorizado))
-                            {
-                                ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
-                                //RspConexion = Lector.Conectar();
-                                //if (RspConexion.Conectado)
-                                //{
-                                //    ok = true;
-                                //}
+                    //        if (_frmPrincipal_Presenter.ObtenerAutorizado(oAutorizado))
+                    //        {
+                    //            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+                    //            //RspConexion = Lector.Conectar();
+                    //            //if (RspConexion.Conectado)
+                    //            //{
+                    //            //    ok = true;
+                    //            //}
 
-                                //RspLeerCard = Lector.LeerTarjeta(TYPE_STRUCTURE_SMARTCARD.SMARTCARD_PARKING_V1, "florid", true);
+                    //            //RspLeerCard = Lector.LeerTarjeta(TYPE_STRUCTURE_SMARTCARD.SMARTCARD_PARKING_V1, "florid", true);
 
-                                //ITarjeta ocard;
-                                //ocard = RspLeerCard.Tarjeta;
-                                //oResultadoOperacion.EntidadDatos = ocard;
-                                //SMARTCARD_PARKING_V1 Scard = new SMARTCARD_PARKING_V1();
-                                //Scard = (SMARTCARD_PARKING_V1)oResultadoOperacion.EntidadDatos;
-                                /// validaciones autorizado
+                    //            //ITarjeta ocard;
+                    //            //ocard = RspLeerCard.Tarjeta;
+                    //            //oResultadoOperacion.EntidadDatos = ocard;
+                    //            //SMARTCARD_PARKING_V1 Scard = new SMARTCARD_PARKING_V1();
+                    //            //Scard = (SMARTCARD_PARKING_V1)oResultadoOperacion.EntidadDatos;
+                    //            /// validaciones autorizado
 
-                                for (int i = 0; i < _lstDtoAutorizado.Count; i++)
-                                {
+                    //            for (int i = 0; i < _lstDtoAutorizado.Count; i++)
+                    //            {
 
-                                    if (oAutorizado.IdTarjeta == _lstDtoAutorizado[i].IdTarjeta)
-                                    {
-                                        if (_lstDtoAutorizado[i].IdEstacionamiento == Convert.ToInt64(Globales.iCodigoEstacionamiento))
-                                        {
+                    //                if (oAutorizado.IdTarjeta == _lstDtoAutorizado[i].IdTarjeta)
+                    //                {
+                    //                    if (_lstDtoAutorizado[i].IdEstacionamiento == Convert.ToInt64(Globales.iCodigoEstacionamiento))
+                    //                    {
 
-                                            if (_lstDtoAutorizado[i].EstadoAutorizacion && _lstDtoAutorizado[i].Estado && DateTime.Now >= _lstDtoAutorizado[i].FechaInicial && DateTime.Now <= _lstDtoAutorizado[i].FechaFinal)
-                                            {
-                                                if (_frmPrincipal_Presenter.ValidarIngresoAuto(oAutorizado.IdTarjeta))
-                                                {
-                                                    ok = true;
-                                                    bAutoVencida = false;
-                                                    bTarjetaInvalida = false;
-                                                    CntAuto = i;
-                                                    break;
-                                                }
-                                                else
-                                                {
-                                                    if (!bUso)
-                                                    {
-                                                        SoundPlayer simpleSound = new SoundPlayer(_sPathMensualidadUso);
-                                                        simpleSound.Play();
-                                                        bUso = true;
-                                                    }
+                    //                        if (_lstDtoAutorizado[i].EstadoAutorizacion && _lstDtoAutorizado[i].Estado && DateTime.Now >= _lstDtoAutorizado[i].FechaInicial && DateTime.Now <= _lstDtoAutorizado[i].FechaFinal)
+                    //                        {
+                    //                            if (_frmPrincipal_Presenter.ValidarIngresoAuto(oAutorizado.IdTarjeta))
+                    //                            {
+                    //                                ok = true;
+                    //                                bAutoVencida = false;
+                    //                                bTarjetaInvalida = false;
+                    //                                CntAuto = i;
+                    //                                break;
+                    //                            }
+                    //                            else
+                    //                            {
+                    //                                if (!bUso)
+                    //                                {
+                    //                                    SoundPlayer simpleSound = new SoundPlayer(_sPathMensualidadUso);
+                    //                                    simpleSound.Play();
+                    //                                    bUso = true;
+                    //                                }
 
-                                                    //Presentacion = Pantalla.TarjetaSinRegistroSalida;
-                                                    _IdCardAutorizado = "USO";
-                                                    break;
-                                                    //General_Events = "TarjetaSinRegistroSalida";
-                                                    //ok = true;
-                                                    //bAutoVencida = false;
-                                                    //bTarjetaInvalida = false;
-                                                    //CntAuto = i;
-                                                    //break;
-                                                }
-                                            }
-                                            else
-                                            {
-                                                //Presentacion = Pantalla.AutorizacionVencida;
-                                                bAutoVencida = true;
+                    //                                //Presentacion = Pantalla.TarjetaSinRegistroSalida;
+                    //                                _IdCardAutorizado = "USO";
+                    //                                break;
+                    //                                //General_Events = "TarjetaSinRegistroSalida";
+                    //                                //ok = true;
+                    //                                //bAutoVencida = false;
+                    //                                //bTarjetaInvalida = false;
+                    //                                //CntAuto = i;
+                    //                                //break;
+                    //                            }
+                    //                        }
+                    //                        else
+                    //                        {
+                    //                            //Presentacion = Pantalla.AutorizacionVencida;
+                    //                            bAutoVencida = true;
 
-                                            }
-                                        }
-                                        else
-                                        {
-                                            //Presentacion = Pantalla.TarjetaInvalida;
-                                            bTarjetaInvalida = true;
-                                        }
+                    //                        }
+                    //                    }
+                    //                    else
+                    //                    {
+                    //                        //Presentacion = Pantalla.TarjetaInvalida;
+                    //                        bTarjetaInvalida = true;
+                    //                    }
 
-                                    }
-                                }
+                    //                }
+                    //            }
 
-                                if (ok)
-                                {
-                                    //_frmPrincipal_Presenter.DevolverTarjetaNew();
-                                    RegistroEntradaAutorizado(CntAuto);
-                                }
-                                else if (bAutoVencida)
-                                {
-                                    SoundPlayer simpleSound = new SoundPlayer(_sPathAutoVencida);
-                                    simpleSound.Play();
-                                    Presentacion = Pantalla.AutorizacionVencida;
-                                }
-                                else if (bTarjetaInvalida)
-                                {
-                                    SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
-                                    simpleSound.Play();
-                                    Presentacion = Pantalla.TarjetaInvalida;
-                                }
-                            }
-                            else
-                            {
-                                SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
-                                simpleSound.Play();
-                                Presentacion = Pantalla.TarjetaInvalida;
-                            }
-                        }
-                        else
-                        {
-                            SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
-                            simpleSound.Play();
-                            Presentacion = Pantalla.TarjetaInvalida;
-                        }
-                    }
-                    else
-                    {
-                        if (_sPlaca != string.Empty && _sPlaca != "------")
-                        {
-                            bool bAutorizado = false;
-                            bool ok2 = false;
-                            bool bAutoVencida2 = false;
-                            #region validacionAutorizado
+                    //            if (ok)
+                    //            {
+                    //                //_frmPrincipal_Presenter.DevolverTarjetaNew();
+                    //                RegistroEntradaAutorizado(CntAuto);
+                    //            }
+                    //            else if (bAutoVencida)
+                    //            {
+                    //                SoundPlayer simpleSound = new SoundPlayer(_sPathAutoVencida);
+                    //                simpleSound.Play();
+                    //                Presentacion = Pantalla.AutorizacionVencida;
+                    //            }
+                    //            else if (bTarjetaInvalida)
+                    //            {
+                    //                SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
+                    //                simpleSound.Play();
+                    //                Presentacion = Pantalla.TarjetaInvalida;
+                    //            }
+                    //        }
+                    //        else
+                    //        {
+                    //            SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
+                    //            simpleSound.Play();
+                    //            Presentacion = Pantalla.TarjetaInvalida;
+                    //        }
+                    //    }
+                    //    else
+                    //    {
+                    //        SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
+                    //        simpleSound.Play();
+                    //        Presentacion = Pantalla.TarjetaInvalida;
+                    //    }
+                    //}
+                    #endregion
+                    //else
+                    //{
+                    //    if (_sPlaca != string.Empty && _sPlaca != "------")
+                    //    {
+                    //        bool bAutorizado = false;
+                    //        bool ok2 = false;
+                    //        bool bAutoVencida2 = false;
 
-                            Autorizado oAutorizado = new Autorizado();
-                            oAutorizado.PlacaAuto = _sPlaca;
-                            General_Events = "oAutorizado.PlacaAuto : " + oAutorizado.PlacaAuto;
+                    //        #region validacionAutorizado
 
-                            if (_frmPrincipal_Presenter.ObtenerAutorizadoPlaca(oAutorizado))
-                            {
-                                General_Events = "ObtenerAutorizadoPlaca ok ";
-                                oAutorizado.IdTarjeta = _lstDtoAutorizado[0].IdTarjeta.Trim('\t');
-                                _IdCardAutorizado = oAutorizado.IdTarjeta;
+                    //        Autorizado oAutorizado = new Autorizado();
+                    //        oAutorizado.PlacaAuto = _sPlaca;
+                    //        General_Events = "oAutorizado.PlacaAuto : " + oAutorizado.PlacaAuto;
 
-                                if (_frmPrincipal_Presenter.ObtenerAutorizado(oAutorizado))
-                                {
-                                    General_Events = "ObtenerAutorizado ok ";
-                                    ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+                    //        if (_frmPrincipal_Presenter.ObtenerAutorizadoPlaca(oAutorizado))
+                    //        {
+                    //            General_Events = "ObtenerAutorizadoPlaca ok ";
+                    //            oAutorizado.IdTarjeta = _lstDtoAutorizado[0].IdTarjeta.Trim('\t');
+                    //            _IdCardAutorizado = oAutorizado.IdTarjeta;
 
-                                    for (int i = 0; i < _lstDtoAutorizado.Count; i++)
-                                    {
-                                        if (_lstDtoAutorizado[i].IdEstacionamiento == Convert.ToInt64(Globales.iCodigoEstacionamiento))
-                                        {
+                    //            if (_frmPrincipal_Presenter.ObtenerAutorizado(oAutorizado))
+                    //            {
+                    //                General_Events = "ObtenerAutorizado ok ";
+                    //                ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
 
-                                            if (_lstDtoAutorizado[i].EstadoAutorizacion && _lstDtoAutorizado[i].Estado && DateTime.Now >= _lstDtoAutorizado[i].FechaInicial && DateTime.Now <= _lstDtoAutorizado[i].FechaFinal)
-                                            {
-                                                if (_frmPrincipal_Presenter.ValidarIngresoAuto(oAutorizado.IdTarjeta))
-                                                {
-                                                    ok2 = true;
-                                                    bAutoVencida2 = false;
-                                                    CntAuto = i;
-                                                    break;
-                                                }
-                                                else
-                                                {
-                                                    //SoundPlayer simpleSound = new SoundPlayer(_sPathMensualidadUso);
-                                                    //simpleSound.Play();
-                                                    _IdCardAutorizado = "USO";
+                    //                for (int i = 0; i < _lstDtoAutorizado.Count; i++)
+                    //                {
+                    //                    if (_lstDtoAutorizado[i].IdEstacionamiento == Convert.ToInt64(Globales.iCodigoEstacionamiento))
+                    //                    {
 
-                                                    //if (_frmPrincipal_Presenter.ValidacionMotoMueble() == true && _frmPrincipal_Presenter.VehiculoMueble() == false)
-                                                    //{
-                                                    //    VehiculoMoto = true;
+                    //                        if (_lstDtoAutorizado[i].EstadoAutorizacion && _lstDtoAutorizado[i].Estado && DateTime.Now >= _lstDtoAutorizado[i].FechaInicial && DateTime.Now <= _lstDtoAutorizado[i].FechaFinal)
+                    //                        {
+                    //                            if (_frmPrincipal_Presenter.ValidarIngresoAuto(oAutorizado.IdTarjeta))
+                    //                            {
+                    //                                ok2 = true;
+                    //                                bAutoVencida2 = false;
+                    //                                CntAuto = i;
+                    //                                break;
+                    //                            }
+                    //                            else
+                    //                            {
+                    //                                //SoundPlayer simpleSound = new SoundPlayer(_sPathMensualidadUso);
+                    //                                //simpleSound.Play();
+                    //                                _IdCardAutorizado = "USO";
 
-                                                    //    //escribir
-                                                    //    _Tarjeta.ActiveCycle = true;
-                                                    //    _Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
-                                                    //    _Tarjeta.EntrancePlate = _sPlaca;
-                                                    //    _Tarjeta.DateTimeEntrance = _FechaCompleta;
-                                                    //    _Tarjeta.EntranceModule = Globales.sSerial;
+                    //                                //if (_frmPrincipal_Presenter.ValidacionMotoMueble() == true && _frmPrincipal_Presenter.VehiculoMueble() == false)
+                    //                                //{
+                    //                                //    VehiculoMoto = true;
 
-                                                    //    _frmPrincipal_Presenter.Escribirtarjeta();
-                                                    //}
-                                                    //else
-                                                    //{
-                                                    //    VehiculoMoto = false;
+                    //                                //    //escribir
+                    //                                //    _Tarjeta.ActiveCycle = true;
+                    //                                //    _Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
+                    //                                //    _Tarjeta.EntrancePlate = _sPlaca;
+                    //                                //    _Tarjeta.DateTimeEntrance = _FechaCompleta;
+                    //                                //    _Tarjeta.EntranceModule = Globales.sSerial;
 
-                                                    //    //escribir
-                                                    //    _Tarjeta.ActiveCycle = true;
-                                                    //    _Tarjeta.EntrancePlate = _sPlaca;
-                                                    //    _Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
-                                                    //    _Tarjeta.DateTimeEntrance = _FechaCompleta;
-                                                    //    _Tarjeta.EntranceModule = Globales.sSerial;
+                    //                                //    _frmPrincipal_Presenter.Escribirtarjeta();
+                    //                                //}
+                    //                                //else
+                    //                                //{
+                    //                                //    VehiculoMoto = false;
 
-                                                    //    _frmPrincipal_Presenter.Escribirtarjeta();
-                                                    //}
-                                                    break;
-                                                    ////General_Events = "TarjetaSinRegistroSalida";
-                                                    ////ok = true;
-                                                    ////bAutoVencida = false;
-                                                    ////bTarjetaInvalida = false;
-                                                    ////CntAuto = i;
-                                                    ////break;
-                                                }
-                                            }
-                                            else
-                                            {
-                                                Presentacion = Pantalla.AutorizacionVencida;
-                                                bAutoVencida = true;
-                                                SoundPlayer simpleSound = new SoundPlayer(_sPathAutoVencida);
-                                                simpleSound.Play();
-                                            }
-                                        }
-                                        else
-                                        {
-                                            //Presentacion = Pantalla.TarjetaInvalida;
-                                            //bTarjetaInvalida = true;
-                                        }
-                                    }
+                    //                                //    //escribir
+                    //                                //    _Tarjeta.ActiveCycle = true;
+                    //                                //    _Tarjeta.EntrancePlate = _sPlaca;
+                    //                                //    _Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
+                    //                                //    _Tarjeta.DateTimeEntrance = _FechaCompleta;
+                    //                                //    _Tarjeta.EntranceModule = Globales.sSerial;
 
-                                    if (ok2)
-                                    {
-                                        _frmPrincipal_Presenter.DevolverTarjetaNew();
-                                        RegistroEntradaAutorizado(CntAuto);
-                                    }
-                                    else if (bAutoVencida2)
-                                    {
-                                        SoundPlayer simpleSound = new SoundPlayer(_sPathAutoVencida);
-                                        simpleSound.Play();
-                                        Presentacion = Pantalla.AutorizacionVencida;
-                                    }
-                                }
-                            }
-                            else
-                            {
-                                _frmPrincipal_Presenter.EstadoControl();
-                                //Acá
-                                if (_VehiculoMueble==false)
-                                {
-                                    VehiculoMoto = true;
+                    //                                //    _frmPrincipal_Presenter.Escribirtarjeta();
+                    //                                //}
+                    //                                break;
+                    //                                ////General_Events = "TarjetaSinRegistroSalida";
+                    //                                ////ok = true;
+                    //                                ////bAutoVencida = false;
+                    //                                ////bTarjetaInvalida = false;
+                    //                                ////CntAuto = i;
+                    //                                ////break;
+                    //                            }
+                    //                        }
+                    //                        else
+                    //                        {
+                    //                            Presentacion = Pantalla.AutorizacionVencida;
+                    //                            bAutoVencida = true;
+                    //                            SoundPlayer simpleSound = new SoundPlayer(_sPathAutoVencida);
+                    //                            simpleSound.Play();
+                    //                        }
+                    //                    }
+                    //                    else
+                    //                    {
+                    //                        //Presentacion = Pantalla.TarjetaInvalida;
+                    //                        //bTarjetaInvalida = true;
+                    //                    }
+                    //                }
 
-                                    //escribir
-                                    _Tarjeta.ActiveCycle = true;
-                                    _Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
-                                    _Tarjeta.EntrancePlate = _sPlaca;
-                                    _Tarjeta.DateTimeEntrance = _FechaCompleta;
-                                    _Tarjeta.EntranceModule = Globales.sSerial;
+                    //                if (ok2)
+                    //                {
+                    //                    _frmPrincipal_Presenter.DevolverTarjetaNew();
+                    //                    RegistroEntradaAutorizado(CntAuto);
+                    //                }
+                    //                else if (bAutoVencida2)
+                    //                {
+                    //                    SoundPlayer simpleSound = new SoundPlayer(_sPathAutoVencida);
+                    //                    simpleSound.Play();
+                    //                    Presentacion = Pantalla.AutorizacionVencida;
+                    //                }
+                    //            }
+                    //        }
+                    //        else
+                    //        {
+                    //            _frmPrincipal_Presenter.EstadoControl();
+                    //            //Acá
+                    //            if (_VehiculoMueble==false)
+                    //            {
+                    //                VehiculoMoto = true;
 
-                                    _frmPrincipal_Presenter.Escribirtarjeta();
-                                }
-                                else
-                                {
-                                    VehiculoMoto = false;
+                    //                //escribir
+                    //                _Tarjeta.ActiveCycle = true;
+                    //                _Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
+                    //                _Tarjeta.EntrancePlate = _sPlaca;
+                    //                _Tarjeta.DateTimeEntrance = _FechaCompleta;
+                    //                _Tarjeta.EntranceModule = Globales.sSerial;
 
-                                    //escribir
-                                    _Tarjeta.ActiveCycle = true;
-                                    _Tarjeta.EntrancePlate = _sPlaca;
-                                    _Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
-                                    _Tarjeta.DateTimeEntrance = _FechaCompleta;
-                                    _Tarjeta.EntranceModule = Globales.sSerial;
+                    //                _frmPrincipal_Presenter.Escribirtarjeta();
+                    //            }
+                    //            else
+                    //            {
+                    //                VehiculoMoto = false;
 
-                                    _frmPrincipal_Presenter.Escribirtarjeta();
-                                }
-                            }
-                            #endregion
-                        }
+                    //                //escribir
+                    //                _Tarjeta.ActiveCycle = true;
+                    //                _Tarjeta.EntrancePlate = _sPlaca;
+                    //                _Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
+                    //                _Tarjeta.DateTimeEntrance = _FechaCompleta;
+                    //                _Tarjeta.EntranceModule = Globales.sSerial;
 
-                        if (_frmPrincipal_Presenter.ObtenerEventoDispo())
-                        {
-                            string[] Resul = _Barrera.Split(';');
+                    //                _frmPrincipal_Presenter.Escribirtarjeta();
+                    //            }
+                    //        }
+                    //        #endregion
+                    //    }
 
-                            if (Resul[0].ToString() == Globales.sSerial)
-                            {
-                                if (Convert.ToBoolean(Globales.sPLC) == true)
-                                {
-                                    _frmPrincipal_Presenter.AbrirTalanquera();
-                                }
-                                else
-                                {
-                                    _frmPrincipal_Presenter.AperturaBarrera();
-                                }
-                            }
+                    //    if (_frmPrincipal_Presenter.ObtenerEventoDispo())
+                    //    {
+                    //        string[] Resul = _Barrera.Split(';');
 
-                            _frmPrincipal_Presenter.ActualizarEventoDispo(Convert.ToInt64(Resul[1]));
-                        }
+                    //        if (Resul[0].ToString() == Globales.sSerial)
+                    //        {
+                    //            if (Convert.ToBoolean(Globales.sPLC) == true)
+                    //            {
+                    //                _frmPrincipal_Presenter.AbrirTalanquera();
+                    //            }
+                    //            else
+                    //            {
+                    //                _frmPrincipal_Presenter.AperturaBarrera();
+                    //            }
+                    //        }
 
-                        if (Convert.ToBoolean(Globales.sPLC) == true)
-                        {
-                            if (_frmPrincipal_Presenter.VehiculoMueble() == false)
-                            {
-                                _frmPrincipal_Presenter.DevolverTarjetaNew();
-                                Presentacion = Pantalla.SalvaPantallas;
-                            }
-                        }
-                        else
-                        {
-                            _frmPrincipal_Presenter.EstadoControl();
-                            if (!_VehiculoMueble)
-                            {
-                                _frmPrincipal_Presenter.DevolverTarjetaNew();
-                                Presentacion = Pantalla.SalvaPantallas;
-                            }
-                        }
-                    }
+                    //        _frmPrincipal_Presenter.ActualizarEventoDispo(Convert.ToInt64(Resul[1]));
+                    //    }
+
+                    //    if (Convert.ToBoolean(Globales.sPLC) == true)
+                    //    {
+                    //        if (_frmPrincipal_Presenter.VehiculoMueble() == false)
+                    //        {
+                    //            _frmPrincipal_Presenter.DevolverTarjetaNew();
+                    //            Presentacion = Pantalla.SalvaPantallas;
+                    //        }
+                    //    }
+                    //    else
+                    //    {
+                    //        _frmPrincipal_Presenter.EstadoControl();
+                    //        if (!_VehiculoMueble)
+                    //        {
+                    //            _frmPrincipal_Presenter.DevolverTarjetaNew();
+                    //            Presentacion = Pantalla.SalvaPantallas;
+                    //        }
+                    //    }
+                    //}
                     break;
 
                 case Pantalla.DisfruteVisita:
@@ -1931,6 +1947,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             oTransaccion.IdTransaccion = Convert.ToInt64(SecuenciaTransaccion);
             oTransaccion.ModuloEntrada = Globales.sSerial;
             oTransaccion.PlacaEntrada = _sPlaca;
+
             if (_Moto)
             {
                 oTransaccion.TipoVehiculo = 2;
@@ -1941,6 +1958,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             }
             
             _frmPrincipal_Presenter.RegistrarEntrada(oTransaccion);
+
             Imprimir(oTransaccion);
 
 
@@ -1978,8 +1996,6 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
             _frmPrincipal_Presenter.RegistrarEntrada(oTransaccion);
 
-
-
             lblDatosAuto.Text = "Sr/Sra " + _lstDtoAutorizado[CntAuto].NombresAutorizado;
             Presentacion = Pantalla.DisfruteVisitaAuto;
 
@@ -1995,9 +2011,6 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             {
                 _frmPrincipal_Presenter.AperturaBarrera();
             }
-
-
-
 
         }
         //public void CapturaFoto(string Orden)
@@ -2152,43 +2165,44 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             //_sPlaca = Placa;
             #endregion
 
-            try
-            {
-                string IpCamera = string.Empty;
+            //try
+            //{
+            //    string IpCamera = string.Empty;
 
-                for (int i = 0; i < _DtoModulo.Partes.Count; i++)
-                {
-                    if (_DtoModulo.Partes[i].TipoParte == "LPR" && _DtoModulo.Partes[i].Estado)
-                    {
-                        IpCamera = _DtoModulo.Partes[i].IPDispositivo;
-                        break;
-                    }
-                }
-                string UserName = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.UsuarioCamaras).ToString();
-                string Password = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.PasswordCamaras).ToString();
+            //    for (int i = 0; i < _DtoModulo.Partes.Count; i++)
+            //    {
+            //        if (_DtoModulo.Partes[i].TipoParte == "LPR" && _DtoModulo.Partes[i].Estado)
+            //        {
+            //            IpCamera = _DtoModulo.Partes[i].IPDispositivo;
+            //            break;
+            //        }
+            //    }
+            //    string UserName = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.UsuarioCamaras).ToString();
+            //    string Password = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.PasswordCamaras).ToString();
 
-                string strUrl = "http://" + IpCamera + "/ISAPI/Traffic/channels/1/vehicleDetect/plates";
-                string param = "<AfterTime></AfterTime>";
-                WebClient client = new WebClient();
-                // Set the user name and password
-                client.Credentials = new NetworkCredential("" + UserName + "", "" + Password + "");
-                string responseData = client.UploadString(strUrl, param);
+            //    string strUrl = "http://" + IpCamera + "/ISAPI/Traffic/channels/1/vehicleDetect/plates";
+            //    string param = "<AfterTime></AfterTime>";
+            //    WebClient client = new WebClient();
+            //    // Set the user name and password
+            //    client.Credentials = new NetworkCredential("" + UserName + "", "" + Password + "");
+            //    string responseData = client.UploadString(strUrl, param);
 
-                XmlSerializer xmlSerializer = new XmlSerializer(typeof(Plates));
-                using (StringReader textReader = new StringReader(responseData))
-                {
-                    var rta = (Plates)xmlSerializer.Deserialize(textReader);
-                    _sPlaca = rta.Plate[rta.Plate.Count - 1].PlateNumber;
+            //    XmlSerializer xmlSerializer = new XmlSerializer(typeof(Plates));
+            //    using (StringReader textReader = new StringReader(responseData))
+            //    {
+            //        var rta = (Plates)xmlSerializer.Deserialize(textReader);
+            //        _sPlaca = rta.Plate[rta.Plate.Count - 1].PlateNumber;
 
-                    General_Events = "(FrontEnd CapturaPlaca) Placa: " + _sPlaca;
+            //        General_Events = "(FrontEnd CapturaPlaca) Placa: " + _sPlaca;
 
-                }
+            //    }
 
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
+            //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine(ex.Message);
+            //}
+            _sPlaca = "-----";
 
         }
 

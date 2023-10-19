@@ -36,8 +36,8 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>2.47014cm</Top>
-            <Left>0.21167cm</Left>
+            <Top>2.29375cm</Top>
+            <Left>0.21166cm</Left>
             <Height>0.6cm</Height>
             <Width>4.90771cm</Width>
             <ZIndex>1</ZIndex>
@@ -72,7 +72,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>3.24653cm</Top>
+            <Top>2.89375cm</Top>
             <Left>0.21166cm</Left>
             <Height>0.6cm</Height>
             <Width>4.90771cm</Width>
@@ -87,7 +87,7 @@
         <KeepTogether>true</KeepTogether>
         <Top>0.32034cm</Top>
         <Left>0.65828cm</Left>
-        <Height>4.16687cm</Height>
+        <Height>3.61124cm</Height>
         <Width>5.51625cm</Width>
         <Style>
           <Border>
@@ -104,6 +104,19 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
+                    <Value>Fecha ingreso</Value>
+                    <Style>
+                      <FontSize>8pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value>: </Value>
+                    <Style>
+                      <FontSize>8pt</FontSize>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
                     <Value>=First(Fields!FechaEntrada.Value, "DataSetEntrada")</Value>
                     <Style>
                       <FontSize>8pt</FontSize>
@@ -116,8 +129,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>0.315cm</Top>
-            <Left>0.21167cm</Left>
+            <Left>0.21165cm</Left>
             <Height>0.6cm</Height>
             <Width>4.90771cm</Width>
             <Style>
@@ -133,6 +145,19 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
+                    <Value>Placa:</Value>
+                    <Style>
+                      <FontSize>8pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
+                    <Value xml:space="preserve"> </Value>
+                    <Style>
+                      <FontSize>8pt</FontSize>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
                     <Value>=First(Fields!PlacaEntrada.Value, "DataSetEntrada")</Value>
                     <Style>
                       <FontSize>8pt</FontSize>
@@ -145,8 +170,8 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>1.09139cm</Top>
-            <Left>0.21167cm</Left>
+            <Top>0.6cm</Top>
+            <Left>0.21165cm</Left>
             <Height>0.6cm</Height>
             <Width>4.90771cm</Width>
             <ZIndex>1</ZIndex>
@@ -163,6 +188,13 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
+                    <Value>Tipo vehiculo:</Value>
+                    <Style>
+                      <FontSize>8pt</FontSize>
+                      <FontWeight>Bold</FontWeight>
+                    </Style>
+                  </TextRun>
+                  <TextRun>
                     <Value>=First(Fields!TipoVehiculo.Value, "DataSetEntrada")</Value>
                     <Style>
                       <FontSize>8pt</FontSize>
@@ -175,8 +207,8 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>1.86778cm</Top>
-            <Left>0.21168cm</Left>
+            <Top>1.23528cm</Top>
+            <Left>0.21165cm</Left>
             <Height>0.6cm</Height>
             <Width>4.90771cm</Width>
             <ZIndex>2</ZIndex>
@@ -190,7 +222,7 @@
         <KeepTogether>true</KeepTogether>
         <Top>4.72405cm</Top>
         <Left>0.65829cm</Left>
-        <Height>2.6852cm</Height>
+        <Height>2.02374cm</Height>
         <Width>5.51625cm</Width>
         <ZIndex>1</ZIndex>
         <Style>
@@ -208,30 +240,31 @@
               <TextRun>
                 <Value>=First(Fields!IdTransaccion.Value, "DataSetEntrada")</Value>
                 <Style>
-                  <FontFamily>Free 3 of 9</FontFamily>
-                  <FontSize>28pt</FontSize>
+                  <FontFamily>Code 128</FontFamily>
+                  <FontSize>36pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
             <Style>
-              <TextAlign>Center</TextAlign>
+              <TextAlign>General</TextAlign>
             </Style>
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox1</rd:DefaultName>
-        <Top>8.07071cm</Top>
-        <Left>0.21167cm</Left>
-        <Height>1.84354cm</Height>
-        <Width>6.6637cm</Width>
+        <Top>7.06529cm</Top>
+        <Left>0.44661cm</Left>
+        <Height>1.28792cm</Height>
+        <Width>5.72793cm</Width>
         <ZIndex>2</ZIndex>
         <Style>
           <Border>
             <Style>None</Style>
           </Border>
+          <VerticalAlign>Middle</VerticalAlign>
         </Style>
       </Textbox>
       <Line Name="Line1">
-        <Top>4.65349cm</Top>
+        <Top>4.25506cm</Top>
         <Left>0.44661cm</Left>
         <Height>0cm</Height>
         <Width>6.21709cm</Width>
@@ -243,7 +276,7 @@
         </Style>
       </Line>
     </ReportItems>
-    <Height>4.00001in</Height>
+    <Height>3.52084in</Height>
     <Style>
       <Border>
         <Style>None</Style>
