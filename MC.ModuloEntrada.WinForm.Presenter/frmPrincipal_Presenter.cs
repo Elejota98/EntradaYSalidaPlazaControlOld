@@ -15,11 +15,13 @@ using MC.Utilidades;
 using System;
 using System.Collections.Generic;
 using System.Data.Odbc;
+using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
+using ZXing;
 
 namespace MC.ModuloEntrada.WinForm.Presenter
 {
@@ -1649,9 +1651,23 @@ namespace MC.ModuloEntrada.WinForm.Presenter
         {
             DataSetEntrada dataSetEntrada = new DataSetEntrada();
 
+
+
             DataSetEntrada.TablaDatosEntradaRow tablaDatosEntradaRow = dataSetEntrada.TablaDatosEntrada.NewTablaDatosEntradaRow();
 
-            tablaDatosEntradaRow.IdTransaccion = Convert.ToString(transaccion.IdTransaccion);
+            // Crear una instancia de BarcodeWriter
+            BarcodeWriter barcodeWriter = new BarcodeWriter();
+            barcodeWriter.Format = BarcodeFormat.CODE_128;
+
+            // Generar el código de barras como un objeto Bitmap
+            Bitmap barcodeBitmap = barcodeWriter.Write(Convert.ToString(transaccion.IdTransaccion));
+
+            // Guardar el código de barras en un archivo con el nombre IdTransaccion
+            string codigoBarrasFileName = $"{transaccion.IdTransaccion}.png";
+            barcodeBitmap.Save(codigoBarrasFileName);
+
+            // Limpieza
+            barcodeBitmap.Dispose();
             tablaDatosEntradaRow.PlacaEntrada = Convert.ToString(transaccion.PlacaEntrada);
             tablaDatosEntradaRow.FechaEntrada = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
             tablaDatosEntradaRow.ModuloEntrada = transaccion.ModuloEntrada;
