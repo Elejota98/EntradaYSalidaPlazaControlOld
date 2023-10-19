@@ -14478,3 +14478,137 @@
 2023/10/19 04:28:29.646 - MENSAJE: 
 2023/10/19 04:28:29.646 - MENSAJE: 
 2023/10/19 04:28:29.928 - MENSAJE: 
+2023/10/19 05:09:38.630 - INICIO REGISTRO
+2023/10/19 05:09:38.637 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/19 05:09:38.755 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/19 05:09:40.030 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/19 05:09:40.070 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/19 05:09:40.101 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/19 05:09:40.204 - MENSAJE: 
+2023/10/19 05:09:42.121 - MENSAJE: Error_Escribir_Tarjeta
+2023/10/19 05:09:42.192 - MENSAJE: Error_AlistarTarjeta
+2023/10/19 05:09:42.218 - MENSAJE: Error_Escribir_Tarjeta
+2023/10/19 05:09:42.257 - MENSAJE: Error_AlistarTarjeta
+2023/10/19 05:09:42.923 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/19 05:09:45.167 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/19 05:09:46.192 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/19 05:09:47.485 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/19 05:09:48.583 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/19 05:09:49.303 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/19 05:09:50.670 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/19 05:09:51.770 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/19 05:09:53.032 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/19 05:09:54.258 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/19 05:09:55.551 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/19 05:09:57.089 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/19 05:09:59.496 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/19 05:09:59.795 - MENSAJE: Error- FrondEnd-Imprimir ->System.Drawing.Printing.InvalidPrinterException: No hay impresoras instaladas.
+   en System.Drawing.Printing.PrinterSettings.GetHdevmodeInternal(String printer)
+   en System.Drawing.Printing.PrinterSettings.GetHdevmodeInternal()
+   en System.Drawing.Printing.PrinterSettings.GetHdevmode(PageSettings pageSettings)
+   en System.Drawing.Printing.PrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   en System.Drawing.Printing.StandardPrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   en System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   en System.Drawing.Printing.PrintDocument.Print()
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.Imprimir(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 2560
+2023/10/19 05:09:59.903 - MENSAJE: 
+2023/10/19 05:12:39.364 - INICIO REGISTRO
+2023/10/19 05:12:39.371 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/19 05:12:39.488 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/19 05:12:40.737 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/19 05:12:40.777 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/19 05:12:40.809 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/19 05:12:40.841 - MENSAJE: 
+2023/10/19 05:12:40.918 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/19 05:12:40.987 - MENSAJE: 
+2023/10/19 05:12:41.015 - MENSAJE: 
+2023/10/19 05:12:41.374 - MENSAJE: 
+2023/10/19 05:12:41.374 - MENSAJE: 
+2023/10/19 05:12:41.385 - MENSAJE: 
+2023/10/19 05:12:42.377 - MENSAJE: 
+2023/10/19 05:12:42.377 - MENSAJE: 
+2023/10/19 05:12:42.388 - MENSAJE: 
+2023/10/19 05:12:43.386 - MENSAJE: 
+2023/10/19 05:12:43.386 - MENSAJE: 
+2023/10/19 05:12:43.397 - MENSAJE: 
+2023/10/19 05:12:44.389 - MENSAJE: 
+2023/10/19 05:12:44.389 - MENSAJE: 
+2023/10/19 05:12:44.399 - MENSAJE: 
+2023/10/19 05:12:45.386 - MENSAJE: 
+2023/10/19 05:12:45.386 - MENSAJE: 
+2023/10/19 05:12:45.396 - MENSAJE: 
+2023/10/19 05:12:46.397 - MENSAJE: 
+2023/10/19 05:12:46.397 - MENSAJE: 
+2023/10/19 05:12:46.408 - MENSAJE: 
+2023/10/19 05:12:47.400 - MENSAJE: 
+2023/10/19 05:12:47.400 - MENSAJE: 
+2023/10/19 05:12:47.411 - MENSAJE: 
+2023/10/19 05:12:48.413 - MENSAJE: 
+2023/10/19 05:12:48.414 - MENSAJE: 
+2023/10/19 05:12:48.414 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/10/19 05:12:48.424 - MENSAJE: 
+2023/10/19 05:12:48.450 - MENSAJE: (FrontEnd Antes CapturaPlaca) -----
+2023/10/19 05:12:48.470 - MENSAJE: oAutorizado.PlacaAuto : -----
+2023/10/19 05:12:48.949 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/19 05:12:50.389 - MENSAJE: 
+2023/10/19 05:12:50.389 - MENSAJE: 
+2023/10/19 05:12:50.399 - MENSAJE: 
+2023/10/19 05:12:50.452 - MENSAJE: 
+2023/10/19 05:12:51.386 - MENSAJE: 
+2023/10/19 05:12:52.382 - MENSAJE: 
+2023/10/19 05:12:53.386 - MENSAJE: 
+2023/10/19 05:12:54.382 - MENSAJE: 
+2023/10/19 05:12:55.387 - MENSAJE: 
+2023/10/19 05:12:56.387 - MENSAJE: 
+2023/10/19 05:12:57.380 - MENSAJE: 
+2023/10/19 05:12:57.731 - MENSAJE: 
+2023/10/19 05:12:57.741 - MENSAJE: 
+2023/10/19 05:12:58.385 - MENSAJE: 
+2023/10/19 05:12:58.385 - MENSAJE: 
+2023/10/19 05:12:58.396 - MENSAJE: 
+2023/10/19 05:12:59.387 - MENSAJE: 
+2023/10/19 05:12:59.387 - MENSAJE: 
+2023/10/19 05:12:59.398 - MENSAJE: 
+2023/10/19 05:13:05.431 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/19 05:13:06.386 - MENSAJE: 
+2023/10/19 05:13:06.386 - MENSAJE: 
+2023/10/19 05:13:06.397 - MENSAJE: 
+2023/10/19 05:13:07.399 - MENSAJE: 
+2023/10/19 05:13:07.399 - MENSAJE: 
+2023/10/19 05:13:07.410 - MENSAJE: 
+2023/10/19 05:13:08.401 - MENSAJE: 
+2023/10/19 05:13:08.401 - MENSAJE: 
+2023/10/19 05:13:08.416 - MENSAJE: 
+2023/10/19 05:13:09.413 - MENSAJE: 
+2023/10/19 05:13:09.413 - MENSAJE: 
+2023/10/19 05:13:09.424 - MENSAJE: 
+2023/10/19 05:13:10.423 - MENSAJE: 
+2023/10/19 05:13:10.423 - MENSAJE: 
+2023/10/19 05:13:10.434 - MENSAJE: 
+2023/10/19 05:13:11.379 - MENSAJE: 
+2023/10/19 05:13:11.379 - MENSAJE: 
+2023/10/19 05:13:11.390 - MENSAJE: 
+2023/10/19 05:13:12.384 - MENSAJE: 
+2023/10/19 05:13:12.384 - MENSAJE: 
+2023/10/19 05:13:12.394 - MENSAJE: 
+2023/10/19 05:13:13.384 - MENSAJE: 
+2023/10/19 05:13:13.384 - MENSAJE: 
+2023/10/19 05:13:13.394 - MENSAJE: 
+2023/10/19 05:13:14.390 - MENSAJE: 
+2023/10/19 05:13:14.390 - MENSAJE: 
+2023/10/19 05:13:14.400 - MENSAJE: 
+2023/10/19 05:13:15.391 - MENSAJE: 
+2023/10/19 05:13:15.391 - MENSAJE: 
+2023/10/19 05:13:15.402 - MENSAJE: 
+2023/10/19 05:13:16.380 - MENSAJE: 
+2023/10/19 05:13:16.380 - MENSAJE: 
+2023/10/19 05:13:16.391 - MENSAJE: 
+2023/10/19 05:13:17.383 - MENSAJE: 
+2023/10/19 05:13:17.383 - MENSAJE: 
+2023/10/19 05:13:17.393 - MENSAJE: 
+2023/10/19 05:13:18.389 - MENSAJE: 
+2023/10/19 05:13:18.389 - MENSAJE: 
+2023/10/19 05:13:18.400 - MENSAJE: 
+2023/10/19 05:13:19.376 - MENSAJE: 
+2023/10/19 05:13:19.376 - MENSAJE: 
+2023/10/19 05:13:19.387 - MENSAJE: 
