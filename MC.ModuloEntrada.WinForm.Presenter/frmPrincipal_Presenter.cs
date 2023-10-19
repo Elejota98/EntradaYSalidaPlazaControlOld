@@ -1666,6 +1666,7 @@ namespace MC.ModuloEntrada.WinForm.Presenter
             tablaDatosEntradaRow.Estacionamiento = "EDIFIO PLAZA CENTAL PH";
             tablaDatosEntradaRow.Direccion = "CRA 16 # 33-44";
             tablaDatosEntradaRow.Telefono = "6076700040";
+            dataSetEntrada.TablaDatosEntrada.AddTablaDatosEntradaRow(tablaDatosEntradaRow);
 
             return dataSetEntrada;
         }

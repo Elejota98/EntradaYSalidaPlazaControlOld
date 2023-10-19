@@ -8,6 +8,7 @@ using MC.ModuloEntrada.WinForm.FrontEnd.Tickets;
 using MC.ModuloEntrada.WinForm.Presenter;
 using MC.ModuloEntrada.WinForm.View;
 using MC.Utilidades;
+using Microsoft.Reporting.WebForms;
 using Microsoft.Reporting.WinForms;
 using System;
 using System.Collections.Generic;

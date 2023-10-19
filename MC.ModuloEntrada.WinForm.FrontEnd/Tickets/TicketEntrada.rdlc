@@ -45,10 +45,6 @@
               <Border>
                 <Style>None</Style>
               </Border>
-              <PaddingLeft>2pt</PaddingLeft>
-              <PaddingRight>2pt</PaddingRight>
-              <PaddingTop>2pt</PaddingTop>
-              <PaddingBottom>2pt</PaddingBottom>
             </Style>
           </Textbox>
           <Textbox Name="Textbox2">
@@ -57,6 +53,12 @@
             <Paragraphs>
               <Paragraph>
                 <TextRuns>
+                  <TextRun>
+                    <Value>Telefono: </Value>
+                    <Style>
+                      <FontSize>8pt</FontSize>
+                    </Style>
+                  </TextRun>
                   <TextRun>
                     <Value>=First(Fields!Telefono.Value, "DataSetEntrada")</Value>
                     <Style>
@@ -79,10 +81,6 @@
               <Border>
                 <Style>None</Style>
               </Border>
-              <PaddingLeft>2pt</PaddingLeft>
-              <PaddingRight>2pt</PaddingRight>
-              <PaddingTop>2pt</PaddingTop>
-              <PaddingBottom>2pt</PaddingBottom>
             </Style>
           </Textbox>
         </ReportItems>
@@ -119,17 +117,13 @@
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
             <Top>0.315cm</Top>
-            <Left>0.21166cm</Left>
+            <Left>0.21167cm</Left>
             <Height>0.6cm</Height>
             <Width>4.90771cm</Width>
             <Style>
               <Border>
                 <Style>None</Style>
               </Border>
-              <PaddingLeft>2pt</PaddingLeft>
-              <PaddingRight>2pt</PaddingRight>
-              <PaddingTop>2pt</PaddingTop>
-              <PaddingBottom>2pt</PaddingBottom>
             </Style>
           </Textbox>
           <Textbox Name="Textbox4">
@@ -151,7 +145,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>1.20549cm</Top>
+            <Top>1.09139cm</Top>
             <Left>0.21167cm</Left>
             <Height>0.6cm</Height>
             <Width>4.90771cm</Width>
@@ -160,10 +154,6 @@
               <Border>
                 <Style>None</Style>
               </Border>
-              <PaddingLeft>2pt</PaddingLeft>
-              <PaddingRight>2pt</PaddingRight>
-              <PaddingTop>2pt</PaddingTop>
-              <PaddingBottom>2pt</PaddingBottom>
             </Style>
           </Textbox>
           <Textbox Name="Textbox5">
@@ -185,8 +175,8 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>1.98188cm</Top>
-            <Left>0.21167cm</Left>
+            <Top>1.86778cm</Top>
+            <Left>0.21168cm</Left>
             <Height>0.6cm</Height>
             <Width>4.90771cm</Width>
             <ZIndex>2</ZIndex>
@@ -194,17 +184,13 @@
               <Border>
                 <Style>None</Style>
               </Border>
-              <PaddingLeft>2pt</PaddingLeft>
-              <PaddingRight>2pt</PaddingRight>
-              <PaddingTop>2pt</PaddingTop>
-              <PaddingBottom>2pt</PaddingBottom>
             </Style>
           </Textbox>
         </ReportItems>
         <KeepTogether>true</KeepTogether>
-        <Top>4.97099cm</Top>
-        <Left>0.65828cm</Left>
-        <Height>2.92333cm</Height>
+        <Top>4.72405cm</Top>
+        <Left>0.65829cm</Left>
+        <Height>2.6852cm</Height>
         <Width>5.51625cm</Width>
         <ZIndex>1</ZIndex>
         <Style>
@@ -222,8 +208,8 @@
               <TextRun>
                 <Value>=First(Fields!IdTransaccion.Value, "DataSetEntrada")</Value>
                 <Style>
-                  <FontFamily>Free 3 of 9 Extended</FontFamily>
-                  <FontSize>36pt</FontSize>
+                  <FontFamily>Free 3 of 9</FontFamily>
+                  <FontSize>28pt</FontSize>
                 </Style>
               </TextRun>
             </TextRuns>
@@ -233,7 +219,7 @@
           </Paragraph>
         </Paragraphs>
         <rd:DefaultName>Textbox1</rd:DefaultName>
-        <Top>8.44448cm</Top>
+        <Top>8.07071cm</Top>
         <Left>0.21167cm</Left>
         <Height>1.84354cm</Height>
         <Width>6.6637cm</Width>
@@ -242,10 +228,6 @@
           <Border>
             <Style>None</Style>
           </Border>
-          <PaddingLeft>2pt</PaddingLeft>
-          <PaddingRight>2pt</PaddingRight>
-          <PaddingTop>2pt</PaddingTop>
-          <PaddingBottom>2pt</PaddingBottom>
         </Style>
       </Textbox>
       <Line Name="Line1">
@@ -261,13 +243,17 @@
         </Style>
       </Line>
     </ReportItems>
-    <Height>4.17709in</Height>
-    <Style />
+    <Height>4.00001in</Height>
+    <Style>
+      <Border>
+        <Style>None</Style>
+      </Border>
+    </Style>
   </Body>
-  <Width>2.96217in</Width>
+  <Width>2.7955in</Width>
   <Page>
-    <PageHeight>21cm</PageHeight>
-    <PageWidth>14.8cm</PageWidth>
+    <PageHeight>25cm</PageHeight>
+    <PageWidth>20cm</PageWidth>
     <LeftMargin>0cm</LeftMargin>
     <RightMargin>0cm</RightMargin>
     <TopMargin>0cm</TopMargin>

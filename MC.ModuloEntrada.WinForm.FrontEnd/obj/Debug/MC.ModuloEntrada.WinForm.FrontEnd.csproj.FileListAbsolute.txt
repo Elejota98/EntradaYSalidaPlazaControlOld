@@ -1360,3 +1360,16 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.AssemblyReference.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.CoreCompileInputs.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.CopyComplete
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\RdlCompile.cache
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\RdlCompile.compiled
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Tickets\TicketEntrada.rdlc
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Tickets\ReportPrintDocument.cs
