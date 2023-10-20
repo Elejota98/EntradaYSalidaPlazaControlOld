@@ -250,8 +250,9 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             cnt_timeout++;
             switch (_Presentacion)
             {
+                  
                 case Pantalla.SalvaPantallas:
-
+                    Imprimir(oTransaccion);
                     //Presentacion = Pantalla.RetireTarjeta;
 
                     _SinTarjetas = false;

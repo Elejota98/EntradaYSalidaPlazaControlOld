@@ -217,6 +217,4 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.WCFProxy\bin\Debug\MC.
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.WCFProxy\bin\Debug\MC.Utilidades.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.WCFProxy\obj\Debug\MC.WCFProxy.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.WCFProxy\obj\Debug\MC.WCFProxy.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.WCFProxy\obj\Debug\MC.WCFProxy.csproj.AssemblyReference.cache
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.WCFProxy\obj\Debug\MC.WCFProxy.csproj.CoreCompileInputs.cache
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.WCFProxy\obj\Debug\MC.WCFProxy.csproj.CopyComplete
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.WCFProxy\obj\Debug\MC.WCFProxy.csprojResolveAssemblyReference.cache

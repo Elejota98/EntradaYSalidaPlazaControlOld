@@ -218,7 +218,4 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\b
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\bin\Debug\MC.Utilidades.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\obj\Debug\MC.EnvioImagenesService.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\obj\Debug\MC.EnvioImagenesService.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\bin\Debug\MC.DataService.dll.config
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\obj\Debug\MC.EnvioImagenesService.csproj.AssemblyReference.cache
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\obj\Debug\MC.EnvioImagenesService.csproj.CoreCompileInputs.cache
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\obj\Debug\MC.EnvioImagenesService.csproj.CopyComplete
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\obj\Debug\MC.EnvioImagenesService.csprojResolveAssemblyReference.cache

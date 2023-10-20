@@ -218,8 +218,4 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionS
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.BusinessService.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.Sincronizacion.ActionServer.dll.config
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.DataService.dll.config
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.csproj.AssemblyReference.cache
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.csproj.CoreCompileInputs.cache
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.csproj.CopyComplete
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.csprojResolveAssemblyReference.cache

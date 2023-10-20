@@ -220,7 +220,7 @@
           </Textbox>
         </ReportItems>
         <KeepTogether>true</KeepTogether>
-        <Top>4.72405cm</Top>
+        <Top>4.43145cm</Top>
         <Left>0.65829cm</Left>
         <Height>2.02374cm</Height>
         <Width>5.51625cm</Width>
@@ -244,11 +244,11 @@
         </Style>
       </Line>
       <Image Name="Image1">
-        <Source>Embedded</Source>
+        <Source>Database</Source>
         <Value>=Fields!IdTransaccion.Value</Value>
         <MIMEType>image/png</MIMEType>
         <Sizing>FitProportional</Sizing>
-        <Top>7.29933cm</Top>
+        <Top>6.63158cm</Top>
         <Left>0.86994cm</Left>
         <Height>1.5cm</Height>
         <Width>4.90771cm</Width>

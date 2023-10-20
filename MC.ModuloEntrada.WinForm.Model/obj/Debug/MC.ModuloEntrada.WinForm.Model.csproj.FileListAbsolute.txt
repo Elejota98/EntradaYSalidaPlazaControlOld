@@ -369,7 +369,4 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.dll.config
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csproj.AssemblyReference.cache
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csproj.CoreCompileInputs.cache
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csproj.CopyComplete
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csprojResolveAssemblyReference.cache

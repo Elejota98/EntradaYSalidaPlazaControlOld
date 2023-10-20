@@ -46,3 +46,35 @@
 2023/10/20 08:57:09.090 - MENSAJE: 
 2023/10/20 08:57:09.101 - MENSAJE: 
 2023/10/20 08:57:30.530 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 09:16:47.084 - INICIO REGISTRO
+2023/10/20 09:17:08.053 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 09:17:08.766 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 09:17:16.042 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 09:17:17.115 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 09:17:17.463 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 09:17:28.469 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 09:17:30.365 - MENSAJE: 
+2023/10/20 09:17:31.062 - MENSAJE: 
+2023/10/20 09:17:32.069 - MENSAJE: 
+2023/10/20 09:17:33.064 - MENSAJE: 
+2023/10/20 09:17:34.064 - MENSAJE: 
+2023/10/20 09:17:35.060 - MENSAJE: 
+2023/10/20 09:17:36.065 - MENSAJE: 
+2023/10/20 09:17:37.064 - MENSAJE: 
+2023/10/20 09:17:58.862 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 09:18:41.849 - INICIO REGISTRO
+2023/10/20 09:18:44.265 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 09:18:44.611 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 09:18:46.650 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 09:18:46.674 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 09:18:46.697 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 09:18:53.420 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 09:19:10.303 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 10:24:42.291 - INICIO REGISTRO
+2023/10/20 10:24:42.314 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 10:24:42.349 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 10:24:44.184 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 10:24:44.231 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 10:24:44.264 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 10:24:44.357 - MENSAJE: 
+2023/10/20 10:24:51.425 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
