@@ -1661,10 +1661,11 @@ namespace MC.ModuloEntrada.WinForm.Presenter
 
             // Generar el código de barras como un objeto Bitmap
             Bitmap barcodeBitmap = barcodeWriter.Write(Convert.ToString(transaccion.IdTransaccion));
-
+            string rutaGuardar = "C:\\Users\\Salida\\Documents\\Parquearse Install\\EntradaYSalida-PlazaCentral\\MC.ModuloEntrada.WinForm.FrontEnd\\bin\\Debug";
             // Guardar el código de barras en un archivo con el nombre IdTransaccion
-            string codigoBarrasFileName = $"{transaccion.IdTransaccion}.png";
+            string codigoBarrasFileName = rutaGuardar + "\\" + transaccion.IdTransaccion + ".png";
             barcodeBitmap.Save(codigoBarrasFileName);
+            tablaDatosEntradaRow.IdTransaccion = codigoBarrasFileName;
 
             // Limpieza
             barcodeBitmap.Dispose();

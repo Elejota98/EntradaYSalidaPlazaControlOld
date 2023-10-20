@@ -202,7 +202,6 @@ C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Sinc
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.SincronizacionService\bin\Debug\MC.BusinessService.pdb
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.SincronizacionService\bin\Debug\MC.DataService.pdb
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.SincronizacionService\bin\Debug\MC.Utilidades.pdb
-C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.dll
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.SincronizacionService\bin\Debug\MC.SincronizacionService.dll
@@ -221,3 +220,4 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.SincronizacionService\
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.csproj.AssemblyReference.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.csproj.CoreCompileInputs.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.csproj.CopyComplete
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.csprojResolveAssemblyReference.cache

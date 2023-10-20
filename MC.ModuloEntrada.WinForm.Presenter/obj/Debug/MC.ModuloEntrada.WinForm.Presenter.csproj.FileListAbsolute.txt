@@ -767,3 +767,7 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\obj\Debug\MC.ModuloEntrada.WinForm.Presenter.csproj.CoreCompileInputs.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\obj\Debug\MC.ModuloEntrada.WinForm.Presenter.csproj.CopyComplete
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\bin\Debug\MC.ServiceProxy.dll.config
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\bin\Debug\zxing.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\bin\Debug\zxing.presentation.dll
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\bin\Debug\zxing.xml
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\bin\Debug\zxing.presentation.xml

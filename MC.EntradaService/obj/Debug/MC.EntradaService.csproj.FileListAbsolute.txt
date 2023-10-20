@@ -236,7 +236,6 @@ C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Entr
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.BusinessService.pdb
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.DataService.pdb
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.Utilidades.pdb
-C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.dll
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.EntradaService.dll
@@ -255,3 +254,4 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Deb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csproj.AssemblyReference.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csproj.CoreCompileInputs.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csproj.CopyComplete
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
