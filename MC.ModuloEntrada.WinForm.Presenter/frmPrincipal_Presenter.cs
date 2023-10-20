@@ -1652,7 +1652,6 @@ namespace MC.ModuloEntrada.WinForm.Presenter
             DataSetEntrada dataSetEntrada = new DataSetEntrada();
 
 
-
             DataSetEntrada.TablaDatosEntradaRow tablaDatosEntradaRow = dataSetEntrada.TablaDatosEntrada.NewTablaDatosEntradaRow();
 
             // Crear una instancia de BarcodeWriter
@@ -1666,8 +1665,7 @@ namespace MC.ModuloEntrada.WinForm.Presenter
             // Guardar el código de barras en un archivo con el nombre IdTransaccion
             string codigoBarrasFileName = rutaGuardar + "\\" + transaccion.IdTransaccion + ".png";
             barcodeBitmap.Save(codigoBarrasFileName);
-            tablaDatosEntradaRow.IdTransaccion = codigoBarrasFileName;
-
+            View.imgUrl = codigoBarrasFileName;
             // Limpieza
             barcodeBitmap.Dispose();
             tablaDatosEntradaRow.PlacaEntrada = Convert.ToString(transaccion.PlacaEntrada);

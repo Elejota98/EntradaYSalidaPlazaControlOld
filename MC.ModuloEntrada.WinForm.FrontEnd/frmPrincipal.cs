@@ -227,6 +227,13 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             set { _PlacaRegistrada = value; }
         }
 
+        private string _imgUrl = string.Empty;
+        public string imgUrl
+        {
+            get { return _imgUrl; }
+            set { _imgUrl = value; }
+        }
+
         #endregion
 
         #region EventosFormulario
@@ -2549,12 +2556,16 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             try
             {
                 General_Events = "FrondEnd-Imprimir -> Funcion imprimir Ticket.";
-                ReportDataSource dataSource = new ReportDataSource();
+                ReportDataSource dataSource = new ReportDataSource();                
                 LocalReport localReport = new LocalReport();
                 dataSource = new ReportDataSource("DataSetEntrada", _frmPrincipal_Presenter.GenerarTicketEntrada(transaccion).Tables[0]);
                 localReport.ReportPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, string.Format(@"Tickets\{0}.rdlc", "TicketEntrada"));
-                localReport.DataSources.Add(dataSource);
+                ReportParameter urlImage = new ReportParameter("imgUrl", new Uri(Convert.ToString(_imgUrl)).AbsoluteUri);
+                localReport.EnableExternalImages = true;
+                localReport.SetParameters(new ReportParameter[] { urlImage });
                 localReport.Refresh();
+                localReport.DataSources.Add(dataSource);
+            
                 ReportPrintDocument ore = new ReportPrintDocument(localReport);
                 //ore.PrinterSettings.PrinterName = Globales.sNombreImpresoraTickets;
                 ore.PrintController = new StandardPrintController();

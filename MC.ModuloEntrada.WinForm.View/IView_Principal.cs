@@ -29,6 +29,7 @@ namespace MC.ModuloEntrada.WinForm.View
         Tarjeta Tarjeta { set; get; }
         string Barrera { get; set; }
         string PlacaRegistrada { get; set; }
+        string imgUrl { get; set; }
         bool ControlReady { get; set; }
         bool BotonPresionado { get; set; }
         bool VehiculoMueble { get; set; }
