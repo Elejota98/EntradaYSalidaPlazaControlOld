@@ -8,7 +8,6 @@
             <Source>Embedded</Source>
             <Value>LOGOPLAZACENTRAL</Value>
             <Sizing>FitProportional</Sizing>
-            <Left>1.52917cm</Left>
             <Height>2.29375cm</Height>
             <Width>2.26729cm</Width>
             <Style>
@@ -36,10 +35,10 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>2.29375cm</Top>
-            <Left>0.21166cm</Left>
+            <Top>0.6cm</Top>
+            <Left>2.4084cm</Left>
             <Height>0.6cm</Height>
-            <Width>4.90771cm</Width>
+            <Width>4.59021cm</Width>
             <ZIndex>1</ZIndex>
             <Style>
               <Border>
@@ -72,11 +71,41 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Top>2.89375cm</Top>
-            <Left>0.21166cm</Left>
+            <Top>1.2cm</Top>
+            <Left>2.4084cm</Left>
+            <Height>0.6cm</Height>
+            <Width>4.59021cm</Width>
+            <ZIndex>2</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Textbox>
+          <Textbox Name="Textbox6">
+            <CanGrow>true</CanGrow>
+            <KeepTogether>true</KeepTogether>
+            <Paragraphs>
+              <Paragraph>
+                <TextRuns>
+                  <TextRun>
+                    <Value>Comprobante de ingreso</Value>
+                    <Style>
+                      <FontWeight>Bold</FontWeight>
+                    </Style>
+                  </TextRun>
+                </TextRuns>
+                <Style>
+                  <TextAlign>Center</TextAlign>
+                </Style>
+              </Paragraph>
+            </Paragraphs>
+            <rd:DefaultName>Textbox1</rd:DefaultName>
+            <Top>2.29375cm</Top>
+            <Left>0.86994cm</Left>
             <Height>0.6cm</Height>
             <Width>4.90771cm</Width>
-            <ZIndex>2</ZIndex>
+            <ZIndex>3</ZIndex>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -85,10 +114,8 @@
           </Textbox>
         </ReportItems>
         <KeepTogether>true</KeepTogether>
-        <Top>0.32034cm</Top>
-        <Left>0.65828cm</Left>
-        <Height>3.61124cm</Height>
-        <Width>5.51625cm</Width>
+        <Height>2.89375cm</Height>
+        <Width>6.99861cm</Width>
         <Style>
           <Border>
             <Style>None</Style>
@@ -106,32 +133,26 @@
                   <TextRun>
                     <Value>Fecha ingreso</Value>
                     <Style>
-                      <FontSize>8pt</FontSize>
                       <FontWeight>Bold</FontWeight>
                     </Style>
                   </TextRun>
                   <TextRun>
                     <Value>: </Value>
-                    <Style>
-                      <FontSize>8pt</FontSize>
-                    </Style>
+                    <Style />
                   </TextRun>
                   <TextRun>
                     <Value>=First(Fields!FechaEntrada.Value, "DataSetEntrada")</Value>
-                    <Style>
-                      <FontSize>8pt</FontSize>
-                    </Style>
+                    <Style />
                   </TextRun>
                 </TextRuns>
                 <Style>
-                  <TextAlign>Center</TextAlign>
+                  <TextAlign>Left</TextAlign>
                 </Style>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
-            <Left>0.21165cm</Left>
             <Height>0.6cm</Height>
-            <Width>4.90771cm</Width>
+            <Width>6.71075cm</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -147,33 +168,27 @@
                   <TextRun>
                     <Value>Placa:</Value>
                     <Style>
-                      <FontSize>8pt</FontSize>
                       <FontWeight>Bold</FontWeight>
                     </Style>
                   </TextRun>
                   <TextRun>
                     <Value xml:space="preserve"> </Value>
-                    <Style>
-                      <FontSize>8pt</FontSize>
-                    </Style>
+                    <Style />
                   </TextRun>
                   <TextRun>
                     <Value>=First(Fields!PlacaEntrada.Value, "DataSetEntrada")</Value>
-                    <Style>
-                      <FontSize>8pt</FontSize>
-                    </Style>
+                    <Style />
                   </TextRun>
                 </TextRuns>
                 <Style>
-                  <TextAlign>Center</TextAlign>
+                  <TextAlign>Left</TextAlign>
                 </Style>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
             <Top>0.6cm</Top>
-            <Left>0.21165cm</Left>
             <Height>0.6cm</Height>
-            <Width>4.90771cm</Width>
+            <Width>6.71075cm</Width>
             <ZIndex>1</ZIndex>
             <Style>
               <Border>
@@ -188,29 +203,25 @@
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>Tipo vehiculo:</Value>
+                    <Value>Tipo vehiculo: </Value>
                     <Style>
-                      <FontSize>8pt</FontSize>
                       <FontWeight>Bold</FontWeight>
                     </Style>
                   </TextRun>
                   <TextRun>
                     <Value>=First(Fields!TipoVehiculo.Value, "DataSetEntrada")</Value>
-                    <Style>
-                      <FontSize>8pt</FontSize>
-                    </Style>
+                    <Style />
                   </TextRun>
                 </TextRuns>
                 <Style>
-                  <TextAlign>Center</TextAlign>
+                  <TextAlign>Left</TextAlign>
                 </Style>
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>Textbox1</rd:DefaultName>
             <Top>1.23528cm</Top>
-            <Left>0.21165cm</Left>
             <Height>0.6cm</Height>
-            <Width>4.90771cm</Width>
+            <Width>6.71075cm</Width>
             <ZIndex>2</ZIndex>
             <Style>
               <Border>
@@ -218,12 +229,28 @@
               </Border>
             </Style>
           </Textbox>
+          <Image Name="Image1">
+            <Source>External</Source>
+            <Value>=Parameters!imgUrl.Value</Value>
+            <MIMEType>image/png</MIMEType>
+            <Sizing>Fit</Sizing>
+            <Top>1.83528cm</Top>
+            <Left>0.58208cm</Left>
+            <Height>1.5cm</Height>
+            <Width>5.59563cm</Width>
+            <ZIndex>3</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Image>
         </ReportItems>
         <KeepTogether>true</KeepTogether>
-        <Top>4.43145cm</Top>
-        <Left>0.65829cm</Left>
-        <Height>2.02374cm</Height>
-        <Width>5.51625cm</Width>
+        <Top>3.14069cm</Top>
+        <Left>0.28786cm</Left>
+        <Height>3.41539cm</Height>
+        <Width>6.71075cm</Width>
         <ZIndex>1</ZIndex>
         <Style>
           <Border>
@@ -232,10 +259,10 @@
         </Style>
       </Rectangle>
       <Line Name="Line1">
-        <Top>4.25506cm</Top>
-        <Left>0.44661cm</Left>
+        <Top>3.07014cm</Top>
+        <Left>0.28786cm</Left>
         <Height>0cm</Height>
-        <Width>6.21709cm</Width>
+        <Width>6.71075cm</Width>
         <ZIndex>2</ZIndex>
         <Style>
           <Border>
@@ -243,31 +270,15 @@
           </Border>
         </Style>
       </Line>
-      <Image Name="Image1">
-        <Source>External</Source>
-        <Value>=Parameters!imgUrl.Value</Value>
-        <MIMEType>image/png</MIMEType>
-        <Sizing>Fit</Sizing>
-        <Top>6.63158cm</Top>
-        <Left>0.86994cm</Left>
-        <Height>1.5cm</Height>
-        <Width>4.90771cm</Width>
-        <ZIndex>3</ZIndex>
-        <Style>
-          <Border>
-            <Style>None</Style>
-          </Border>
-        </Style>
-      </Image>
     </ReportItems>
-    <Height>3.88097in</Height>
+    <Height>2.6518in</Height>
     <Style>
       <Border>
         <Style>None</Style>
       </Border>
     </Style>
   </Body>
-  <Width>2.80592in</Width>
+  <Width>2.85258in</Width>
   <Page>
     <PageHeight>25cm</PageHeight>
     <PageWidth>20cm</PageWidth>

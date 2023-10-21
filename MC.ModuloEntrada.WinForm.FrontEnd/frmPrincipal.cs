@@ -251,7 +251,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
         #region EventosControles
         private void tmrTimeOut_Tick(object sender, EventArgs e)
-        {
+        {          
             SsinTar++;
             Ssuspe++;
             cnt_timeout++;
@@ -259,9 +259,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             {
                   
                 case Pantalla.SalvaPantallas:
-                    Imprimir(oTransaccion);
                     //Presentacion = Pantalla.RetireTarjeta;
-
+                    TbTag.Focus();
                     _SinTarjetas = false;
                     //_frmPrincipal_Presenter.ConectarCRT();
 
@@ -870,6 +869,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                                     Autorizado oAutorizado = new Autorizado();
                                     oAutorizado.PlacaAuto = _sPlaca;
+                                    oAutorizado.IdTarjeta = _IdCardAutorizado;
                                     General_Events = "oAutorizado.PlacaAuto : " + oAutorizado.PlacaAuto;
 
                                     if (_frmPrincipal_Presenter.ObtenerAutorizado(oAutorizado))
@@ -1036,6 +1036,184 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                     }
                                     #endregion
                                 }
+                                else if (_IdCardAutorizado != string.Empty && _sPlaca == "------")
+                                {
+                                    bool bAutorizado = false;
+                                    bool ok2 = false;
+                                    bool bAutoVencida2 = false;
+
+                                    #region validacionAutorizado
+
+                                    Autorizado oAutorizado = new Autorizado();
+                                    oAutorizado.PlacaAuto = _sPlaca;
+                                    oAutorizado.IdTarjeta = _IdCardAutorizado;
+                                    General_Events = "oAutorizado.PlacaAuto : " + oAutorizado.PlacaAuto;
+
+                                    if (_frmPrincipal_Presenter.ObtenerAutorizado(oAutorizado))
+                                    {
+                                        ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+                                        for (int i = 0; i < _lstDtoAutorizado.Count; i++)
+                                        {
+                                            if (_lstDtoAutorizado[i].IdEstacionamiento == Convert.ToInt64(Globales.iCodigoEstacionamiento))
+                                            {
+
+                                                if (_lstDtoAutorizado[i].EstadoAutorizacion && _lstDtoAutorizado[i].Estado && DateTime.Now >= _lstDtoAutorizado[i].FechaInicial && DateTime.Now <= _lstDtoAutorizado[i].FechaFinal)
+                                                {
+                                                    if (_frmPrincipal_Presenter.ValidarIngresoAuto(_lstDtoAutorizado[i].IdTarjeta))
+                                                    {
+                                                        ok2 = true;
+                                                        bAutoVencida2 = false;
+                                                        CntAuto = i;
+                                                        break;
+                                                    }
+                                                    else
+                                                    {
+
+                                                        #region OLD
+                                                        //simpleSound = new SoundPlayer(_sPathTarjetaSinRegistroSalida);
+                                                        //simpleSound.Play();
+                                                        //Presentacion = Pantalla.TarjetaSinRegistroSalida;
+                                                        //break;
+                                                        ////General_Events = "TarjetaSinRegistroSalida";
+                                                        //////ok = true;
+                                                        //////bAutoVencida = false;
+                                                        //////bTarjetaInvalida = false;
+                                                        //////CntAuto = i;
+                                                        //////break;
+                                                        #endregion
+
+                                                        simpleSound = new SoundPlayer(_sPathMensualidadUso);
+                                                        simpleSound.Play();
+                                                        _IdCardAutorizado = "USO";
+
+                                                        if (Globales.sCarrilMixto == "NO")
+                                                        {
+                                                            VehiculoMoto = true;
+                                                            #region Tarjeta
+                                                            //escribir
+                                                            //_Tarjeta.ActiveCycle = true;
+                                                            //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
+                                                            //_Tarjeta.EntrancePlate = _sPlaca;
+                                                            //_Tarjeta.DateTimeEntrance = _FechaCompleta;
+                                                            //_Tarjeta.EntranceModule = Globales.sSerial;
+
+                                                            //_frmPrincipal_Presenter.Escribirtarjeta();
+                                                            #endregion
+                                                        }
+                                                        else
+                                                        {
+                                                            VehiculoMoto = false;
+                                                            #region Tarjeta
+                                                            //escribir
+                                                            //_Tarjeta.ActiveCycle = true;
+                                                            //_Tarjeta.EntrancePlate = _sPlaca;
+                                                            //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
+                                                            //_Tarjeta.DateTimeEntrance = _FechaCompleta;
+                                                            //_Tarjeta.EntranceModule = Globales.sSerial;
+
+                                                            //_frmPrincipal_Presenter.Escribirtarjeta();
+                                                            #endregion
+                                                        }
+                                                        //Presentacion = Pantalla.TarjetaSinRegistroSalida;
+                                                        break;
+                                                        ////General_Events = "TarjetaSinRegistroSalida";
+                                                        ////ok = true;
+                                                        ////bAutoVencida = false;
+                                                        ////bTarjetaInvalida = false;
+                                                        ////CntAuto = i;
+                                                        ////break;
+                                                    }
+
+                                                }
+                                                else
+                                                {
+                                                    simpleSound = new SoundPlayer(_sPathAutoVencida);
+                                                    simpleSound.Play();
+                                                    bAutoVencida2 = true;
+                                                    Presentacion = Pantalla.AutorizacionVencida;
+                                                    if (_VehiculoMueble == false)
+                                                    {
+                                                        VehiculoMoto = true;
+                                                        #region Tarjeta
+                                                        //escribir
+                                                        //_Tarjeta.ActiveCycle = true;
+                                                        //_Tarjeta.DateTimeEntrance = _FechaCompleta;
+                                                        //_Tarjeta.EntranceModule = Globales.sSerial;
+                                                        //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
+
+                                                        //_frmPrincipal_Presenter.Escribirtarjeta();
+                                                        #endregion
+                                                    }
+                                                    else
+                                                    {
+                                                        VehiculoMoto = false;
+
+                                                        #region Tarjeta
+                                                        //escribir
+                                                        //_Tarjeta.ActiveCycle = true;
+                                                        //_Tarjeta.DateTimeEntrance = _FechaCompleta;
+                                                        //_Tarjeta.EntranceModule = Globales.sSerial;
+                                                        //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
+
+                                                        //_frmPrincipal_Presenter.Escribirtarjeta();
+                                                        #endregion
+                                                    }
+
+                                                }
+                                            }
+                                            else
+                                            {
+                                                //Presentacion = Pantalla.TarjetaInvalida;
+                                                //bTarjetaInvalida = true;
+                                            }
+                                        }
+
+                                        if (ok2)
+                                        {
+                                            RegistroEntradaAutorizado(CntAuto);
+                                        }
+                                        //else if (bAutoVencida2)
+                                        //{
+                                        //    simpleSound = new SoundPlayer(_sPathAutoVencida);
+                                        //    simpleSound.Play();
+                                        //    Presentacion = Pantalla.AutorizacionVencida;
+                                        //}
+                                    }
+                                    else
+                                    {
+                                        //_frmPrincipal_Presenter.EstadoControl();
+                                        RegistroEntrada();
+                                        //if (_VehiculoMueble==false)
+                                        //{
+                                        //    VehiculoMoto = true;
+
+                                        //    //escribir
+                                        //    _Tarjeta.ActiveCycle = true;
+                                        //    _Tarjeta.EntrancePlate = _sPlaca;
+                                        //    _Tarjeta.DateTimeEntrance = _FechaCompleta;
+                                        //    _Tarjeta.EntranceModule = Globales.sSerial;
+                                        //    _Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
+
+                                        //    _frmPrincipal_Presenter.Escribirtarjeta();
+                                        //}
+                                        //else
+                                        //{
+                                        //    VehiculoMoto = false;
+
+                                        //    //escribir
+                                        //    _Tarjeta.ActiveCycle = true;
+                                        //    _Tarjeta.EntrancePlate = _sPlaca;
+                                        //    _Tarjeta.DateTimeEntrance = _FechaCompleta;
+                                        //    _Tarjeta.EntranceModule = Globales.sSerial;
+                                        //    _Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
+
+                                        //    _frmPrincipal_Presenter.Escribirtarjeta();
+                                        //}
+                                    }
+                                    #endregion
+                                }
+
                                 else
                                 {
                                     if (_Moto)
@@ -1714,8 +1892,12 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                 Imagen_AutoVencida.BackgroundImageLayout = ImageLayout.Stretch;
                 Imagen_SinTarjetas.Dock = DockStyle.Fill;
                 Imagen_SinTarjetas.BackgroundImageLayout = ImageLayout.Stretch;
-
+                //TbTag.Location = new Point(-7, -34);
+                //TbTag.MaxLength = 50;
+                //TbTag.Parent = Animacion_Principal;
                 tmrTimeOut.Enabled = true;
+
+             
                 //tmrEnvioImagenes.Enabled = true;
 
 
@@ -2130,89 +2312,6 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
         {
 
         }
-        public void CapturaPlacaNew()
-        {
-            #region Old
-            //string Placa = string.Empty;
-
-            //try
-            //{
-            //    string ipServer = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.IPLPR);
-            //    General_Events = "(FrontEnd CapturaPlaca) ipServer: " + ipServer;
-
-            //    string IDLPR = Globales.sIDLPR;
-            //    Int32 port = Convert.ToInt32(Globales.sPuertoLPR);
-            //    string message = "[lpr;" + IDLPR + ";1;242CF]";
-            //    TcpClient client = new TcpClient(ipServer, port);
-
-            //    Byte[] data = System.Text.Encoding.ASCII.GetBytes(message);
-            //    NetworkStream stream = client.GetStream();
-            //    stream.Write(data, 0, data.Length);
-            //    General_Events = "(FrontEnd CapturaPlaca) message: " + message;
-
-            //    data = new Byte[256];
-            //    String responseData = String.Empty;
-
-            //    Int32 bytes = stream.Read(data, 0, data.Length);
-            //    responseData = System.Text.Encoding.ASCII.GetString(data, 0, bytes);
-            //    string[] temp = responseData.Split(';');
-            //    Placa = temp[4];
-            //    General_Events = "(FrontEnd CapturaPlaca) Placa: " + Placa;
-
-            //    if (Placa == string.Empty)
-            //    {
-            //        Placa = "------";
-            //    }
-
-            //}
-            //catch (Exception ex)
-            //{
-            //    General_Events = "(FrontEnd ERROR CapturaPlaca) " + ex.ToString();
-            //}
-
-            //_sPlaca = Placa;
-            #endregion
-
-            //try
-            //{
-            //    string IpCamera = string.Empty;
-
-            //    for (int i = 0; i < _DtoModulo.Partes.Count; i++)
-            //    {
-            //        if (_DtoModulo.Partes[i].TipoParte == "LPR" && _DtoModulo.Partes[i].Estado)
-            //        {
-            //            IpCamera = _DtoModulo.Partes[i].IPDispositivo;
-            //            break;
-            //        }
-            //    }
-            //    string UserName = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.UsuarioCamaras).ToString();
-            //    string Password = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.PasswordCamaras).ToString();
-
-            //    string strUrl = "http://" + IpCamera + "/ISAPI/Traffic/channels/1/vehicleDetect/plates";
-            //    string param = "<AfterTime></AfterTime>";
-            //    WebClient client = new WebClient();
-            //    // Set the user name and password
-            //    client.Credentials = new NetworkCredential("" + UserName + "", "" + Password + "");
-            //    string responseData = client.UploadString(strUrl, param);
-
-            //    XmlSerializer xmlSerializer = new XmlSerializer(typeof(Plates));
-            //    using (StringReader textReader = new StringReader(responseData))
-            //    {
-            //        var rta = (Plates)xmlSerializer.Deserialize(textReader);
-            //        _sPlaca = rta.Plate[rta.Plate.Count - 1].PlateNumber;
-
-            //        General_Events = "(FrontEnd CapturaPlaca) Placa: " + _sPlaca;
-
-            //    }
-
-            //}
-            //catch (Exception ex)
-            //{
-            //    Console.WriteLine(ex.Message);
-            //}
-            _sPlaca = "-----";
-
-        }
 
         #region CamaraEvento
         //private void CapturaPlaca()
@@ -2465,7 +2564,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                 {
 
                     case Pantalla.SalvaPantallas:
-                        _cnt_timeout = 0;
+                        _cnt_timeout = 0;                                           
                         Animacion_Principal.BringToFront();
                         RestablecerValores();
                         break;
@@ -2555,6 +2654,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
         {
             try
             {
+                CapturaRutaBarras();
                 General_Events = "FrondEnd-Imprimir -> Funcion imprimir Ticket.";
                 ReportDataSource dataSource = new ReportDataSource();                
                 LocalReport localReport = new LocalReport();
@@ -2573,6 +2673,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                 ore.Dispose();
                 ore = null;
                 localReport.Dispose();
+                EliminarCodigoBarras();
 
             }
             catch (Exception ex )
@@ -2581,12 +2682,218 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                 General_Events = "Error- FrondEnd-Imprimir ->" + ex.ToString();
             }
         }
+
+        public void CapturaPlacaNew()
+        {
+
+            #region Old
+            //try
+            //{
+            //    string IpCamera = string.Empty;
+
+            //    for (int i = 0; i < _DtoModulo.Partes.Count; i++)
+            //    {
+            //        if (_DtoModulo.Partes[i].TipoParte == "LPR" && _DtoModulo.Partes[i].Estado)
+            //        {
+            //            IpCamera = _DtoModulo.Partes[i].IPDispositivo;
+            //            break;
+            //        }
+            //    }
+            //    string UserName = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.UsuarioCamaras).ToString();
+            //    string Password = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.PasswordCamaras).ToString();
+
+            //    string strUrl = "http://" + IpCamera + "/ISAPI/Traffic/channels/1/vehicleDetect/plates";
+            //    string param = "<AfterTime></AfterTime>";
+            //    WebClient client = new WebClient();
+            //    // Set the user name and password
+            //    client.Credentials = new NetworkCredential("" + UserName + "", "" + Password + "");
+            //    string responseData = client.UploadString(strUrl, param);
+
+            //    XmlSerializer xmlSerializer = new XmlSerializer(typeof(Plates));
+            //    using (StringReader textReader = new StringReader(responseData))
+            //    {
+            //        var rta = (Plates)xmlSerializer.Deserialize(textReader);
+            //        _sPlaca = rta.Plate[rta.Plate.Count - 1].PlateNumber;
+            //        General_Events = "(FrontEnd CapturaPlaca) Placa: " + _sPlaca;
+
+            //    }
+
+            //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine(ex.Message);
+            //}
+            #endregion
+            string Placa = string.Empty;
+            string rutaPlaca = string.Empty;
+
+
+            for (int i = 0; i < _DtoModulo.Parametros.Count; i++)
+            {
+                if (_DtoModulo.Parametros[i].Codigo == "Placas" + Globales.sSerial + "" && _DtoModulo.Parametros[i].Estado)
+                {
+                    rutaPlaca = _DtoModulo.Parametros[i].Valor;
+                    break;
+                }
+            }
+            //LEER OLD
+            //TextReader leer = new StreamReader("" + rutaPlaca + "" + "" + Globales.sSerial + "" + ".txt");
+            //Placa = leer.ReadToEnd();
+            //_sPlaca = Placa.TrimEnd();
+
+            if (File.Exists(rutaPlaca + Globales.sSerial + ".txt"))
+            {
+                using (StreamReader leer = new StreamReader(rutaPlaca + Globales.sSerial + ".txt"))
+                {
+                    string placa = leer.ReadToEnd();
+                    _sPlaca = placa.TrimEnd();
+                }
+            }
+            else
+            {
+                _sPlaca = "------";
+            }
+
+        }
+        public void EliminarPlaca()
+        {
+            #region Old
+            //try
+            //{
+            //    string IpCamera = string.Empty;
+
+            //    for (int i = 0; i < _DtoModulo.Partes.Count; i++)
+            //    {
+            //        if (_DtoModulo.Partes[i].TipoParte == "LPR" && _DtoModulo.Partes[i].Estado)
+            //        {
+            //            IpCamera = _DtoModulo.Partes[i].IPDispositivo;
+            //            break;
+            //        }
+            //    }
+            //    string UserName = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.UsuarioCamaras).ToString();
+            //    string Password = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.PasswordCamaras).ToString();
+
+            //    string strUrl = "http://" + IpCamera + "/ISAPI/Traffic/channels/1/vehicleDetect/plates";
+            //    string param = "<AfterTime></AfterTime>";
+            //    WebClient client = new WebClient();
+            //    // Set the user name and password
+            //    client.Credentials = new NetworkCredential("" + UserName + "", "" + Password + "");
+            //    string responseData = client.UploadString(strUrl, param);
+
+            //    XmlSerializer xmlSerializer = new XmlSerializer(typeof(Plates));
+            //    using (StringReader textReader = new StringReader(responseData))
+            //    {
+            //        var rta = (Plates)xmlSerializer.Deserialize(textReader);
+            //        _sPlaca = rta.Plate[rta.Plate.Count - 1].PlateNumber;
+            //        General_Events = "(FrontEnd CapturaPlaca) Placa: " + _sPlaca;
+
+            //    }
+
+            //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine(ex.Message);
+            //}
+            #endregion
+
+            string Placa = string.Empty;
+            string rutaPlaca = string.Empty;
+
+
+            for (int i = 0; i < _DtoModulo.Parametros.Count; i++)
+            {
+                if (_DtoModulo.Parametros[i].Codigo == "Placas" + Globales.sSerial + "" && _DtoModulo.Parametros[i].Estado)
+                {
+                    rutaPlaca = _DtoModulo.Parametros[i].Valor;
+                    break;
+                }
+            }
+            //LEER OLD
+            //TextReader leer = new StreamReader("" + rutaPlaca + "" + "" + Globales.sSerial + "" + ".txt");
+            //Placa = leer.ReadToEnd();
+            //_sPlaca = Placa.TrimEnd();
+            string rutaPlacaGuardada = rutaPlaca + Globales.sSerial + ".txt";
+            if (File.Exists(rutaPlacaGuardada))
+            {
+                File.Delete(rutaPlacaGuardada);
+            }
+
+        }
+
+        public void CapturaRutaBarras()
+        {
+
+            #region Old
+            //try
+            //{
+            //    string IpCamera = string.Empty;
+
+            //    for (int i = 0; i < _DtoModulo.Partes.Count; i++)
+            //    {
+            //        if (_DtoModulo.Partes[i].TipoParte == "LPR" && _DtoModulo.Partes[i].Estado)
+            //        {
+            //            IpCamera = _DtoModulo.Partes[i].IPDispositivo;
+            //            break;
+            //        }
+            //    }
+            //    string UserName = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.UsuarioCamaras).ToString();
+            //    string Password = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.PasswordCamaras).ToString();
+
+            //    string strUrl = "http://" + IpCamera + "/ISAPI/Traffic/channels/1/vehicleDetect/plates";
+            //    string param = "<AfterTime></AfterTime>";
+            //    WebClient client = new WebClient();
+            //    // Set the user name and password
+            //    client.Credentials = new NetworkCredential("" + UserName + "", "" + Password + "");
+            //    string responseData = client.UploadString(strUrl, param);
+
+            //    XmlSerializer xmlSerializer = new XmlSerializer(typeof(Plates));
+            //    using (StringReader textReader = new StringReader(responseData))
+            //    {
+            //        var rta = (Plates)xmlSerializer.Deserialize(textReader);
+            //        _sPlaca = rta.Plate[rta.Plate.Count - 1].PlateNumber;
+            //        General_Events = "(FrontEnd CapturaPlaca) Placa: " + _sPlaca;
+
+            //    }
+
+            //}
+            //catch (Exception ex)
+            //{
+            //    Console.WriteLine(ex.Message);
+            //}
+            #endregion
+            string Placa = string.Empty;
+            string rutaBarras = string.Empty;
+
+
+            for (int i = 0; i < _DtoModulo.Parametros.Count; i++)
+            {
+                if (_DtoModulo.Parametros[i].Codigo == "CodigoBarras" + Globales.sSerial + "" && _DtoModulo.Parametros[i].Estado)
+                {
+                    rutaBarras = _DtoModulo.Parametros[i].Valor;
+                    break;
+                }
+            }
+            _imgUrl = rutaBarras;
+
+        }
+        public void EliminarCodigoBarras()
+        {  //LEER OLD
+            //TextReader leer = new StreamReader("" + rutaPlaca + "" + "" + Globales.sSerial + "" + ".txt");
+            //Placa = leer.ReadToEnd();
+            //_sPlaca = Placa.TrimEnd();
+            string rutaPlacaGuardada = imgUrl;
+            if (File.Exists(rutaPlacaGuardada))
+            {
+                File.Delete(rutaPlacaGuardada);
+            }
+
+        }
         #endregion
 
         #region PLC
         private void btn_llegoCarro_Click(object sender, EventArgs e)
         {
-
+            _IdCardAutorizado = TbTag.Text;
             SecuenciaTransaccion = DateTime.Now.ToString("yyyyMMddHHmmss") + oTransaccion.CarrilEntrada + 2;
 
             Presentacion = Pantalla.RetireTarjeta;
@@ -2625,6 +2932,31 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             Presentacion = Pantalla.SalvaPantallas;
         }
         #endregion
+
+        private void TbTag_KeyPress(object sender, KeyPressEventArgs e)
+        {
+                        
+             if (e.KeyChar == (char)13)
+            {
+
+                if (TbTag.Text != string.Empty && TbTag.Text.Length <= 17)
+                {
+                    _IdCardAutorizado = TbTag.Text.Trim();
+                }
+                else
+                {
+                    TbTag.Text = string.Empty;
+                }
+            }
+        }
+
+        private void btn_llegoCarro_Click_1(object sender, EventArgs e)
+        {
+            //TbTag.Focus();
+            _IdCardAutorizado = TbTag.Text;
+
+            string tab = _IdCardAutorizado;
+        }
 
 
     }

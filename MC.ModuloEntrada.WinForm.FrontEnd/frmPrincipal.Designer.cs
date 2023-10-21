@@ -50,6 +50,7 @@
             this.Animacion_Principal = new System.Windows.Forms.PictureBox();
             this.Animacion_RetireTarjeta = new System.Windows.Forms.PictureBox();
             this.Animacion_PublicidadSecundaria = new System.Windows.Forms.PictureBox();
+            this.TbTag = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.Imagen_DisfruteVisita)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Imagen_VehiculoEntrando)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Imagen_Fondo)).BeginInit();
@@ -88,7 +89,7 @@
             this.btn_llegoCarro.TabIndex = 2;
             this.btn_llegoCarro.Text = "Llego Carro Mueble";
             this.btn_llegoCarro.UseVisualStyleBackColor = true;
-            this.btn_llegoCarro.Click += new System.EventHandler(this.btn_llegoCarro_Click);
+            this.btn_llegoCarro.Click += new System.EventHandler(this.btn_llegoCarro_Click_1);
             // 
             // Imagen_Fondo
             // 
@@ -137,7 +138,6 @@
             this.btn_CarroBarrera.TabIndex = 14;
             this.btn_CarroBarrera.Text = "Llego Carro Barrera";
             this.btn_CarroBarrera.UseVisualStyleBackColor = true;
-            this.btn_CarroBarrera.Click += new System.EventHandler(this.btn_CarroBarrera_Click);
             // 
             // btn_CarroFuera
             // 
@@ -147,7 +147,6 @@
             this.btn_CarroFuera.TabIndex = 15;
             this.btn_CarroFuera.Text = "Salio Carro Barrera";
             this.btn_CarroFuera.UseVisualStyleBackColor = true;
-            this.btn_CarroFuera.Click += new System.EventHandler(this.btn_CarroFuera_Click);
             // 
             // Imagen_TarjetaInvalida
             // 
@@ -240,6 +239,14 @@
             this.Animacion_PublicidadSecundaria.TabIndex = 1188;
             this.Animacion_PublicidadSecundaria.TabStop = false;
             // 
+            // TbTag
+            // 
+            this.TbTag.Location = new System.Drawing.Point(1, 85);
+            this.TbTag.Name = "TbTag";
+            this.TbTag.Size = new System.Drawing.Size(159, 20);
+            this.TbTag.TabIndex = 1189;
+            this.TbTag.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TbTag_KeyPress);
+            // 
             // frmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -247,6 +254,7 @@
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(1022, 766);
             this.ControlBox = false;
+            this.Controls.Add(this.TbTag);
             this.Controls.Add(this.Animacion_PublicidadSecundaria);
             this.Controls.Add(this.Animacion_RetireTarjeta);
             this.Controls.Add(this.Animacion_Principal);
@@ -312,6 +320,7 @@
         private System.Windows.Forms.PictureBox Animacion_Principal;
         private System.Windows.Forms.PictureBox Animacion_RetireTarjeta;
         private System.Windows.Forms.PictureBox Animacion_PublicidadSecundaria;
+        private System.Windows.Forms.TextBox TbTag;
     }
 }
 

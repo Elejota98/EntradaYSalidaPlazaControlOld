@@ -265,3 +265,1903 @@
 2023/10/20 03:16:37.491 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
 2023/10/20 03:16:38.657 - MENSAJE: 
 2023/10/20 03:16:57.599 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:42:38.230 - INICIO REGISTRO
+2023/10/20 03:42:38.238 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 03:42:38.357 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 03:42:40.609 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 03:42:40.658 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 03:42:40.696 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 03:42:40.741 - MENSAJE: 
+2023/10/20 03:42:40.962 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 03:42:41.615 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:42:42.485 - MENSAJE: Error- FrondEnd-Imprimir ->System.Runtime.InteropServices.ExternalException (0x80004005): Error genérico en GDI+.
+   en System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   en System.Drawing.Image.Save(String filename, ImageFormat format)
+   en System.Drawing.Image.Save(String filename)
+   en MC.ModuloEntrada.WinForm.Presenter.frmPrincipal_Presenter.GenerarTicketEntrada(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 1666
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.Imprimir(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 2562
+2023/10/20 03:42:42.496 - MENSAJE: 
+2023/10/20 03:42:42.498 - MENSAJE: 
+2023/10/20 03:42:42.501 - MENSAJE: 
+2023/10/20 03:42:42.552 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:42:42.575 - MENSAJE: Error- FrondEnd-Imprimir ->System.Runtime.InteropServices.ExternalException (0x80004005): Error genérico en GDI+.
+   en System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   en System.Drawing.Image.Save(String filename, ImageFormat format)
+   en System.Drawing.Image.Save(String filename)
+   en MC.ModuloEntrada.WinForm.Presenter.frmPrincipal_Presenter.GenerarTicketEntrada(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 1666
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.Imprimir(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 2562
+2023/10/20 03:42:42.576 - MENSAJE: 
+2023/10/20 03:42:42.576 - MENSAJE: 
+2023/10/20 03:42:42.586 - MENSAJE: 
+2023/10/20 03:42:43.229 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:42:43.263 - MENSAJE: Error- FrondEnd-Imprimir ->System.Runtime.InteropServices.ExternalException (0x80004005): Error genérico en GDI+.
+   en System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   en System.Drawing.Image.Save(String filename, ImageFormat format)
+   en System.Drawing.Image.Save(String filename)
+   en MC.ModuloEntrada.WinForm.Presenter.frmPrincipal_Presenter.GenerarTicketEntrada(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 1666
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.Imprimir(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 2562
+2023/10/20 03:42:43.264 - MENSAJE: 
+2023/10/20 03:42:43.264 - MENSAJE: 
+2023/10/20 03:42:43.275 - MENSAJE: 
+2023/10/20 03:42:44.231 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:42:44.256 - MENSAJE: Error- FrondEnd-Imprimir ->System.Runtime.InteropServices.ExternalException (0x80004005): Error genérico en GDI+.
+   en System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   en System.Drawing.Image.Save(String filename, ImageFormat format)
+   en System.Drawing.Image.Save(String filename)
+   en MC.ModuloEntrada.WinForm.Presenter.frmPrincipal_Presenter.GenerarTicketEntrada(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 1666
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.Imprimir(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 2562
+2023/10/20 03:42:44.257 - MENSAJE: 
+2023/10/20 03:42:44.257 - MENSAJE: 
+2023/10/20 03:42:44.268 - MENSAJE: 
+2023/10/20 03:42:45.230 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:42:45.264 - MENSAJE: Error- FrondEnd-Imprimir ->System.Runtime.InteropServices.ExternalException (0x80004005): Error genérico en GDI+.
+   en System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   en System.Drawing.Image.Save(String filename, ImageFormat format)
+   en System.Drawing.Image.Save(String filename)
+   en MC.ModuloEntrada.WinForm.Presenter.frmPrincipal_Presenter.GenerarTicketEntrada(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 1666
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.Imprimir(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 2562
+2023/10/20 03:42:45.265 - MENSAJE: 
+2023/10/20 03:42:45.265 - MENSAJE: 
+2023/10/20 03:42:45.275 - MENSAJE: 
+2023/10/20 03:42:46.229 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:42:46.270 - MENSAJE: Error- FrondEnd-Imprimir ->System.Runtime.InteropServices.ExternalException (0x80004005): Error genérico en GDI+.
+   en System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   en System.Drawing.Image.Save(String filename, ImageFormat format)
+   en System.Drawing.Image.Save(String filename)
+   en MC.ModuloEntrada.WinForm.Presenter.frmPrincipal_Presenter.GenerarTicketEntrada(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 1666
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.Imprimir(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 2562
+2023/10/20 03:42:46.270 - MENSAJE: 
+2023/10/20 03:42:46.271 - MENSAJE: 
+2023/10/20 03:42:46.281 - MENSAJE: 
+2023/10/20 03:42:47.231 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:42:47.255 - MENSAJE: Error- FrondEnd-Imprimir ->System.Runtime.InteropServices.ExternalException (0x80004005): Error genérico en GDI+.
+   en System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   en System.Drawing.Image.Save(String filename, ImageFormat format)
+   en System.Drawing.Image.Save(String filename)
+   en MC.ModuloEntrada.WinForm.Presenter.frmPrincipal_Presenter.GenerarTicketEntrada(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 1666
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.Imprimir(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 2562
+2023/10/20 03:42:47.256 - MENSAJE: 
+2023/10/20 03:42:47.256 - MENSAJE: 
+2023/10/20 03:42:47.267 - MENSAJE: 
+2023/10/20 03:42:48.230 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:42:48.255 - MENSAJE: Error- FrondEnd-Imprimir ->System.Runtime.InteropServices.ExternalException (0x80004005): Error genérico en GDI+.
+   en System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   en System.Drawing.Image.Save(String filename, ImageFormat format)
+   en System.Drawing.Image.Save(String filename)
+   en MC.ModuloEntrada.WinForm.Presenter.frmPrincipal_Presenter.GenerarTicketEntrada(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 1666
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.Imprimir(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 2562
+2023/10/20 03:42:48.256 - MENSAJE: 
+2023/10/20 03:42:48.257 - MENSAJE: 
+2023/10/20 03:42:48.268 - MENSAJE: 
+2023/10/20 03:42:49.234 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:42:49.259 - MENSAJE: Error- FrondEnd-Imprimir ->System.Runtime.InteropServices.ExternalException (0x80004005): Error genérico en GDI+.
+   en System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   en System.Drawing.Image.Save(String filename, ImageFormat format)
+   en System.Drawing.Image.Save(String filename)
+   en MC.ModuloEntrada.WinForm.Presenter.frmPrincipal_Presenter.GenerarTicketEntrada(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 1666
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.Imprimir(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 2562
+2023/10/20 03:42:49.260 - MENSAJE: 
+2023/10/20 03:42:49.261 - MENSAJE: 
+2023/10/20 03:42:49.284 - MENSAJE: 
+2023/10/20 03:42:50.243 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:42:50.284 - MENSAJE: Error- FrondEnd-Imprimir ->System.Runtime.InteropServices.ExternalException (0x80004005): Error genérico en GDI+.
+   en System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   en System.Drawing.Image.Save(String filename, ImageFormat format)
+   en System.Drawing.Image.Save(String filename)
+   en MC.ModuloEntrada.WinForm.Presenter.frmPrincipal_Presenter.GenerarTicketEntrada(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 1666
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.Imprimir(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 2562
+2023/10/20 03:42:50.285 - MENSAJE: 
+2023/10/20 03:42:50.285 - MENSAJE: 
+2023/10/20 03:42:50.296 - MENSAJE: 
+2023/10/20 03:42:51.247 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:42:51.270 - MENSAJE: Error- FrondEnd-Imprimir ->System.Runtime.InteropServices.ExternalException (0x80004005): Error genérico en GDI+.
+   en System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   en System.Drawing.Image.Save(String filename, ImageFormat format)
+   en System.Drawing.Image.Save(String filename)
+   en MC.ModuloEntrada.WinForm.Presenter.frmPrincipal_Presenter.GenerarTicketEntrada(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 1666
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.Imprimir(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 2562
+2023/10/20 03:42:51.271 - MENSAJE: 
+2023/10/20 03:42:51.271 - MENSAJE: 
+2023/10/20 03:42:57.338 - MENSAJE: 
+2023/10/20 03:43:13.074 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:43:28.302 - MENSAJE: Error- FrondEnd-Imprimir ->System.Runtime.InteropServices.ExternalException (0x80004005): Error genérico en GDI+.
+   en System.Drawing.Image.Save(String filename, ImageCodecInfo encoder, EncoderParameters encoderParams)
+   en System.Drawing.Image.Save(String filename, ImageFormat format)
+   en System.Drawing.Image.Save(String filename)
+   en MC.ModuloEntrada.WinForm.Presenter.frmPrincipal_Presenter.GenerarTicketEntrada(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 1666
+   en MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.Imprimir(Transaccion transaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\frmPrincipal.cs:línea 2562
+2023/10/20 03:46:42.673 - INICIO REGISTRO
+2023/10/20 03:46:42.683 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 03:46:42.820 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 03:46:45.217 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2023/10/20 03:47:11.281 - INICIO REGISTRO
+2023/10/20 03:47:11.290 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 03:47:11.446 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 03:47:12.060 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2023/10/20 03:47:34.498 - INICIO REGISTRO
+2023/10/20 03:47:36.206 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 03:47:36.631 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 03:47:40.775 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2023/10/20 03:49:32.381 - INICIO REGISTRO
+2023/10/20 03:49:35.453 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 03:49:35.575 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 03:49:37.438 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 03:49:37.493 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 03:49:37.532 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 03:49:37.585 - MENSAJE: 
+2023/10/20 03:49:37.639 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 03:49:46.465 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:50:20.988 - INICIO REGISTRO
+2023/10/20 03:50:20.995 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 03:50:21.109 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 03:50:21.852 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 03:50:21.884 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 03:50:21.905 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 03:50:21.935 - MENSAJE: 
+2023/10/20 03:50:22.014 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 03:50:50.327 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:53:21.743 - INICIO REGISTRO
+2023/10/20 03:53:21.751 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 03:53:21.861 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 03:53:22.558 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 03:53:22.585 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 03:53:22.605 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 03:53:22.641 - MENSAJE: 
+2023/10/20 03:53:22.720 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 03:53:25.281 - MENSAJE: 
+2023/10/20 03:53:32.093 - MENSAJE: 
+2023/10/20 03:53:32.098 - MENSAJE: 
+2023/10/20 03:53:32.177 - MENSAJE: 
+2023/10/20 03:53:32.177 - MENSAJE: 
+2023/10/20 03:53:32.190 - MENSAJE: 
+2023/10/20 03:53:32.748 - MENSAJE: 
+2023/10/20 03:53:32.748 - MENSAJE: 
+2023/10/20 03:53:32.759 - MENSAJE: 
+2023/10/20 03:53:33.749 - MENSAJE: 
+2023/10/20 03:53:33.749 - MENSAJE: 
+2023/10/20 03:53:33.760 - MENSAJE: 
+2023/10/20 03:53:34.759 - MENSAJE: 
+2023/10/20 03:53:34.759 - MENSAJE: 
+2023/10/20 03:53:34.770 - MENSAJE: 
+2023/10/20 03:53:35.774 - MENSAJE: 
+2023/10/20 03:53:35.775 - MENSAJE: 
+2023/10/20 03:53:35.786 - MENSAJE: 
+2023/10/20 03:53:36.745 - MENSAJE: 
+2023/10/20 03:53:36.745 - MENSAJE: 
+2023/10/20 03:53:36.756 - MENSAJE: 
+2023/10/20 03:53:37.751 - MENSAJE: 
+2023/10/20 03:53:37.751 - MENSAJE: 
+2023/10/20 03:53:37.762 - MENSAJE: 
+2023/10/20 03:53:38.755 - MENSAJE: 
+2023/10/20 03:53:38.755 - MENSAJE: 
+2023/10/20 03:53:38.766 - MENSAJE: 
+2023/10/20 03:53:39.755 - MENSAJE: 
+2023/10/20 03:53:39.756 - MENSAJE: 
+2023/10/20 03:53:39.766 - MENSAJE: 
+2023/10/20 03:53:40.755 - MENSAJE: 
+2023/10/20 03:53:40.755 - MENSAJE: 
+2023/10/20 03:53:40.766 - MENSAJE: 
+2023/10/20 03:53:41.756 - MENSAJE: 
+2023/10/20 03:53:41.756 - MENSAJE: 
+2023/10/20 03:53:41.767 - MENSAJE: 
+2023/10/20 03:53:42.756 - MENSAJE: 
+2023/10/20 03:53:42.756 - MENSAJE: 
+2023/10/20 03:53:42.767 - MENSAJE: 
+2023/10/20 03:53:43.756 - MENSAJE: 
+2023/10/20 03:53:43.756 - MENSAJE: 
+2023/10/20 03:53:43.767 - MENSAJE: 
+2023/10/20 03:53:44.757 - MENSAJE: 
+2023/10/20 03:53:44.758 - MENSAJE: 
+2023/10/20 03:53:44.768 - MENSAJE: 
+2023/10/20 03:53:45.755 - MENSAJE: 
+2023/10/20 03:53:45.755 - MENSAJE: 
+2023/10/20 03:53:45.766 - MENSAJE: 
+2023/10/20 03:53:46.744 - MENSAJE: 
+2023/10/20 03:53:46.744 - MENSAJE: 
+2023/10/20 03:53:46.755 - MENSAJE: 
+2023/10/20 03:53:47.758 - MENSAJE: 
+2023/10/20 03:53:47.758 - MENSAJE: 
+2023/10/20 03:53:47.768 - MENSAJE: 
+2023/10/20 03:53:48.743 - MENSAJE: 
+2023/10/20 03:53:48.743 - MENSAJE: 
+2023/10/20 03:53:48.753 - MENSAJE: 
+2023/10/20 03:53:49.755 - MENSAJE: 
+2023/10/20 03:53:49.755 - MENSAJE: 
+2023/10/20 03:53:49.766 - MENSAJE: 
+2023/10/20 03:53:50.746 - MENSAJE: 
+2023/10/20 03:53:50.746 - MENSAJE: 
+2023/10/20 03:53:50.757 - MENSAJE: 
+2023/10/20 03:53:51.756 - MENSAJE: 
+2023/10/20 03:53:51.756 - MENSAJE: 
+2023/10/20 03:53:51.766 - MENSAJE: 
+2023/10/20 03:53:52.756 - MENSAJE: 
+2023/10/20 03:53:52.756 - MENSAJE: 
+2023/10/20 03:53:52.767 - MENSAJE: 
+2023/10/20 03:53:53.752 - MENSAJE: 
+2023/10/20 03:53:53.752 - MENSAJE: 
+2023/10/20 03:53:53.762 - MENSAJE: 
+2023/10/20 03:53:54.764 - MENSAJE: 
+2023/10/20 03:53:54.764 - MENSAJE: 
+2023/10/20 03:53:54.774 - MENSAJE: 
+2023/10/20 03:53:55.777 - MENSAJE: 
+2023/10/20 03:53:55.777 - MENSAJE: 
+2023/10/20 03:53:55.787 - MENSAJE: 
+2023/10/20 03:53:56.778 - MENSAJE: 
+2023/10/20 03:53:56.778 - MENSAJE: 
+2023/10/20 03:53:56.789 - MENSAJE: 
+2023/10/20 03:53:57.788 - MENSAJE: 
+2023/10/20 03:53:57.788 - MENSAJE: 
+2023/10/20 03:53:57.799 - MENSAJE: 
+2023/10/20 03:53:58.751 - MENSAJE: 
+2023/10/20 03:53:58.751 - MENSAJE: 
+2023/10/20 03:53:58.761 - MENSAJE: 
+2023/10/20 03:53:59.745 - MENSAJE: 
+2023/10/20 03:53:59.745 - MENSAJE: 
+2023/10/20 03:53:59.756 - MENSAJE: 
+2023/10/20 03:54:00.746 - MENSAJE: 
+2023/10/20 03:54:00.746 - MENSAJE: 
+2023/10/20 03:54:06.456 - MENSAJE: 
+2023/10/20 03:54:13.763 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:54:15.667 - MENSAJE: 
+2023/10/20 03:54:15.667 - MENSAJE: 
+2023/10/20 03:57:09.371 - INICIO REGISTRO
+2023/10/20 03:57:09.379 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 03:57:09.511 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 03:57:10.217 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 03:57:10.255 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 03:57:10.285 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 03:57:10.333 - MENSAJE: 
+2023/10/20 03:57:10.410 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 03:57:10.475 - MENSAJE: 
+2023/10/20 03:57:10.483 - MENSAJE: 
+2023/10/20 03:57:10.485 - MENSAJE: 
+2023/10/20 03:57:11.371 - MENSAJE: 
+2023/10/20 03:57:11.371 - MENSAJE: 
+2023/10/20 03:57:11.382 - MENSAJE: 
+2023/10/20 03:57:12.376 - MENSAJE: 
+2023/10/20 03:57:12.376 - MENSAJE: 
+2023/10/20 03:57:12.387 - MENSAJE: 
+2023/10/20 03:57:13.385 - MENSAJE: 
+2023/10/20 03:57:13.385 - MENSAJE: 
+2023/10/20 03:57:13.395 - MENSAJE: 
+2023/10/20 03:57:14.398 - MENSAJE: 
+2023/10/20 03:57:14.398 - MENSAJE: 
+2023/10/20 03:57:14.409 - MENSAJE: 
+2023/10/20 03:57:15.369 - MENSAJE: 
+2023/10/20 03:57:15.372 - MENSAJE: 
+2023/10/20 03:57:15.380 - MENSAJE: 
+2023/10/20 03:57:16.370 - MENSAJE: 
+2023/10/20 03:57:16.371 - MENSAJE: 
+2023/10/20 03:57:16.381 - MENSAJE: 
+2023/10/20 03:57:17.373 - MENSAJE: 
+2023/10/20 03:57:17.373 - MENSAJE: 
+2023/10/20 03:57:17.384 - MENSAJE: 
+2023/10/20 03:57:18.370 - MENSAJE: 
+2023/10/20 03:57:18.370 - MENSAJE: 
+2023/10/20 03:57:18.381 - MENSAJE: 
+2023/10/20 03:57:19.382 - MENSAJE: 
+2023/10/20 03:57:19.382 - MENSAJE: 
+2023/10/20 03:57:19.393 - MENSAJE: 
+2023/10/20 03:57:20.368 - MENSAJE: 
+2023/10/20 03:57:20.368 - MENSAJE: 
+2023/10/20 03:57:20.379 - MENSAJE: 
+2023/10/20 03:57:21.372 - MENSAJE: 
+2023/10/20 03:57:21.372 - MENSAJE: 
+2023/10/20 03:57:26.082 - MENSAJE: 
+2023/10/20 03:57:26.320 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:57:28.228 - MENSAJE: 
+2023/10/20 03:57:28.228 - MENSAJE: 
+2023/10/20 03:57:28.277 - MENSAJE: 
+2023/10/20 03:57:28.370 - MENSAJE: 
+2023/10/20 03:57:29.374 - MENSAJE: 
+2023/10/20 03:57:30.369 - MENSAJE: 
+2023/10/20 03:57:31.373 - MENSAJE: 
+2023/10/20 03:57:32.375 - MENSAJE: 
+2023/10/20 03:57:33.372 - MENSAJE: 
+2023/10/20 03:57:34.370 - MENSAJE: 
+2023/10/20 03:57:35.369 - MENSAJE: 
+2023/10/20 03:57:36.379 - MENSAJE: 
+2023/10/20 03:57:37.380 - MENSAJE: 
+2023/10/20 03:57:38.381 - MENSAJE: 
+2023/10/20 03:57:39.381 - MENSAJE: 
+2023/10/20 03:57:40.381 - MENSAJE: 
+2023/10/20 03:57:41.379 - MENSAJE: 
+2023/10/20 03:57:42.377 - MENSAJE: 
+2023/10/20 03:57:43.378 - MENSAJE: 
+2023/10/20 03:57:44.377 - MENSAJE: 
+2023/10/20 03:57:45.376 - MENSAJE: 
+2023/10/20 03:57:46.373 - MENSAJE: 
+2023/10/20 03:57:47.373 - MENSAJE: 
+2023/10/20 03:57:48.373 - MENSAJE: 
+2023/10/20 03:57:49.373 - MENSAJE: 
+2023/10/20 03:57:50.372 - MENSAJE: 
+2023/10/20 03:57:51.371 - MENSAJE: 
+2023/10/20 03:57:52.372 - MENSAJE: 
+2023/10/20 03:57:53.371 - MENSAJE: 
+2023/10/20 03:57:53.787 - MENSAJE: 
+2023/10/20 03:57:53.798 - MENSAJE: 
+2023/10/20 03:57:54.372 - MENSAJE: 
+2023/10/20 03:57:54.372 - MENSAJE: 
+2023/10/20 03:57:54.382 - MENSAJE: 
+2023/10/20 03:57:55.372 - MENSAJE: 
+2023/10/20 03:57:55.372 - MENSAJE: 
+2023/10/20 03:57:55.383 - MENSAJE: 
+2023/10/20 03:57:56.371 - MENSAJE: 
+2023/10/20 03:57:56.371 - MENSAJE: 
+2023/10/20 03:57:56.382 - MENSAJE: 
+2023/10/20 03:57:57.369 - MENSAJE: 
+2023/10/20 03:57:57.369 - MENSAJE: 
+2023/10/20 03:57:57.380 - MENSAJE: 
+2023/10/20 03:57:58.382 - MENSAJE: 
+2023/10/20 03:57:58.382 - MENSAJE: 
+2023/10/20 03:57:58.393 - MENSAJE: 
+2023/10/20 03:57:59.381 - MENSAJE: 
+2023/10/20 03:57:59.381 - MENSAJE: 
+2023/10/20 03:57:59.392 - MENSAJE: 
+2023/10/20 03:58:00.380 - MENSAJE: 
+2023/10/20 03:58:00.380 - MENSAJE: 
+2023/10/20 03:58:00.391 - MENSAJE: 
+2023/10/20 03:58:01.381 - MENSAJE: 
+2023/10/20 03:58:01.381 - MENSAJE: 
+2023/10/20 03:58:01.393 - MENSAJE: 
+2023/10/20 03:58:02.381 - MENSAJE: 
+2023/10/20 03:58:02.382 - MENSAJE: 
+2023/10/20 03:58:02.392 - MENSAJE: 
+2023/10/20 03:58:03.380 - MENSAJE: 
+2023/10/20 03:58:03.380 - MENSAJE: 
+2023/10/20 03:58:03.391 - MENSAJE: 
+2023/10/20 03:58:04.381 - MENSAJE: 
+2023/10/20 03:58:04.381 - MENSAJE: 
+2023/10/20 03:58:04.392 - MENSAJE: 
+2023/10/20 03:58:05.381 - MENSAJE: 
+2023/10/20 03:58:05.381 - MENSAJE: 
+2023/10/20 03:58:05.392 - MENSAJE: 
+2023/10/20 03:58:06.380 - MENSAJE: 
+2023/10/20 03:58:06.380 - MENSAJE: 
+2023/10/20 03:58:06.391 - MENSAJE: 
+2023/10/20 03:58:07.381 - MENSAJE: 
+2023/10/20 03:58:07.381 - MENSAJE: 
+2023/10/20 03:58:07.392 - MENSAJE: 
+2023/10/20 03:58:08.378 - MENSAJE: 
+2023/10/20 03:58:08.378 - MENSAJE: 
+2023/10/20 03:58:08.389 - MENSAJE: 
+2023/10/20 03:58:09.378 - MENSAJE: 
+2023/10/20 03:58:09.378 - MENSAJE: 
+2023/10/20 03:58:09.389 - MENSAJE: 
+2023/10/20 03:58:10.375 - MENSAJE: 
+2023/10/20 03:58:10.375 - MENSAJE: 
+2023/10/20 03:58:10.387 - MENSAJE: 
+2023/10/20 03:58:11.377 - MENSAJE: 
+2023/10/20 03:58:11.377 - MENSAJE: 
+2023/10/20 03:58:11.388 - MENSAJE: 
+2023/10/20 03:58:12.370 - MENSAJE: 
+2023/10/20 03:58:12.371 - MENSAJE: 
+2023/10/20 03:58:12.381 - MENSAJE: 
+2023/10/20 03:58:13.372 - MENSAJE: 
+2023/10/20 03:58:13.372 - MENSAJE: 
+2023/10/20 03:58:13.383 - MENSAJE: 
+2023/10/20 03:58:14.369 - MENSAJE: 
+2023/10/20 03:58:14.369 - MENSAJE: 
+2023/10/20 03:58:14.380 - MENSAJE: 
+2023/10/20 03:58:15.369 - MENSAJE: 
+2023/10/20 03:58:15.369 - MENSAJE: 
+2023/10/20 03:58:15.380 - MENSAJE: 
+2023/10/20 03:58:16.381 - MENSAJE: 
+2023/10/20 03:58:16.382 - MENSAJE: 
+2023/10/20 03:58:16.393 - MENSAJE: 
+2023/10/20 03:58:17.382 - MENSAJE: 
+2023/10/20 03:58:17.382 - MENSAJE: 
+2023/10/20 03:58:17.393 - MENSAJE: 
+2023/10/20 03:58:18.382 - MENSAJE: 
+2023/10/20 03:58:18.383 - MENSAJE: 
+2023/10/20 03:58:18.393 - MENSAJE: 
+2023/10/20 03:58:19.382 - MENSAJE: 
+2023/10/20 03:58:19.382 - MENSAJE: 
+2023/10/20 03:58:19.393 - MENSAJE: 
+2023/10/20 03:58:20.381 - MENSAJE: 
+2023/10/20 03:58:20.382 - MENSAJE: 
+2023/10/20 03:58:20.400 - MENSAJE: 
+2023/10/20 03:58:21.369 - MENSAJE: 
+2023/10/20 03:58:21.369 - MENSAJE: 
+2023/10/20 03:58:21.380 - MENSAJE: 
+2023/10/20 03:58:22.371 - MENSAJE: 
+2023/10/20 03:58:22.371 - MENSAJE: 
+2023/10/20 03:58:22.381 - MENSAJE: 
+2023/10/20 03:58:23.370 - MENSAJE: 
+2023/10/20 03:58:23.370 - MENSAJE: 
+2023/10/20 03:58:23.381 - MENSAJE: 
+2023/10/20 03:58:24.372 - MENSAJE: 
+2023/10/20 03:58:24.372 - MENSAJE: 
+2023/10/20 03:58:24.383 - MENSAJE: 
+2023/10/20 03:58:25.372 - MENSAJE: 
+2023/10/20 03:58:25.373 - MENSAJE: 
+2023/10/20 03:58:25.384 - MENSAJE: 
+2023/10/20 03:58:26.371 - MENSAJE: 
+2023/10/20 03:58:26.371 - MENSAJE: 
+2023/10/20 03:58:26.383 - MENSAJE: 
+2023/10/20 03:58:27.380 - MENSAJE: 
+2023/10/20 03:58:27.380 - MENSAJE: 
+2023/10/20 03:58:27.391 - MENSAJE: 
+2023/10/20 03:58:28.370 - MENSAJE: 
+2023/10/20 03:58:28.370 - MENSAJE: 
+2023/10/20 03:58:28.381 - MENSAJE: 
+2023/10/20 03:58:29.380 - MENSAJE: 
+2023/10/20 03:58:29.380 - MENSAJE: 
+2023/10/20 03:58:29.390 - MENSAJE: 
+2023/10/20 03:59:18.038 - INICIO REGISTRO
+2023/10/20 03:59:18.048 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 03:59:18.172 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 03:59:19.204 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 03:59:19.342 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 03:59:19.377 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 03:59:19.495 - MENSAJE: 
+2023/10/20 03:59:19.574 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 03:59:19.638 - MENSAJE: 
+2023/10/20 03:59:23.889 - MENSAJE: 
+2023/10/20 03:59:24.079 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 03:59:25.942 - MENSAJE: 
+2023/10/20 03:59:26.001 - MENSAJE: 
+2023/10/20 03:59:26.004 - MENSAJE: 
+2023/10/20 03:59:26.040 - MENSAJE: 
+2023/10/20 03:59:27.045 - MENSAJE: 
+2023/10/20 03:59:28.054 - MENSAJE: 
+2023/10/20 03:59:29.054 - MENSAJE: 
+2023/10/20 03:59:30.053 - MENSAJE: 
+2023/10/20 03:59:31.055 - MENSAJE: 
+2023/10/20 03:59:32.041 - MENSAJE: 
+2023/10/20 03:59:33.054 - MENSAJE: 
+2023/10/20 03:59:34.050 - MENSAJE: 
+2023/10/20 03:59:35.049 - MENSAJE: 
+2023/10/20 03:59:36.051 - MENSAJE: 
+2023/10/20 03:59:37.047 - MENSAJE: 
+2023/10/20 03:59:38.048 - MENSAJE: 
+2023/10/20 03:59:39.048 - MENSAJE: 
+2023/10/20 03:59:40.047 - MENSAJE: 
+2023/10/20 03:59:41.048 - MENSAJE: 
+2023/10/20 03:59:42.046 - MENSAJE: 
+2023/10/20 03:59:43.045 - MENSAJE: 
+2023/10/20 03:59:44.045 - MENSAJE: 
+2023/10/20 03:59:45.046 - MENSAJE: 
+2023/10/20 03:59:46.046 - MENSAJE: 
+2023/10/20 03:59:47.047 - MENSAJE: 
+2023/10/20 03:59:48.049 - MENSAJE: 
+2023/10/20 03:59:49.053 - MENSAJE: 
+2023/10/20 03:59:50.048 - MENSAJE: 
+2023/10/20 03:59:51.048 - MENSAJE: 
+2023/10/20 03:59:51.501 - MENSAJE: 
+2023/10/20 03:59:51.512 - MENSAJE: 
+2023/10/20 03:59:52.047 - MENSAJE: 
+2023/10/20 03:59:52.047 - MENSAJE: 
+2023/10/20 03:59:52.058 - MENSAJE: 
+2023/10/20 03:59:53.048 - MENSAJE: 
+2023/10/20 03:59:53.048 - MENSAJE: 
+2023/10/20 03:59:53.059 - MENSAJE: 
+2023/10/20 03:59:54.046 - MENSAJE: 
+2023/10/20 03:59:54.046 - MENSAJE: 
+2023/10/20 03:59:54.065 - MENSAJE: 
+2023/10/20 03:59:55.047 - MENSAJE: 
+2023/10/20 03:59:55.047 - MENSAJE: 
+2023/10/20 03:59:55.058 - MENSAJE: 
+2023/10/20 03:59:56.045 - MENSAJE: 
+2023/10/20 03:59:56.045 - MENSAJE: 
+2023/10/20 03:59:56.056 - MENSAJE: 
+2023/10/20 03:59:57.049 - MENSAJE: 
+2023/10/20 03:59:57.052 - MENSAJE: 
+2023/10/20 03:59:57.059 - MENSAJE: 
+2023/10/20 03:59:58.043 - MENSAJE: 
+2023/10/20 03:59:58.043 - MENSAJE: 
+2023/10/20 03:59:58.054 - MENSAJE: 
+2023/10/20 03:59:59.043 - MENSAJE: 
+2023/10/20 03:59:59.044 - MENSAJE: 
+2023/10/20 03:59:59.054 - MENSAJE: 
+2023/10/20 04:00:00.041 - MENSAJE: 
+2023/10/20 04:00:00.041 - MENSAJE: 
+2023/10/20 04:00:00.052 - MENSAJE: 
+2023/10/20 04:00:01.043 - MENSAJE: 
+2023/10/20 04:00:01.043 - MENSAJE: 
+2023/10/20 04:00:01.054 - MENSAJE: 
+2023/10/20 04:00:02.043 - MENSAJE: 
+2023/10/20 04:00:02.043 - MENSAJE: 
+2023/10/20 04:00:02.054 - MENSAJE: 
+2023/10/20 04:00:03.045 - MENSAJE: 
+2023/10/20 04:00:03.045 - MENSAJE: 
+2023/10/20 04:00:03.056 - MENSAJE: 
+2023/10/20 04:00:04.046 - MENSAJE: 
+2023/10/20 04:00:04.046 - MENSAJE: 
+2023/10/20 04:00:04.056 - MENSAJE: 
+2023/10/20 04:00:05.045 - MENSAJE: 
+2023/10/20 04:00:05.045 - MENSAJE: 
+2023/10/20 04:00:05.056 - MENSAJE: 
+2023/10/20 04:00:06.043 - MENSAJE: 
+2023/10/20 04:00:06.043 - MENSAJE: 
+2023/10/20 04:00:06.054 - MENSAJE: 
+2023/10/20 04:00:07.041 - MENSAJE: 
+2023/10/20 04:00:07.041 - MENSAJE: 
+2023/10/20 04:00:07.052 - MENSAJE: 
+2023/10/20 04:00:08.041 - MENSAJE: 
+2023/10/20 04:00:08.041 - MENSAJE: 
+2023/10/20 04:00:08.052 - MENSAJE: 
+2023/10/20 04:00:09.041 - MENSAJE: 
+2023/10/20 04:00:09.041 - MENSAJE: 
+2023/10/20 04:00:09.052 - MENSAJE: 
+2023/10/20 04:00:10.041 - MENSAJE: 
+2023/10/20 04:00:10.041 - MENSAJE: 
+2023/10/20 04:00:10.052 - MENSAJE: 
+2023/10/20 04:00:11.039 - MENSAJE: 
+2023/10/20 04:00:11.039 - MENSAJE: 
+2023/10/20 04:00:11.050 - MENSAJE: 
+2023/10/20 04:00:12.040 - MENSAJE: 
+2023/10/20 04:00:12.040 - MENSAJE: 
+2023/10/20 04:00:12.052 - MENSAJE: 
+2023/10/20 04:00:13.049 - MENSAJE: 
+2023/10/20 04:00:13.050 - MENSAJE: 
+2023/10/20 04:00:13.060 - MENSAJE: 
+2023/10/20 04:00:14.049 - MENSAJE: 
+2023/10/20 04:00:14.049 - MENSAJE: 
+2023/10/20 04:00:14.060 - MENSAJE: 
+2023/10/20 04:00:15.049 - MENSAJE: 
+2023/10/20 04:00:15.049 - MENSAJE: 
+2023/10/20 04:00:15.060 - MENSAJE: 
+2023/10/20 04:00:16.048 - MENSAJE: 
+2023/10/20 04:00:16.048 - MENSAJE: 
+2023/10/20 04:00:16.059 - MENSAJE: 
+2023/10/20 04:00:17.049 - MENSAJE: 
+2023/10/20 04:00:17.049 - MENSAJE: 
+2023/10/20 04:00:17.060 - MENSAJE: 
+2023/10/20 04:00:18.048 - MENSAJE: 
+2023/10/20 04:00:18.048 - MENSAJE: 
+2023/10/20 04:00:18.059 - MENSAJE: 
+2023/10/20 04:00:19.049 - MENSAJE: 
+2023/10/20 04:00:19.049 - MENSAJE: 
+2023/10/20 04:00:19.060 - MENSAJE: 
+2023/10/20 04:00:20.049 - MENSAJE: 
+2023/10/20 04:00:20.049 - MENSAJE: 
+2023/10/20 04:00:20.060 - MENSAJE: 
+2023/10/20 04:00:21.046 - MENSAJE: 
+2023/10/20 04:00:21.046 - MENSAJE: 
+2023/10/20 04:00:21.057 - MENSAJE: 
+2023/10/20 04:00:22.045 - MENSAJE: 
+2023/10/20 04:00:22.045 - MENSAJE: 
+2023/10/20 04:00:22.056 - MENSAJE: 
+2023/10/20 04:00:23.044 - MENSAJE: 
+2023/10/20 04:00:23.044 - MENSAJE: 
+2023/10/20 04:00:23.055 - MENSAJE: 
+2023/10/20 04:00:24.043 - MENSAJE: 
+2023/10/20 04:00:24.043 - MENSAJE: 
+2023/10/20 04:00:24.054 - MENSAJE: 
+2023/10/20 04:00:25.043 - MENSAJE: 
+2023/10/20 04:00:25.043 - MENSAJE: 
+2023/10/20 04:00:25.054 - MENSAJE: 
+2023/10/20 04:00:26.043 - MENSAJE: 
+2023/10/20 04:00:26.043 - MENSAJE: 
+2023/10/20 04:00:26.054 - MENSAJE: 
+2023/10/20 04:00:27.044 - MENSAJE: 
+2023/10/20 04:00:27.044 - MENSAJE: 
+2023/10/20 04:00:27.055 - MENSAJE: 
+2023/10/20 04:00:28.043 - MENSAJE: 
+2023/10/20 04:00:28.043 - MENSAJE: 
+2023/10/20 04:00:28.054 - MENSAJE: 
+2023/10/20 04:00:29.044 - MENSAJE: 
+2023/10/20 04:00:29.044 - MENSAJE: 
+2023/10/20 04:00:29.055 - MENSAJE: 
+2023/10/20 04:00:30.043 - MENSAJE: 
+2023/10/20 04:00:30.043 - MENSAJE: 
+2023/10/20 04:00:30.054 - MENSAJE: 
+2023/10/20 04:00:31.046 - MENSAJE: 
+2023/10/20 04:00:31.046 - MENSAJE: 
+2023/10/20 04:00:31.057 - MENSAJE: 
+2023/10/20 04:00:32.045 - MENSAJE: 
+2023/10/20 04:00:32.045 - MENSAJE: 
+2023/10/20 04:00:32.056 - MENSAJE: 
+2023/10/20 04:00:33.045 - MENSAJE: 
+2023/10/20 04:00:33.045 - MENSAJE: 
+2023/10/20 04:00:33.056 - MENSAJE: 
+2023/10/20 04:00:34.044 - MENSAJE: 
+2023/10/20 04:00:34.044 - MENSAJE: 
+2023/10/20 04:00:34.056 - MENSAJE: 
+2023/10/20 04:00:35.045 - MENSAJE: 
+2023/10/20 04:00:35.045 - MENSAJE: 
+2023/10/20 04:00:35.056 - MENSAJE: 
+2023/10/20 04:00:36.046 - MENSAJE: 
+2023/10/20 04:00:36.046 - MENSAJE: 
+2023/10/20 04:00:36.057 - MENSAJE: 
+2023/10/20 04:00:37.045 - MENSAJE: 
+2023/10/20 04:00:37.045 - MENSAJE: 
+2023/10/20 04:00:37.056 - MENSAJE: 
+2023/10/20 04:00:38.046 - MENSAJE: 
+2023/10/20 04:00:38.046 - MENSAJE: 
+2023/10/20 04:00:38.057 - MENSAJE: 
+2023/10/20 04:00:39.045 - MENSAJE: 
+2023/10/20 04:00:39.045 - MENSAJE: 
+2023/10/20 04:00:39.056 - MENSAJE: 
+2023/10/20 04:00:40.043 - MENSAJE: 
+2023/10/20 04:00:40.044 - MENSAJE: 
+2023/10/20 04:00:40.054 - MENSAJE: 
+2023/10/20 04:00:41.042 - MENSAJE: 
+2023/10/20 04:00:41.042 - MENSAJE: 
+2023/10/20 04:00:41.053 - MENSAJE: 
+2023/10/20 04:00:42.041 - MENSAJE: 
+2023/10/20 04:00:42.041 - MENSAJE: 
+2023/10/20 04:00:42.052 - MENSAJE: 
+2023/10/20 04:00:43.040 - MENSAJE: 
+2023/10/20 04:00:43.040 - MENSAJE: 
+2023/10/20 04:00:43.051 - MENSAJE: 
+2023/10/20 04:00:44.045 - MENSAJE: 
+2023/10/20 04:00:44.045 - MENSAJE: 
+2023/10/20 04:00:44.056 - MENSAJE: 
+2023/10/20 04:00:45.040 - MENSAJE: 
+2023/10/20 04:00:45.040 - MENSAJE: 
+2023/10/20 04:00:45.051 - MENSAJE: 
+2023/10/20 04:05:09.412 - INICIO REGISTRO
+2023/10/20 04:05:09.420 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 04:05:09.539 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 04:05:10.382 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 04:05:10.514 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 04:05:10.563 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 04:05:10.687 - MENSAJE: 
+2023/10/20 04:05:10.771 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 04:05:10.837 - MENSAJE: 
+2023/10/20 04:05:13.917 - MENSAJE: 
+2023/10/20 04:05:13.939 - MENSAJE: 
+2023/10/20 04:05:13.941 - MENSAJE: 
+2023/10/20 04:05:13.950 - MENSAJE: 
+2023/10/20 04:05:14.447 - MENSAJE: 
+2023/10/20 04:05:14.447 - MENSAJE: 
+2023/10/20 04:05:14.457 - MENSAJE: 
+2023/10/20 04:05:15.418 - MENSAJE: 
+2023/10/20 04:05:15.418 - MENSAJE: 
+2023/10/20 04:05:15.428 - MENSAJE: 
+2023/10/20 04:05:16.421 - MENSAJE: 
+2023/10/20 04:05:16.421 - MENSAJE: 
+2023/10/20 04:05:16.431 - MENSAJE: 
+2023/10/20 04:05:17.422 - MENSAJE: 
+2023/10/20 04:05:17.423 - MENSAJE: 
+2023/10/20 04:05:17.433 - MENSAJE: 
+2023/10/20 04:05:18.423 - MENSAJE: 
+2023/10/20 04:05:18.423 - MENSAJE: 
+2023/10/20 04:05:18.434 - MENSAJE: 
+2023/10/20 04:05:19.423 - MENSAJE: 
+2023/10/20 04:05:19.423 - MENSAJE: 
+2023/10/20 04:05:19.434 - MENSAJE: 
+2023/10/20 04:05:20.426 - MENSAJE: 
+2023/10/20 04:05:20.426 - MENSAJE: 
+2023/10/20 04:05:20.437 - MENSAJE: 
+2023/10/20 04:05:21.429 - MENSAJE: 
+2023/10/20 04:05:21.429 - MENSAJE: 
+2023/10/20 04:05:21.440 - MENSAJE: 
+2023/10/20 04:05:22.418 - MENSAJE: 
+2023/10/20 04:05:22.418 - MENSAJE: 
+2023/10/20 04:05:22.428 - MENSAJE: 
+2023/10/20 04:05:23.418 - MENSAJE: 
+2023/10/20 04:05:23.418 - MENSAJE: 
+2023/10/20 04:05:23.428 - MENSAJE: 
+2023/10/20 04:05:24.420 - MENSAJE: 
+2023/10/20 04:05:24.420 - MENSAJE: 
+2023/10/20 04:05:24.431 - MENSAJE: 
+2023/10/20 04:05:25.420 - MENSAJE: 
+2023/10/20 04:05:25.421 - MENSAJE: 
+2023/10/20 04:05:25.432 - MENSAJE: 
+2023/10/20 04:05:26.422 - MENSAJE: 
+2023/10/20 04:05:26.422 - MENSAJE: 
+2023/10/20 04:05:26.432 - MENSAJE: 
+2023/10/20 04:05:27.421 - MENSAJE: 
+2023/10/20 04:05:27.421 - MENSAJE: 
+2023/10/20 04:05:27.432 - MENSAJE: 
+2023/10/20 04:05:28.365 - MENSAJE: Error_Escribir_Tarjeta
+2023/10/20 04:05:28.487 - MENSAJE: Error_AlistarTarjeta
+2023/10/20 04:05:28.516 - MENSAJE: Error_Escribir_Tarjeta
+2023/10/20 04:05:28.552 - MENSAJE: Error_AlistarTarjeta
+2023/10/20 04:05:28.723 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 04:05:30.519 - MENSAJE: 
+2023/10/20 04:05:30.519 - MENSAJE: 
+2023/10/20 04:05:30.558 - MENSAJE: 
+2023/10/20 04:05:31.421 - MENSAJE: 
+2023/10/20 04:05:32.417 - MENSAJE: 
+2023/10/20 04:05:33.419 - MENSAJE: 
+2023/10/20 04:05:34.420 - MENSAJE: 
+2023/10/20 04:05:35.418 - MENSAJE: 
+2023/10/20 04:05:36.420 - MENSAJE: 
+2023/10/20 04:05:37.421 - MENSAJE: 
+2023/10/20 04:05:38.422 - MENSAJE: 
+2023/10/20 04:05:39.423 - MENSAJE: 
+2023/10/20 04:05:40.421 - MENSAJE: 
+2023/10/20 04:05:41.418 - MENSAJE: 
+2023/10/20 04:05:42.419 - MENSAJE: 
+2023/10/20 04:05:43.425 - MENSAJE: 
+2023/10/20 04:05:44.422 - MENSAJE: 
+2023/10/20 04:05:45.421 - MENSAJE: 
+2023/10/20 04:05:46.424 - MENSAJE: 
+2023/10/20 04:05:47.421 - MENSAJE: 
+2023/10/20 04:05:48.422 - MENSAJE: 
+2023/10/20 04:05:49.421 - MENSAJE: 
+2023/10/20 04:05:50.423 - MENSAJE: 
+2023/10/20 04:05:51.423 - MENSAJE: 
+2023/10/20 04:05:52.424 - MENSAJE: 
+2023/10/20 04:05:53.421 - MENSAJE: 
+2023/10/20 04:05:54.418 - MENSAJE: 
+2023/10/20 04:06:27.521 - INICIO REGISTRO
+2023/10/20 04:06:27.529 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 04:06:27.643 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 04:06:28.325 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 04:06:28.358 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 04:06:28.380 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 04:06:28.415 - MENSAJE: 
+2023/10/20 04:06:28.493 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 04:06:28.562 - MENSAJE: 
+2023/10/20 04:06:28.567 - MENSAJE: 
+2023/10/20 04:06:28.573 - MENSAJE: 
+2023/10/20 04:06:29.533 - MENSAJE: 
+2023/10/20 04:06:29.535 - MENSAJE: 
+2023/10/20 04:06:29.566 - MENSAJE: 
+2023/10/20 04:06:30.534 - MENSAJE: 
+2023/10/20 04:06:30.534 - MENSAJE: 
+2023/10/20 04:06:30.544 - MENSAJE: 
+2023/10/20 04:06:31.537 - MENSAJE: 
+2023/10/20 04:06:31.537 - MENSAJE: 
+2023/10/20 04:06:31.547 - MENSAJE: 
+2023/10/20 04:06:32.281 - MENSAJE: Error_Escribir_Tarjeta
+2023/10/20 04:06:32.332 - MENSAJE: Error_AlistarTarjeta
+2023/10/20 04:06:32.357 - MENSAJE: Error_Escribir_Tarjeta
+2023/10/20 04:06:32.388 - MENSAJE: Error_AlistarTarjeta
+2023/10/20 04:06:32.587 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 04:06:34.312 - MENSAJE: 
+2023/10/20 04:06:34.312 - MENSAJE: 
+2023/10/20 04:06:34.352 - MENSAJE: 
+2023/10/20 04:06:34.538 - MENSAJE: 
+2023/10/20 04:06:35.528 - MENSAJE: 
+2023/10/20 04:06:36.526 - MENSAJE: 
+2023/10/20 04:06:37.528 - MENSAJE: 
+2023/10/20 04:06:38.528 - MENSAJE: 
+2023/10/20 04:06:39.527 - MENSAJE: 
+2023/10/20 04:06:40.528 - MENSAJE: 
+2023/10/20 04:06:41.528 - MENSAJE: 
+2023/10/20 04:06:42.529 - MENSAJE: 
+2023/10/20 04:06:43.529 - MENSAJE: 
+2023/10/20 04:06:44.527 - MENSAJE: 
+2023/10/20 04:09:06.487 - INICIO REGISTRO
+2023/10/20 04:09:06.494 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 04:09:06.612 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 04:09:07.341 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 04:09:07.372 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 04:09:07.397 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 04:09:07.429 - MENSAJE: 
+2023/10/20 04:09:07.507 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 04:09:07.572 - MENSAJE: 
+2023/10/20 04:09:07.578 - MENSAJE: 
+2023/10/20 04:09:07.580 - MENSAJE: 
+2023/10/20 04:09:08.493 - MENSAJE: 
+2023/10/20 04:09:08.493 - MENSAJE: 
+2023/10/20 04:09:08.504 - MENSAJE: 
+2023/10/20 04:09:09.497 - MENSAJE: 
+2023/10/20 04:09:09.497 - MENSAJE: 
+2023/10/20 04:09:09.508 - MENSAJE: 
+2023/10/20 04:09:10.495 - MENSAJE: 
+2023/10/20 04:09:10.495 - MENSAJE: 
+2023/10/20 04:09:10.506 - MENSAJE: 
+2023/10/20 04:09:11.497 - MENSAJE: 
+2023/10/20 04:09:11.497 - MENSAJE: 
+2023/10/20 04:09:11.507 - MENSAJE: 
+2023/10/20 04:09:12.496 - MENSAJE: 
+2023/10/20 04:09:12.496 - MENSAJE: 
+2023/10/20 04:09:12.508 - MENSAJE: 
+2023/10/20 04:09:12.710 - MENSAJE: Error_Escribir_Tarjeta
+2023/10/20 04:09:12.757 - MENSAJE: Error_AlistarTarjeta
+2023/10/20 04:09:12.783 - MENSAJE: Error_Escribir_Tarjeta
+2023/10/20 04:09:12.814 - MENSAJE: Error_AlistarTarjeta
+2023/10/20 04:09:13.554 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 04:09:15.300 - MENSAJE: 
+2023/10/20 04:09:15.300 - MENSAJE: 
+2023/10/20 04:09:15.338 - MENSAJE: 
+2023/10/20 04:09:15.498 - MENSAJE: 
+2023/10/20 04:09:16.502 - MENSAJE: 
+2023/10/20 04:09:17.512 - MENSAJE: Error_Escribir_Tarjeta
+2023/10/20 04:09:17.543 - MENSAJE: Error_AlistarTarjeta
+2023/10/20 04:09:17.569 - MENSAJE: Error_Escribir_Tarjeta
+2023/10/20 04:09:17.600 - MENSAJE: Error_AlistarTarjeta
+2023/10/20 04:09:17.720 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 04:09:18.454 - MENSAJE: 
+2023/10/20 04:09:18.494 - MENSAJE: 
+2023/10/20 04:09:19.496 - MENSAJE: 
+2023/10/20 04:09:20.499 - MENSAJE: 
+2023/10/20 04:09:21.504 - MENSAJE: 
+2023/10/20 04:09:22.027 - MENSAJE: Error_Escribir_Tarjeta
+2023/10/20 04:09:22.057 - MENSAJE: Error_AlistarTarjeta
+2023/10/20 04:09:22.085 - MENSAJE: Error_Escribir_Tarjeta
+2023/10/20 04:09:22.116 - MENSAJE: Error_AlistarTarjeta
+2023/10/20 04:09:22.504 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/10/20 04:09:23.232 - MENSAJE: 
+2023/10/20 04:09:23.499 - MENSAJE: 
+2023/10/20 04:09:24.501 - MENSAJE: 
+2023/10/20 04:09:25.500 - MENSAJE: 
+2023/10/20 04:09:26.498 - MENSAJE: 
+2023/10/20 04:09:27.494 - MENSAJE: 
+2023/10/20 04:09:28.500 - MENSAJE: 
+2023/10/20 04:09:29.497 - MENSAJE: 
+2023/10/20 04:09:30.499 - MENSAJE: 
+2023/10/20 04:09:31.497 - MENSAJE: 
+2023/10/20 04:09:32.496 - MENSAJE: 
+2023/10/20 04:09:33.495 - MENSAJE: 
+2023/10/20 04:09:34.497 - MENSAJE: 
+2023/10/20 04:09:35.502 - MENSAJE: 
+2023/10/20 04:09:36.496 - MENSAJE: 
+2023/10/20 04:09:37.502 - MENSAJE: 
+2023/10/20 04:09:38.497 - MENSAJE: 
+2023/10/20 04:09:39.500 - MENSAJE: 
+2023/10/20 04:09:40.497 - MENSAJE: 
+2023/10/20 04:09:40.859 - MENSAJE: 
+2023/10/20 04:09:40.870 - MENSAJE: 
+2023/10/20 04:09:41.502 - MENSAJE: 
+2023/10/20 04:09:41.503 - MENSAJE: 
+2023/10/20 04:09:41.513 - MENSAJE: 
+2023/10/20 04:09:42.499 - MENSAJE: 
+2023/10/20 04:09:42.499 - MENSAJE: 
+2023/10/20 04:09:42.510 - MENSAJE: 
+2023/10/20 04:09:43.499 - MENSAJE: 
+2023/10/20 04:09:43.499 - MENSAJE: 
+2023/10/20 04:09:43.510 - MENSAJE: 
+2023/10/20 04:09:44.501 - MENSAJE: 
+2023/10/20 04:09:44.501 - MENSAJE: 
+2023/10/20 04:09:44.512 - MENSAJE: 
+2023/10/20 04:09:45.501 - MENSAJE: 
+2023/10/20 04:09:45.501 - MENSAJE: 
+2023/10/20 04:09:45.519 - MENSAJE: 
+2023/10/20 04:09:46.499 - MENSAJE: 
+2023/10/20 04:09:46.499 - MENSAJE: 
+2023/10/20 04:09:46.510 - MENSAJE: 
+2023/10/20 04:09:47.495 - MENSAJE: 
+2023/10/20 04:09:47.495 - MENSAJE: 
+2023/10/20 04:09:47.506 - MENSAJE: 
+2023/10/20 04:09:48.500 - MENSAJE: 
+2023/10/20 04:09:48.500 - MENSAJE: 
+2023/10/20 04:09:48.511 - MENSAJE: 
+2023/10/20 04:09:49.496 - MENSAJE: 
+2023/10/20 04:09:49.496 - MENSAJE: 
+2023/10/20 04:09:49.507 - MENSAJE: 
+2023/10/20 04:09:50.500 - MENSAJE: 
+2023/10/20 04:09:50.500 - MENSAJE: 
+2023/10/20 04:09:50.511 - MENSAJE: 
+2023/10/20 04:09:51.501 - MENSAJE: 
+2023/10/20 04:09:51.501 - MENSAJE: 
+2023/10/20 04:09:51.512 - MENSAJE: 
+2023/10/20 04:09:52.494 - MENSAJE: 
+2023/10/20 04:09:52.494 - MENSAJE: 
+2023/10/20 04:09:52.505 - MENSAJE: 
+2023/10/20 04:09:53.502 - MENSAJE: 
+2023/10/20 04:09:53.502 - MENSAJE: 
+2023/10/20 04:09:53.513 - MENSAJE: 
+2023/10/20 04:09:54.498 - MENSAJE: 
+2023/10/20 04:09:54.498 - MENSAJE: 
+2023/10/20 04:09:54.509 - MENSAJE: 
+2023/10/20 04:09:55.504 - MENSAJE: 
+2023/10/20 04:09:55.507 - MENSAJE: 
+2023/10/20 04:09:55.514 - MENSAJE: 
+2023/10/20 04:09:56.499 - MENSAJE: 
+2023/10/20 04:09:56.499 - MENSAJE: 
+2023/10/20 04:09:56.510 - MENSAJE: 
+2023/10/20 04:09:57.502 - MENSAJE: 
+2023/10/20 04:09:57.502 - MENSAJE: 
+2023/10/20 04:09:57.513 - MENSAJE: 
+2023/10/20 04:09:58.493 - MENSAJE: 
+2023/10/20 04:09:58.493 - MENSAJE: 
+2023/10/20 04:09:58.504 - MENSAJE: 
+2023/10/20 04:09:59.495 - MENSAJE: 
+2023/10/20 04:09:59.495 - MENSAJE: 
+2023/10/20 04:09:59.506 - MENSAJE: 
+2023/10/20 04:10:00.495 - MENSAJE: 
+2023/10/20 04:10:00.495 - MENSAJE: 
+2023/10/20 04:10:00.506 - MENSAJE: 
+2023/10/20 04:10:01.496 - MENSAJE: 
+2023/10/20 04:10:01.496 - MENSAJE: 
+2023/10/20 04:10:01.507 - MENSAJE: 
+2023/10/20 04:10:02.493 - MENSAJE: 
+2023/10/20 04:10:02.493 - MENSAJE: 
+2023/10/20 04:10:02.504 - MENSAJE: 
+2023/10/20 04:10:03.500 - MENSAJE: 
+2023/10/20 04:10:03.500 - MENSAJE: 
+2023/10/20 04:10:03.511 - MENSAJE: 
+2023/10/20 04:10:04.501 - MENSAJE: 
+2023/10/20 04:10:04.501 - MENSAJE: 
+2023/10/20 04:10:04.511 - MENSAJE: 
+2023/10/20 04:10:05.501 - MENSAJE: 
+2023/10/20 04:10:05.501 - MENSAJE: 
+2023/10/20 04:10:05.512 - MENSAJE: 
+2023/10/20 04:10:06.503 - MENSAJE: 
+2023/10/20 04:10:06.503 - MENSAJE: 
+2023/10/20 04:10:06.514 - MENSAJE: 
+2023/10/20 04:10:07.495 - MENSAJE: 
+2023/10/20 04:10:07.495 - MENSAJE: 
+2023/10/20 04:10:07.506 - MENSAJE: 
+2023/10/20 04:10:08.502 - MENSAJE: 
+2023/10/20 04:10:08.502 - MENSAJE: 
+2023/10/20 04:10:08.513 - MENSAJE: 
+2023/10/20 04:10:09.503 - MENSAJE: 
+2023/10/20 04:10:09.503 - MENSAJE: 
+2023/10/20 04:10:09.514 - MENSAJE: 
+2023/10/20 04:10:10.503 - MENSAJE: 
+2023/10/20 04:10:10.503 - MENSAJE: 
+2023/10/20 04:10:10.514 - MENSAJE: 
+2023/10/20 04:10:11.493 - MENSAJE: 
+2023/10/20 04:10:11.493 - MENSAJE: 
+2023/10/20 04:10:11.504 - MENSAJE: 
+2023/10/20 04:11:15.481 - INICIO REGISTRO
+2023/10/20 04:11:15.492 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 04:11:15.617 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 04:11:16.361 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 04:11:16.390 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 04:11:16.411 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 04:11:16.437 - MENSAJE: 
+2023/10/20 04:11:16.520 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 04:11:16.592 - MENSAJE: 
+2023/10/20 04:11:16.602 - MENSAJE: 
+2023/10/20 04:11:17.481 - MENSAJE: 
+2023/10/20 04:11:17.481 - MENSAJE: 
+2023/10/20 04:11:17.491 - MENSAJE: 
+2023/10/20 04:11:18.488 - MENSAJE: 
+2023/10/20 04:11:18.488 - MENSAJE: 
+2023/10/20 04:11:18.498 - MENSAJE: 
+2023/10/20 04:11:19.482 - MENSAJE: 
+2023/10/20 04:11:19.482 - MENSAJE: 
+2023/10/20 04:11:19.492 - MENSAJE: 
+2023/10/20 04:13:47.649 - INICIO REGISTRO
+2023/10/20 04:13:47.658 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 04:13:47.797 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 04:13:49.918 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 04:13:49.972 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 04:13:50.011 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 04:13:50.054 - MENSAJE: 
+2023/10/20 04:13:50.276 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 04:13:50.358 - MENSAJE: 
+2023/10/20 04:13:50.363 - MENSAJE: 
+2023/10/20 04:13:50.657 - MENSAJE: 
+2023/10/20 04:13:50.659 - MENSAJE: 
+2023/10/20 04:13:50.666 - MENSAJE: 
+2023/10/20 04:13:51.669 - MENSAJE: 
+2023/10/20 04:13:51.669 - MENSAJE: 
+2023/10/20 04:13:51.679 - MENSAJE: 
+2023/10/20 04:13:52.668 - MENSAJE: 
+2023/10/20 04:13:52.668 - MENSAJE: 
+2023/10/20 04:13:52.679 - MENSAJE: 
+2023/10/20 04:13:53.677 - MENSAJE: 
+2023/10/20 04:13:53.677 - MENSAJE: 
+2023/10/20 04:13:53.688 - MENSAJE: 
+2023/10/20 04:13:54.652 - MENSAJE: 
+2023/10/20 04:13:54.652 - MENSAJE: 
+2023/10/20 04:13:54.663 - MENSAJE: 
+2023/10/20 04:13:55.655 - MENSAJE: 
+2023/10/20 04:13:55.655 - MENSAJE: 
+2023/10/20 04:13:55.666 - MENSAJE: 
+2023/10/20 04:13:56.649 - MENSAJE: 
+2023/10/20 04:13:56.649 - MENSAJE: 
+2023/10/20 04:13:56.660 - MENSAJE: 
+2023/10/20 04:13:57.655 - MENSAJE: 
+2023/10/20 04:13:57.655 - MENSAJE: 
+2023/10/20 04:13:57.666 - MENSAJE: 
+2023/10/20 04:13:58.654 - MENSAJE: 
+2023/10/20 04:13:58.654 - MENSAJE: 
+2023/10/20 04:13:58.665 - MENSAJE: 
+2023/10/20 04:13:59.650 - MENSAJE: 
+2023/10/20 04:13:59.650 - MENSAJE: 
+2023/10/20 04:13:59.661 - MENSAJE: 
+2023/10/20 04:14:00.653 - MENSAJE: 
+2023/10/20 04:14:00.653 - MENSAJE: 
+2023/10/20 04:14:00.664 - MENSAJE: 
+2023/10/20 04:14:01.652 - MENSAJE: 
+2023/10/20 04:14:01.652 - MENSAJE: 
+2023/10/20 04:14:01.663 - MENSAJE: 
+2023/10/20 04:14:02.654 - MENSAJE: 
+2023/10/20 04:14:02.654 - MENSAJE: 
+2023/10/20 04:14:02.664 - MENSAJE: 
+2023/10/20 04:14:03.649 - MENSAJE: 
+2023/10/20 04:14:03.650 - MENSAJE: 
+2023/10/20 04:14:03.660 - MENSAJE: 
+2023/10/20 04:14:04.650 - MENSAJE: 
+2023/10/20 04:14:04.650 - MENSAJE: 
+2023/10/20 04:14:04.661 - MENSAJE: 
+2023/10/20 04:14:05.657 - MENSAJE: 
+2023/10/20 04:14:05.657 - MENSAJE: 
+2023/10/20 04:14:05.668 - MENSAJE: 
+2023/10/20 04:14:06.653 - MENSAJE: 
+2023/10/20 04:14:06.653 - MENSAJE: 
+2023/10/20 04:14:06.664 - MENSAJE: 
+2023/10/20 04:14:07.654 - MENSAJE: 
+2023/10/20 04:14:07.654 - MENSAJE: 
+2023/10/20 04:14:07.665 - MENSAJE: 
+2023/10/20 04:14:08.653 - MENSAJE: 
+2023/10/20 04:14:08.653 - MENSAJE: 
+2023/10/20 04:14:08.664 - MENSAJE: 
+2023/10/20 04:14:09.654 - MENSAJE: 
+2023/10/20 04:14:09.654 - MENSAJE: 
+2023/10/20 04:14:09.665 - MENSAJE: 
+2023/10/20 04:14:10.656 - MENSAJE: 
+2023/10/20 04:14:10.657 - MENSAJE: 
+2023/10/20 04:14:10.668 - MENSAJE: 
+2023/10/20 04:14:11.659 - MENSAJE: 
+2023/10/20 04:14:11.659 - MENSAJE: 
+2023/10/20 04:14:11.669 - MENSAJE: 
+2023/10/20 04:14:12.675 - MENSAJE: 
+2023/10/20 04:14:12.675 - MENSAJE: 
+2023/10/20 04:14:12.689 - MENSAJE: 
+2023/10/20 04:14:13.675 - MENSAJE: 
+2023/10/20 04:14:13.675 - MENSAJE: 
+2023/10/20 04:14:13.686 - MENSAJE: 
+2023/10/20 04:14:14.700 - MENSAJE: 
+2023/10/20 04:14:14.700 - MENSAJE: 
+2023/10/20 04:14:14.711 - MENSAJE: 
+2023/10/20 04:14:15.653 - MENSAJE: 
+2023/10/20 04:14:15.656 - MENSAJE: 
+2023/10/20 04:14:15.664 - MENSAJE: 
+2023/10/20 04:14:16.659 - MENSAJE: 
+2023/10/20 04:14:16.659 - MENSAJE: 
+2023/10/20 04:14:16.670 - MENSAJE: 
+2023/10/20 04:14:17.656 - MENSAJE: 
+2023/10/20 04:14:17.656 - MENSAJE: 
+2023/10/20 04:14:17.666 - MENSAJE: 
+2023/10/20 04:14:18.655 - MENSAJE: 
+2023/10/20 04:14:18.655 - MENSAJE: 
+2023/10/20 04:14:18.666 - MENSAJE: 
+2023/10/20 04:14:19.655 - MENSAJE: 
+2023/10/20 04:14:19.655 - MENSAJE: 
+2023/10/20 04:14:19.666 - MENSAJE: 
+2023/10/20 04:14:20.654 - MENSAJE: 
+2023/10/20 04:14:20.654 - MENSAJE: 
+2023/10/20 04:14:20.665 - MENSAJE: 
+2023/10/20 04:14:21.656 - MENSAJE: 
+2023/10/20 04:14:21.656 - MENSAJE: 
+2023/10/20 04:14:21.667 - MENSAJE: 
+2023/10/20 04:14:22.653 - MENSAJE: 
+2023/10/20 04:14:22.653 - MENSAJE: 
+2023/10/20 04:14:22.664 - MENSAJE: 
+2023/10/20 04:14:23.651 - MENSAJE: 
+2023/10/20 04:14:23.651 - MENSAJE: 
+2023/10/20 04:14:23.661 - MENSAJE: 
+2023/10/20 04:14:24.649 - MENSAJE: 
+2023/10/20 04:14:24.649 - MENSAJE: 
+2023/10/20 04:14:24.660 - MENSAJE: 
+2023/10/20 04:14:25.649 - MENSAJE: 
+2023/10/20 04:14:25.649 - MENSAJE: 
+2023/10/20 04:14:25.660 - MENSAJE: 
+2023/10/20 04:14:26.649 - MENSAJE: 
+2023/10/20 04:14:26.649 - MENSAJE: 
+2023/10/20 04:14:26.660 - MENSAJE: 
+2023/10/20 04:14:27.656 - MENSAJE: 
+2023/10/20 04:14:27.656 - MENSAJE: 
+2023/10/20 04:14:27.667 - MENSAJE: 
+2023/10/20 04:14:28.662 - MENSAJE: 
+2023/10/20 04:14:28.662 - MENSAJE: 
+2023/10/20 04:14:28.672 - MENSAJE: 
+2023/10/20 04:14:29.675 - MENSAJE: 
+2023/10/20 04:14:29.675 - MENSAJE: 
+2023/10/20 04:14:29.686 - MENSAJE: 
+2023/10/20 04:14:30.678 - MENSAJE: 
+2023/10/20 04:14:30.678 - MENSAJE: 
+2023/10/20 04:14:30.688 - MENSAJE: 
+2023/10/20 04:14:31.692 - MENSAJE: 
+2023/10/20 04:14:31.692 - MENSAJE: 
+2023/10/20 04:14:31.702 - MENSAJE: 
+2023/10/20 04:14:32.658 - MENSAJE: 
+2023/10/20 04:14:32.658 - MENSAJE: 
+2023/10/20 04:14:32.669 - MENSAJE: 
+2023/10/20 04:14:33.655 - MENSAJE: 
+2023/10/20 04:14:33.655 - MENSAJE: 
+2023/10/20 04:14:33.666 - MENSAJE: 
+2023/10/20 04:14:34.653 - MENSAJE: 
+2023/10/20 04:14:34.653 - MENSAJE: 
+2023/10/20 04:14:34.665 - MENSAJE: 
+2023/10/20 04:14:35.656 - MENSAJE: 
+2023/10/20 04:14:35.657 - MENSAJE: 
+2023/10/20 04:14:35.668 - MENSAJE: 
+2023/10/20 04:14:36.657 - MENSAJE: 
+2023/10/20 04:14:36.657 - MENSAJE: 
+2023/10/20 04:14:36.668 - MENSAJE: 
+2023/10/20 04:14:37.651 - MENSAJE: 
+2023/10/20 04:14:37.652 - MENSAJE: 
+2023/10/20 04:14:37.662 - MENSAJE: 
+2023/10/20 04:14:38.649 - MENSAJE: 
+2023/10/20 04:14:38.649 - MENSAJE: 
+2023/10/20 04:14:38.660 - MENSAJE: 
+2023/10/20 04:14:39.649 - MENSAJE: 
+2023/10/20 04:14:39.649 - MENSAJE: 
+2023/10/20 04:14:39.660 - MENSAJE: 
+2023/10/20 04:14:40.656 - MENSAJE: 
+2023/10/20 04:14:40.656 - MENSAJE: 
+2023/10/20 04:14:40.667 - MENSAJE: 
+2023/10/20 04:14:41.655 - MENSAJE: 
+2023/10/20 04:14:41.655 - MENSAJE: 
+2023/10/20 04:14:41.666 - MENSAJE: 
+2023/10/20 04:14:42.654 - MENSAJE: 
+2023/10/20 04:14:42.654 - MENSAJE: 
+2023/10/20 04:14:42.665 - MENSAJE: 
+2023/10/20 04:14:43.656 - MENSAJE: 
+2023/10/20 04:14:43.656 - MENSAJE: 
+2023/10/20 04:14:43.667 - MENSAJE: 
+2023/10/20 04:14:44.649 - MENSAJE: 
+2023/10/20 04:14:44.649 - MENSAJE: 
+2023/10/20 04:14:44.660 - MENSAJE: 
+2023/10/20 04:14:45.653 - MENSAJE: 
+2023/10/20 04:14:45.653 - MENSAJE: 
+2023/10/20 04:14:45.665 - MENSAJE: 
+2023/10/20 04:14:46.662 - MENSAJE: 
+2023/10/20 04:14:46.662 - MENSAJE: 
+2023/10/20 04:14:46.673 - MENSAJE: 
+2023/10/20 04:14:47.656 - MENSAJE: 
+2023/10/20 04:14:47.656 - MENSAJE: 
+2023/10/20 04:14:47.667 - MENSAJE: 
+2023/10/20 04:14:48.666 - MENSAJE: 
+2023/10/20 04:14:48.666 - MENSAJE: 
+2023/10/20 04:14:48.677 - MENSAJE: 
+2023/10/20 04:14:49.670 - MENSAJE: 
+2023/10/20 04:14:49.670 - MENSAJE: 
+2023/10/20 04:14:49.681 - MENSAJE: 
+2023/10/20 04:15:02.154 - INICIO REGISTRO
+2023/10/20 04:15:02.162 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 04:15:02.276 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 04:15:02.964 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 04:15:02.995 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 04:15:03.018 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 04:15:03.050 - MENSAJE: 
+2023/10/20 04:15:03.129 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 04:15:03.235 - MENSAJE: 
+2023/10/20 04:15:03.235 - MENSAJE: 
+2023/10/20 04:15:04.151 - MENSAJE: 
+2023/10/20 04:15:04.154 - MENSAJE: 
+2023/10/20 04:15:04.161 - MENSAJE: 
+2023/10/20 04:15:05.150 - MENSAJE: 
+2023/10/20 04:15:05.150 - MENSAJE: 
+2023/10/20 04:15:05.161 - MENSAJE: 
+2023/10/20 04:15:06.152 - MENSAJE: 
+2023/10/20 04:15:06.152 - MENSAJE: 
+2023/10/20 04:15:06.163 - MENSAJE: 
+2023/10/20 04:15:07.153 - MENSAJE: 
+2023/10/20 04:15:07.153 - MENSAJE: 
+2023/10/20 04:15:07.164 - MENSAJE: 
+2023/10/20 04:15:08.164 - MENSAJE: 
+2023/10/20 04:15:08.164 - MENSAJE: 
+2023/10/20 04:15:08.175 - MENSAJE: 
+2023/10/20 04:15:09.176 - MENSAJE: 
+2023/10/20 04:15:09.177 - MENSAJE: 
+2023/10/20 04:15:09.187 - MENSAJE: 
+2023/10/20 04:15:10.183 - MENSAJE: 
+2023/10/20 04:15:10.183 - MENSAJE: 
+2023/10/20 04:15:10.193 - MENSAJE: 
+2023/10/20 04:15:11.195 - MENSAJE: 
+2023/10/20 04:15:11.196 - MENSAJE: 
+2023/10/20 04:15:11.206 - MENSAJE: 
+2023/10/20 04:15:12.152 - MENSAJE: 
+2023/10/20 04:15:12.152 - MENSAJE: 
+2023/10/20 04:15:12.163 - MENSAJE: 
+2023/10/20 04:15:13.149 - MENSAJE: 
+2023/10/20 04:15:13.149 - MENSAJE: 
+2023/10/20 04:15:13.160 - MENSAJE: 
+2023/10/20 04:15:14.154 - MENSAJE: 
+2023/10/20 04:15:14.154 - MENSAJE: 
+2023/10/20 04:15:14.165 - MENSAJE: 
+2023/10/20 04:15:15.153 - MENSAJE: 
+2023/10/20 04:15:15.153 - MENSAJE: 
+2023/10/20 04:15:15.164 - MENSAJE: 
+2023/10/20 04:15:16.157 - MENSAJE: 
+2023/10/20 04:15:16.157 - MENSAJE: 
+2023/10/20 04:15:16.168 - MENSAJE: 
+2023/10/20 04:15:17.151 - MENSAJE: 
+2023/10/20 04:15:17.151 - MENSAJE: 
+2023/10/20 04:15:17.163 - MENSAJE: 
+2023/10/20 04:15:18.155 - MENSAJE: 
+2023/10/20 04:15:18.155 - MENSAJE: 
+2023/10/20 04:15:18.166 - MENSAJE: 
+2023/10/20 04:15:19.156 - MENSAJE: 
+2023/10/20 04:15:19.157 - MENSAJE: 
+2023/10/20 04:15:19.168 - MENSAJE: 
+2023/10/20 04:15:20.156 - MENSAJE: 
+2023/10/20 04:15:20.156 - MENSAJE: 
+2023/10/20 04:15:20.167 - MENSAJE: 
+2023/10/20 04:15:21.158 - MENSAJE: 
+2023/10/20 04:15:21.158 - MENSAJE: 
+2023/10/20 04:15:21.169 - MENSAJE: 
+2023/10/20 04:15:22.150 - MENSAJE: 
+2023/10/20 04:15:22.150 - MENSAJE: 
+2023/10/20 04:15:22.161 - MENSAJE: 
+2023/10/20 04:15:23.157 - MENSAJE: 
+2023/10/20 04:15:23.157 - MENSAJE: 
+2023/10/20 04:15:23.168 - MENSAJE: 
+2023/10/20 04:15:24.153 - MENSAJE: 
+2023/10/20 04:15:24.153 - MENSAJE: 
+2023/10/20 04:15:24.164 - MENSAJE: 
+2023/10/20 04:15:25.155 - MENSAJE: 
+2023/10/20 04:15:25.155 - MENSAJE: 
+2023/10/20 04:15:25.166 - MENSAJE: 
+2023/10/20 04:15:26.156 - MENSAJE: 
+2023/10/20 04:15:26.156 - MENSAJE: 
+2023/10/20 04:15:26.167 - MENSAJE: 
+2023/10/20 04:15:27.161 - MENSAJE: 
+2023/10/20 04:15:27.162 - MENSAJE: 
+2023/10/20 04:15:27.172 - MENSAJE: 
+2023/10/20 04:15:28.163 - MENSAJE: 
+2023/10/20 04:15:28.163 - MENSAJE: 
+2023/10/20 04:15:28.173 - MENSAJE: 
+2023/10/20 04:15:29.176 - MENSAJE: 
+2023/10/20 04:15:29.176 - MENSAJE: 
+2023/10/20 04:15:29.186 - MENSAJE: 
+2023/10/20 04:15:30.150 - MENSAJE: 
+2023/10/20 04:15:30.150 - MENSAJE: 
+2023/10/20 04:15:30.161 - MENSAJE: 
+2023/10/20 04:15:31.153 - MENSAJE: 
+2023/10/20 04:15:31.153 - MENSAJE: 
+2023/10/20 04:15:31.163 - MENSAJE: 
+2023/10/20 04:15:32.152 - MENSAJE: 
+2023/10/20 04:15:32.152 - MENSAJE: 
+2023/10/20 04:15:32.163 - MENSAJE: 
+2023/10/20 04:15:33.158 - MENSAJE: 
+2023/10/20 04:15:33.158 - MENSAJE: 
+2023/10/20 04:15:33.169 - MENSAJE: 
+2023/10/20 04:15:34.154 - MENSAJE: 
+2023/10/20 04:15:34.154 - MENSAJE: 
+2023/10/20 04:15:34.165 - MENSAJE: 
+2023/10/20 04:15:35.158 - MENSAJE: 
+2023/10/20 04:15:35.158 - MENSAJE: 
+2023/10/20 04:15:35.169 - MENSAJE: 
+2023/10/20 04:15:36.160 - MENSAJE: 
+2023/10/20 04:15:36.160 - MENSAJE: 
+2023/10/20 04:15:36.170 - MENSAJE: 
+2023/10/20 04:15:37.155 - MENSAJE: 
+2023/10/20 04:15:37.155 - MENSAJE: 
+2023/10/20 04:15:37.165 - MENSAJE: 
+2023/10/20 04:15:38.155 - MENSAJE: 
+2023/10/20 04:15:38.155 - MENSAJE: 
+2023/10/20 04:15:38.166 - MENSAJE: 
+2023/10/20 04:15:39.154 - MENSAJE: 
+2023/10/20 04:15:39.154 - MENSAJE: 
+2023/10/20 04:15:39.165 - MENSAJE: 
+2023/10/20 04:15:40.155 - MENSAJE: 
+2023/10/20 04:15:40.155 - MENSAJE: 
+2023/10/20 04:15:40.166 - MENSAJE: 
+2023/10/20 04:15:41.155 - MENSAJE: 
+2023/10/20 04:15:41.155 - MENSAJE: 
+2023/10/20 04:15:41.166 - MENSAJE: 
+2023/10/20 04:15:42.155 - MENSAJE: 
+2023/10/20 04:15:42.155 - MENSAJE: 
+2023/10/20 04:15:42.165 - MENSAJE: 
+2023/10/20 04:15:43.155 - MENSAJE: 
+2023/10/20 04:15:43.155 - MENSAJE: 
+2023/10/20 04:15:43.166 - MENSAJE: 
+2023/10/20 04:15:44.154 - MENSAJE: 
+2023/10/20 04:15:44.154 - MENSAJE: 
+2023/10/20 04:15:44.165 - MENSAJE: 
+2023/10/20 04:15:45.155 - MENSAJE: 
+2023/10/20 04:15:45.155 - MENSAJE: 
+2023/10/20 04:15:45.165 - MENSAJE: 
+2023/10/20 04:15:46.154 - MENSAJE: 
+2023/10/20 04:15:46.154 - MENSAJE: 
+2023/10/20 04:15:46.165 - MENSAJE: 
+2023/10/20 04:15:47.156 - MENSAJE: 
+2023/10/20 04:15:47.156 - MENSAJE: 
+2023/10/20 04:15:47.167 - MENSAJE: 
+2023/10/20 04:15:48.158 - MENSAJE: 
+2023/10/20 04:15:48.158 - MENSAJE: 
+2023/10/20 04:15:48.169 - MENSAJE: 
+2023/10/20 04:15:49.159 - MENSAJE: 
+2023/10/20 04:15:49.159 - MENSAJE: 
+2023/10/20 04:15:49.170 - MENSAJE: 
+2023/10/20 04:15:50.174 - MENSAJE: 
+2023/10/20 04:15:50.174 - MENSAJE: 
+2023/10/20 04:15:50.185 - MENSAJE: 
+2023/10/20 04:15:51.196 - MENSAJE: 
+2023/10/20 04:15:51.196 - MENSAJE: 
+2023/10/20 04:15:51.206 - MENSAJE: 
+2023/10/20 04:15:52.156 - MENSAJE: 
+2023/10/20 04:15:52.156 - MENSAJE: 
+2023/10/20 04:15:52.166 - MENSAJE: 
+2023/10/20 04:15:53.157 - MENSAJE: 
+2023/10/20 04:15:53.157 - MENSAJE: 
+2023/10/20 04:15:53.168 - MENSAJE: 
+2023/10/20 04:15:54.157 - MENSAJE: 
+2023/10/20 04:15:54.158 - MENSAJE: 
+2023/10/20 04:15:54.176 - MENSAJE: 
+2023/10/20 04:15:55.157 - MENSAJE: 
+2023/10/20 04:15:55.157 - MENSAJE: 
+2023/10/20 04:15:55.169 - MENSAJE: 
+2023/10/20 04:15:56.155 - MENSAJE: 
+2023/10/20 04:15:56.156 - MENSAJE: 
+2023/10/20 04:15:56.167 - MENSAJE: 
+2023/10/20 04:15:57.156 - MENSAJE: 
+2023/10/20 04:15:57.156 - MENSAJE: 
+2023/10/20 04:15:57.167 - MENSAJE: 
+2023/10/20 04:15:58.157 - MENSAJE: 
+2023/10/20 04:15:58.157 - MENSAJE: 
+2023/10/20 04:15:58.168 - MENSAJE: 
+2023/10/20 04:15:59.157 - MENSAJE: 
+2023/10/20 04:15:59.157 - MENSAJE: 
+2023/10/20 04:15:59.168 - MENSAJE: 
+2023/10/20 04:16:00.158 - MENSAJE: 
+2023/10/20 04:16:00.159 - MENSAJE: 
+2023/10/20 04:16:00.169 - MENSAJE: 
+2023/10/20 04:16:01.159 - MENSAJE: 
+2023/10/20 04:16:01.159 - MENSAJE: 
+2023/10/20 04:16:01.170 - MENSAJE: 
+2023/10/20 04:16:02.149 - MENSAJE: 
+2023/10/20 04:16:02.149 - MENSAJE: 
+2023/10/20 04:16:02.160 - MENSAJE: 
+2023/10/20 04:16:03.149 - MENSAJE: 
+2023/10/20 04:16:03.149 - MENSAJE: 
+2023/10/20 04:16:03.159 - MENSAJE: 
+2023/10/20 04:16:04.160 - MENSAJE: 
+2023/10/20 04:16:04.160 - MENSAJE: 
+2023/10/20 04:16:04.171 - MENSAJE: 
+2023/10/20 04:16:05.159 - MENSAJE: 
+2023/10/20 04:16:05.159 - MENSAJE: 
+2023/10/20 04:16:05.170 - MENSAJE: 
+2023/10/20 04:16:06.156 - MENSAJE: 
+2023/10/20 04:16:06.156 - MENSAJE: 
+2023/10/20 04:16:06.167 - MENSAJE: 
+2023/10/20 04:16:07.155 - MENSAJE: 
+2023/10/20 04:16:07.155 - MENSAJE: 
+2023/10/20 04:16:07.166 - MENSAJE: 
+2023/10/20 04:16:08.171 - MENSAJE: 
+2023/10/20 04:16:08.171 - MENSAJE: 
+2023/10/20 04:16:08.181 - MENSAJE: 
+2023/10/20 04:16:09.179 - MENSAJE: 
+2023/10/20 04:16:09.179 - MENSAJE: 
+2023/10/20 04:16:09.190 - MENSAJE: 
+2023/10/20 04:16:10.185 - MENSAJE: 
+2023/10/20 04:16:10.185 - MENSAJE: 
+2023/10/20 04:16:10.196 - MENSAJE: 
+2023/10/20 04:16:11.152 - MENSAJE: 
+2023/10/20 04:16:11.154 - MENSAJE: 
+2023/10/20 04:16:11.163 - MENSAJE: 
+2023/10/20 04:16:12.159 - MENSAJE: 
+2023/10/20 04:16:12.159 - MENSAJE: 
+2023/10/20 04:16:12.169 - MENSAJE: 
+2023/10/20 04:16:13.157 - MENSAJE: 
+2023/10/20 04:16:13.157 - MENSAJE: 
+2023/10/20 04:16:13.168 - MENSAJE: 
+2023/10/20 04:16:14.149 - MENSAJE: 
+2023/10/20 04:16:14.150 - MENSAJE: 
+2023/10/20 04:16:14.160 - MENSAJE: 
+2023/10/20 04:16:15.155 - MENSAJE: 
+2023/10/20 04:16:15.155 - MENSAJE: 
+2023/10/20 04:16:15.166 - MENSAJE: 
+2023/10/20 04:16:16.158 - MENSAJE: 
+2023/10/20 04:16:16.158 - MENSAJE: 
+2023/10/20 04:16:16.169 - MENSAJE: 
+2023/10/20 04:16:17.150 - MENSAJE: 
+2023/10/20 04:16:17.150 - MENSAJE: 
+2023/10/20 04:16:17.161 - MENSAJE: 
+2023/10/20 04:16:18.159 - MENSAJE: 
+2023/10/20 04:16:18.160 - MENSAJE: 
+2023/10/20 04:16:18.170 - MENSAJE: 
+2023/10/20 04:16:19.154 - MENSAJE: 
+2023/10/20 04:16:19.155 - MENSAJE: 
+2023/10/20 04:16:19.166 - MENSAJE: 
+2023/10/20 04:16:20.159 - MENSAJE: 
+2023/10/20 04:16:20.159 - MENSAJE: 
+2023/10/20 04:16:20.170 - MENSAJE: 
+2023/10/20 04:16:21.156 - MENSAJE: 
+2023/10/20 04:16:21.156 - MENSAJE: 
+2023/10/20 04:16:21.168 - MENSAJE: 
+2023/10/20 04:16:22.156 - MENSAJE: 
+2023/10/20 04:16:22.156 - MENSAJE: 
+2023/10/20 04:16:22.167 - MENSAJE: 
+2023/10/20 04:16:23.151 - MENSAJE: 
+2023/10/20 04:16:23.151 - MENSAJE: 
+2023/10/20 04:16:23.162 - MENSAJE: 
+2023/10/20 04:16:24.152 - MENSAJE: 
+2023/10/20 04:16:24.152 - MENSAJE: 
+2023/10/20 04:16:24.163 - MENSAJE: 
+2023/10/20 04:16:25.156 - MENSAJE: 
+2023/10/20 04:16:25.156 - MENSAJE: 
+2023/10/20 04:16:25.167 - MENSAJE: 
+2023/10/20 04:16:26.152 - MENSAJE: 
+2023/10/20 04:16:26.152 - MENSAJE: 
+2023/10/20 04:16:26.163 - MENSAJE: 
+2023/10/20 04:16:27.158 - MENSAJE: 
+2023/10/20 04:16:27.158 - MENSAJE: 
+2023/10/20 04:16:27.169 - MENSAJE: 
+2023/10/20 04:16:28.158 - MENSAJE: 
+2023/10/20 04:16:28.159 - MENSAJE: 
+2023/10/20 04:16:28.170 - MENSAJE: 
+2023/10/20 04:16:29.172 - MENSAJE: 
+2023/10/20 04:16:29.174 - MENSAJE: 
+2023/10/20 04:16:29.183 - MENSAJE: 
+2023/10/20 04:16:30.172 - MENSAJE: 
+2023/10/20 04:16:30.172 - MENSAJE: 
+2023/10/20 04:16:30.182 - MENSAJE: 
+2023/10/20 04:16:31.149 - MENSAJE: 
+2023/10/20 04:16:31.149 - MENSAJE: 
+2023/10/20 04:16:31.160 - MENSAJE: 
+2023/10/20 04:16:32.149 - MENSAJE: 
+2023/10/20 04:16:32.149 - MENSAJE: 
+2023/10/20 04:16:32.160 - MENSAJE: 
+2023/10/20 04:16:33.154 - MENSAJE: 
+2023/10/20 04:16:33.154 - MENSAJE: 
+2023/10/20 04:16:33.165 - MENSAJE: 
+2023/10/20 04:16:34.154 - MENSAJE: 
+2023/10/20 04:16:34.154 - MENSAJE: 
+2023/10/20 04:16:34.165 - MENSAJE: 
+2023/10/20 04:16:35.149 - MENSAJE: 
+2023/10/20 04:16:35.149 - MENSAJE: 
+2023/10/20 04:16:35.159 - MENSAJE: 
+2023/10/20 04:16:36.154 - MENSAJE: 
+2023/10/20 04:16:36.154 - MENSAJE: 
+2023/10/20 04:16:36.164 - MENSAJE: 
+2023/10/20 04:16:37.158 - MENSAJE: 
+2023/10/20 04:16:37.159 - MENSAJE: 
+2023/10/20 04:16:37.169 - MENSAJE: 
+2023/10/20 04:16:38.150 - MENSAJE: 
+2023/10/20 04:16:38.150 - MENSAJE: 
+2023/10/20 04:16:38.161 - MENSAJE: 
+2023/10/20 04:16:39.150 - MENSAJE: 
+2023/10/20 04:16:39.150 - MENSAJE: 
+2023/10/20 04:16:39.161 - MENSAJE: 
+2023/10/20 04:16:40.162 - MENSAJE: 
+2023/10/20 04:16:40.171 - MENSAJE: 
+2023/10/20 04:16:40.175 - MENSAJE: 
+2023/10/20 04:16:41.150 - MENSAJE: 
+2023/10/20 04:16:41.150 - MENSAJE: 
+2023/10/20 04:16:41.161 - MENSAJE: 
+2023/10/20 04:16:42.152 - MENSAJE: 
+2023/10/20 04:16:42.153 - MENSAJE: 
+2023/10/20 04:16:42.163 - MENSAJE: 
+2023/10/20 04:24:11.597 - INICIO REGISTRO
+2023/10/20 04:24:11.606 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/20 04:24:11.725 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/20 04:24:12.409 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/20 04:24:12.441 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/20 04:24:12.464 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/20 04:24:12.500 - MENSAJE: 
+2023/10/20 04:24:12.579 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/20 04:24:12.648 - MENSAJE: 
+2023/10/20 04:24:12.653 - MENSAJE: 
+2023/10/20 04:24:12.656 - MENSAJE: 
+2023/10/20 04:24:13.606 - MENSAJE: 
+2023/10/20 04:24:13.611 - MENSAJE: 
+2023/10/20 04:24:13.618 - MENSAJE: 
+2023/10/20 04:24:14.603 - MENSAJE: 
+2023/10/20 04:24:14.603 - MENSAJE: 
+2023/10/20 04:24:14.614 - MENSAJE: 
+2023/10/20 04:24:15.606 - MENSAJE: 
+2023/10/20 04:24:15.606 - MENSAJE: 
+2023/10/20 04:24:15.616 - MENSAJE: 
+2023/10/20 04:24:16.604 - MENSAJE: 
+2023/10/20 04:24:16.604 - MENSAJE: 
+2023/10/20 04:24:16.615 - MENSAJE: 
+2023/10/20 04:24:17.609 - MENSAJE: 
+2023/10/20 04:24:17.611 - MENSAJE: 
+2023/10/20 04:24:17.619 - MENSAJE: 
+2023/10/20 04:24:18.617 - MENSAJE: 
+2023/10/20 04:24:18.617 - MENSAJE: 
+2023/10/20 04:24:18.627 - MENSAJE: 
+2023/10/20 04:24:19.631 - MENSAJE: 
+2023/10/20 04:24:19.631 - MENSAJE: 
+2023/10/20 04:24:19.642 - MENSAJE: 
+2023/10/20 04:24:20.643 - MENSAJE: 
+2023/10/20 04:24:20.643 - MENSAJE: 
+2023/10/20 04:24:20.653 - MENSAJE: 
+2023/10/20 04:24:21.610 - MENSAJE: 
+2023/10/20 04:24:21.610 - MENSAJE: 
+2023/10/20 04:24:21.621 - MENSAJE: 
+2023/10/20 04:24:22.604 - MENSAJE: 
+2023/10/20 04:24:22.604 - MENSAJE: 
+2023/10/20 04:24:22.615 - MENSAJE: 
+2023/10/20 04:24:23.609 - MENSAJE: 
+2023/10/20 04:24:23.609 - MENSAJE: 
+2023/10/20 04:24:23.620 - MENSAJE: 
+2023/10/20 04:24:24.602 - MENSAJE: 
+2023/10/20 04:24:24.602 - MENSAJE: 
+2023/10/20 04:24:24.613 - MENSAJE: 
+2023/10/20 04:24:25.608 - MENSAJE: 
+2023/10/20 04:24:25.608 - MENSAJE: 
+2023/10/20 04:24:25.619 - MENSAJE: 
+2023/10/20 04:24:26.608 - MENSAJE: 
+2023/10/20 04:24:26.608 - MENSAJE: 
+2023/10/20 04:24:26.619 - MENSAJE: 
+2023/10/20 04:24:27.607 - MENSAJE: 
+2023/10/20 04:24:27.607 - MENSAJE: 
+2023/10/20 04:24:27.618 - MENSAJE: 
+2023/10/20 04:24:28.608 - MENSAJE: 
+2023/10/20 04:24:28.608 - MENSAJE: 
+2023/10/20 04:24:28.619 - MENSAJE: 
+2023/10/20 04:24:29.603 - MENSAJE: 
+2023/10/20 04:24:29.603 - MENSAJE: 
+2023/10/20 04:24:29.614 - MENSAJE: 
+2023/10/20 04:24:30.604 - MENSAJE: 
+2023/10/20 04:24:30.604 - MENSAJE: 
+2023/10/20 04:24:30.615 - MENSAJE: 
+2023/10/20 04:24:31.604 - MENSAJE: 
+2023/10/20 04:24:31.604 - MENSAJE: 
+2023/10/20 04:24:31.615 - MENSAJE: 
+2023/10/20 04:24:32.606 - MENSAJE: 
+2023/10/20 04:24:32.606 - MENSAJE: 
+2023/10/20 04:24:32.617 - MENSAJE: 
+2023/10/20 04:24:33.604 - MENSAJE: 
+2023/10/20 04:24:33.604 - MENSAJE: 
+2023/10/20 04:24:33.615 - MENSAJE: 
+2023/10/20 04:24:34.602 - MENSAJE: 
+2023/10/20 04:24:34.602 - MENSAJE: 
+2023/10/20 04:24:34.612 - MENSAJE: 
+2023/10/20 04:24:35.609 - MENSAJE: 
+2023/10/20 04:24:35.609 - MENSAJE: 
+2023/10/20 04:24:35.620 - MENSAJE: 
+2023/10/20 04:24:36.609 - MENSAJE: 
+2023/10/20 04:24:36.609 - MENSAJE: 
+2023/10/20 04:24:36.619 - MENSAJE: 
+2023/10/20 04:24:37.604 - MENSAJE: 
+2023/10/20 04:24:37.604 - MENSAJE: 
+2023/10/20 04:24:37.615 - MENSAJE: 
+2023/10/20 04:24:38.609 - MENSAJE: 
+2023/10/20 04:24:38.609 - MENSAJE: 
+2023/10/20 04:24:38.620 - MENSAJE: 
+2023/10/20 04:24:39.613 - MENSAJE: 
+2023/10/20 04:24:39.613 - MENSAJE: 
+2023/10/20 04:24:39.623 - MENSAJE: 
+2023/10/20 04:24:40.614 - MENSAJE: 
+2023/10/20 04:24:40.614 - MENSAJE: 
+2023/10/20 04:24:40.625 - MENSAJE: 
+2023/10/20 04:24:41.629 - MENSAJE: 
+2023/10/20 04:24:41.629 - MENSAJE: 
+2023/10/20 04:24:41.640 - MENSAJE: 
+2023/10/20 04:24:42.603 - MENSAJE: 
+2023/10/20 04:24:42.603 - MENSAJE: 
+2023/10/20 04:24:42.614 - MENSAJE: 
+2023/10/20 04:24:43.602 - MENSAJE: 
+2023/10/20 04:24:43.602 - MENSAJE: 
+2023/10/20 04:24:43.613 - MENSAJE: 
+2023/10/20 04:24:44.606 - MENSAJE: 
+2023/10/20 04:24:44.606 - MENSAJE: 
+2023/10/20 04:24:44.617 - MENSAJE: 
+2023/10/20 04:24:45.604 - MENSAJE: 
+2023/10/20 04:24:45.605 - MENSAJE: 
+2023/10/20 04:24:45.616 - MENSAJE: 
+2023/10/20 04:24:46.611 - MENSAJE: 
+2023/10/20 04:24:46.611 - MENSAJE: 
+2023/10/20 04:24:46.622 - MENSAJE: 
+2023/10/20 04:24:47.604 - MENSAJE: 
+2023/10/20 04:24:47.604 - MENSAJE: 
+2023/10/20 04:24:47.614 - MENSAJE: 
+2023/10/20 04:24:48.602 - MENSAJE: 
+2023/10/20 04:24:48.602 - MENSAJE: 
+2023/10/20 04:24:48.613 - MENSAJE: 
+2023/10/20 04:24:49.604 - MENSAJE: 
+2023/10/20 04:24:49.604 - MENSAJE: 
+2023/10/20 04:24:49.615 - MENSAJE: 
+2023/10/20 04:24:50.612 - MENSAJE: 
+2023/10/20 04:24:50.613 - MENSAJE: 
+2023/10/20 04:24:50.623 - MENSAJE: 
+2023/10/20 04:24:51.608 - MENSAJE: 
+2023/10/20 04:24:51.608 - MENSAJE: 
+2023/10/20 04:24:51.619 - MENSAJE: 
+2023/10/20 04:24:52.604 - MENSAJE: 
+2023/10/20 04:24:52.604 - MENSAJE: 
+2023/10/20 04:24:52.615 - MENSAJE: 
+2023/10/20 04:24:53.604 - MENSAJE: 
+2023/10/20 04:24:53.604 - MENSAJE: 
+2023/10/20 04:24:53.615 - MENSAJE: 
+2023/10/20 04:24:54.605 - MENSAJE: 
+2023/10/20 04:24:54.605 - MENSAJE: 
+2023/10/20 04:24:54.616 - MENSAJE: 
+2023/10/20 04:24:55.611 - MENSAJE: 
+2023/10/20 04:24:55.611 - MENSAJE: 
+2023/10/20 04:24:55.622 - MENSAJE: 
+2023/10/20 04:24:56.605 - MENSAJE: 
+2023/10/20 04:24:56.605 - MENSAJE: 
+2023/10/20 04:24:56.616 - MENSAJE: 
+2023/10/20 04:24:57.606 - MENSAJE: 
+2023/10/20 04:24:57.606 - MENSAJE: 
+2023/10/20 04:24:57.617 - MENSAJE: 
+2023/10/20 04:24:58.608 - MENSAJE: 
+2023/10/20 04:24:58.608 - MENSAJE: 
+2023/10/20 04:24:58.619 - MENSAJE: 
+2023/10/20 04:24:59.622 - MENSAJE: 
+2023/10/20 04:24:59.622 - MENSAJE: 
+2023/10/20 04:24:59.633 - MENSAJE: 
+2023/10/20 04:25:00.623 - MENSAJE: 
+2023/10/20 04:25:00.624 - MENSAJE: 
+2023/10/20 04:25:00.635 - MENSAJE: 
+2023/10/20 04:25:01.637 - MENSAJE: 
+2023/10/20 04:25:01.637 - MENSAJE: 
+2023/10/20 04:25:01.647 - MENSAJE: 
+2023/10/20 04:25:02.607 - MENSAJE: 
+2023/10/20 04:25:02.607 - MENSAJE: 
+2023/10/20 04:25:02.618 - MENSAJE: 
+2023/10/20 04:25:03.608 - MENSAJE: 
+2023/10/20 04:25:03.609 - MENSAJE: 
+2023/10/20 04:25:03.619 - MENSAJE: 
+2023/10/20 04:25:04.608 - MENSAJE: 
+2023/10/20 04:25:04.608 - MENSAJE: 
+2023/10/20 04:25:04.619 - MENSAJE: 
+2023/10/20 04:25:05.604 - MENSAJE: 
+2023/10/20 04:25:05.604 - MENSAJE: 
+2023/10/20 04:25:05.615 - MENSAJE: 
+2023/10/20 04:25:06.611 - MENSAJE: 
+2023/10/20 04:25:06.611 - MENSAJE: 
+2023/10/20 04:25:06.621 - MENSAJE: 
+2023/10/20 04:25:07.603 - MENSAJE: 
+2023/10/20 04:25:07.603 - MENSAJE: 
+2023/10/20 04:25:07.614 - MENSAJE: 
+2023/10/20 04:25:08.603 - MENSAJE: 
+2023/10/20 04:25:08.603 - MENSAJE: 
+2023/10/20 04:25:08.614 - MENSAJE: 
+2023/10/20 04:25:09.606 - MENSAJE: 
+2023/10/20 04:25:09.606 - MENSAJE: 
+2023/10/20 04:25:09.617 - MENSAJE: 
+2023/10/20 04:25:10.606 - MENSAJE: 
+2023/10/20 04:25:10.606 - MENSAJE: 
+2023/10/20 04:25:10.617 - MENSAJE: 
+2023/10/20 04:25:11.604 - MENSAJE: 
+2023/10/20 04:25:11.604 - MENSAJE: 
+2023/10/20 04:25:11.615 - MENSAJE: 
+2023/10/20 04:25:12.613 - MENSAJE: 
+2023/10/20 04:25:12.613 - MENSAJE: 
+2023/10/20 04:25:12.624 - MENSAJE: 
+2023/10/20 04:25:13.605 - MENSAJE: 
+2023/10/20 04:25:13.605 - MENSAJE: 
+2023/10/20 04:25:13.616 - MENSAJE: 
+2023/10/20 04:25:14.606 - MENSAJE: 
+2023/10/20 04:25:14.606 - MENSAJE: 
+2023/10/20 04:25:14.617 - MENSAJE: 
+2023/10/20 04:25:15.611 - MENSAJE: 
+2023/10/20 04:25:15.611 - MENSAJE: 
+2023/10/20 04:25:15.622 - MENSAJE: 
+2023/10/20 04:25:16.605 - MENSAJE: 
+2023/10/20 04:25:16.605 - MENSAJE: 
+2023/10/20 04:25:16.616 - MENSAJE: 
+2023/10/20 04:25:17.605 - MENSAJE: 
+2023/10/20 04:25:17.605 - MENSAJE: 
+2023/10/20 04:25:17.616 - MENSAJE: 
+2023/10/20 04:25:18.606 - MENSAJE: 
+2023/10/20 04:25:18.606 - MENSAJE: 
+2023/10/20 04:25:18.617 - MENSAJE: 
+2023/10/20 04:25:19.609 - MENSAJE: 
+2023/10/20 04:25:19.609 - MENSAJE: 
+2023/10/20 04:25:19.620 - MENSAJE: 
+2023/10/20 04:25:20.611 - MENSAJE: 
+2023/10/20 04:25:20.611 - MENSAJE: 
+2023/10/20 04:25:20.622 - MENSAJE: 
+2023/10/20 04:25:21.608 - MENSAJE: 
+2023/10/20 04:25:21.608 - MENSAJE: 
+2023/10/20 04:25:21.619 - MENSAJE: 
+2023/10/20 04:25:22.603 - MENSAJE: 
+2023/10/20 04:25:22.603 - MENSAJE: 
+2023/10/20 04:25:22.614 - MENSAJE: 
+2023/10/20 04:25:23.609 - MENSAJE: 
+2023/10/20 04:25:23.609 - MENSAJE: 
+2023/10/20 04:25:23.620 - MENSAJE: 
+2023/10/20 04:25:24.602 - MENSAJE: 
+2023/10/20 04:25:24.602 - MENSAJE: 
+2023/10/20 04:25:24.613 - MENSAJE: 
+2023/10/20 04:25:25.606 - MENSAJE: 
+2023/10/20 04:25:25.606 - MENSAJE: 
+2023/10/20 04:25:25.617 - MENSAJE: 
+2023/10/20 04:25:26.608 - MENSAJE: 
+2023/10/20 04:25:26.608 - MENSAJE: 
+2023/10/20 04:25:26.619 - MENSAJE: 
+2023/10/20 04:25:27.609 - MENSAJE: 
+2023/10/20 04:25:27.609 - MENSAJE: 
+2023/10/20 04:25:27.619 - MENSAJE: 
+2023/10/20 04:25:28.611 - MENSAJE: 
+2023/10/20 04:25:28.611 - MENSAJE: 
+2023/10/20 04:25:28.622 - MENSAJE: 
+2023/10/20 04:25:29.610 - MENSAJE: 
+2023/10/20 04:25:29.610 - MENSAJE: 
+2023/10/20 04:25:29.621 - MENSAJE: 
+2023/10/20 04:25:30.604 - MENSAJE: 
+2023/10/20 04:25:30.604 - MENSAJE: 
+2023/10/20 04:25:30.619 - MENSAJE: 
+2023/10/20 04:25:31.609 - MENSAJE: 
+2023/10/20 04:25:31.609 - MENSAJE: 
+2023/10/20 04:25:31.620 - MENSAJE: 
+2023/10/20 04:25:32.619 - MENSAJE: 
+2023/10/20 04:25:32.619 - MENSAJE: 
+2023/10/20 04:25:32.629 - MENSAJE: 
+2023/10/20 04:25:33.620 - MENSAJE: 
+2023/10/20 04:25:33.620 - MENSAJE: 
+2023/10/20 04:25:33.631 - MENSAJE: 
+2023/10/20 04:25:34.636 - MENSAJE: 
+2023/10/20 04:25:34.636 - MENSAJE: 
+2023/10/20 04:25:34.646 - MENSAJE: 
+2023/10/20 04:25:35.603 - MENSAJE: 
+2023/10/20 04:25:35.603 - MENSAJE: 
+2023/10/20 04:25:35.614 - MENSAJE: 
+2023/10/20 04:25:36.608 - MENSAJE: 
+2023/10/20 04:25:36.608 - MENSAJE: 
+2023/10/20 04:25:36.619 - MENSAJE: 
+2023/10/20 04:25:37.609 - MENSAJE: 
+2023/10/20 04:25:37.610 - MENSAJE: 
+2023/10/20 04:25:37.620 - MENSAJE: 
+2023/10/20 04:25:38.608 - MENSAJE: 
+2023/10/20 04:25:38.608 - MENSAJE: 
+2023/10/20 04:25:38.620 - MENSAJE: 
+2023/10/20 04:25:39.612 - MENSAJE: 
+2023/10/20 04:25:39.612 - MENSAJE: 
+2023/10/20 04:25:39.623 - MENSAJE: 
+2023/10/20 04:25:40.611 - MENSAJE: 
+2023/10/20 04:25:40.611 - MENSAJE: 
+2023/10/20 04:25:40.622 - MENSAJE: 
+2023/10/20 04:25:41.605 - MENSAJE: 
+2023/10/20 04:25:41.605 - MENSAJE: 
+2023/10/20 04:25:41.616 - MENSAJE: 
+2023/10/20 04:25:42.608 - MENSAJE: 
+2023/10/20 04:25:42.608 - MENSAJE: 
+2023/10/20 04:25:42.619 - MENSAJE: 
+2023/10/20 04:25:43.607 - MENSAJE: 
+2023/10/20 04:25:43.607 - MENSAJE: 
+2023/10/20 04:25:43.618 - MENSAJE: 
+2023/10/20 04:25:44.603 - MENSAJE: 
+2023/10/20 04:25:44.603 - MENSAJE: 
+2023/10/20 04:25:44.614 - MENSAJE: 
+2023/10/20 04:25:45.603 - MENSAJE: 
+2023/10/20 04:25:45.603 - MENSAJE: 
+2023/10/20 04:25:45.614 - MENSAJE: 
+2023/10/20 04:25:46.607 - MENSAJE: 
+2023/10/20 04:25:46.607 - MENSAJE: 
+2023/10/20 04:25:46.618 - MENSAJE: 
+2023/10/20 04:25:47.604 - MENSAJE: 
+2023/10/20 04:25:47.604 - MENSAJE: 
+2023/10/20 04:25:47.615 - MENSAJE: 
+2023/10/20 04:25:48.609 - MENSAJE: 
+2023/10/20 04:25:48.609 - MENSAJE: 
+2023/10/20 04:25:48.620 - MENSAJE: 
+2023/10/20 04:25:49.604 - MENSAJE: 
+2023/10/20 04:25:49.604 - MENSAJE: 
+2023/10/20 04:25:49.615 - MENSAJE: 
+2023/10/20 04:25:50.605 - MENSAJE: 
+2023/10/20 04:25:50.605 - MENSAJE: 
+2023/10/20 04:25:50.616 - MENSAJE: 
+2023/10/20 04:25:51.611 - MENSAJE: 
+2023/10/20 04:25:51.611 - MENSAJE: 
+2023/10/20 04:25:51.622 - MENSAJE: 
+2023/10/20 04:25:52.605 - MENSAJE: 
+2023/10/20 04:25:52.606 - MENSAJE: 
+2023/10/20 04:25:52.616 - MENSAJE: 
+2023/10/20 04:25:53.610 - MENSAJE: 
+2023/10/20 04:25:53.610 - MENSAJE: 
+2023/10/20 04:25:53.620 - MENSAJE: 
+2023/10/20 04:25:54.614 - MENSAJE: 
+2023/10/20 04:25:54.614 - MENSAJE: 
+2023/10/20 04:25:54.625 - MENSAJE: 
+2023/10/20 04:25:55.630 - MENSAJE: 
+2023/10/20 04:25:55.630 - MENSAJE: 
+2023/10/20 04:25:55.641 - MENSAJE: 
+2023/10/20 04:25:56.639 - MENSAJE: 
+2023/10/20 04:25:56.638 - MENSAJE: 
+2023/10/20 04:25:56.649 - MENSAJE: 
+2023/10/20 04:25:57.608 - MENSAJE: 
+2023/10/20 04:25:57.608 - MENSAJE: 
+2023/10/20 04:25:57.619 - MENSAJE: 
+2023/10/20 04:25:58.608 - MENSAJE: 
+2023/10/20 04:25:58.608 - MENSAJE: 
+2023/10/20 04:25:58.619 - MENSAJE: 
+2023/10/20 04:25:59.608 - MENSAJE: 
+2023/10/20 04:25:59.608 - MENSAJE: 
+2023/10/20 04:25:59.619 - MENSAJE: 
+2023/10/20 04:26:00.609 - MENSAJE: 
+2023/10/20 04:26:00.610 - MENSAJE: 
+2023/10/20 04:26:00.620 - MENSAJE: 
+2023/10/20 04:26:01.612 - MENSAJE: 
+2023/10/20 04:26:01.612 - MENSAJE: 
+2023/10/20 04:26:01.623 - MENSAJE: 
+2023/10/20 04:26:02.611 - MENSAJE: 
+2023/10/20 04:26:02.615 - MENSAJE: 
+2023/10/20 04:26:02.669 - MENSAJE: 
+2023/10/20 04:26:03.602 - MENSAJE: 
+2023/10/20 04:26:03.604 - MENSAJE: 
+2023/10/20 04:26:03.615 - MENSAJE: 
+2023/10/20 04:26:04.611 - MENSAJE: 
+2023/10/20 04:26:04.611 - MENSAJE: 
+2023/10/20 04:26:04.622 - MENSAJE: 
+2023/10/20 04:26:05.608 - MENSAJE: 
+2023/10/20 04:26:05.608 - MENSAJE: 
+2023/10/20 04:26:05.619 - MENSAJE: 
+2023/10/20 04:26:06.602 - MENSAJE: 
+2023/10/20 04:26:06.602 - MENSAJE: 
+2023/10/20 04:26:06.613 - MENSAJE: 
+2023/10/20 04:26:07.608 - MENSAJE: 
+2023/10/20 04:26:07.609 - MENSAJE: 
+2023/10/20 04:26:07.619 - MENSAJE: 
+2023/10/20 04:26:08.611 - MENSAJE: 
+2023/10/20 04:26:08.613 - MENSAJE: 
+2023/10/20 04:26:08.621 - MENSAJE: 
+2023/10/20 04:26:09.602 - MENSAJE: 
+2023/10/20 04:26:09.602 - MENSAJE: 
+2023/10/20 04:26:09.613 - MENSAJE: 
+2023/10/20 04:26:10.602 - MENSAJE: 
+2023/10/20 04:26:10.602 - MENSAJE: 
+2023/10/20 04:26:10.613 - MENSAJE: 
+2023/10/20 04:26:11.609 - MENSAJE: 
+2023/10/20 04:26:11.609 - MENSAJE: 
+2023/10/20 04:26:11.619 - MENSAJE: 
+2023/10/20 04:26:12.604 - MENSAJE: 
+2023/10/20 04:26:12.604 - MENSAJE: 
+2023/10/20 04:26:12.615 - MENSAJE: 
+2023/10/20 04:26:13.609 - MENSAJE: 
+2023/10/20 04:26:13.609 - MENSAJE: 
+2023/10/20 04:26:13.620 - MENSAJE: 
+2023/10/20 04:26:14.602 - MENSAJE: 
+2023/10/20 04:26:14.603 - MENSAJE: 
+2023/10/20 04:26:14.613 - MENSAJE: 
+2023/10/20 04:26:15.617 - MENSAJE: 
+2023/10/20 04:26:15.617 - MENSAJE: 
+2023/10/20 04:26:15.628 - MENSAJE: 
+2023/10/20 04:26:16.631 - MENSAJE: 
+2023/10/20 04:26:16.631 - MENSAJE: 
+2023/10/20 04:26:16.642 - MENSAJE: 
+2023/10/20 04:26:17.646 - MENSAJE: 
+2023/10/20 04:26:17.646 - MENSAJE: 
+2023/10/20 04:26:17.657 - MENSAJE: 
+2023/10/20 04:26:18.608 - MENSAJE: 
+2023/10/20 04:26:18.608 - MENSAJE: 
+2023/10/20 04:26:18.619 - MENSAJE: 
+2023/10/20 04:26:19.606 - MENSAJE: 
+2023/10/20 04:26:19.606 - MENSAJE: 
+2023/10/20 04:26:19.617 - MENSAJE: 
+2023/10/20 04:26:20.611 - MENSAJE: 
+2023/10/20 04:26:20.611 - MENSAJE: 
+2023/10/20 04:26:20.622 - MENSAJE: 
+2023/10/20 04:26:21.608 - MENSAJE: 
+2023/10/20 04:26:21.608 - MENSAJE: 
+2023/10/20 04:26:21.619 - MENSAJE: 
+2023/10/20 04:26:22.603 - MENSAJE: 
+2023/10/20 04:26:22.603 - MENSAJE: 
+2023/10/20 04:26:22.614 - MENSAJE: 
+2023/10/20 04:26:23.602 - MENSAJE: 
+2023/10/20 04:26:23.602 - MENSAJE: 
+2023/10/20 04:26:23.613 - MENSAJE: 
+2023/10/20 04:26:24.602 - MENSAJE: 
+2023/10/20 04:26:24.602 - MENSAJE: 
+2023/10/20 04:26:24.613 - MENSAJE: 
+2023/10/20 04:26:25.608 - MENSAJE: 
+2023/10/20 04:26:25.608 - MENSAJE: 
+2023/10/20 04:26:25.618 - MENSAJE: 
+2023/10/20 04:26:26.606 - MENSAJE: 
+2023/10/20 04:26:26.605 - MENSAJE: 
+2023/10/20 04:26:26.616 - MENSAJE: 
+2023/10/20 04:26:27.603 - MENSAJE: 
+2023/10/20 04:26:27.604 - MENSAJE: 
+2023/10/20 04:26:27.614 - MENSAJE: 
+2023/10/20 04:26:28.609 - MENSAJE: 
+2023/10/20 04:26:28.609 - MENSAJE: 
+2023/10/20 04:26:28.621 - MENSAJE: 
+2023/10/20 04:26:29.606 - MENSAJE: 
+2023/10/20 04:26:29.606 - MENSAJE: 
+2023/10/20 04:26:29.617 - MENSAJE: 
+2023/10/20 04:26:30.608 - MENSAJE: 
+2023/10/20 04:26:30.609 - MENSAJE: 
+2023/10/20 04:26:30.619 - MENSAJE: 
+2023/10/20 04:26:31.604 - MENSAJE: 
+2023/10/20 04:26:31.604 - MENSAJE: 
+2023/10/20 04:26:31.615 - MENSAJE: 
+2023/10/20 04:26:32.604 - MENSAJE: 
+2023/10/20 04:26:32.604 - MENSAJE: 
+2023/10/20 04:26:32.615 - MENSAJE: 
+2023/10/20 04:26:33.611 - MENSAJE: 
+2023/10/20 04:26:33.611 - MENSAJE: 
+2023/10/20 04:26:33.622 - MENSAJE: 
+2023/10/20 04:26:34.606 - MENSAJE: 
+2023/10/20 04:26:34.606 - MENSAJE: 
+2023/10/20 04:26:34.616 - MENSAJE: 
+2023/10/20 04:26:35.627 - MENSAJE: 
+2023/10/20 04:26:35.627 - MENSAJE: 
+2023/10/20 04:26:35.638 - MENSAJE: 
+2023/10/20 04:26:36.630 - MENSAJE: 
+2023/10/20 04:26:36.630 - MENSAJE: 
+2023/10/20 04:26:36.640 - MENSAJE: 
+2023/10/20 04:26:37.602 - MENSAJE: 
+2023/10/20 04:26:37.602 - MENSAJE: 
+2023/10/20 04:26:37.612 - MENSAJE: 

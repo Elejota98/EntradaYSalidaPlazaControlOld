@@ -26,7 +26,7 @@ namespace MC.DataService.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=192.168.1.33;Initial Catalog=Plaza;User ID=sa;Password=Parquearse123")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=192.168.1.6;Initial Catalog=Plaza;User ID=sa;Password=Parquearse123")]
         public string ParkingConnectionString {
             get {
                 return ((string)(this["ParkingConnectionString"]));
@@ -36,7 +36,7 @@ namespace MC.DataService.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=192.168.1.33;Initial Catalog=Plaza;User ID=sa;Password=Parquearse123")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=192.168.1.6;Initial Catalog=Plaza;User ID=sa;Password=Parquearse123")]
         public string ParkingConnectionString1 {
             get {
                 return ((string)(this["ParkingConnectionString1"]));
@@ -46,7 +46,7 @@ namespace MC.DataService.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=192.168.1.33;Initial Catalog=Plaza;User ID=sa;Password=Parquearse123")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=192.168.1.6;Initial Catalog=Plaza;User ID=sa;Password=Parquearse123")]
         public string TestFloridaConnectionString {
             get {
                 return ((string)(this["TestFloridaConnectionString"]));
@@ -56,7 +56,7 @@ namespace MC.DataService.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=192.168.1.33;Initial Catalog=Plaza;User ID=sa;Password=Parquearse123")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=192.168.1.6;Initial Catalog=Plaza;User ID=sa;Password=Parquearse123")]
         public string ParkingConnectionString2 {
             get {
                 return ((string)(this["ParkingConnectionString2"]));
@@ -66,7 +66,7 @@ namespace MC.DataService.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=192.168.1.33;Initial Catalog=Plaza;User ID=sa;Password=Parquearse123")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=192.168.1.6;Initial Catalog=Plaza;User ID=sa;Password=Parquearse123")]
         public string ParkingConnectionString3 {
             get {
                 return ((string)(this["ParkingConnectionString3"]));
