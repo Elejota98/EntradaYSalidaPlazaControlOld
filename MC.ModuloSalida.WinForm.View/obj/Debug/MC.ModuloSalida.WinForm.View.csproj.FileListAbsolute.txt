@@ -57,3 +57,14 @@ C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.ModuloSalida.WinForm.View\
 C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.csprojResolveAssemblyReference.cache
 C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.dll
 C:\Users\Kingdel\Desktop\SANTO THOMAS\SANTO THOMAS\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.View\bin\Debug\MC.ModuloSalida.WinForm.View.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.View\bin\Debug\MC.ModuloSalida.WinForm.View.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.View\bin\Debug\MC.BusinessObjects.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.View\bin\Debug\MC.Utilidades.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.View\bin\Debug\EGlobalT.Device.SmartCard.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.View\bin\Debug\EGlobalT.Device.Tools.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.View\bin\Debug\MC.BusinessObjects.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.View\bin\Debug\MC.Utilidades.pdb
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.dll
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.pdb

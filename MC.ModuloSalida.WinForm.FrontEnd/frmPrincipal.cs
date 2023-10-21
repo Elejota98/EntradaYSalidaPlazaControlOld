@@ -44,16 +44,42 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
         #endregion
 
         #region Definiciones
-        private Int32 m_lUserID = -1;
-        private Int32[] m_lAlarmHandle = new Int32[200];
-        private Int32 iListenHandle = -1;
-        private int iDeviceNumber = 0; //添加设备个数
-        private uint iLastErr = 0;
-        private string strErr;
-        private CHCNetSDK.MSGCallBack_V31 m_falarmData_V31 = null;
-        private CHCNetSDK.MSGCallBack m_falarmData = null;
-        public delegate void UpdateListBoxCallback(string strAlarmTime, string strDevIP, string strAlarmMsg);
-
+        private bool _Moto = false;
+        public bool Moto
+        {
+            get { return _Moto; }
+            set { _Moto = value; }
+        }
+        private bool _ControlReady = false;
+        public bool ControlReady
+        {
+            get { return _ControlReady; }
+            set { _ControlReady = value; }
+        }
+        private bool _BotonPresionado = false;
+        public bool BotonPresionado
+        {
+            get { return _BotonPresionado; }
+            set { _BotonPresionado = value; }
+        }
+        private bool _VehiculoMueble = false;
+        public bool VehiculoMueble
+        {
+            get { return _VehiculoMueble; }
+            set { _VehiculoMueble = value; }
+        }
+        private bool _VehiculoTalanquera = false;
+        public bool VehiculoTalanquera
+        {
+            get { return _VehiculoTalanquera; }
+            set { _VehiculoTalanquera = value; }
+        }
+        private bool _VehiculoSalioTalanquera = false;
+        public bool VehiculoSalioTalanquera
+        {
+            get { return _VehiculoSalioTalanquera; }
+            set { _VehiculoSalioTalanquera = value; }
+        }
         private string _sPlaca = string.Empty;
         public string sPlaca
         {
@@ -224,7 +250,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                     //Presentacion = Pantalla.InserteTarjeta;
                     //_frmPrincipal_Presenter.ConectarCRT();
 
-                    if (_frmPrincipal_Presenter.TestConexionDispositivos())
+                    //if (_frmPrincipal_Presenter.TestConexionDispositivos())
+                    //{
+                    if (Convert.ToBoolean(Globales.sPLC) == true)
                     {
                         if (_frmPrincipal_Presenter.VehiculoMueble())
                         {
@@ -248,6 +276,33 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                             }
                         }
                     }
+                    else
+                    {
+                        _frmPrincipal_Presenter.EstadoControl();
+                        if (_VehiculoMueble)
+                        {
+
+                            SoundPlayer simpleSound = new SoundPlayer(_sPathInserteTarjeta);
+                            simpleSound.Play();
+
+                            Presentacion = Pantalla.InserteTarjeta;
+                        }
+                        if (_frmPrincipal_Presenter.ObtenerEventoDispo())
+                        {
+                            string[] Resul = _Barrera.Split(';');
+
+                            if (Resul[0].ToString() == Globales.sSerial)
+                            {
+                                _frmPrincipal_Presenter.AbrirTalanquera();
+                            }
+                            if (Resul[0].ToString() == Globales.sSerial)
+                            {
+                                _frmPrincipal_Presenter.ActualizarEventoDispo(Convert.ToInt64(Resul[1]));
+                            }
+                        }
+                    }
+
+                    //}
                     break;
 
                 case Pantalla.SistemaSuspendido:
@@ -956,37 +1011,44 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
         {
             //return true;
             bool ok = false;
-            if (_frmPrincipal_Presenter.ConexionPLC())
-            {
-                if (_frmPrincipal_Presenter.LimpiarValoresPLC())
-                {
-                    _frmPrincipal_Presenter.ConectarReceptor();
 
-                    if (KytReady)
-                    {
-                        ok = true;
-                    }
-                }
-            }
-            if (ok)
+            if (Convert.ToBoolean(Globales.sPLC) == true)
             {
-                if (ok)
+                if (_frmPrincipal_Presenter.ConexionPLC())
                 {
-                    if (InicializarLPR())
+                    if (_frmPrincipal_Presenter.LimpiarValoresPLC())
                     {
-                        if (!ConectarLPR())
+                        _frmPrincipal_Presenter.ConectarReceptor();
+
+                        if (KytReady)
                         {
-                            General_Events = "(FrontEnd Error ConectarLPR)";
-                            ok = false;
+                            ok = true;
                         }
                     }
                 }
-                RspConexion = Lector.Conectar();
-                if (RspConexion.Conectado)
+                if (ok)
+                {
+                    if (ok)
+                    {
+                        RspConexion = Lector.Conectar();
+                        if (RspConexion.Conectado)
+                        {
+                            ok = true;
+                        }
+                    }
+
+                }
+            }
+            else
+            {
+                _frmPrincipal_Presenter.ConectarControl();
+
+                if (_ControlReady)
                 {
                     ok = true;
                 }
             }
+
          
             return ok;
         }
@@ -1343,283 +1405,8 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
         }
         private void CapturaPlaca()
         {
-
-
-            //string Placa = string.Empty;
-
-            try
-            {
-                #region CapturaPlacaOld
-                //string ipServer = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.IPLPR);
-                //General_Events = "(FrontEnd CapturaPlaca) ipServer: " + ipServer;
-
-                //string IDLPR = Globales.sIDLPR;
-                //Int32 port = Convert.ToInt32(Globales.sPuertoLPR);
-                //string message = "[lpr;" + IDLPR + ";1;242CF]";
-                //TcpClient client = new TcpClient(ipServer, port);
-
-                //Byte[] data = System.Text.Encoding.ASCII.GetBytes(message);
-                //NetworkStream stream = client.GetStream();
-                //stream.Write(data, 0, data.Length);
-                //General_Events = "(FrontEnd CapturaPlaca) message: " + message;
-
-                //data = new Byte[256];
-                //String responseData = String.Empty;
-
-                //Int32 bytes = stream.Read(data, 0, data.Length);
-                //responseData = System.Text.Encoding.ASCII.GetString(data, 0, bytes);
-                //string[] temp = responseData.Split(';');
-                //Placa = temp[4];
-                //General_Events = "(FrontEnd CapturaPlaca) Placa: " + Placa;
-
-                //if (Placa == string.Empty)
-                //{
-                //    Placa = "------";
-                //}
-                #endregion
-
-                CHCNetSDK.NET_DVR_SETUPALARM_PARAM struAlarmParam = new CHCNetSDK.NET_DVR_SETUPALARM_PARAM();
-                struAlarmParam.dwSize = (uint)Marshal.SizeOf(struAlarmParam);
-                struAlarmParam.byLevel = 1; //0- 一级布防,1- 二级布防
-                struAlarmParam.byAlarmInfoType = 1;//智能交通设备有效，新报警信息类型
-                struAlarmParam.byFaceAlarmDetection = 1;//1-人脸侦测
-
-                //for (int i = 0; i < iDeviceNumber; i++)
-                //{
-                m_lUserID = 0;
-                m_lAlarmHandle[m_lUserID] = CHCNetSDK.NET_DVR_SetupAlarmChan_V41(m_lUserID, ref struAlarmParam);
-                if (m_lAlarmHandle[m_lUserID] < 0)
-                {
-                    iLastErr = CHCNetSDK.NET_DVR_GetLastError();
-                    strErr = "Failed to arm, Error code:" + iLastErr; //布防失败，输出错误号
-                }
-                else
-                {
-                    //listViewDevice.Items[i].SubItems[2].Text = "Arm successfully";
-                }
-                //    btn_SetAlarm.Enabled = false;
-                //}
-
-
-            }
-            catch (Exception ex)
-            {
-                General_Events = "(FrontEnd ERROR CapturaPlaca) " + ex.ToString();
-            }
-
-
-
         }
         #endregion
-        private void DesarmarLPR()
-        {
-
-            m_lUserID = 0;
-            if (m_lAlarmHandle[m_lUserID] >= 0)
-            {
-                if (!CHCNetSDK.NET_DVR_CloseAlarmChan_V30(m_lAlarmHandle[m_lUserID]))
-                {
-                    iLastErr = CHCNetSDK.NET_DVR_GetLastError();
-                    strErr = "Failed to disarm, Error code:" + iLastErr; //撤防失败，输出错误号
-                    //listViewDevice.Items[i].SubItems[2].Text = strErr;
-                }
-                else
-                {
-                    //listViewDevice.Items[i].SubItems[2].Text = "Disarmed";
-                    m_lAlarmHandle[0] = -1;
-                }
-            }
-            else
-            {
-                //listViewDevice.Items[i].SubItems[2].Text = "Disarmed";
-            }
-
-        }
-
-        private bool ConectarLPR()
-        {
-            bool ok = false;
-
-            try
-            {               //////////////////////////////////////////////////////////////////////////////
-
-                string DVRIPAddress = string.Empty;
-
-                for (int i = 0; i < _DtoModulo.Partes.Count; i++)
-                {
-                    if (_DtoModulo.Partes[i].TipoParte == "LPR" && _DtoModulo.Partes[i].Estado)
-                    {
-                        DVRIPAddress = _DtoModulo.Partes[i].IPDispositivo;
-                        break;
-                    }
-                }
-
-                Int16 DVRPortNumber = Int16.Parse(Globales.sPuertoLPR);
-
-                string DVRUserName = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.UsuarioCamaras).ToString();
-                string DVRPassword = _frmPrincipal_Presenter.ObtenerValorParametro(Parametros.PasswordCamaras).ToString();
-
-                CHCNetSDK.NET_DVR_DEVICEINFO_V30 DeviceInfo = new CHCNetSDK.NET_DVR_DEVICEINFO_V30();
-
-                m_lUserID = CHCNetSDK.NET_DVR_Login_V30(DVRIPAddress, DVRPortNumber, DVRUserName, DVRPassword, ref DeviceInfo);
-                if (m_lUserID < 0)
-                {
-                    iLastErr = CHCNetSDK.NET_DVR_GetLastError();
-                    strErr = "NET_DVR_Login_V30 failed, error code= " + iLastErr;
-
-                }
-                else
-                {
-                    iDeviceNumber++;
-                    string str1 = "" + m_lUserID;
-                    ok = true;
-                }
-
-            }
-            catch (Exception ex)
-            {
-                General_Events = "(FrontEnd ERROR ConectarLPR) " + ex.ToString();
-            }
-
-            return ok;
-        }
-        private bool InicializarLPR()
-        {
-            bool OK = true;
-
-            bool m_bInitSDK = CHCNetSDK.NET_DVR_Init();
-            if (m_bInitSDK == false)
-            {
-                //MessageBox.Show("NET_DVR_Init error!");
-                OK = false;
-            }
-            else
-            {
-                byte[] strIP = new byte[16 * 16];
-                uint dwValidNum = 0;
-                Boolean bEnableBind = false;
-
-                if (CHCNetSDK.NET_DVR_GetLocalIP(strIP, ref dwValidNum, ref bEnableBind))
-                {
-                    if (dwValidNum > 0)
-                    {
-                        string ListenIP = "192.168.1.11";
-                        ListenIP = System.Text.Encoding.UTF8.GetString(strIP, 0, 16);
-                        CHCNetSDK.NET_DVR_SetValidIP(0, true);
-                    }
-
-                }
-
-                CHCNetSDK.NET_DVR_SetLogToFile(3, "C:\\SdkLog\\", true);
-                for (int i = 0; i < 200; i++)
-                {
-                    m_lAlarmHandle[i] = -1;
-                }
-
-                if (m_falarmData_V31 == null)
-                {
-                    m_falarmData_V31 = new CHCNetSDK.MSGCallBack_V31(MsgCallback_V31);
-                }
-                CHCNetSDK.NET_DVR_SetDVRMessageCallBack_V31(m_falarmData_V31, IntPtr.Zero);
-            }
-
-            return OK;
-        }
-        public bool MsgCallback_V31(int lCommand, ref CHCNetSDK.NET_DVR_ALARMER pAlarmer, IntPtr pAlarmInfo, uint dwBufLen, IntPtr pUser)
-        {
-            IniciarAlarmaLPR(lCommand, ref pAlarmer, pAlarmInfo, dwBufLen, pUser);
-
-            return true;
-        }
-        //Inicializar alarma para obtener la placa 
-        public void IniciarAlarmaLPR(int lCommand, ref CHCNetSDK.NET_DVR_ALARMER pAlarmer, IntPtr pAlarmInfo, uint dwBufLen, IntPtr pUser)
-        {
-            switch (lCommand)
-            {
-                case CHCNetSDK.COMM_ITS_PLATE_RESULT:
-                    ProcessCommAlarm_ITSPlate(ref pAlarmer, pAlarmInfo, dwBufLen, pUser);
-                    break;
-
-                default:
-                    {
-                        string strIP = pAlarmer.sDeviceIP;
-
-                        string stringAlarm = "upload alarm，alarm message type：" + lCommand;
-
-                        if (InvokeRequired)
-                        {
-                            object[] paras = new object[3];
-                            paras[0] = DateTime.Now.ToString();
-                            paras[1] = strIP;
-                            paras[2] = stringAlarm;
-                            //listViewAlarmInfo.BeginInvoke(new UpdateListBoxCallback(UpdateClientList), paras);
-                        }
-                        else
-                        {
-
-                            UpdateClientList(DateTime.Now.ToString(), strIP, stringAlarm);
-                        }
-                    }
-                    break;
-            }
-        }
-        //Proceso para obtener la placa 
-        private void ProcessCommAlarm_ITSPlate(ref CHCNetSDK.NET_DVR_ALARMER pAlarmer, IntPtr pAlarmInfo, uint dwBufLen, IntPtr pUser)
-        {
-            CHCNetSDK.NET_ITS_PLATE_RESULT struITSPlateResult = new CHCNetSDK.NET_ITS_PLATE_RESULT();
-            uint dwSize = (uint)Marshal.SizeOf(struITSPlateResult);
-
-            struITSPlateResult = (CHCNetSDK.NET_ITS_PLATE_RESULT)Marshal.PtrToStructure(pAlarmInfo, typeof(CHCNetSDK.NET_ITS_PLATE_RESULT));
-
-            //for (int i = 0; i < struITSPlateResult.dwPicNum; i++)
-            //{
-            //    if (struITSPlateResult.struPicInfo[i].dwDataLen != 0)
-            //    {
-            //        string str = "ITS_UserID_[" + pAlarmer.lUserID + "]_Pictype_" + struITSPlateResult.struPicInfo[i].byType + "_Num" + (i + 1) + ".jpg";
-            //        FileStream fs = new FileStream(str, FileMode.Create);
-            //        int iLen = (int)struITSPlateResult.struPicInfo[i].dwDataLen;
-            //        byte[] by = new byte[iLen];
-            //        Marshal.Copy(struITSPlateResult.struPicInfo[i].pBuffer, by, 0, iLen);
-            //        fs.Write(by, 0, iLen);
-            //        fs.Close();
-            //    }
-            //}
-
-            string strIP = pAlarmer.sDeviceIP;
-
-
-            //string strTimeYear = string.Format("{0:D4}", struITSPlateResult.struSnapFirstPicTime.wYear) +
-            //    string.Format("{0:D2}", struITSPlateResult.struSnapFirstPicTime.byMonth) +
-            //    string.Format("{0:D2}", struITSPlateResult.struSnapFirstPicTime.byDay) + " "
-            //    + string.Format("{0:D2}", struITSPlateResult.struSnapFirstPicTime.byHour) + ":"
-            //    + string.Format("{0:D2}", struITSPlateResult.struSnapFirstPicTime.byMinute) + ":"
-            //    + string.Format("{0:D2}", struITSPlateResult.struSnapFirstPicTime.bySecond) + ":"
-            //    + string.Format("{0:D3}", struITSPlateResult.struSnapFirstPicTime.wMilliSec);
-
-
-            string stringPlateLicense = System.Text.Encoding.GetEncoding("GBK").GetString(struITSPlateResult.struPlateInfo.sLicense).TrimEnd('\0');
-            _sPlaca = stringPlateLicense;
-            General_Events = "(FrontEnd CapturaPlaca) Placa: " + _sPlaca;
-            //string stringAlarm = "capture upload，" + "license plate：" + stringPlateLicense + "，Serial number of vehicle：" + struITSPlateResult.struVehicleInfo.dwIndex;
-
-            //if (InvokeRequired)
-            //{
-            //    object[] paras = new object[3];
-            //    paras[0] = strTimeYear = DateTime.Now.ToString();
-            //    paras[1] = strIP;
-            //    paras[2] = stringAlarm;
-            //    //listViewAlarmInfo.BeginInvoke(new UpdateListBoxCallback(UpdateClientList), paras);
-            //}
-            //else
-            //{
-
-            //    UpdateClientList(DateTime.Now.ToString(), strIP, stringAlarm);
-            //}
-        }
-        public void UpdateClientList(string strAlarmTime, string strDevIP, string strAlarmMsg)
-        {
-            //listViewAlarmInfo.Items.Add(new ListViewItem(new string[] { strAlarmTime, strDevIP, strAlarmMsg }));
-        }
 
         #region IView
         public Pantalla Presentacion

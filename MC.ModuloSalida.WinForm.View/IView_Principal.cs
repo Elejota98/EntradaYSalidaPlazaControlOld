@@ -32,6 +32,12 @@ namespace MC.ModuloSalida.WinForm.View
         bool CardReadKytReceptorReady { get; set; }
         string Horas { get; set; }
         string Barrera { get; set; }
+        bool ControlReady { get; set; }
+        bool BotonPresionado { get; set; }
+        bool VehiculoMueble { get; set; }
+        bool Moto { get; set; }
+        bool VehiculoTalanquera { get; set; }
+        bool VehiculoSalioTalanquera { get; set; }
 
         
     }

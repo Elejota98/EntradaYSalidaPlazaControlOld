@@ -2,6 +2,7 @@
 using MC.BusinessObjects.DataTransferObject;
 using MC.BusinessObjects.Entities;
 using MC.BusinessObjects.Enums;
+using MC.ControlDevice;
 using MC.CRT603Device;
 using MC.KytsDevice;
 using MC.ModuloSalida.WinForm.View;
@@ -32,6 +33,7 @@ namespace MC.ModuloSalida.WinForm.Presenter
         PLCDeviceClass oPLCDevice = new PLCDeviceClass();
         KYTsDeviceClass oKYTsDevice = new KYTsDeviceClass();
         CRTDeviceClass oCRTDevice = new CRTDeviceClass();
+        ControlDeviceClass oControlDevice = new ControlDeviceClass();
 
         string Descripcion = string.Empty;
         int NivelError = 0;
@@ -979,6 +981,110 @@ namespace MC.ModuloSalida.WinForm.Presenter
 
             return ok;
         }
+        #endregion
+
+        #region Control
+
+        #region Eventos
+        void oControlDevice_DeviceMessage(object sender, EventArgs e)
+        {
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+            var i = (EventArgsControlDevice)e;
+
+            switch (i.result)
+            {
+                #region Error_Conexion
+                case StatesControl.Error_Conexion:
+                    View.ControlReady = false;
+                    View.General_Events = oResultadoOperacion.Mensaje;
+                    break;
+                #endregion
+
+                #region Conexion_Exitosa
+                case StatesControl.Conexion_Exitosa:
+                    View.ControlReady = true;
+                    //oResultadoOperacion = i.resultString;
+                    View.General_Events = oResultadoOperacion.Mensaje;
+                    break;
+                #endregion
+
+                #region BotonPresionado
+                case StatesControl.BotonPresionado:
+                    View.BotonPresionado = true;
+                    View.General_Events = oResultadoOperacion.Mensaje;
+                    break;
+                #endregion
+
+                #region NoBotonPresionado
+                case StatesControl.NoBoton:
+                    View.BotonPresionado = false;
+                    View.General_Events = oResultadoOperacion.Mensaje;
+                    break;
+                #endregion
+
+                #region VehiculoMueble
+                case StatesControl.VehiculoMueble:
+                    View.VehiculoMueble = true;
+                    if (i.resultString.EntidadDatos != null)
+                    {
+                        if (i.resultString.EntidadDatos == "Carro")
+                        {
+                            View.Moto = false;
+                        }
+                        else
+                        {
+                            View.Moto = true;
+                        }
+                    }
+                    View.General_Events = oResultadoOperacion.Mensaje;
+                    break;
+                #endregion
+
+                #region VehiculoTalanquera
+                case StatesControl.VehiculoTalanquera:
+                    View.VehiculoTalanquera = true;
+                    View.General_Events = oResultadoOperacion.Mensaje;
+                    break;
+                #endregion
+
+                #region VahiculoSalioTalanquera
+                case StatesControl.VahiculoSalioTalanquera:
+                    View.VehiculoSalioTalanquera = true;
+                    View.General_Events = oResultadoOperacion.Mensaje;
+                    break;
+                #endregion
+
+                #region NoHayCarro
+                case StatesControl.NoHayCarro:
+                    View.VehiculoMueble = false;
+                    View.General_Events = oResultadoOperacion.Mensaje;
+                    break;
+                #endregion
+
+                #region Default
+                default:
+                    break;
+                #endregion
+            }
+
+        }
+        #endregion
+
+        #region Funciones
+        public void ConectarControl()
+        {
+            oControlDevice.ConectarControl(Globales.sPuertoPLC);
+        }
+        public void EstadoControl()
+        {
+            oControlDevice.EstadoControl();
+        }
+        public void AperturaBarrera()
+        {
+            oControlDevice.AperturaBarrera();
+        }
+        #endregion
+
         #endregion
 
     }

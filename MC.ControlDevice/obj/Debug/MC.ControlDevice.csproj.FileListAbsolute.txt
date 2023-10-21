@@ -41,6 +41,4 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ControlDevice\bin\Debu
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ControlDevice\bin\Debug\MC.BusinessObjects.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.csproj.AssemblyReference.cache
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.csproj.CoreCompileInputs.cache
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.csproj.CopyComplete
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.csprojResolveAssemblyReference.cache

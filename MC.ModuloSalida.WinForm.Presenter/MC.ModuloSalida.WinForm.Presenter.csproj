@@ -52,6 +52,10 @@
       <Project>{5104b5cb-e665-4851-89a7-6e3ccd8b399b}</Project>
       <Name>MC.BusinessObjects</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MC.ControlDevice\MC.ControlDevice.csproj">
+      <Project>{7fc75df9-2493-4680-9612-2254f7d60046}</Project>
+      <Name>MC.ControlDevice</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MC.CRT603Device\MC.CRT603Device.csproj">
       <Project>{ad7011f1-de65-4b9e-9716-c277fdabc969}</Project>
       <Name>MC.CRT603Device</Name>

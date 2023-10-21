@@ -132,7 +132,5 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BusinessObjects\bin\De
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BusinessObjects\bin\Debug\EGlobalT.Device.Tools.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csproj.AssemblyReference.cache
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csproj.CoreCompileInputs.cache
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csproj.CopyComplete
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache

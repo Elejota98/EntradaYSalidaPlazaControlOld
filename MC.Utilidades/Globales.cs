@@ -234,6 +234,7 @@ namespace MC.Utilidades
                 }
             }
         }
+
         public static string sRutaLog
         {
             get { return ConfigurationManager.AppSettings["LogFilePath"]; }
