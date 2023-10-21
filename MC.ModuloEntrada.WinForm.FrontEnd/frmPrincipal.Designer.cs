@@ -89,7 +89,6 @@
             this.btn_llegoCarro.TabIndex = 2;
             this.btn_llegoCarro.Text = "Llego Carro Mueble";
             this.btn_llegoCarro.UseVisualStyleBackColor = true;
-            this.btn_llegoCarro.Click += new System.EventHandler(this.btn_llegoCarro_Click_1);
             // 
             // Imagen_Fondo
             // 
