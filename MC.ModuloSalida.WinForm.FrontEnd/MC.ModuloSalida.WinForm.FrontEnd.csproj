@@ -106,7 +106,9 @@
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Medios\Swf\" />
+  </ItemGroup>
   <ItemGroup>
     <Content Include="CRT_602U.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
@@ -163,15 +165,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Medios\Jpg\Imagen_VehiculoSaliendo.jpg">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Medios\Swf\Animacion_InserteTarjeta.swf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Medios\Swf\Animacion_Principal.swf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Medios\Swf\Animacion_PublicidadSecundaria.swf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Medios\Wav\Sonido_AutoVencida.wav">

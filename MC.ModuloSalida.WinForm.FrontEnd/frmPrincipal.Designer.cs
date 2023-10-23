@@ -273,9 +273,6 @@
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(1022, 766);
             this.ControlBox = false;
-            this.Controls.Add(this.Animacion_PublicidadSecundaria);
-            this.Controls.Add(this.Animacion_InserteTarjeta);
-            this.Controls.Add(this.Animacion_Principal);
             this.Controls.Add(this.TbTag);
             this.Controls.Add(this.Imagen_AutoVence1);
             this.Controls.Add(this.Imagen_AutoVence2);
@@ -295,6 +292,9 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblVuelvaPronto);
+            this.Controls.Add(this.Animacion_PublicidadSecundaria);
+            this.Controls.Add(this.Animacion_InserteTarjeta);
+            this.Controls.Add(this.Animacion_Principal);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;

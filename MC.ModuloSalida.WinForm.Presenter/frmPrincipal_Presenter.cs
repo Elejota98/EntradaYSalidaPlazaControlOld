@@ -26,6 +26,8 @@ namespace MC.ModuloSalida.WinForm.Presenter
             oPLCDevice.DeviceMessage += new EventHandler(oPLCDevice_DeviceMessage);
             oKYTsDevice.DeviceMessageKytState += new EventHandler(oKYTsDevice_DeviceMessage);
             oCRTDevice.DeviceMessageCrtState += new EventHandler(oCRTDevice_DeviceMessage);
+            oControlDevice.DeviceMessageControlState += new EventHandler(oControlDevice_DeviceMessage);
+
         }
 
 

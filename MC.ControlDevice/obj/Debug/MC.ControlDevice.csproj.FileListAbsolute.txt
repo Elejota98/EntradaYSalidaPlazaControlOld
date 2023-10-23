@@ -42,3 +42,4 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ControlDevice\bin\Debu
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.csprojResolveAssemblyReference.cache

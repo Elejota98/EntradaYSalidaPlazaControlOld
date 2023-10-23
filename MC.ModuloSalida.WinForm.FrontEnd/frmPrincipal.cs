@@ -1031,6 +1031,8 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                             SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
                             simpleSound.Play();
                             Presentacion = Pantalla.TarjetaInvalida;
+                            _IdCardAutorizado = string.Empty;
+                            _IdTransaccion = string.Empty;
                         }
                     }
                     break;
@@ -1046,6 +1048,8 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                             sound = true;
                         }
                         Presentacion = Pantalla.VehiculoSaliendo;
+                        _IdCardAutorizado = string.Empty;
+                        _IdTransaccion = string.Empty;
                     }
                     break;
                 case Pantalla.GraciasVisitaAuto:
@@ -1060,6 +1064,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                             sound = true;
                         }
                         Presentacion = Pantalla.VehiculoSaliendo;
+                        _IdCardAutorizado = "";
+                        _IdTransaccion = "";
+                        TbTag.Text = "";
                     }
                     break;
                 case Pantalla.VehiculoSaliendo:
@@ -1068,6 +1075,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                         if (_frmPrincipal_Presenter.LimpiarValoresPLC())
                         {
                             Presentacion = Pantalla.SalvaPantallas;
+                            _IdCardAutorizado = "";
+                            _IdTransaccion = "";
+                            TbTag.Text = "";
                         }
                     }
                     break;
@@ -1076,6 +1086,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                     if (cnt_timeout == (int)TimeOut.TimeOut_Alertas)
                     {
                         Presentacion = Pantalla.SalvaPantallas;
+                        _IdCardAutorizado = "";
+                        _IdTransaccion = "";
+                        TbTag.Text = "";
                     }
                     break;
 
@@ -1083,6 +1096,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                     if (cnt_timeout == (int)TimeOut.TimeOut_Alertas)
                     {
                         Presentacion = Pantalla.SalvaPantallas;
+                        _IdCardAutorizado = "";
+                        _IdTransaccion = "";
+                        TbTag.Text = "";
                     }
                     break;
 
@@ -1090,6 +1106,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                     if (cnt_timeout == (int)TimeOut.TimeOut_Alertas)
                     {
                         Presentacion = Pantalla.SalvaPantallas;
+                        _IdCardAutorizado = "";
+                        _IdTransaccion = "";
+                        TbTag.Text = "";
                     }
                     break;
 
@@ -1097,6 +1116,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                     if (cnt_timeout == (int)TimeOut.TimeOut_Alertas)
                     {
                         Presentacion = Pantalla.SalvaPantallas;
+                        _IdCardAutorizado = "";
+                        _IdTransaccion = "";
+                        TbTag.Text = "";
                     }
                     break;
 
@@ -1104,6 +1126,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                     if (cnt_timeout == (int)TimeOut.TimeOut_Alertas)
                     {
                         Presentacion = Pantalla.SalvaPantallas;
+                        _IdCardAutorizado = "";
+                        _IdTransaccion = "";
+                        TbTag.Text = "";
                     }
                     break;
 
@@ -1119,6 +1144,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                             sound = true;
                         }
                         Presentacion = Pantalla.VehiculoSaliendo;
+                        _IdCardAutorizado = "";
+                        _IdTransaccion = "";
+                        TbTag.Text = "";
                     }
                     break;
                 case Pantalla.AutorizacionVence2:
@@ -1133,6 +1161,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                             sound = true;
                         }
                         Presentacion = Pantalla.VehiculoSaliendo;
+                        _IdCardAutorizado = "";
+                        _IdTransaccion = "";
+                        TbTag.Text = "";
                     }
                     break;
                 case Pantalla.AutorizacionVence3:
@@ -1147,6 +1178,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                             sound = true;
                         }
                         Presentacion = Pantalla.VehiculoSaliendo;
+                        _IdCardAutorizado = "";
+                        _IdTransaccion = "";
+                        TbTag.Text = "";
                     }
                     break;
             }
@@ -1266,12 +1300,13 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                 lblVuelvaPronto.BackColor = Color.Transparent;
 
 
-                //Animacion_Principal.Dock = DockStyle.Fill;
-                //Animacion_PublicidadSecundaria.Size = new System.Drawing.Size(1024, 500);
-                //Animacion_PublicidadSecundaria.Location = new Point(0, 0);
+                Animacion_Principal.Dock = DockStyle.Fill;
+                Animacion_Principal.SizeMode = PictureBoxSizeMode.StretchImage;
+                Animacion_PublicidadSecundaria.Size = new System.Drawing.Size(1024, 500);
+                Animacion_PublicidadSecundaria.Location = new Point(0, 0);
 
-                //Animacion_InserteTarjeta.Size = new System.Drawing.Size(1024, 380);
-                //Animacion_InserteTarjeta.Location = new Point(0, 400);
+                Animacion_InserteTarjeta.Size = new System.Drawing.Size(1024, 380);
+                Animacion_InserteTarjeta.Location = new Point(0, 400);
 
 
                 Imagen_Fondo.Dock = DockStyle.Fill;
@@ -1399,36 +1434,38 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
 
             try
             {
+                Animacion_Principal.Image = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"Medios\Swf\Animacion_Principal.gif"));
+                Animacion_PublicidadSecundaria.Image = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"Medios\Swf\Animacion_PublicidadSecundaria.gif"));
+                Animacion_InserteTarjeta.Image = Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"Medios\Swf\Animacion_InserteTarjeta.gif"));
+                //string Principal = (Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"Medios\Swf\Animacion_Principal.gif"));
+                //if (File.Exists(Principal))
+                //{
+                //    //Animacion_Principal.Visible = true;
+                //    //Animacion_Principal.Movie = Principal;
+                //    //Animacion_Principal.CtlScale = "ExactFit";
+                //    //Animacion_Principal.Play();
+                //    //Animacion_Principal.BringToFront();
+                //}
 
-                string Principal = (Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"Medios\Swf\Animacion_Principal.swf"));
-                if (File.Exists(Principal))
-                {
-                    //Animacion_Principal.Visible = true;
-                    //Animacion_Principal.Movie = Principal;
-                    //Animacion_Principal.CtlScale = "ExactFit";
-                    //Animacion_Principal.Play();
-                    //Animacion_Principal.BringToFront();
-                }
+                //string PrincipalSecundario = (Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"Medios\Swf\Animacion_PublicidadSecundaria.gif"));
+                //if (File.Exists(PrincipalSecundario))
+                //{
+                //    //Animacion_PublicidadSecundaria.Visible = true;
+                //    //Animacion_PublicidadSecundaria.Movie = PrincipalSecundario;
+                //    //Animacion_PublicidadSecundaria.CtlScale = "ExactFit";
+                //    //Animacion_PublicidadSecundaria.Play();
+                //    //Animacion_PublicidadSecundaria.BringToFront();
+                //}
 
-                string PrincipalSecundario = (Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"Medios\Swf\Animacion_PublicidadSecundaria.swf"));
-                if (File.Exists(PrincipalSecundario))
-                {
-                    //Animacion_PublicidadSecundaria.Visible = true;
-                    //Animacion_PublicidadSecundaria.Movie = PrincipalSecundario;
-                    //Animacion_PublicidadSecundaria.CtlScale = "ExactFit";
-                    //Animacion_PublicidadSecundaria.Play();
-                    //Animacion_PublicidadSecundaria.BringToFront();
-                }
-
-                string RetireTarjeta = (Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"Medios\Swf\Animacion_InserteTarjeta.swf"));
-                if (File.Exists(RetireTarjeta))
-                {
-                    //Animacion_InserteTarjeta.Visible = true;
-                    //Animacion_InserteTarjeta.Movie = RetireTarjeta;
-                    //Animacion_InserteTarjeta.CtlScale = "ExactFit";
-                    //Animacion_InserteTarjeta.Play();
-                    //Animacion_InserteTarjeta.BringToFront();
-                }
+                //string RetireTarjeta = (Path.Combine(AppDomain.CurrentDomain.BaseDirectory, @"Medios\Swf\Animacion_InserteTarjeta.gif"));
+                //if (File.Exists(RetireTarjeta))
+                //{
+                //    //Animacion_InserteTarjeta.Visible = true;
+                //    //Animacion_InserteTarjeta.Movie = RetireTarjeta;
+                //    //Animacion_InserteTarjeta.CtlScale = "ExactFit";
+                //    //Animacion_InserteTarjeta.Play();
+                //    //Animacion_InserteTarjeta.BringToFront();
+                //}
 
 
                 ok = true;
@@ -1461,7 +1498,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
         }
         private async Task<bool> ConectarDispositivos()
         {
-            return true;
+            //return true;
             bool ok = false;
 
             if (Convert.ToBoolean(Globales.sPLC) == true)
@@ -1515,8 +1552,8 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
             SoundPlayer simpleSound = new SoundPlayer(_sPathGraciasVisita);
             simpleSound.Play();
 
-            Thread ohilo = new Thread(unused => _frmPrincipal_Presenter.CapturaFoto("1", SecuenciaTransaccion));
-            ohilo.Start();
+            //Thread ohilo = new Thread(unused => _frmPrincipal_Presenter.CapturaFoto("1", SecuenciaTransaccion));
+            //ohilo.Start();
 
             oTransaccion.CarrilSalida = Convert.ToInt32(Globales.sCarril);
             oTransaccion.IdEstacionamiento = Convert.ToInt64(Globales.iCodigoEstacionamiento);
