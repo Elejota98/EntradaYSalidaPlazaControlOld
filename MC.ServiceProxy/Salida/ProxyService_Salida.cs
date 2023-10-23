@@ -343,6 +343,8 @@ namespace MC.ServiceProxy
 
             ServiceAutorizado oServiceAutorizado = new ServiceAutorizado();
             oServiceAutorizado.IdTarjeta = oAutorizado.IdTarjeta;
+            oServiceAutorizado.Placa1 = oAutorizado.PlacaAuto;
+            oServiceAutorizado.Placa2 = oAutorizado.PlacaAuto;
 
 
             request.oAutorizado = oServiceAutorizado;

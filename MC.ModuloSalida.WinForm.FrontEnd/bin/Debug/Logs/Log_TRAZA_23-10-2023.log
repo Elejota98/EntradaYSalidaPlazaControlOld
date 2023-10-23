@@ -1,0 +1,191 @@
+2023/10/23 02:31:36.698 - INICIO REGISTRO
+2023/10/23 02:35:25.871 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 02:35:27.121 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 02:35:31.186 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 02:35:31.905 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 02:35:32.275 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 02:36:22.916 - INICIO REGISTRO
+2023/10/23 02:36:24.296 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 02:36:25.159 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 02:36:27.065 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 02:36:27.079 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 02:36:27.094 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 02:36:49.994 - INICIO REGISTRO
+2023/10/23 02:36:50.511 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 02:36:51.598 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 02:36:53.751 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 02:36:53.764 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 02:36:53.777 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 02:37:02.476 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/23 02:37:37.649 - INICIO REGISTRO
+2023/10/23 02:37:42.825 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 02:37:43.337 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 02:37:43.691 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 02:37:43.706 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 02:37:43.721 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 02:37:49.571 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/23 02:38:16.174 - MENSAJE: ID TARJETA = 2FA000
+2023/10/23 02:38:45.297 - MENSAJE: ID TARJETA = 2FA000
+2023/10/23 02:39:10.763 - INICIO REGISTRO
+2023/10/23 02:39:10.767 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 02:39:11.278 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 02:39:11.662 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 02:39:11.679 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 02:39:11.695 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 02:39:19.395 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/23 02:39:32.093 - MENSAJE: ID TARJETA = 2FA000
+2023/10/23 02:40:05.577 - INICIO REGISTRO
+2023/10/23 02:40:05.580 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 02:40:06.093 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 02:40:06.451 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 02:40:06.466 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 02:40:06.480 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 02:40:14.668 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/23 02:40:28.854 - MENSAJE: ID TARJETA = 2FA000
+2023/10/23 02:43:22.722 - INICIO REGISTRO
+2023/10/23 02:43:22.726 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 02:43:23.239 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 02:43:23.607 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 02:43:23.622 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 02:43:23.636 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 02:45:54.626 - INICIO REGISTRO
+2023/10/23 02:45:54.630 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 02:45:55.182 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 02:45:55.559 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 02:45:55.574 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 02:45:55.588 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 02:45:57.083 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/23 02:46:14.665 - INICIO REGISTRO
+2023/10/23 02:46:14.668 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 02:46:15.179 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 02:46:15.554 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 02:46:15.569 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 02:46:15.584 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 02:46:16.849 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/23 02:46:42.190 - MENSAJE: ID TARJETA = 2FA000
+2023/10/23 02:47:11.565 - MENSAJE: Obtener Datos Autorizado ok
+2023/10/23 02:47:16.998 - MENSAJE: Comparacion IDTARJETA OK
+2023/10/23 02:47:18.646 - MENSAJE: Comparacion IDESTACIONAMIENTO OK
+2023/10/23 02:47:20.077 - MENSAJE: Validacion Fechas Vigencia ok
+2023/10/23 02:47:33.662 - MENSAJE: Secuencia 00010101000000311
+2023/10/23 02:48:17.344 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2023/10/23 02:48:25.803 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2023/10/23 02:48:36.884 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPLectorAutorizados
+2023/10/23 02:48:40.912 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPReceptor
+2023/10/23 02:48:44.608 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPLPR
+2023/10/23 02:48:44.608 - MENSAJE: RegistrarSalida 
+2023/10/23 02:48:49.043 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPPLC
+2023/10/23 02:48:51.285 - MENSAJE: Error Conexion PLC
+2023/10/23 02:48:51.404 - MENSAJE: Error_Conexion_Receptor
+2023/10/23 02:48:51.404 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/23 02:48:51.662 - MENSAJE: Error_Conexion_Receptor
+2023/10/23 02:48:51.663 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/23 02:48:52.664 - MENSAJE: Error_Conexion_Receptor
+2023/10/23 02:48:52.665 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/23 02:48:53.665 - MENSAJE: Error_Conexion_Receptor
+2023/10/23 02:48:53.665 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/23 02:48:54.663 - MENSAJE: Error_Conexion_Receptor
+2023/10/23 02:48:54.663 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/23 02:49:00.494 - INICIO REGISTRO
+2023/10/23 02:49:00.497 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 02:49:01.018 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 02:49:01.385 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 02:49:01.400 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 02:49:01.414 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 02:49:03.520 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/23 02:49:28.786 - INICIO REGISTRO
+2023/10/23 02:49:28.790 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 02:49:29.323 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 02:49:29.683 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 02:49:29.698 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 02:49:29.713 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 02:49:31.725 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/23 02:49:43.662 - INICIO REGISTRO
+2023/10/23 02:49:43.666 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 02:49:44.203 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 02:49:44.551 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 02:49:44.563 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 02:49:44.577 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 02:49:57.179 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/23 02:50:23.988 - MENSAJE: ID TARJETA = 2FA000
+2023/10/23 02:50:38.884 - MENSAJE: TARJETA ESTADO TRUE
+2023/10/23 02:50:41.381 - MENSAJE: Obtener Datos Autorizado ok
+2023/10/23 02:50:43.767 - MENSAJE: Comparacion IDTARJETA OK
+2023/10/23 02:50:44.899 - MENSAJE: Comparacion IDESTACIONAMIENTO OK
+2023/10/23 02:50:45.886 - MENSAJE: Validacion Fechas Vigencia ok
+2023/10/23 02:50:54.950 - MENSAJE: Secuencia 00010101000000311
+2023/10/23 03:01:05.897 - INICIO REGISTRO
+2023/10/23 03:01:05.901 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 03:01:06.481 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 03:01:07.332 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 03:01:07.348 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 03:01:07.363 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 03:01:07.421 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/23 03:02:08.623 - INICIO REGISTRO
+2023/10/23 03:02:08.626 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 03:02:09.131 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 03:02:09.788 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 03:02:09.809 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 03:02:09.828 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 03:02:09.887 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/23 03:03:06.889 - MENSAJE: ID TARJETA = 2FA000
+2023/10/23 03:04:12.895 - INICIO REGISTRO
+2023/10/23 03:04:12.899 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 03:04:13.455 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 03:04:13.831 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 03:04:13.846 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 03:04:13.860 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 03:04:13.903 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/23 03:04:27.292 - INICIO REGISTRO
+2023/10/23 03:04:27.296 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 03:04:27.837 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 03:04:28.181 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 03:04:28.194 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 03:04:28.209 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 03:04:28.265 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/23 03:04:41.744 - MENSAJE: ID TARJETA = 2FA000
+2023/10/23 03:04:44.676 - MENSAJE: TARJETA ESTADO TRUE
+2023/10/23 03:04:47.036 - MENSAJE: Obtener Datos Autorizado ok
+2023/10/23 03:04:48.548 - MENSAJE: Comparacion IDTARJETA OK
+2023/10/23 03:04:50.010 - MENSAJE: Comparacion IDESTACIONAMIENTO OK
+2023/10/23 03:04:50.829 - MENSAJE: Validacion Fechas Vigencia ok
+2023/10/23 03:04:55.191 - MENSAJE: Secuencia 00010101000000311
+2023/10/23 03:05:08.727 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPCamMueble
+2023/10/23 03:05:15.992 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPDomo1
+2023/10/23 03:05:19.912 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPLectorAutorizados
+2023/10/23 03:05:26.859 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPReceptor
+2023/10/23 03:05:31.543 - MENSAJE: RegistrarSalida 
+2023/10/23 03:05:31.544 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPLPR
+2023/10/23 03:05:37.751 - MENSAJE: (Presenter CapturaFoto) Error: ALARMA CAMARA IPPLC
+2023/10/23 03:05:42.841 - MENSAJE: Error Conexion PLC
+2023/10/23 03:05:43.344 - MENSAJE: Error_Conexion_Receptor
+2023/10/23 03:05:43.344 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/23 03:05:44.287 - MENSAJE: Error_Conexion_Receptor
+2023/10/23 03:05:44.287 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/23 03:05:45.293 - MENSAJE: Error_Conexion_Receptor
+2023/10/23 03:05:45.293 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/23 03:05:46.288 - MENSAJE: Error_Conexion_Receptor
+2023/10/23 03:05:46.288 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/23 03:05:48.869 - INICIO REGISTRO
+2023/10/23 03:05:48.872 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 03:05:49.428 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 03:05:49.761 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 03:05:49.776 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 03:05:49.790 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 03:05:49.857 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/23 03:54:16.853 - INICIO REGISTRO
+2023/10/23 03:54:16.872 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 03:54:17.398 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 03:54:17.662 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2023/10/23 03:55:21.145 - INICIO REGISTRO
+2023/10/23 03:55:22.373 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 03:55:23.491 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 03:55:25.520 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2023/10/23 03:55:31.224 - MENSAJE: (Presenter ObtenerInfoModulo) Sistema Suspendido - Info Modulo Error
+2023/10/23 03:56:10.571 - INICIO REGISTRO
+2023/10/23 03:56:12.299 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/23 03:56:13.189 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/23 03:56:17.678 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/23 03:56:17.701 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/23 03:56:17.726 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/23 03:56:17.769 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC

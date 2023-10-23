@@ -3171,7 +3171,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             }
             else
             {
-                _sPlaca = "------";
+                //_sPlaca = "------";
+                _sPlaca = "FPQ674";
             }
 
         }
