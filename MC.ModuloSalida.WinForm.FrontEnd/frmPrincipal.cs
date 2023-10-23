@@ -2113,7 +2113,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
 
                     case Pantalla.SalvaPantallas:
                         _cnt_timeout = 0;
-                        //Animacion_Principal.BringToFront();
+                        Animacion_Principal.BringToFront();
                         RestablecerValores();
                         break;
 

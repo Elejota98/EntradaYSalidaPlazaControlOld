@@ -50,6 +50,9 @@
             this.Imagen_AutoVence2 = new System.Windows.Forms.PictureBox();
             this.Imagen_AutoVence1 = new System.Windows.Forms.PictureBox();
             this.TbTag = new System.Windows.Forms.TextBox();
+            this.Animacion_PublicidadSecundaria = new System.Windows.Forms.PictureBox();
+            this.Animacion_InserteTarjeta = new System.Windows.Forms.PictureBox();
+            this.Animacion_Principal = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.Imagen_Fondo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Imagen_AutoVencida)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Imagen_TarjetaSinRegistroEntrada)).BeginInit();
@@ -64,6 +67,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.Imagen_AutoVence3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Imagen_AutoVence2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Imagen_AutoVence1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Animacion_PublicidadSecundaria)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Animacion_InserteTarjeta)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Animacion_Principal)).BeginInit();
             this.SuspendLayout();
             // 
             // label2
@@ -230,11 +236,35 @@
             // 
             // TbTag
             // 
-            this.TbTag.Location = new System.Drawing.Point(24, 71);
+            this.TbTag.Location = new System.Drawing.Point(12, 127);
             this.TbTag.Name = "TbTag";
             this.TbTag.Size = new System.Drawing.Size(159, 20);
             this.TbTag.TabIndex = 1201;
             this.TbTag.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TbTag_KeyPress);
+            // 
+            // Animacion_PublicidadSecundaria
+            // 
+            this.Animacion_PublicidadSecundaria.Location = new System.Drawing.Point(222, 12);
+            this.Animacion_PublicidadSecundaria.Name = "Animacion_PublicidadSecundaria";
+            this.Animacion_PublicidadSecundaria.Size = new System.Drawing.Size(100, 50);
+            this.Animacion_PublicidadSecundaria.TabIndex = 1212;
+            this.Animacion_PublicidadSecundaria.TabStop = false;
+            // 
+            // Animacion_InserteTarjeta
+            // 
+            this.Animacion_InserteTarjeta.Location = new System.Drawing.Point(118, 12);
+            this.Animacion_InserteTarjeta.Name = "Animacion_InserteTarjeta";
+            this.Animacion_InserteTarjeta.Size = new System.Drawing.Size(100, 50);
+            this.Animacion_InserteTarjeta.TabIndex = 1211;
+            this.Animacion_InserteTarjeta.TabStop = false;
+            // 
+            // Animacion_Principal
+            // 
+            this.Animacion_Principal.Location = new System.Drawing.Point(12, 12);
+            this.Animacion_Principal.Name = "Animacion_Principal";
+            this.Animacion_Principal.Size = new System.Drawing.Size(100, 50);
+            this.Animacion_Principal.TabIndex = 1210;
+            this.Animacion_Principal.TabStop = false;
             // 
             // frmPrincipal
             // 
@@ -243,6 +273,9 @@
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(1022, 766);
             this.ControlBox = false;
+            this.Controls.Add(this.Animacion_PublicidadSecundaria);
+            this.Controls.Add(this.Animacion_InserteTarjeta);
+            this.Controls.Add(this.Animacion_Principal);
             this.Controls.Add(this.TbTag);
             this.Controls.Add(this.Imagen_AutoVence1);
             this.Controls.Add(this.Imagen_AutoVence2);
@@ -282,6 +315,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.Imagen_AutoVence3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Imagen_AutoVence2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.Imagen_AutoVence1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Animacion_PublicidadSecundaria)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Animacion_InserteTarjeta)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Animacion_Principal)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -313,6 +349,9 @@
         private System.Windows.Forms.PictureBox Imagen_AutoVence2;
         private System.Windows.Forms.PictureBox Imagen_AutoVence1;
         private System.Windows.Forms.TextBox TbTag;
+        private System.Windows.Forms.PictureBox Animacion_PublicidadSecundaria;
+        private System.Windows.Forms.PictureBox Animacion_InserteTarjeta;
+        private System.Windows.Forms.PictureBox Animacion_Principal;
     }
 }
 
