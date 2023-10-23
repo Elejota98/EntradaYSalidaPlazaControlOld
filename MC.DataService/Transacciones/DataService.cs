@@ -352,7 +352,7 @@ namespace MC.DataService
             return oResultadoOperacion;
         }
 
-        public ResultadoOperacion ObtenerInfoAutorizadoPlaca(Autorizado oAutorizado)
+        public ResultadoOperacion ObtenerInfoAutorizadoPlacaS(Autorizado oAutorizado)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
 

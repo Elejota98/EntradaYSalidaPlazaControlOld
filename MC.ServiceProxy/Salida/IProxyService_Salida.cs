@@ -22,5 +22,6 @@ namespace MC.ServiceProxy
         ResultadoOperacion ActualizarEventoDispositivoSalida(long IdEventoDsipo);
         ResultadoOperacion ValidarSalidaAuto(string IDCARD);
         ResultadoOperacion ValidarPlacaSalida(string IdModulo);
+        ResultadoOperacion ObtenerAutorizadoPlacaS(Autorizado oAutorizado);
     }
 }

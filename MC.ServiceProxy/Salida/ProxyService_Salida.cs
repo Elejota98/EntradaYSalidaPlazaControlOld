@@ -24,7 +24,7 @@ namespace MC.ServiceProxy
 
             getPartesModulo_Request request = new getPartesModulo_Request();
             request.RequestId = NuevoRequestId;
-
+            
             ServiceModulo oServiceModulo = new ServiceModulo();
             oServiceModulo.IdModulo = oModulo.IdModulo;
             oServiceModulo.IdEstacionamiento = oModulo.IdEstacionamiento;
@@ -821,7 +821,7 @@ namespace MC.ServiceProxy
             return oResultadoOperacion;
         }
 
-        public ResultadoOperacion ObtenerAutorizadoPlaca(Autorizado oAutorizado)
+        public ResultadoOperacion ObtenerAutorizadoPlacaS(Autorizado oAutorizado)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
 

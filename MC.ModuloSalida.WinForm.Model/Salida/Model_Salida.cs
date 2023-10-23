@@ -197,7 +197,7 @@ namespace MC.ModuloSalida.WinForm.Model
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
 
-            oResultadoOperacion = _ProxyServicios.ObtenerAutorizadoPlaca(oAutorizado);
+            oResultadoOperacion = _ProxyServicios.ObtenerAutorizadoPlacaS(oAutorizado);
 
             if (oResultadoOperacion.oEstado == TipoRespuesta.Error)
             {

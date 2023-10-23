@@ -39,6 +39,7 @@ namespace MC.ModuloSalida.WinForm.View
         bool VehiculoTalanquera { get; set; }
         bool VehiculoSalioTalanquera { get; set; }
         string PlacaSalidaRegistrada { get; set; }
+        string IdTransaccion { get; set; }
 
         
     }

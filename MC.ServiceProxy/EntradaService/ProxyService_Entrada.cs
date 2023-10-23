@@ -763,7 +763,6 @@ namespace MC.ServiceProxy
             return oResultadoOperacion;
         }
 
-
         public ResultadoOperacion ValidarPlacaEntrada(string IdModulo)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();

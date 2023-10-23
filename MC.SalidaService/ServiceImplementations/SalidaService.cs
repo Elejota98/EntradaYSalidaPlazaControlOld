@@ -176,7 +176,7 @@ namespace MC.SalidaService.ServiceImplementations
             if (!ValidRequest(request, response))
                 return response;
 
-            ResultadoOperacion oResultadoOperacion = _DataService.ObtenerInfoAutorizadoPlaca(request.oAutorizado);
+            ResultadoOperacion oResultadoOperacion = _DataService.ObtenerInfoAutorizadoPlacaS(request.oAutorizado);
             if (oResultadoOperacion.oEstado == TipoRespuesta.Exito)
             {
                 List<DtoAutorizado> olstDtoAutorizado = (List<DtoAutorizado>)oResultadoOperacion.ListaEntidadDatos;

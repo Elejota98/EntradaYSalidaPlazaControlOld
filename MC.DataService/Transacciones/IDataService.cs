@@ -21,7 +21,7 @@ namespace MC.DataService
 
         ResultadoOperacion ObtenerInfoAutorizado(Autorizado oAutorizado);
 
-        ResultadoOperacion ObtenerInfoAutorizadoPlaca(Autorizado oAutorizado);
+        ResultadoOperacion ObtenerInfoAutorizadoPlacaS(Autorizado oAutorizado);
 
         ResultadoOperacion SolucionarTodasAlarmas(Modulo oModulo);
 
