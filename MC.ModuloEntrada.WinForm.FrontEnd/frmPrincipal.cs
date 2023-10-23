@@ -261,8 +261,6 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                 case Pantalla.SalvaPantallas:
                     //Presentacion = Pantalla.RetireTarjeta;
                     TbTag.Focus();
-
-
                     //PLACAS
 
                                 General_Events = "(FrontEnd Antes CapturaPlaca)";
@@ -834,7 +832,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                             #endregion
 
                             _frmPrincipal_Presenter.EstadoControl();
-                            _BotonPresionado = false;
+                                _BotonPresionado = false;
                             if (_VehiculoMueble)
                             {
                                 //General_Events = "(FrontEnd Antes AlistarTarjetaNew)";
@@ -1630,7 +1628,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                 else
                                 {
                                     //_frmPrincipal_Presenter.EstadoControl();
-                                    RegistroEntrada();
+                                    Presentacion = Pantalla.RetireTarjeta;
                                     //if (_VehiculoMueble==false)
                                     //{
                                     //    VehiculoMoto = true;
@@ -1696,10 +1694,23 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                     bool bAutoVencida = false;
                     bool bTarjetaInvalida = false;
                     bool ok = false;
+                    _frmPrincipal_Presenter.EstadoControl();
+                    if (_VehiculoMueble)
+                    {
+                        if (_Moto)
+                        {
+                            oTransaccion.TipoVehiculo = 2;
+                        }
+                        else
+                        {
+                            oTransaccion.TipoVehiculo = 1;
+                        }
 
+                        RegistroEntrada();
+                    }
                     //if (_RemoveCard)
                     //{
-                        RegistroEntrada();
+                       
                     //}
 
                     #region Tarjeta
