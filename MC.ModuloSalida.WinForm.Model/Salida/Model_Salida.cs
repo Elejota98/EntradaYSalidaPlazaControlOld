@@ -179,6 +179,32 @@ namespace MC.ModuloSalida.WinForm.Model
             return oResultadoOperacion;
         }
 
+        public ResultadoOperacion ValidarPlacaSalida(string IdModulo)
+        {
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
 
+            oResultadoOperacion = _ProxyServicios.ValidarPlacaSalida(IdModulo);
+
+            if (oResultadoOperacion.oEstado == TipoRespuesta.Error)
+            {
+                // Generar Alarma para Base de Datos
+            }
+
+            return oResultadoOperacion;
+        }
+
+        public ResultadoOperacion ObtenerAutorizadoPlaca(Autorizado oAutorizado)
+        {
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            oResultadoOperacion = _ProxyServicios.ObtenerAutorizadoPlaca(oAutorizado);
+
+            if (oResultadoOperacion.oEstado == TipoRespuesta.Error)
+            {
+                // Generar Alarma para Base de Datos
+            }
+
+            return oResultadoOperacion;
+        }
     }
 }

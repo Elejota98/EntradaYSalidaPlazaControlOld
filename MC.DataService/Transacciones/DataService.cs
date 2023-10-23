@@ -691,7 +691,6 @@ namespace MC.DataService
             return oResultadoOperacion;
         }
 
-
         public ResultadoOperacion ValidarPlacaSalida(string oModulo)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();

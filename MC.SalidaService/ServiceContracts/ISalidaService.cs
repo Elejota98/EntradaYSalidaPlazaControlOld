@@ -46,5 +46,11 @@ namespace MC.SalidaService.ServiceContracts
 
         [OperationContract]
         getValidarSalidaAutorizado_Response getValidarSalidaAutorizado(getValidarSalidaAutorizado_Request request);
+
+        [OperationContract]
+        getValidarPlacaSalida_Response getValidarPlacaSalida(getValidarPlacaSalida_Request request);
+
+        [OperationContract]
+        getInfoAutorizado_Response getInfoAutorizadoPlaca(getInfoAutorizado_Request request);
     }
 }

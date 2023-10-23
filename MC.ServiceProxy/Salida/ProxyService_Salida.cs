@@ -760,5 +760,129 @@ namespace MC.ServiceProxy
             return oResultadoOperacion;
         }
 
+        public ResultadoOperacion ValidarPlacaSalida(string IdModulo)
+        {
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            string sPlacaSalida = string.Empty;
+
+            getValidarPlacaSalida_Request request = new getValidarPlacaSalida_Request();
+            request.RequestId = NuevoRequestId;
+
+
+            request.sModulo = IdModulo;
+
+
+            getValidarPlacaSalida_Response response = null;
+
+            try
+            {
+                SafeProxy.DoAction<SalidaServiceClient>(_MC_SalidaService, client =>
+                { response = client.getValidarPlacaSalida(request); });
+            }
+            catch (System.Exception)
+            {
+                oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                oResultadoOperacion.Mensaje = "Error conexion Modulo Service";
+                return oResultadoOperacion;
+            }
+
+            if (response != null)
+            {
+                if (request.RequestId == response.CorrelationId)
+                {
+                    if (response.Acknowledge == ServiceProxy.MC_SalidaService.AcknowledgeType.Success)
+                    {
+                        sPlacaSalida = response.sPlacaRespuesta;
+                    }
+                    else
+                    {
+                        oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                        oResultadoOperacion.Mensaje = response.Message;
+                        return oResultadoOperacion;
+                    }
+                }
+                else
+                {
+                    oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                    oResultadoOperacion.Mensaje = "Respuesta Invalida Modulo Service: getValidarClave";
+                    return oResultadoOperacion;
+                }
+            }
+            else
+            {
+                oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                oResultadoOperacion.Mensaje = "Error Respuesta Modulo Service: getValidarClave";
+                return oResultadoOperacion;
+            }
+
+            oResultadoOperacion.EntidadDatos = sPlacaSalida;
+
+            return oResultadoOperacion;
+        }
+
+        public ResultadoOperacion ObtenerAutorizadoPlaca(Autorizado oAutorizado)
+        {
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            List<DtoAutorizado> olstDtoAutorizado = new List<DtoAutorizado>();
+
+
+            getInfoAutorizado_Request request = new getInfoAutorizado_Request();
+            request.RequestId = NuevoRequestId;
+
+            ServiceAutorizado oServiceAutorizado = new ServiceAutorizado();
+            oServiceAutorizado.Placa1 = oAutorizado.PlacaAuto;
+
+
+            request.oAutorizado = oServiceAutorizado;
+
+            getInfoAutorizado_Response response = null;
+
+            try
+            {
+                SafeProxy.DoAction<SalidaServiceClient>(_MC_SalidaService, client =>
+                { response = client.getInfoAutorizadoPlaca(request); });
+            }
+            catch (System.Exception)
+            {
+                oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                oResultadoOperacion.Mensaje = "RegistrarTransaccion() Exception";
+                return oResultadoOperacion;
+            }
+
+            if (response != null)
+            {
+                if (request.RequestId == response.CorrelationId)
+                {
+                    if (response.Acknowledge == ServiceProxy.MC_SalidaService.AcknowledgeType.Success)
+                    {
+                        olstDtoAutorizado = Mapper.FromDataTransferObjects(response.olstDtoAutorizado);
+                    }
+                    else
+                    {
+                        oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                        oResultadoOperacion.Mensaje = response.Message;
+                        return oResultadoOperacion;
+                    }
+                }
+                else
+                {
+                    oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                    oResultadoOperacion.Mensaje = "RegistrarTransaccion() error request.RequestId != response.CorrelationId";
+                    return oResultadoOperacion;
+                }
+            }
+            else
+            {
+                oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                oResultadoOperacion.Mensaje = "RegistrarTransaccion() error response == null";
+                return oResultadoOperacion;
+            }
+
+            oResultadoOperacion.ListaEntidadDatos = olstDtoAutorizado;
+            return oResultadoOperacion;
+        }
+
     }
 }

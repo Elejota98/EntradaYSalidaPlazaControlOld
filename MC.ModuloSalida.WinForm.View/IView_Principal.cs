@@ -38,6 +38,7 @@ namespace MC.ModuloSalida.WinForm.View
         bool Moto { get; set; }
         bool VehiculoTalanquera { get; set; }
         bool VehiculoSalioTalanquera { get; set; }
+        string PlacaSalidaRegistrada { get; set; }
 
         
     }

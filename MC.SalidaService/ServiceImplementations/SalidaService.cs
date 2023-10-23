@@ -167,6 +167,30 @@ namespace MC.SalidaService.ServiceImplementations
             return response;
         }
 
+        public getInfoAutorizado_Response getInfoAutorizadoPlaca(getInfoAutorizado_Request request)
+        {
+            getInfoAutorizado_Response response = new getInfoAutorizado_Response();
+
+            response.CorrelationId = request.RequestId;
+
+            if (!ValidRequest(request, response))
+                return response;
+
+            ResultadoOperacion oResultadoOperacion = _DataService.ObtenerInfoAutorizadoPlaca(request.oAutorizado);
+            if (oResultadoOperacion.oEstado == TipoRespuesta.Exito)
+            {
+                List<DtoAutorizado> olstDtoAutorizado = (List<DtoAutorizado>)oResultadoOperacion.ListaEntidadDatos;
+                response.olstDtoAutorizado = olstDtoAutorizado;
+            }
+            else
+            {
+                response.Acknowledge = AcknowledgeType.Failure;
+                response.Message = oResultadoOperacion.Mensaje;
+            }
+
+            return response;
+        }
+
         public setSolucionarAlarmas_Response setSolucionarAlarmas(setSolucionarAlarmas_Request request)
         {
             setSolucionarAlarmas_Response response = new setSolucionarAlarmas_Response();
@@ -318,6 +342,29 @@ namespace MC.SalidaService.ServiceImplementations
                 {
                     response.bAutoIngreso = false;
                 }
+            }
+            else
+            {
+                response.Acknowledge = AcknowledgeType.Failure;
+                response.Message = oResultadoOperacion.Mensaje;
+            }
+
+            return response;
+        }
+
+        public getValidarPlacaSalida_Response getValidarPlacaSalida(getValidarPlacaSalida_Request request)
+        {
+            getValidarPlacaSalida_Response response = new getValidarPlacaSalida_Response();
+
+            response.CorrelationId = request.RequestId;
+
+            if (!ValidRequest(request, response))
+                return response;
+
+            ResultadoOperacion oResultadoOperacion = _DataService.ValidarPlacaSalida(request.sModulo);
+            if (oResultadoOperacion.oEstado == TipoRespuesta.Exito)
+            {
+                response.sPlacaRespuesta = oResultadoOperacion.EntidadDatos.ToString();
             }
             else
             {

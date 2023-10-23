@@ -169,4 +169,32 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
+  <xs:element name="getValidarPlacaSalida">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q25="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q25:getValidarPlacaSalida_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarPlacaSalidaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q26="http://www.MillensCorp.com/types/" minOccurs="0" name="getValidarPlacaSalidaResult" nillable="true" type="q26:getValidarPlacaSalida_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getInfoAutorizadoPlaca">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q27="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q27:getInfoAutorizado_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getInfoAutorizadoPlacaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q28="http://www.MillensCorp.com/types/" minOccurs="0" name="getInfoAutorizadoPlacaResult" nillable="true" type="q28:getInfoAutorizado_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
 </xs:schema>

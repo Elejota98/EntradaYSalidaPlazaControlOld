@@ -422,4 +422,24 @@
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="getValidarSalidaAutorizado_Response" nillable="true" type="tns:getValidarSalidaAutorizado_Response" />
+  <xs:complexType name="getValidarPlacaSalida_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q23="http://www.mc.com.co/types/" base="q23:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="sModulo" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getValidarPlacaSalida_Request" nillable="true" type="tns:getValidarPlacaSalida_Request" />
+  <xs:complexType name="getValidarPlacaSalida_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q24="http://www.mc.com.co/types/" base="q24:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="sPlacaRespuesta" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getValidarPlacaSalida_Response" nillable="true" type="tns:getValidarPlacaSalida_Response" />
 </xs:schema>

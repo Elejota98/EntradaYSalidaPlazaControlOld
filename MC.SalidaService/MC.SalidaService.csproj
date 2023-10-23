@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Messages\getValidarPlacaSalida_Request.cs" />
+    <Compile Include="Messages\getValidarPlacaSalida_Response.cs" />
     <Compile Include="Messages\getValidarSalidaAutorizado_Request.cs" />
     <Compile Include="Messages\getValidarSalidaAutorizado_Response.cs" />
     <Compile Include="Messages\getEventosDispositivo_Request.cs" />

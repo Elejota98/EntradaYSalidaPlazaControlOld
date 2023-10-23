@@ -261,8 +261,6 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                 case Pantalla.SalvaPantallas:
                     //Presentacion = Pantalla.RetireTarjeta;
                     TbTag.Focus();
-
-
                     //PLACAS
 
                                 General_Events = "(FrontEnd Antes CapturaPlaca)";
@@ -2156,6 +2154,22 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
         {
             EnvioImagenes();
         }
+        private void TbTag_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+            if (e.KeyChar == (char)13)
+            {
+
+                if (TbTag.Text != string.Empty && TbTag.Text.Length <= 17)
+                {
+                    _IdCardAutorizado = TbTag.Text.Trim();
+                }
+                else
+                {
+                    TbTag.Text = string.Empty;
+                }
+            }
+        }
         #endregion
 
         #region General
@@ -2719,7 +2733,6 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
         {
 
         }
-
         #region CamaraEvento
         //private void CapturaPlaca()
         //{
@@ -3339,33 +3352,6 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             Presentacion = Pantalla.SalvaPantallas;
         }
         #endregion
-
-        private void TbTag_KeyPress(object sender, KeyPressEventArgs e)
-        {
-                        
-             if (e.KeyChar == (char)13)
-            {
-
-                if (TbTag.Text != string.Empty && TbTag.Text.Length <= 17)
-                {
-                    _IdCardAutorizado = TbTag.Text.Trim();
-                }
-                else
-                {
-                    TbTag.Text = string.Empty;
-                }
-            }
-        }
-
-        private void btn_llegoCarro_Click_1(object sender, EventArgs e)
-        {
-            //TbTag.Focus();
-            _IdCardAutorizado = TbTag.Text;
-
-            string tab = _IdCardAutorizado;
-        }
-
-
     }
 }
 

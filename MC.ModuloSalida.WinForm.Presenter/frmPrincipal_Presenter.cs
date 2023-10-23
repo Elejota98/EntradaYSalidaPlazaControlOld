@@ -228,7 +228,40 @@ namespace MC.ModuloSalida.WinForm.Presenter
 
             return ok;
         }
+        public bool ValidarPlacaSalida()
+        {
+            bool ok = false;
 
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            string IdModulo = Globales.sSerial;
+
+            oResultadoOperacion = Model.ValidarPlacaSalida(IdModulo);
+
+            if (oResultadoOperacion.oEstado == TipoRespuesta.Exito)
+            {
+                View.PlacaSalidaRegistrada = oResultadoOperacion.EntidadDatos.ToString();
+                ok = true;
+            }
+
+
+            return ok;
+        }
+        public bool ObtenerAutorizadoPlaca(Autorizado oAutorizado)
+        {
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            bool ok = false;
+            oResultadoOperacion = Model.ObtenerAutorizadoPlaca(oAutorizado);
+
+            if (oResultadoOperacion.oEstado == TipoRespuesta.Exito)
+            {
+                View.lstDtoAutorizado = (List<DtoAutorizado>)oResultadoOperacion.ListaEntidadDatos;
+                ok = true;
+            }
+
+            return ok;
+        }
         #endregion
 
         #region Device

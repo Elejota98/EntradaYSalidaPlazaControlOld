@@ -21,5 +21,7 @@ namespace MC.ModuloSalida.WinForm.Model
         ResultadoOperacion ObtenerEventoDispo();
         ResultadoOperacion ActualizarEventoDispositivo(long IdEvento);
         ResultadoOperacion ValidarSalidaAuto(string IDCARD);
+        ResultadoOperacion ValidarPlacaSalida(string IdModulo);
+        ResultadoOperacion ObtenerAutorizadoPlaca(Autorizado oAutorizado);
     }
 }

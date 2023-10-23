@@ -27,6 +27,7 @@ namespace MC.ServiceProxy.MC_SalidaService {
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getInfoEvento_Request))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getEventosDispositivo_Request))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarSalidaAutorizado_Request))]
+    [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Request))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getPartesModulo_Request))]
     public partial class RequestBase : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
         
@@ -310,6 +311,29 @@ namespace MC.ServiceProxy.MC_SalidaService {
                 if ((object.ReferenceEquals(this.sIdCardField, value) != true)) {
                     this.sIdCardField = value;
                     this.RaisePropertyChanged("sIdCard");
+                }
+            }
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="getValidarPlacaSalida_Request", Namespace="http://www.MillensCorp.com/types/")]
+    [System.SerializableAttribute()]
+    public partial class getValidarPlacaSalida_Request : MC.ServiceProxy.MC_SalidaService.RequestBase {
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string sModuloField;
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string sModulo {
+            get {
+                return this.sModuloField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.sModuloField, value) != true)) {
+                    this.sModuloField = value;
+                    this.RaisePropertyChanged("sModulo");
                 }
             }
         }
@@ -1601,6 +1625,7 @@ namespace MC.ServiceProxy.MC_SalidaService {
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getInfoEvento_Response))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getEventosDispositivo_Response))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarSalidaAutorizado_Response))]
+    [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Response))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getPartesModulo_Response))]
     public partial class ResponseBase : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
         
@@ -1964,6 +1989,29 @@ namespace MC.ServiceProxy.MC_SalidaService {
                 if ((this.bAutoIngresoField.Equals(value) != true)) {
                     this.bAutoIngresoField = value;
                     this.RaisePropertyChanged("bAutoIngreso");
+                }
+            }
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="getValidarPlacaSalida_Response", Namespace="http://www.MillensCorp.com/types/")]
+    [System.SerializableAttribute()]
+    public partial class getValidarPlacaSalida_Response : MC.ServiceProxy.MC_SalidaService.ResponseBase {
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string sPlacaRespuestaField;
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string sPlacaRespuesta {
+            get {
+                return this.sPlacaRespuestaField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.sPlacaRespuestaField, value) != true)) {
+                    this.sPlacaRespuestaField = value;
+                    this.RaisePropertyChanged("sPlacaRespuesta");
                 }
             }
         }
@@ -3055,6 +3103,18 @@ namespace MC.ServiceProxy.MC_SalidaService {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ISalidaService/getValidarSalidaAutorizado", ReplyAction="http://tempuri.org/ISalidaService/getValidarSalidaAutorizadoResponse")]
         System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getValidarSalidaAutorizado_Response> getValidarSalidaAutorizadoAsync(MC.ServiceProxy.MC_SalidaService.getValidarSalidaAutorizado_Request request);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ISalidaService/getValidarPlacaSalida", ReplyAction="http://tempuri.org/ISalidaService/getValidarPlacaSalidaResponse")]
+        MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Response getValidarPlacaSalida(MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Request request);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ISalidaService/getValidarPlacaSalida", ReplyAction="http://tempuri.org/ISalidaService/getValidarPlacaSalidaResponse")]
+        System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Response> getValidarPlacaSalidaAsync(MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Request request);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ISalidaService/getInfoAutorizadoPlaca", ReplyAction="http://tempuri.org/ISalidaService/getInfoAutorizadoPlacaResponse")]
+        MC.ServiceProxy.MC_SalidaService.getInfoAutorizado_Response getInfoAutorizadoPlaca(MC.ServiceProxy.MC_SalidaService.getInfoAutorizado_Request request);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ISalidaService/getInfoAutorizadoPlaca", ReplyAction="http://tempuri.org/ISalidaService/getInfoAutorizadoPlacaResponse")]
+        System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getInfoAutorizado_Response> getInfoAutorizadoPlacaAsync(MC.ServiceProxy.MC_SalidaService.getInfoAutorizado_Request request);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -3178,6 +3238,22 @@ namespace MC.ServiceProxy.MC_SalidaService {
         
         public System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getValidarSalidaAutorizado_Response> getValidarSalidaAutorizadoAsync(MC.ServiceProxy.MC_SalidaService.getValidarSalidaAutorizado_Request request) {
             return base.Channel.getValidarSalidaAutorizadoAsync(request);
+        }
+        
+        public MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Response getValidarPlacaSalida(MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Request request) {
+            return base.Channel.getValidarPlacaSalida(request);
+        }
+        
+        public System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Response> getValidarPlacaSalidaAsync(MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Request request) {
+            return base.Channel.getValidarPlacaSalidaAsync(request);
+        }
+        
+        public MC.ServiceProxy.MC_SalidaService.getInfoAutorizado_Response getInfoAutorizadoPlaca(MC.ServiceProxy.MC_SalidaService.getInfoAutorizado_Request request) {
+            return base.Channel.getInfoAutorizadoPlaca(request);
+        }
+        
+        public System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getInfoAutorizado_Response> getInfoAutorizadoPlacaAsync(MC.ServiceProxy.MC_SalidaService.getInfoAutorizado_Request request) {
+            return base.Channel.getInfoAutorizadoPlacaAsync(request);
         }
     }
 }

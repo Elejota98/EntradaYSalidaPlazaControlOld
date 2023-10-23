@@ -80,6 +80,18 @@
   <wsdl:message name="ISalidaService_getValidarSalidaAutorizado_OutputMessage">
     <wsdl:part name="parameters" element="tns:getValidarSalidaAutorizadoResponse" />
   </wsdl:message>
+  <wsdl:message name="ISalidaService_getValidarPlacaSalida_InputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarPlacaSalida" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getValidarPlacaSalida_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarPlacaSalidaResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getInfoAutorizadoPlaca_InputMessage">
+    <wsdl:part name="parameters" element="tns:getInfoAutorizadoPlaca" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getInfoAutorizadoPlaca_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getInfoAutorizadoPlacaResponse" />
+  </wsdl:message>
   <wsdl:portType name="ISalidaService">
     <wsdl:operation name="getPartesModulo">
       <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getPartesModulo" message="tns:ISalidaService_getPartesModulo_InputMessage" />
@@ -128,6 +140,14 @@
     <wsdl:operation name="getValidarSalidaAutorizado">
       <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getValidarSalidaAutorizado" message="tns:ISalidaService_getValidarSalidaAutorizado_InputMessage" />
       <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/getValidarSalidaAutorizadoResponse" message="tns:ISalidaService_getValidarSalidaAutorizado_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getValidarPlacaSalida">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getValidarPlacaSalida" message="tns:ISalidaService_getValidarPlacaSalida_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/getValidarPlacaSalidaResponse" message="tns:ISalidaService_getValidarPlacaSalida_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getInfoAutorizadoPlaca">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getInfoAutorizadoPlaca" message="tns:ISalidaService_getInfoAutorizadoPlaca_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/getInfoAutorizadoPlacaResponse" message="tns:ISalidaService_getInfoAutorizadoPlaca_OutputMessage" />
     </wsdl:operation>
   </wsdl:portType>
   <wsdl:binding name="basicHttpBinding_SalidaService" type="tns:ISalidaService">
@@ -233,6 +253,24 @@
     </wsdl:operation>
     <wsdl:operation name="getValidarSalidaAutorizado">
       <soap:operation soapAction="http://tempuri.org/ISalidaService/getValidarSalidaAutorizado" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getValidarPlacaSalida">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/getValidarPlacaSalida" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getInfoAutorizadoPlaca">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/getInfoAutorizadoPlaca" style="document" />
       <wsdl:input>
         <soap:body use="literal" />
       </wsdl:input>

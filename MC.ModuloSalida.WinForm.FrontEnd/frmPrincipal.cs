@@ -44,6 +44,12 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
         #endregion
 
         #region Definiciones
+        private string _PlacaSalidaRegistrada = string.Empty;
+        public string PlacaSalidaRegistrada
+        {
+            get { return _PlacaSalidaRegistrada; }
+            set { _PlacaSalidaRegistrada = value; }
+        }
         private bool _Moto = false;
         public bool Moto
         {
@@ -247,6 +253,24 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
             {
                 case Pantalla.SalvaPantallas:
 
+                    bool bAutoVencida = false;
+                    bool bTarjetaInvalida = false;
+                    bool ok = false;
+
+                   CapturaPlaca();
+
+                    if (_frmPrincipal_Presenter.ValidarPlacaSalida())
+                    {
+                        if (_PlacaSalidaRegistrada == _sPlaca)
+                        {
+                            CapturaPlaca();
+                        }
+                        if (_PlacaSalidaRegistrada == _sPlaca)
+                        {
+                            _sPlaca = "-----";
+                        }
+                    }
+
                     //Presentacion = Pantalla.InserteTarjeta;
                     //_frmPrincipal_Presenter.ConectarCRT();
 
@@ -286,6 +310,132 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                             simpleSound.Play();
 
                             Presentacion = Pantalla.InserteTarjeta;
+                        }
+                        else if (_sPlaca != string.Empty && _sPlaca != "------")
+                        {
+                            CntAuto = 0;
+                            bool TarOK = false;
+                            //VALIDAR AUTORIZADO
+                            Autorizado oAutorizado = new Autorizado();
+                            oAutorizado.PlacaAuto = _sPlaca;
+
+
+                            if (_frmPrincipal_Presenter.ObtenerAutorizadoPlaca(oAutorizado))
+                            {
+                                oAutorizado.IdTarjeta = _lstDtoAutorizado[0].IdTarjeta.Trim('\t');
+                                _IdCardAutorizado = oAutorizado.IdTarjeta;
+
+
+                                oAutorizado.IdTarjeta = _IdCardAutorizado;
+                                _Tarjeta.CodeCard = oAutorizado.IdTarjeta;
+                                General_Events = "ID TARJETA = " + oAutorizado.IdTarjeta;
+
+                                if (_frmPrincipal_Presenter.ObtenerTarjetas())
+                                {
+                                    for (int i = 0; i < _lstDtoTarjetas.Count; i++)
+                                    {
+
+                                        if (_lstDtoTarjetas[i].IdTarjeta == oAutorizado.IdTarjeta && _lstDtoTarjetas[i].Estado)
+                                        {
+                                            General_Events = "TARJETA ESTADO TRUE";
+                                            TarOK = true;
+                                            break;
+                                        }
+                                    }
+                                }
+
+                                if (TarOK)
+                                {
+                                    if (_frmPrincipal_Presenter.ObtenerAutorizado(oAutorizado))
+                                    {
+                                        General_Events = "Obtener Datos Autorizado ok";
+
+                                        //_frmPrincipal_Presenter.ReadCard();
+
+                                        /// validaciones autorizado
+
+                                        for (int i = 0; i < _lstDtoAutorizado.Count; i++)
+                                        {
+
+                                            if (oAutorizado.IdTarjeta == _lstDtoAutorizado[i].IdTarjeta)
+                                            {
+
+                                                General_Events = "Comparacion IDTARJETA OK";
+
+                                                if (_lstDtoAutorizado[i].IdEstacionamiento == Convert.ToInt64(Globales.iCodigoEstacionamiento))
+                                                {
+                                                    General_Events = "Comparacion IDESTACIONAMIENTO OK";
+
+                                                    if (_lstDtoAutorizado[i].EstadoAutorizacion && _lstDtoAutorizado[i].Estado && DateTime.Now >= _lstDtoAutorizado[i].FechaInicial && DateTime.Now <= _lstDtoAutorizado[i].FechaFinal)
+                                                    {
+                                                        General_Events = "Validacion Fechas Vigencia ok";
+
+                                                        if (_frmPrincipal_Presenter.ValidarSalidaAuto(oAutorizado.IdTarjeta) == true)
+                                                        {
+                                                            ok = true;
+                                                            bAutoVencida = false;
+                                                            bTarjetaInvalida = false;
+                                                            CntAuto = i;
+                                                            break;
+                                                        }
+                                                        else
+                                                        {
+                                                            SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaSinRegistroEntrada);
+                                                            simpleSound.Play();
+                                                            Presentacion = Pantalla.TarjetaSinRegistroEntrada;
+                                                            break;
+                                                        }
+                                                    }
+                                                    else
+                                                    {
+                                                        //Presentacion = Pantalla.AutorizacionVencida;
+                                                        bAutoVencida = true;
+
+                                                    }
+
+                                                }
+                                                else
+                                                {
+                                                    //Presentacion = Pantalla.TarjetaInvalida;
+                                                    bTarjetaInvalida = true;
+                                                }
+
+                                            }
+                                        }
+
+                                        if (ok)
+                                        {
+                                            RegistroSalidaAutorizado(CntAuto);
+                                        }
+                                        else if (bAutoVencida)
+                                        {
+                                            SoundPlayer simpleSound = new SoundPlayer(_sPathAutoVencida);
+                                            simpleSound.Play();
+                                            Presentacion = Pantalla.AutorizacionVencida;
+                                        }
+                                        else if (bTarjetaInvalida)
+                                        {
+                                            SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
+                                            simpleSound.Play();
+                                            Presentacion = Pantalla.TarjetaInvalida;
+                                        }
+                                    }
+                                    else
+                                    {
+                                        SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
+                                        simpleSound.Play();
+                                        Presentacion = Pantalla.TarjetaInvalida;
+                                    }
+                                }
+                                else
+                                {
+                                    SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
+                                    simpleSound.Play();
+                                    Presentacion = Pantalla.TarjetaInvalida;
+                                }
+
+                            }
+
                         }
                         if (_frmPrincipal_Presenter.ObtenerEventoDispo())
                         {
@@ -333,15 +483,16 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                         {
                             _frmPrincipal_Presenter.ActualizarEventoDispo(Convert.ToInt64(Resul[1]));
                         }
-                    }
+                    }                    
 
-                    //CapturaPlaca();
-                    _frmPrincipal_Presenter.DetectarTarjeta();
-                    //_frmPrincipal_Presenter.GetIdCard();
-                    RspDetectar = Lector.DetectarTarjeta();
+                    #region Tarjeta
+                    ////CapturaPlaca();
+                    //_frmPrincipal_Presenter.DetectarTarjeta();
+                    ////_frmPrincipal_Presenter.GetIdCard();
+                    //RspDetectar = Lector.DetectarTarjeta();
                     
                     
-
+#endregion
 
                     bool bAutoVencida = false;
                     bool bTarjetaInvalida = false;
@@ -1405,6 +1556,59 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
         }
         private void CapturaPlaca()
         {
+            string Placa = string.Empty;
+            string rutaPlaca = string.Empty;
+
+
+            for (int i = 0; i < _DtoModulo.Parametros.Count; i++)
+            {
+                if (_DtoModulo.Parametros[i].Codigo == "Placas" + Globales.sSerial + "" && _DtoModulo.Parametros[i].Estado)
+                {
+                    rutaPlaca = _DtoModulo.Parametros[i].Valor;
+                    break;
+                }
+            }
+            //LEER OLD
+            //TextReader leer = new StreamReader("" + rutaPlaca + "" + "" + Globales.sSerial + "" + ".txt");
+            //Placa = leer.ReadToEnd();
+            //_sPlaca = Placa.TrimEnd();
+
+            if (File.Exists(rutaPlaca + Globales.sSerial + ".txt"))
+            {
+                using (StreamReader leer = new StreamReader(rutaPlaca + Globales.sSerial + ".txt"))
+                {
+                    string placa = leer.ReadToEnd();
+                    _sPlaca = placa.TrimEnd();
+                }
+            }
+            else
+            {
+                _sPlaca = "------";
+            }
+        }
+        private void EliminarPlaca()
+        {
+            string Placa = string.Empty;
+            string rutaPlaca = string.Empty;
+
+
+            for (int i = 0; i < _DtoModulo.Parametros.Count; i++)
+            {
+                if (_DtoModulo.Parametros[i].Codigo == "Placas" + Globales.sSerial + "" && _DtoModulo.Parametros[i].Estado)
+                {
+                    rutaPlaca = _DtoModulo.Parametros[i].Valor;
+                    break;
+                }
+            }
+            //LEER OLD
+            //TextReader leer = new StreamReader("" + rutaPlaca + "" + "" + Globales.sSerial + "" + ".txt");
+            //Placa = leer.ReadToEnd();
+            //_sPlaca = Placa.TrimEnd();
+            string rutaPlacaGuardada = rutaPlaca + Globales.sSerial + ".txt";
+            if (File.Exists(rutaPlacaGuardada))
+            {
+                File.Delete(rutaPlacaGuardada);
+            }
         }
         #endregion
 
