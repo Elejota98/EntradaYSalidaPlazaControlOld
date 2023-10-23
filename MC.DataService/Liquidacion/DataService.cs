@@ -375,7 +375,7 @@ namespace MC.DataService
             return oResultadoOperacion;
         }
 
-        public ResultadoOperacion ObtenerDatosPago(string Secuencia)
+        public ResultadoOperacion ObtenerDatosPagoSalida(string Secuencia)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
 

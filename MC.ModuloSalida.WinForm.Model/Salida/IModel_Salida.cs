@@ -23,5 +23,6 @@ namespace MC.ModuloSalida.WinForm.Model
         ResultadoOperacion ValidarSalidaAuto(string IDCARD);
         ResultadoOperacion ValidarPlacaSalida(string IdModulo);
         ResultadoOperacion ObtenerAutorizadoPlaca(Autorizado oAutorizado);
+        ResultadoOperacion ObtenerDatosPagosSalida(string idTransaccion);
     }
 }

@@ -205,6 +205,9 @@
     <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getInformacionModulo_Response.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
+    <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
     <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getParametros_Response.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>

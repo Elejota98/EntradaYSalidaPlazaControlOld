@@ -247,6 +247,24 @@ namespace MC.ModuloSalida.WinForm.Presenter
 
             return ok;
         }
+
+        public bool ObtenerDatosPagosSalida(string idTransaccion)
+        {
+            bool ok = false;
+
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            oResultadoOperacion = Model.ObtenerDatosPagosSalida(idTransaccion);
+
+            if (oResultadoOperacion.oEstado == TipoRespuesta.Exito)
+            {
+                View.FechaPagoSalida = oResultadoOperacion.EntidadDatos.ToString();
+                ok = true;
+            }
+
+            return ok;
+            
+        }
         public bool ObtenerAutorizadoPlaca(Autorizado oAutorizado)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();

@@ -193,6 +193,20 @@ namespace MC.ModuloSalida.WinForm.Model
             return oResultadoOperacion;
         }
 
+        public ResultadoOperacion ObtenerDatosPagosSalida(string idTransaccion)
+        {
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            oResultadoOperacion = _ProxyServicios.ObtenerDatosPagosSalida(idTransaccion);
+
+            if (oResultadoOperacion.oEstado == TipoRespuesta.Error)
+            {
+
+            }
+            return oResultadoOperacion;
+                
+        }
+
         public ResultadoOperacion ObtenerAutorizadoPlaca(Autorizado oAutorizado)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();

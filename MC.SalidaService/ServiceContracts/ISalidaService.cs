@@ -52,5 +52,8 @@ namespace MC.SalidaService.ServiceContracts
 
         [OperationContract]
         getInfoAutorizado_Response getInfoAutorizadoPlaca(getInfoAutorizado_Request request);
+
+        [OperationContract]
+        getObtenerDatosPagos_Response getObtenerDatosPagos(getObtenerDatosPagos_Request request);
     }
 }

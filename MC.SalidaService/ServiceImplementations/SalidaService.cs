@@ -375,5 +375,26 @@ namespace MC.SalidaService.ServiceImplementations
             return response;
         }
 
+        public getObtenerDatosPagos_Response getObtenerDatosPagos(getObtenerDatosPagos_Request request)
+        {
+            getObtenerDatosPagos_Response response = new getObtenerDatosPagos_Response();
+            response.CorrelationId = request.RequestId;
+
+            if (!ValidRequest(request, response))
+                return response;
+
+            ResultadoOperacion oResultadoOperacion = _DataService.ObtenerDatosPagoSalida(Convert.ToString(request.sIdTransaccion));
+            if (oResultadoOperacion.oEstado == TipoRespuesta.Exito)
+            {
+                response.sFechaPago = oResultadoOperacion.EntidadDatos.ToString();
+            }
+            else
+            {
+                response.Acknowledge = AcknowledgeType.Failure;
+                response.Message = oResultadoOperacion.Mensaje;
+            }
+            return response;
+        }
+
     }
 }

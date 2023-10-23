@@ -44,6 +44,13 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
         #endregion
 
         #region Definiciones
+        private string _FechaPagoSalida = string.Empty;
+        public string FechaPagoSalida
+        {
+            get { return _FechaPagoSalida; }
+            set { _FechaPagoSalida = value; }
+        }
+
         private string _IdTransaccion = string.Empty;
         public string IdTransaccion
         {
@@ -1495,159 +1502,333 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
             {
                 Liquidacion oLiquidacion = new Liquidacion();
 
-
-                if (_Tarjeta.Courtesy == false)
+                if (SecuenciaTransaccion != string.Empty)
                 {
-                    _Tarjeta.PaymentDateTime = Convert.ToDateTime("25/05/2018 3:26:29 p. m.");
-                    DateTime ff = Convert.ToDateTime(_Tarjeta.PaymentDateTime);
-                    General_Events = ff.ToString();
-                    if (ff.Year != 0001)
+                    if (_frmPrincipal_Presenter.ObtenerDatosPagosSalida(SecuenciaTransaccion))
                     {
-                        General_Events = "ANTES DE OBTENER EVENTO";
-                        //VALIDAR EVENTO 
-                        _frmPrincipal_Presenter.ObtenerEvento(Convert.ToInt64(SecuenciaTransaccion));
-                        //////////////                    
-                        General_Events = "DESPUES DE OBTENER EVENTO";
-                        DateTime FechaPago = Convert.ToDateTime(_Tarjeta.PaymentDateTime);
-                        DateTime FechaActual = DateTime.Now;
+                        _Tarjeta.PaymentDateTime = Convert.ToDateTime(FechaPagoSalida);
+                        DateTime ff = Convert.ToDateTime(_Tarjeta.PaymentDateTime);
+                        General_Events = ff.ToString();
 
-                        TimeSpan Calculo = FechaActual - FechaPago;
-
-                        General_Events = "HORAS " + _Horas;
-                        if (_Horas != string.Empty)
+                        if (ff.Year != 0001)
                         {
-                            General_Events = "HORAS NO ES VACIO";
+                            General_Events = "ANTES DE OBTENER EVENTO";
+                            //VALIDAR EVENTO 
+                            _frmPrincipal_Presenter.ObtenerEvento(Convert.ToInt64(SecuenciaTransaccion));
+                            //////////////                    
+                            General_Events = "DESPUES DE OBTENER EVENTO";
 
-                            #region CalculoTiempo
-                            double TotalHoras = Calculo.TotalHours;
-                            int TotalMinutes = Convert.ToInt32(Calculo.TotalMinutes);
-                            double valorConDecimal = TotalHoras;
-                            long valorSinDecimal = (long)valorConDecimal;
-                            double decimales = valorConDecimal - (double)valorSinDecimal;
-                            General_Events = "valorSinDecimal " + decimales;
+                            //Valida la fecha de pago 
 
-                            valorSinDecimal = (long)TotalHoras;
+                            DateTime FechaPago = Convert.ToDateTime(_Tarjeta.PaymentDateTime);
+                            DateTime FechaActual = DateTime.Now;
 
+                            General_Events = "CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO";
 
-                            if (valorSinDecimal <= 0)
+                            TimeSpan Calculo = FechaActual - FechaPago;
+
+                            General_Events = "HORAS :" + _Horas;
+
+                            if (_Horas != string.Empty)
                             {
-                                valorSinDecimal = 1;
-                            }
-                            #endregion
+                                General_Events = "HORAS NO ES VACIO";
 
-                            long tiempofinal = valorSinDecimal - Convert.ToInt64(_Horas);
+                                #region CalculoTiempo
+                                double TotalHoras = Calculo.TotalHours;
+                                int TotalMinutes = Convert.ToInt32(Calculo.TotalMinutes);
+                                double valorConDecimal = TotalHoras;
+                                long valorSinDecimal = (long)valorConDecimal;
+                                double decimales = valorConDecimal - (double)valorSinDecimal;
+                                General_Events = "valorSinDecimal " + decimales;
 
-                            if (tiempofinal <= 0)
-                            {
-                                tiempofinal = 0;
-                                General_Events = "TIMEPO FINAL = 0";
-                                //ok = true;
+                                valorSinDecimal = (long)TotalHoras;
+
+
+                                if (valorSinDecimal <= 0)
+                                {
+                                    valorSinDecimal = 1;
+                                }
+                                #endregion
+
+
+                                long tiempofinal = valorSinDecimal - Convert.ToInt64(_Horas);
+
+                                if (tiempofinal <= 0)
+                                {
+                                    tiempofinal = 0;
+                                    General_Events = "TIMEPO FINAL = 0";
+                                    ok = true;
+                                }
+                                else
+                                {
+                                    General_Events = "TIMEPO FINAL > 0";
+                                    oLiquidacion.IdTipoPago = 1;
+                                    //oLiquidacion.Convenios = _Tarjeta.CodeAgreement1 + ";" + _Tarjeta.CodeAgreement2 + ";" + _Tarjeta.CodeAgreement3 + ";" + _Tarjeta.CodeAgreement4;
+                                    oLiquidacion.Convenios = _Tarjeta.CodeAgreement1.ToString();
+                                    oLiquidacion.Secuencia = SecuenciaTransaccion;
+
+                                    General_Events = "ANTES DE LIQUIDAR";
+                                    if (_frmPrincipal_Presenter.Liquidar(oLiquidacion.Secuencia.ToString(), Convert.ToInt32(oLiquidacion.IdTipoPago), false, false, oLiquidacion.Convenios))
+                                    {
+                                        General_Events = "LIQUIDAR OK";
+                                        //for (int i = 0; i < _lstDtoLiquidacion.Count; i++)
+                                        //{
+                                        double Valor = Convert.ToDouble(_ValorAPagar);
+                                        if (Valor > 0)
+                                        {
+                                            SoundPlayer simpleSound = new SoundPlayer(_sPathSinPago);
+                                            simpleSound.Play();
+                                            Presentacion = Pantalla.TarjetaSinPago;
+                                            ok = false;
+                                            //break;
+                                        }
+                                        else
+                                        {
+                                            ok = true;
+                                        }
+                                        //}
+
+                                    }
+                                    else
+                                    {
+                                        General_Events = "ERROR AL LIQUIDAR";
+                                    }
+                                }
+
                             }
                             else
                             {
-                                General_Events = "TIMEPO FINAL > 0";
-                                oLiquidacion.IdTipoPago = 1;
-                                //oLiquidacion.Convenios = _Tarjeta.CodeAgreement1 + ";" + _Tarjeta.CodeAgreement2 + ";" + _Tarjeta.CodeAgreement3 + ";" + _Tarjeta.CodeAgreement4;
-                                oLiquidacion.Convenios = _Tarjeta.CodeAgreement1.ToString();
-                                oLiquidacion.Secuencia = SecuenciaTransaccion;
+                                General_Events = "HORAS VACIO CALCULA TIMEPO DE REPAGO";
+                                double TotalMinutos = Calculo.TotalMinutes;
 
-                                General_Events = "ANTES DE LIQUIDAR";
-                                if (_frmPrincipal_Presenter.Liquidar(oLiquidacion.Secuencia.ToString(), Convert.ToInt32(oLiquidacion.IdTipoPago), false, false, oLiquidacion.Convenios))
+                                if (TotalMinutos > Convert.ToInt32(_frmPrincipal_Presenter.ObtenerValorParametro(Parametros.Repago)))
                                 {
-                                    General_Events = "LIQUIDAR OK";
-                                    //for (int i = 0; i < _lstDtoLiquidacion.Count; i++)
-                                    //{
+                                    SoundPlayer simpleSound = new SoundPlayer(_sPathExcedioTiempo);
+                                    simpleSound.Play();
+                                    Presentacion = Pantalla.ExcedioTiempo;
+                                }
+                                else
+                                {
+                                    ok = true;
+                                }
+                            }
+                        }
+                        else
+                        {
+                            //DateTime FechaPago = Convert.ToDateTime("2019-06-26 17:24:17");
+                            DateTime FechaPago = Convert.ToDateTime(_FechaPagoSalida);
+                            DateTime FechaActual = DateTime.Now;
+                            TimeSpan Calculo = FechaActual - FechaPago;
+
+                            oLiquidacion.IdTipoPago = 1;
+                            //oLiquidacion.Convenios = "3" + ";" + "" + ";" + "" + ";" + "";
+                            //oLiquidacion.Convenios = _Tarjeta.CodeAgreement1 + ";" + _Tarjeta.CodeAgreement2 + ";" + _Tarjeta.CodeAgreement3;
+                            oLiquidacion.Convenios = _Tarjeta.CodeAgreement1.ToString();
+                            //oLiquidacion.Convenios = oLiquidacion.Convenios.TrimEnd(';', ' ');
+                            oLiquidacion.Secuencia = SecuenciaTransaccion;
+                            //ok = true;
+
+                            if (_frmPrincipal_Presenter.Liquidar(oLiquidacion.Secuencia.ToString(), Convert.ToInt32(oLiquidacion.IdTipoPago), false, false, oLiquidacion.Convenios))
+                            {
+
+                                //for (int i = 0; i < _lstDtoLiquidacion.Count; i++)
+                                //{
+                                if (_ValorAPagar != string.Empty)
+                                {
                                     double Valor = Convert.ToDouble(_ValorAPagar);
-                                    if (Valor > 0)
+                                    if (Valor <= 0)
                                     {
-                                        SoundPlayer simpleSound = new SoundPlayer(_sPathSinPago);
-                                        simpleSound.Play();
-                                        Presentacion = Pantalla.TarjetaSinPago;
-                                        ok = false;
+                                        ok = true;
                                         //break;
                                     }
                                     else
                                     {
-                                        ok = true;
+                                        SoundPlayer simpleSound = new SoundPlayer(_sPathSinPago);
+                                        simpleSound.Play();
+                                        Presentacion = Pantalla.TarjetaSinPago;
+                                        //break;
                                     }
                                     //}
-
                                 }
                                 else
                                 {
-                                    General_Events = "ERROR AL LIQUIDAR";
+                                    ok = false;
                                 }
-                            }
-                        }
-                        else
-                        {
-                            General_Events = "HORAS VACIO CALCULA TIMEPO DE REPAGO";
-                            double TotalMinutos = Calculo.TotalMinutes;
-
-                            if (TotalMinutos > Convert.ToInt32(_frmPrincipal_Presenter.ObtenerValorParametro(Parametros.Repago)))
-                            {
-                                SoundPlayer simpleSound = new SoundPlayer(_sPathExcedioTiempo);
-                                simpleSound.Play();
-                                Presentacion = Pantalla.ExcedioTiempo;
                             }
                             else
-                            {
-                                ok = true;
-                            }
-                        }
-                    }
-                    else
-                    {
-                        //DateTime FechaPago = Convert.ToDateTime("2019-06-26 17:24:17");
-                        DateTime FechaPago = Convert.ToDateTime(_Tarjeta.DateTimeEntrance);
-                        DateTime FechaActual = DateTime.Now;
-                        TimeSpan Calculo = FechaActual - FechaPago;
-
-                        oLiquidacion.IdTipoPago = 1;
-                        //oLiquidacion.Convenios = "3" + ";" + "" + ";" + "" + ";" + "";
-                        //oLiquidacion.Convenios = _Tarjeta.CodeAgreement1 + ";" + _Tarjeta.CodeAgreement2 + ";" + _Tarjeta.CodeAgreement3;
-                        oLiquidacion.Convenios = _Tarjeta.CodeAgreement1.ToString();
-                        //oLiquidacion.Convenios = oLiquidacion.Convenios.TrimEnd(';', ' ');
-                        oLiquidacion.Secuencia = SecuenciaTransaccion;
-                        //ok = true;
-
-                        if (_frmPrincipal_Presenter.Liquidar(oLiquidacion.Secuencia.ToString(), Convert.ToInt32(oLiquidacion.IdTipoPago), false, false, oLiquidacion.Convenios))
-                        {
-
-                            //for (int i = 0; i < _lstDtoLiquidacion.Count; i++)
-                            //{
-                            if (_ValorAPagar != string.Empty)
-                            {
-                                double Valor = Convert.ToDouble(_ValorAPagar);
-                                if (Valor <= 0)
-                                {
-                                    ok = true;
-                                    //break;
-                                }
-                                else
-                                {
-                                    SoundPlayer simpleSound = new SoundPlayer(_sPathSinPago);
-                                    simpleSound.Play();
-                                    Presentacion = Pantalla.TarjetaSinPago;
-                                    //break;
-                                }
-                                //}
-                            }
-                            else 
                             {
                                 ok = false;
                             }
                         }
-                        else
-                        {
-                            ok = false;
-                        }
+
+                    }
+                    else
+                    {
+                        SoundPlayer simpleSound = new SoundPlayer(_sPathSinPago);
+                        simpleSound.Play();
+                        Presentacion = Pantalla.TarjetaSinPago;
+                        //break;
                     }
                 }
                 else
                 {
                     ok = true;
                 }
+                #region Tarjeta
+
+                //if (_Tarjeta.Courtesy == false)
+                //{
+                //    _Tarjeta.PaymentDateTime = Convert.ToDateTime("25/05/2018 3:26:29 p. m.");
+                //    DateTime ff = Convert.ToDateTime(_Tarjeta.PaymentDateTime);
+                //    General_Events = ff.ToString();
+                //    if (ff.Year != 0001)
+                //    {
+                //        General_Events = "ANTES DE OBTENER EVENTO";
+                //        //VALIDAR EVENTO 
+                //        _frmPrincipal_Presenter.ObtenerEvento(Convert.ToInt64(SecuenciaTransaccion));
+                //        //////////////                    
+                //        General_Events = "DESPUES DE OBTENER EVENTO";
+                //        DateTime FechaPago = Convert.ToDateTime(_Tarjeta.PaymentDateTime);
+                //        DateTime FechaActual = DateTime.Now;
+
+                //        TimeSpan Calculo = FechaActual - FechaPago;
+
+                //        General_Events = "HORAS " + _Horas;
+                //        if (_Horas != string.Empty)
+                //        {
+                //            General_Events = "HORAS NO ES VACIO";
+
+                //            #region CalculoTiempo
+                //            double TotalHoras = Calculo.TotalHours;
+                //            int TotalMinutes = Convert.ToInt32(Calculo.TotalMinutes);
+                //            double valorConDecimal = TotalHoras;
+                //            long valorSinDecimal = (long)valorConDecimal;
+                //            double decimales = valorConDecimal - (double)valorSinDecimal;
+                //            General_Events = "valorSinDecimal " + decimales;
+
+                //            valorSinDecimal = (long)TotalHoras;
+
+
+                //            if (valorSinDecimal <= 0)
+                //            {
+                //                valorSinDecimal = 1;
+                //            }
+                //            #endregion
+
+                //            long tiempofinal = valorSinDecimal - Convert.ToInt64(_Horas);
+
+                //            if (tiempofinal <= 0)
+                //            {
+                //                tiempofinal = 0;
+                //                General_Events = "TIMEPO FINAL = 0";
+                //                //ok = true;
+                //            }
+                //            else
+                //            {
+                //                General_Events = "TIMEPO FINAL > 0";
+                //                oLiquidacion.IdTipoPago = 1;
+                //                //oLiquidacion.Convenios = _Tarjeta.CodeAgreement1 + ";" + _Tarjeta.CodeAgreement2 + ";" + _Tarjeta.CodeAgreement3 + ";" + _Tarjeta.CodeAgreement4;
+                //                oLiquidacion.Convenios = _Tarjeta.CodeAgreement1.ToString();
+                //                oLiquidacion.Secuencia = SecuenciaTransaccion;
+
+                //                General_Events = "ANTES DE LIQUIDAR";
+                //                if (_frmPrincipal_Presenter.Liquidar(oLiquidacion.Secuencia.ToString(), Convert.ToInt32(oLiquidacion.IdTipoPago), false, false, oLiquidacion.Convenios))
+                //                {
+                //                    General_Events = "LIQUIDAR OK";
+                //                    //for (int i = 0; i < _lstDtoLiquidacion.Count; i++)
+                //                    //{
+                //                    double Valor = Convert.ToDouble(_ValorAPagar);
+                //                    if (Valor > 0)
+                //                    {
+                //                        SoundPlayer simpleSound = new SoundPlayer(_sPathSinPago);
+                //                        simpleSound.Play();
+                //                        Presentacion = Pantalla.TarjetaSinPago;
+                //                        ok = false;
+                //                        //break;
+                //                    }
+                //                    else
+                //                    {
+                //                        ok = true;
+                //                    }
+                //                    //}
+
+                //                }
+                //                else
+                //                {
+                //                    General_Events = "ERROR AL LIQUIDAR";
+                //                }
+                //            }
+                //        }
+                //        else
+                //        {
+                //            General_Events = "HORAS VACIO CALCULA TIMEPO DE REPAGO";
+                //            double TotalMinutos = Calculo.TotalMinutes;
+
+                //            if (TotalMinutos > Convert.ToInt32(_frmPrincipal_Presenter.ObtenerValorParametro(Parametros.Repago)))
+                //            {
+                //                SoundPlayer simpleSound = new SoundPlayer(_sPathExcedioTiempo);
+                //                simpleSound.Play();
+                //                Presentacion = Pantalla.ExcedioTiempo;
+                //            }
+                //            else
+                //            {
+                //                ok = true;
+                //            }
+                //        }
+                //    }
+                //    else
+                //    {
+                //        //DateTime FechaPago = Convert.ToDateTime("2019-06-26 17:24:17");
+                //        DateTime FechaPago = Convert.ToDateTime(_Tarjeta.DateTimeEntrance);
+                //        DateTime FechaActual = DateTime.Now;
+                //        TimeSpan Calculo = FechaActual - FechaPago;
+
+                //        oLiquidacion.IdTipoPago = 1;
+                //        //oLiquidacion.Convenios = "3" + ";" + "" + ";" + "" + ";" + "";
+                //        //oLiquidacion.Convenios = _Tarjeta.CodeAgreement1 + ";" + _Tarjeta.CodeAgreement2 + ";" + _Tarjeta.CodeAgreement3;
+                //        oLiquidacion.Convenios = _Tarjeta.CodeAgreement1.ToString();
+                //        //oLiquidacion.Convenios = oLiquidacion.Convenios.TrimEnd(';', ' ');
+                //        oLiquidacion.Secuencia = SecuenciaTransaccion;
+                //        //ok = true;
+
+                //        if (_frmPrincipal_Presenter.Liquidar(oLiquidacion.Secuencia.ToString(), Convert.ToInt32(oLiquidacion.IdTipoPago), false, false, oLiquidacion.Convenios))
+                //        {
+
+                //            //for (int i = 0; i < _lstDtoLiquidacion.Count; i++)
+                //            //{
+                //            if (_ValorAPagar != string.Empty)
+                //            {
+                //                double Valor = Convert.ToDouble(_ValorAPagar);
+                //                if (Valor <= 0)
+                //                {
+                //                    ok = true;
+                //                    //break;
+                //                }
+                //                else
+                //                {
+                //                    SoundPlayer simpleSound = new SoundPlayer(_sPathSinPago);
+                //                    simpleSound.Play();
+                //                    Presentacion = Pantalla.TarjetaSinPago;
+                //                    //break;
+                //                }
+                //                //}
+                //            }
+                //            else 
+                //            {
+                //                ok = false;
+                //            }
+                //        }
+                //        else
+                //        {
+                //            ok = false;
+                //        }
+                //    }
+                //}
+                //else
+                //{
+                //    ok = true;
+                //}
+                #endregion
 
             }
             catch (Exception ex)

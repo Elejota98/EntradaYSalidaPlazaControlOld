@@ -197,4 +197,18 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
+  <xs:element name="getObtenerDatosPagos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q29="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q29:getObtenerDatosPagos_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getObtenerDatosPagosResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q30="http://www.MillensCorp.com/types/" minOccurs="0" name="getObtenerDatosPagosResult" nillable="true" type="q30:getObtenerDatosPagos_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
 </xs:schema>

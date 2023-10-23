@@ -398,6 +398,52 @@ namespace MC.DataService
             return oResultadoOperacion;
         }
 
+        public ResultadoOperacion ObtenerInfoAutorizadoPlaca(Autorizado oAutorizado)
+        {
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            List<DtoAutorizado> olstDtoAutorizado = new List<DtoAutorizado>();
+
+            DataSetTransacciones.P_ValidarAutorizadoPlacaDataTable _InfoAutorizadoTable = new DataSetTransacciones.P_ValidarAutorizadoPlacaDataTable();
+            DataSetTransaccionesTableAdapters.P_ValidarAutorizadoPlacaTableAdapter _InfoAutorizadoAdapter = new DataSetTransaccionesTableAdapters.P_ValidarAutorizadoPlacaTableAdapter();
+
+            try
+            {
+                _InfoAutorizadoTable.Constraints.Clear();
+
+                if (_InfoAutorizadoAdapter.Fill(_InfoAutorizadoTable, oAutorizado.Placa1) > 0)
+                {
+                    oResultadoOperacion.oEstado = TipoRespuesta.Exito;
+                    oResultadoOperacion.Mensaje = "Info Autorizado OK";
+
+                    for (int i = 0; i < _InfoAutorizadoTable.Rows.Count; i++)
+                    {
+                        DtoAutorizado oDtoAutorizado = new DtoAutorizado();
+
+                        oDtoAutorizado.IdTarjeta = _InfoAutorizadoTable.Rows[i][0].ToString();
+
+                        olstDtoAutorizado.Add(oDtoAutorizado);
+                    }
+
+                    oResultadoOperacion.ListaEntidadDatos = olstDtoAutorizado;
+                    oResultadoOperacion.oEstado = TipoRespuesta.Exito;
+                }
+                else
+                {
+                    oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                    oResultadoOperacion.Mensaje = "Módulo sin registro en base de datos.";
+                }
+            }
+            catch (Exception ex)
+            {
+                // Generar LOG DataBase Exception
+                oResultadoOperacion.Mensaje = ex.ToString();
+                oResultadoOperacion.oEstado = TipoRespuesta.Error;
+            }
+
+            return oResultadoOperacion;
+        }
+
         public ResultadoOperacion SolucionarTodasAlarmas(Modulo oModulo)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
@@ -765,6 +811,49 @@ namespace MC.DataService
                 {
                     oResultadoOperacion.oEstado = TipoRespuesta.Error;
                     oResultadoOperacion.Mensaje = "Error al consultar registros en base de datos.";
+                }
+            }
+            catch (Exception ex)
+            {
+                // Generar LOG DataBase Exception
+                oResultadoOperacion.Mensaje = ex.ToString();
+                oResultadoOperacion.oEstado = TipoRespuesta.Error;
+            }
+
+            return oResultadoOperacion;
+        }
+
+        public ResultadoOperacion ObtenerDatosPago(string Secuencia)
+        {
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            long lSecuencia = Convert.ToInt64(Secuencia);
+            string sFechaPago = string.Empty;
+
+            DataSetLiquidacion.P_ObtenerDatosPagoDataTable _InfoTransaccionTable = new DataSetLiquidacion.P_ObtenerDatosPagoDataTable();
+            DataSetLiquidacionTableAdapters.P_ObtenerDatosPagoTableAdapter _InfoTransaccionAdapter = new DataSetLiquidacionTableAdapters.P_ObtenerDatosPagoTableAdapter();
+
+            try
+            {
+                _InfoTransaccionTable.Constraints.Clear();
+
+                if (_InfoTransaccionAdapter.Fill(_InfoTransaccionTable, lSecuencia) > 0)
+                {
+                    oResultadoOperacion.oEstado = TipoRespuesta.Exito;
+                    oResultadoOperacion.Mensaje = "Info pago OK";
+
+                    for (int i = 0; i < _InfoTransaccionTable.Rows.Count; i++)
+                    {
+                        sFechaPago = _InfoTransaccionTable.Rows[i][0].ToString();
+                    }
+
+                    oResultadoOperacion.EntidadDatos = sFechaPago;
+                    oResultadoOperacion.oEstado = TipoRespuesta.Exito;
+                }
+                else
+                {
+                    oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                    oResultadoOperacion.Mensaje = "Módulo sin registro en base de datos.";
                 }
             }
             catch (Exception ex)

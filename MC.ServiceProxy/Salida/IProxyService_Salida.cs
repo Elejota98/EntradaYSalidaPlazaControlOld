@@ -23,5 +23,6 @@ namespace MC.ServiceProxy
         ResultadoOperacion ValidarSalidaAuto(string IDCARD);
         ResultadoOperacion ValidarPlacaSalida(string IdModulo);
         ResultadoOperacion ObtenerAutorizadoPlacaS(Autorizado oAutorizado);
+        ResultadoOperacion ObtenerDatosPagosSalida(string idTransaccion);
     }
 }

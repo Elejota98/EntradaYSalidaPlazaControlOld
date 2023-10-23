@@ -821,6 +821,64 @@ namespace MC.ServiceProxy
             return oResultadoOperacion;
         }
 
+        public ResultadoOperacion ObtenerDatosPagosSalida(string idTransaccion)
+        {
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            string sFechaPago = string.Empty;
+
+            getObtenerDatosPagos_Request request = new getObtenerDatosPagos_Request();
+            request.RequestId = NuevoRequestId;
+            request.sIdTransaccion = Convert.ToInt64(idTransaccion);
+
+            getObtenerDatosPagos_Response response = null;
+
+            try
+            {
+                SafeProxy.DoAction<SalidaServiceClient>(_MC_SalidaService, client =>
+                { response = client.getObtenerDatosPagos(request); });
+            }
+            catch (System.Exception)
+            {
+                oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                oResultadoOperacion.Mensaje = "Error conexion Modulo Service";
+                return oResultadoOperacion;
+            }
+
+            if (response != null)
+            {
+                if (request.RequestId == response.CorrelationId)
+                {
+                    if (response.Acknowledge == ServiceProxy.MC_SalidaService.AcknowledgeType.Success)
+                    {
+                        sFechaPago = response.sFechaPago;
+                    }
+                    else
+                    {
+                        oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                        oResultadoOperacion.Mensaje = response.Message;
+                        return oResultadoOperacion;
+                    }
+                }
+                else
+                {
+                    oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                    oResultadoOperacion.Mensaje = "Respuesta Invalida Modulo Service: getValidarClave";
+                    return oResultadoOperacion;
+                }
+            }
+            else
+            {
+                oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                oResultadoOperacion.Mensaje = "Error Respuesta Modulo Service: getValidarClave";
+                return oResultadoOperacion;
+            }
+
+            oResultadoOperacion.EntidadDatos = sFechaPago;
+
+            return oResultadoOperacion;
+        }
+
         public ResultadoOperacion ObtenerAutorizadoPlacaS(Autorizado oAutorizado)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();

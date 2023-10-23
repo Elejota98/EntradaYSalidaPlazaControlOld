@@ -23,6 +23,8 @@ namespace MC.DataService
 
         ResultadoOperacion ObtenerInfoAutorizadoPlacaS(Autorizado oAutorizado);
 
+        ResultadoOperacion ObtenerInfoAutorizadoPlaca(Autorizado oAutorizado);
+
         ResultadoOperacion SolucionarTodasAlarmas(Modulo oModulo);
 
         ResultadoOperacion ObtenerTarjetas(Modulo oModulo);
@@ -40,5 +42,7 @@ namespace MC.DataService
         ResultadoOperacion ValidarPlacaEntrada(string oModulo);
 
         ResultadoOperacion ValidarPlacaSalida(string oModulo);
+
+        ResultadoOperacion ObtenerDatosPagoSalida(string Secuencia);
     }
 }

@@ -28,6 +28,7 @@ namespace MC.ServiceProxy.MC_SalidaService {
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getEventosDispositivo_Request))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarSalidaAutorizado_Request))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Request))]
+    [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Request))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getPartesModulo_Request))]
     public partial class RequestBase : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
         
@@ -334,6 +335,29 @@ namespace MC.ServiceProxy.MC_SalidaService {
                 if ((object.ReferenceEquals(this.sModuloField, value) != true)) {
                     this.sModuloField = value;
                     this.RaisePropertyChanged("sModulo");
+                }
+            }
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="getObtenerDatosPagos_Request", Namespace="http://www.MillensCorp.com/types/")]
+    [System.SerializableAttribute()]
+    public partial class getObtenerDatosPagos_Request : MC.ServiceProxy.MC_SalidaService.RequestBase {
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private long sIdTransaccionField;
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public long sIdTransaccion {
+            get {
+                return this.sIdTransaccionField;
+            }
+            set {
+                if ((this.sIdTransaccionField.Equals(value) != true)) {
+                    this.sIdTransaccionField = value;
+                    this.RaisePropertyChanged("sIdTransaccion");
                 }
             }
         }
@@ -1626,6 +1650,7 @@ namespace MC.ServiceProxy.MC_SalidaService {
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getEventosDispositivo_Response))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarSalidaAutorizado_Response))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Response))]
+    [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Response))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getPartesModulo_Response))]
     public partial class ResponseBase : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
         
@@ -2012,6 +2037,29 @@ namespace MC.ServiceProxy.MC_SalidaService {
                 if ((object.ReferenceEquals(this.sPlacaRespuestaField, value) != true)) {
                     this.sPlacaRespuestaField = value;
                     this.RaisePropertyChanged("sPlacaRespuesta");
+                }
+            }
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="getObtenerDatosPagos_Response", Namespace="http://www.MillensCorp.com/types/")]
+    [System.SerializableAttribute()]
+    public partial class getObtenerDatosPagos_Response : MC.ServiceProxy.MC_SalidaService.ResponseBase {
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string sFechaPagoField;
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string sFechaPago {
+            get {
+                return this.sFechaPagoField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.sFechaPagoField, value) != true)) {
+                    this.sFechaPagoField = value;
+                    this.RaisePropertyChanged("sFechaPago");
                 }
             }
         }
@@ -3115,6 +3163,12 @@ namespace MC.ServiceProxy.MC_SalidaService {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ISalidaService/getInfoAutorizadoPlaca", ReplyAction="http://tempuri.org/ISalidaService/getInfoAutorizadoPlacaResponse")]
         System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getInfoAutorizado_Response> getInfoAutorizadoPlacaAsync(MC.ServiceProxy.MC_SalidaService.getInfoAutorizado_Request request);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ISalidaService/getObtenerDatosPagos", ReplyAction="http://tempuri.org/ISalidaService/getObtenerDatosPagosResponse")]
+        MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Response getObtenerDatosPagos(MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Request request);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ISalidaService/getObtenerDatosPagos", ReplyAction="http://tempuri.org/ISalidaService/getObtenerDatosPagosResponse")]
+        System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Response> getObtenerDatosPagosAsync(MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Request request);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -3254,6 +3308,14 @@ namespace MC.ServiceProxy.MC_SalidaService {
         
         public System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getInfoAutorizado_Response> getInfoAutorizadoPlacaAsync(MC.ServiceProxy.MC_SalidaService.getInfoAutorizado_Request request) {
             return base.Channel.getInfoAutorizadoPlacaAsync(request);
+        }
+        
+        public MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Response getObtenerDatosPagos(MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Request request) {
+            return base.Channel.getObtenerDatosPagos(request);
+        }
+        
+        public System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Response> getObtenerDatosPagosAsync(MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Request request) {
+            return base.Channel.getObtenerDatosPagosAsync(request);
         }
     }
 }
