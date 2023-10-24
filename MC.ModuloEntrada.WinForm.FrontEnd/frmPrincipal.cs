@@ -1575,6 +1575,9 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                         //_frmPrincipal_Presenter.Escribirtarjeta();
                                                         #endregion
                                                     }
+                                                    Presentacion = Pantalla.SalvaPantallas;
+                                                    TbTag.Text = "";
+                                                    _IdCardAutorizado = "";
                                                     //Presentacion = Pantalla.TarjetaSinRegistroSalida;
                                                     break;
                                                     ////General_Events = "TarjetaSinRegistroSalida";
