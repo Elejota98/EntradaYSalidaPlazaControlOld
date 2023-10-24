@@ -19,5 +19,7 @@ namespace MC.BusinessObjects.Enums
         TimeOut_Alertas = 6,
         TimeOut_InserteTarjeta = 10,
         TimeOut_TarjetaMocha = 10,
+        TimeOut_MensualidadVencida = 3,
+        
     }
 }

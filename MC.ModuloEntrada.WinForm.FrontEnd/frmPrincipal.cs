@@ -1155,10 +1155,12 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                 }
                                                 else
                                                 {
-                                                    simpleSound = new SoundPlayer(_sPathAutoVencida);
+                                                    simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
                                                     simpleSound.Play();
                                                     bAutoVencida2 = true;
-                                                    Presentacion = Pantalla.AutorizacionVencida;
+                                                    Presentacion = Pantalla.SalvaPantallas;
+                                                    TbTag.Text = "";
+                                                    _IdCardAutorizado = "";
                                                     if (_VehiculoMueble == false)
                                                     {
                                                         VehiculoMoto = true;
@@ -1211,7 +1213,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                     {
                                         //_frmPrincipal_Presenter.EstadoControl();
                                         RegistroEntrada();
-                                        TbTag.Text = string.Empty;
+                                        TbTag.Text = "";
+                                        _IdCardAutorizado = "";
                                         //if (_VehiculoMueble==false)
                                         //{
                                         //    VehiculoMoto = true;
@@ -1377,6 +1380,9 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                         //_frmPrincipal_Presenter.Escribirtarjeta();
                                                         #endregion
                                                     }
+                                                    Presentacion = Pantalla.SalvaPantallas;
+                                                    TbTag.Text = "";
+                                                    _IdCardAutorizado = "";
                                                     //Presentacion = Pantalla.TarjetaSinRegistroSalida;
                                                     break;
                                                     ////General_Events = "TarjetaSinRegistroSalida";
@@ -1393,6 +1399,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                 simpleSoundNew = new SoundPlayer(_sPathAutoVencida);
                                                 simpleSoundNew.Play();
                                                 bAutoVencida2 = true;
+                                                TbTag.Text = "";
+                                                IdCardAutorizado = "";
                                                 Presentacion = Pantalla.AutorizacionVencida;
                                                 if (_VehiculoMueble == false)
                                                 {
@@ -1594,6 +1602,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                SoundPlayer simpleSoundNew = new SoundPlayer(_sPathAutoVencida);
                                                 simpleSoundNew.Play();
                                                 bAutoVencida2 = true;
+                                                TbTag.Text = "";
+                                                IdCardAutorizado = "";
                                                 Presentacion = Pantalla.AutorizacionVencida;
                                                 if (_VehiculoMueble == false)
                                                 {
@@ -2162,19 +2172,38 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                     break;
 
                 case Pantalla.AutorizacionVencida:
-                    _frmPrincipal_Presenter.ReadCard();
-                    _frmPrincipal_Presenter.StateDispenserNew();
-
-                    if (_RemoveCard)
+                    if (Convert.ToBoolean(Globales.sPLC) == true)
                     {
-                        RegistroEntrada();
-                    }
+                        _frmPrincipal_Presenter.ReadCard();
+                        _frmPrincipal_Presenter.StateDispenserNew();
 
-                    if (_frmPrincipal_Presenter.VehiculoMueble() == false)
-                    {
-                        _frmPrincipal_Presenter.DevolverTarjetaNew();
-                        Presentacion = Pantalla.SalvaPantallas;
+                        if (_RemoveCard)
+                        {
+                            RegistroEntrada();
+                        }
+
+                        if (_frmPrincipal_Presenter.VehiculoMueble() == false)
+                        {
+                            _frmPrincipal_Presenter.DevolverTarjetaNew();
+                            Presentacion = Pantalla.SalvaPantallas;
+                        }
                     }
+                    else
+                    {
+                        if (cnt_timeout == (int)TimeOut.TimeOut_MensualidadVencida)
+                        {
+                            _frmPrincipal_Presenter.EstadoControl();
+                            if (_VehiculoMueble)
+                            {
+                                Presentacion = Pantalla.RetireTarjeta;
+                            }
+                            else
+                            {
+                                Presentacion = Pantalla.SalvaPantallas;
+                            }
+                        }
+                    }
+                 
 
                     break;
 
