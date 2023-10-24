@@ -1563,6 +1563,7 @@ namespace MC.ModuloEntrada.WinForm.Presenter
                 #region NoHayCarro
                 case StatesControl.NoHayCarro:
                     View.VehiculoMueble = false;
+                    View.VehiculoTalanquera = false;
                     View.General_Events = oResultadoOperacion.Mensaje;
                     break;
                 #endregion
