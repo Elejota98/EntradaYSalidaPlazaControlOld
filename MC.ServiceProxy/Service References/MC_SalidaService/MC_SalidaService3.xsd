@@ -211,4 +211,18 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
+  <xs:element name="getValidarSalida">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q31="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q31:getValidarSalida_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarSalidaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q32="http://www.MillensCorp.com/types/" minOccurs="0" name="getValidarSalidaResult" nillable="true" type="q32:getValidarSalida_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
 </xs:schema>

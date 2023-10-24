@@ -98,6 +98,12 @@
   <wsdl:message name="ISalidaService_getObtenerDatosPagos_OutputMessage">
     <wsdl:part name="parameters" element="tns:getObtenerDatosPagosResponse" />
   </wsdl:message>
+  <wsdl:message name="ISalidaService_getValidarSalida_InputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarSalida" />
+  </wsdl:message>
+  <wsdl:message name="ISalidaService_getValidarSalida_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getValidarSalidaResponse" />
+  </wsdl:message>
   <wsdl:portType name="ISalidaService">
     <wsdl:operation name="getPartesModulo">
       <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getPartesModulo" message="tns:ISalidaService_getPartesModulo_InputMessage" />
@@ -158,6 +164,10 @@
     <wsdl:operation name="getObtenerDatosPagos">
       <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getObtenerDatosPagos" message="tns:ISalidaService_getObtenerDatosPagos_InputMessage" />
       <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/getObtenerDatosPagosResponse" message="tns:ISalidaService_getObtenerDatosPagos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getValidarSalida">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISalidaService/getValidarSalida" message="tns:ISalidaService_getValidarSalida_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISalidaService/getValidarSalidaResponse" message="tns:ISalidaService_getValidarSalida_OutputMessage" />
     </wsdl:operation>
   </wsdl:portType>
   <wsdl:binding name="basicHttpBinding_SalidaService" type="tns:ISalidaService">
@@ -290,6 +300,15 @@
     </wsdl:operation>
     <wsdl:operation name="getObtenerDatosPagos">
       <soap:operation soapAction="http://tempuri.org/ISalidaService/getObtenerDatosPagos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getValidarSalida">
+      <soap:operation soapAction="http://tempuri.org/ISalidaService/getValidarSalida" style="document" />
       <wsdl:input>
         <soap:body use="literal" />
       </wsdl:input>

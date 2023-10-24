@@ -1000,6 +1000,33 @@ namespace MC.ModuloSalida.WinForm.Presenter
 
             return ok;
         }
+        public bool ValidarSalida(long idTransaccion)
+        {
+            bool ok = false;
+
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            oResultadoOperacion = Model.ValidarSalida(idTransaccion);
+            if (oResultadoOperacion.oEstado == TipoRespuesta.Exito)
+            {
+                if (Convert.ToBoolean(oResultadoOperacion.EntidadDatos) == true)
+                {
+                    ok = true;
+                }
+                else
+                {
+                    ok = false;
+                }
+            }
+            else
+            {
+                View.General_Events = "Error (Presenter EnviarImagenesServidor): " + oResultadoOperacion.Mensaje;
+
+                ok = true;
+            }
+
+            return ok;
+        }
         #endregion
 
         #region Barrera

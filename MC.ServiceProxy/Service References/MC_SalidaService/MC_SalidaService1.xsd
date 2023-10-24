@@ -462,4 +462,24 @@
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="getObtenerDatosPagos_Response" nillable="true" type="tns:getObtenerDatosPagos_Response" />
+  <xs:complexType name="getValidarSalida_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q27="http://www.mc.com.co/types/" base="q27:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="sIdTransaccion" type="xs:long" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getValidarSalida_Request" nillable="true" type="tns:getValidarSalida_Request" />
+  <xs:complexType name="getValidarSalida_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q28="http://www.mc.com.co/types/" base="q28:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="bIngreso" type="xs:boolean" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getValidarSalida_Response" nillable="true" type="tns:getValidarSalida_Response" />
 </xs:schema>

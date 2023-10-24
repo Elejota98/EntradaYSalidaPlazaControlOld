@@ -737,6 +737,50 @@ namespace MC.DataService
             return oResultadoOperacion;
         }
 
+        public ResultadoOperacion ValidarIngreso(long idTransaccion)
+        {
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            DataSetTransacciones.P_ValidarIngresoDataTable _ValidarIngresoTable = new DataSetTransacciones.P_ValidarIngresoDataTable();
+            DataSetTransaccionesTableAdapters.P_ValidarIngresoTableAdapter _ValidarIngresoAdapter = new DataSetTransaccionesTableAdapters.P_ValidarIngresoTableAdapter();
+
+
+            string resultado = string.Empty;
+
+            try
+            {
+                _ValidarIngresoTable.Constraints.Clear();
+
+                if (_ValidarIngresoAdapter.Fill(_ValidarIngresoTable, idTransaccion) > 0)
+                {
+                    oResultadoOperacion.oEstado = TipoRespuesta.Exito;
+                    oResultadoOperacion.Mensaje = "Info Partes OK";
+
+                    for (int i = 0; i < _ValidarIngresoTable.Rows.Count; i++)
+                    {
+                        resultado = _ValidarIngresoTable.Rows[i][0].ToString();
+                    }
+
+                    oResultadoOperacion.EntidadDatos = resultado;
+                    oResultadoOperacion.oEstado = TipoRespuesta.Exito;
+                }
+                else
+                {
+                    oResultadoOperacion.oEstado = TipoRespuesta.Exito;
+                    oResultadoOperacion.EntidadDatos = resultado;
+                    oResultadoOperacion.Mensaje = "Usuario no registrado en base de datos";
+                }
+            }
+            catch (Exception ex)
+            {
+                // Generar LOG DataBase Exception
+                string exMessage = ex.ToString();
+                oResultadoOperacion.oEstado = TipoRespuesta.Error;
+            }
+
+            return oResultadoOperacion;
+        }
+
         public ResultadoOperacion ValidarPlacaSalida(string oModulo)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();

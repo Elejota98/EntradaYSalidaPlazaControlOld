@@ -29,6 +29,7 @@ namespace MC.ServiceProxy.MC_SalidaService {
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarSalidaAutorizado_Request))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Request))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Request))]
+    [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarSalida_Request))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getPartesModulo_Request))]
     public partial class RequestBase : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
         
@@ -345,6 +346,29 @@ namespace MC.ServiceProxy.MC_SalidaService {
     [System.Runtime.Serialization.DataContractAttribute(Name="getObtenerDatosPagos_Request", Namespace="http://www.MillensCorp.com/types/")]
     [System.SerializableAttribute()]
     public partial class getObtenerDatosPagos_Request : MC.ServiceProxy.MC_SalidaService.RequestBase {
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private long sIdTransaccionField;
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public long sIdTransaccion {
+            get {
+                return this.sIdTransaccionField;
+            }
+            set {
+                if ((this.sIdTransaccionField.Equals(value) != true)) {
+                    this.sIdTransaccionField = value;
+                    this.RaisePropertyChanged("sIdTransaccion");
+                }
+            }
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="getValidarSalida_Request", Namespace="http://www.MillensCorp.com/types/")]
+    [System.SerializableAttribute()]
+    public partial class getValidarSalida_Request : MC.ServiceProxy.MC_SalidaService.RequestBase {
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
         private long sIdTransaccionField;
@@ -1651,6 +1675,7 @@ namespace MC.ServiceProxy.MC_SalidaService {
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarSalidaAutorizado_Response))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Response))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Response))]
+    [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarSalida_Response))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getPartesModulo_Response))]
     public partial class ResponseBase : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
         
@@ -2060,6 +2085,29 @@ namespace MC.ServiceProxy.MC_SalidaService {
                 if ((object.ReferenceEquals(this.sFechaPagoField, value) != true)) {
                     this.sFechaPagoField = value;
                     this.RaisePropertyChanged("sFechaPago");
+                }
+            }
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="getValidarSalida_Response", Namespace="http://www.MillensCorp.com/types/")]
+    [System.SerializableAttribute()]
+    public partial class getValidarSalida_Response : MC.ServiceProxy.MC_SalidaService.ResponseBase {
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private bool bIngresoField;
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public bool bIngreso {
+            get {
+                return this.bIngresoField;
+            }
+            set {
+                if ((this.bIngresoField.Equals(value) != true)) {
+                    this.bIngresoField = value;
+                    this.RaisePropertyChanged("bIngreso");
                 }
             }
         }
@@ -3169,6 +3217,12 @@ namespace MC.ServiceProxy.MC_SalidaService {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ISalidaService/getObtenerDatosPagos", ReplyAction="http://tempuri.org/ISalidaService/getObtenerDatosPagosResponse")]
         System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Response> getObtenerDatosPagosAsync(MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Request request);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ISalidaService/getValidarSalida", ReplyAction="http://tempuri.org/ISalidaService/getValidarSalidaResponse")]
+        MC.ServiceProxy.MC_SalidaService.getValidarSalida_Response getValidarSalida(MC.ServiceProxy.MC_SalidaService.getValidarSalida_Request request);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ISalidaService/getValidarSalida", ReplyAction="http://tempuri.org/ISalidaService/getValidarSalidaResponse")]
+        System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getValidarSalida_Response> getValidarSalidaAsync(MC.ServiceProxy.MC_SalidaService.getValidarSalida_Request request);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -3316,6 +3370,14 @@ namespace MC.ServiceProxy.MC_SalidaService {
         
         public System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Response> getObtenerDatosPagosAsync(MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Request request) {
             return base.Channel.getObtenerDatosPagosAsync(request);
+        }
+        
+        public MC.ServiceProxy.MC_SalidaService.getValidarSalida_Response getValidarSalida(MC.ServiceProxy.MC_SalidaService.getValidarSalida_Request request) {
+            return base.Channel.getValidarSalida(request);
+        }
+        
+        public System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getValidarSalida_Response> getValidarSalidaAsync(MC.ServiceProxy.MC_SalidaService.getValidarSalida_Request request) {
+            return base.Channel.getValidarSalidaAsync(request);
         }
     }
 }

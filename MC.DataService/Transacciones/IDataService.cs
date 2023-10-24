@@ -44,5 +44,7 @@ namespace MC.DataService
         ResultadoOperacion ValidarPlacaSalida(string oModulo);
 
         ResultadoOperacion ObtenerDatosPagoSalida(string Secuencia);
+
+        ResultadoOperacion ValidarIngreso(long idTransaccion);
     }
 }

@@ -352,6 +352,37 @@ namespace MC.SalidaService.ServiceImplementations
             return response;
         }
 
+        public getValidarSalida_Response getValidarSalida(getValidarSalida_Request request)
+        {
+            getValidarSalida_Response response = new getValidarSalida_Response();
+
+            response.CorrelationId = request.RequestId;
+
+            if (!ValidRequest(request, response))
+                return response;
+
+            ResultadoOperacion oResultadoOperacion = _DataService.ValidarIngreso(request.sIdTransaccion);
+            if (oResultadoOperacion.oEstado == TipoRespuesta.Exito)
+            {
+                if (oResultadoOperacion.EntidadDatos.ToString() != string.Empty)
+                {
+                    response.bIngreso = true;
+                }
+                else
+                {
+                    response.bIngreso = false;
+                }
+            }
+            else
+            {
+                response.Acknowledge = AcknowledgeType.Failure;
+                response.Message = oResultadoOperacion.Mensaje;
+            }
+
+            return response;
+        }
+
+
         public getValidarPlacaSalida_Response getValidarPlacaSalida(getValidarPlacaSalida_Request request)
         {
             getValidarPlacaSalida_Response response = new getValidarPlacaSalida_Response();

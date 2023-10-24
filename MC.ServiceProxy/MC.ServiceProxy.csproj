@@ -223,6 +223,9 @@
     <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getValidarSalidaAutorizado_Response.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
+    <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getValidarSalida_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
     <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.setRegistrarAlarma_Response.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>

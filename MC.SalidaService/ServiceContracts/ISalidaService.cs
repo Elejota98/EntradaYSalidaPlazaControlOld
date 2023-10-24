@@ -55,5 +55,8 @@ namespace MC.SalidaService.ServiceContracts
 
         [OperationContract]
         getObtenerDatosPagos_Response getObtenerDatosPagos(getObtenerDatosPagos_Request request);
+
+        [OperationContract]
+        getValidarSalida_Response getValidarSalida(getValidarSalida_Request request);
     }
 }
