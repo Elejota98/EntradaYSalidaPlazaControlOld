@@ -1530,6 +1530,7 @@ namespace MC.ModuloEntrada.WinForm.Presenter
                 #region VehiculoMueble
                 case StatesControl.VehiculoMueble:
                     View.VehiculoMueble = true;
+                    View.VehiculoTalanquera = false;
                     if (i.resultString.EntidadDatos != null)
                     {
                         if (i.resultString.EntidadDatos == "Carro")

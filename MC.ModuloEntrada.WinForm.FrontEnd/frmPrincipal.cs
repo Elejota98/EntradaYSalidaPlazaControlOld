@@ -1715,9 +1715,9 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                     bool bTarjetaInvalida = false;
                     bool ok = false;
                     _frmPrincipal_Presenter.EstadoControl();
-                    if (_VehiculoMueble)
-                    {
-                        if (_Moto)
+                    //if (_VehiculoMueble)
+                    //{
+                        if (VehiculoMoto)
                         {
                             oTransaccion.TipoVehiculo = 2;
                         }
@@ -1727,7 +1727,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                         }
 
                         RegistroEntrada();
-                    }
+                    //}
                     //if (_RemoveCard)
                     //{
                        
