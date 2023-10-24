@@ -1554,7 +1554,7 @@ namespace MC.ModuloEntrada.WinForm.Presenter
 
                 #region VahiculoSalioTalanquera
                 case StatesControl.VahiculoSalioTalanquera:
-                    View.VehiculoSalioTalanquera = true;
+                    View.VehiculoTalanquera =false;
                     View.General_Events = oResultadoOperacion.Mensaje;
                     break;
                 #endregion

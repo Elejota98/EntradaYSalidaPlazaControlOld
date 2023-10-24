@@ -167,6 +167,12 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             get { return _IdCardAutorizado; }
             set { _IdCardAutorizado = value; }
         }
+        private string _IdTransaccion = string.Empty;
+        public string IdTransaccion
+        {
+            get { return _IdTransaccion; }
+            set { _IdTransaccion = value; }
+        }
         string SecuenciaTransaccion = string.Empty;
         private List<DtoAutorizado> _lstDtoAutorizado = new List<DtoAutorizado>();
         public List<DtoAutorizado> lstDtoAutorizado
@@ -245,6 +251,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
         }
         private void frmPrincipal_Load(object sender, EventArgs e)
         {
+            TbTag.GotFocus += TabGotFocus;
+
             Inicio();
         }
         #endregion
@@ -1025,6 +1033,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                     {
                                         //_frmPrincipal_Presenter.EstadoControl();
                                         RegistroEntrada();
+                                        TbTag.Text = string.Empty;
                                         //if (_VehiculoMueble==false)
                                         //{
                                         //    VehiculoMoto = true;
@@ -1054,7 +1063,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                     }
                                     #endregion
                                 }
-                                else if (_IdCardAutorizado != string.Empty && _sPlaca == "------")
+                                else if (_IdCardAutorizado != string.Empty)
                                 {
                                     bool bAutorizado = false;
                                     bool ok2 = false;
@@ -1202,6 +1211,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                     {
                                         //_frmPrincipal_Presenter.EstadoControl();
                                         RegistroEntrada();
+                                        TbTag.Text = string.Empty;
                                         //if (_VehiculoMueble==false)
                                         //{
                                         //    VehiculoMoto = true;
@@ -1424,6 +1434,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                     if (ok2)
                                     {
                                         RegistroEntradaAutorizado(CntAuto);
+                                        TbTag.Text = "";
+                                        _IdCardAutorizado = "";
                                     }
                                     //else if (bAutoVencida2)
                                     //{
@@ -1436,6 +1448,9 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                 {
                                     //_frmPrincipal_Presenter.EstadoControl();
                                     RegistroEntrada();
+                                    TbTag.Text = "";
+                                    _IdCardAutorizado = "";
+
                                     //if (_VehiculoMueble==false)
                                     //{
                                     //    VehiculoMoto = true;
@@ -1465,7 +1480,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                 }
                                 #endregion
                             }
-                            else if (_IdCardAutorizado != string.Empty && _sPlaca == "------")
+                            else if (_IdCardAutorizado != string.Empty)
                             {
 
                                 SoundPlayer simpleSound = new SoundPlayer(_sPathBienvenido);
@@ -1617,6 +1632,9 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                     if (ok2)
                                     {
                                         RegistroEntradaAutorizado(CntAuto);
+                                        TbTag.Text = string.Empty;
+                                        _IdCardAutorizado = "";
+
                                     }
                                     //else if (bAutoVencida2)
                                     //{
@@ -1629,6 +1647,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                 {
                                     //_frmPrincipal_Presenter.EstadoControl();
                                     Presentacion = Pantalla.RetireTarjeta;
+                                    TbTag.Text = "";
+                                    _IdCardAutorizado = "";
                                     //if (_VehiculoMueble==false)
                                     //{
                                     //    VehiculoMoto = true;
@@ -2044,6 +2064,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                             }
                             //EnvioImagenes();
                             Presentacion = Pantalla.VehiculoEntrando;
+                            TbTag.Focus();
                         }
                     }
                     else
@@ -2080,23 +2101,29 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                             }
                             //EnvioImagenes();
                             Presentacion = Pantalla.VehiculoEntrando;
+                            
                         }
                     }
                     else
                     {
                         _frmPrincipal_Presenter.EstadoControl();
-                        if (_VehiculoTalanquera)
+                        if (_VehiculoMueble == false)
                         {
-                            bool sound = false;
-                            //_frmPrincipal_Presenter.AlistarTarjeta();
-                            if (!sound)
+                            _frmPrincipal_Presenter.EstadoControl();
+                            if (_VehiculoTalanquera)
                             {
-                                SoundPlayer simpleSound = new SoundPlayer(_sPathVehiculoEntrando);
-                                simpleSound.Play();
-                                sound = true;
+                                bool sound = false;
+                                //_frmPrincipal_Presenter.AlistarTarjeta();
+                                if (!sound)
+                                {
+                                    SoundPlayer simpleSound = new SoundPlayer(_sPathVehiculoEntrando);
+                                    simpleSound.Play();
+                                    sound = true;
+                                }
+                                //EnvioImagenes();
+                                Presentacion = Pantalla.VehiculoEntrando;
+                                _IdCardAutorizado = IdCardAutorizado;
                             }
-                            //EnvioImagenes();
-                            Presentacion = Pantalla.VehiculoEntrando;
                         }
                     }
                     break;
@@ -2117,8 +2144,9 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                         //_frmPrincipal_Presenter.EstadoControl();
                         if (cnt_timeout == (int)TimeOut.TimeOut_Alertas)
                         {
-                            Presentacion = Pantalla.SalvaPantallas;
+                           Presentacion = Pantalla.SalvaPantallas;
                             VehiculoTalanquera = false;
+                            _IdCardAutorizado = IdCardAutorizado;
                         }
                     }
                     break;
@@ -2175,7 +2203,19 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                 if (TbTag.Text != string.Empty && TbTag.Text.Length <= 17)
                 {
+                    string IdCarAutorizadoNew = TbTag.Text.Trim();
+
+                    if (IdCarAutorizadoNew == _IdCardAutorizado)
+                    {
                     _IdCardAutorizado = TbTag.Text.Trim();
+                        
+                    }
+                    else
+                    {
+                        _IdCardAutorizado = IdCarAutorizadoNew;
+                    }
+
+                    
                 }
                 else
                 {
@@ -2472,7 +2512,6 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
         {
             _Moto = false;
             bUso = false;
-            _IdCardAutorizado = string.Empty;
             SecuenciaTransaccion = string.Empty;
             RemoveCard = false;
             lblDatosAuto.Text = string.Empty;
@@ -2584,7 +2623,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             _frmPrincipal_Presenter.RegistrarEntrada(oTransaccion);
             Imprimir(oTransaccion);
             EliminarPlaca();
-
+            TbTag.Text = "";
+            _IdCardAutorizado = "";
             Presentacion = Pantalla.DisfruteVisita;
 
             if (Convert.ToBoolean(Globales.sPLC) == true)
@@ -2619,7 +2659,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
             _frmPrincipal_Presenter.RegistrarEntrada(oTransaccion);
             EliminarPlaca();
-
+            TbTag.Text = "";
             lblDatosAuto.Text = "Sr/Sra " + _lstDtoAutorizado[CntAuto].NombresAutorizado;
             Presentacion = Pantalla.DisfruteVisitaAuto;
 
@@ -2746,6 +2786,13 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
         {
 
         }
+
+        private void TabGotFocus(object sender, EventArgs e)
+        {
+            TbTag.Focus();
+        }
+
+             
         #region CamaraEvento
         //private void CapturaPlaca()
         //{
@@ -3327,7 +3374,6 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
         #region PLC
         private void btn_llegoCarro_Click(object sender, EventArgs e)
         {
-            _IdCardAutorizado = TbTag.Text;
             SecuenciaTransaccion = DateTime.Now.ToString("yyyyMMddHHmmss") + oTransaccion.CarrilEntrada + 2;
 
             Presentacion = Pantalla.RetireTarjeta;

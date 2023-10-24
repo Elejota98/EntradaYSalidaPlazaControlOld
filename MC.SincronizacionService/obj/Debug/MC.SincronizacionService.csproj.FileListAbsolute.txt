@@ -216,5 +216,4 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.SincronizacionService\
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.SincronizacionService\bin\Debug\MC.Utilidades.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.pdb
-C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.csprojResolveAssemblyReference.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.csprojResolveAssemblyReference.cache

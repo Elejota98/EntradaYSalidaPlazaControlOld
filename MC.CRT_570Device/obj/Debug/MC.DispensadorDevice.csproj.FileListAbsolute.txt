@@ -115,7 +115,6 @@ C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.CRT_
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.dll
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.CRT_570Device\bin\Debug\EGlobalT.Device.Tools.dll
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.pdb
-C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.dll

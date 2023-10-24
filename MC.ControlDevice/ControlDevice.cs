@@ -32,7 +32,7 @@ namespace MC.ControlDevice
 
         private void _ComPort_DataReceived(object sender, SerialDataReceivedEventArgs e)
         {
-            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+           ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
             //Thread.Sleep(500);
             string indata = _ComPort.ReadExisting();
             string[] RESULT = indata.Split('\n', '\r');

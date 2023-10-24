@@ -544,7 +544,7 @@ namespace MC.DataService
                     for (int i = 0; i < _TransaccionTable.Rows.Count; i++)
                     {
 
-                        long code = Convert.ToInt32(_TransaccionTable.Rows[i][0].ToString());
+                        long code = Convert.ToInt64(_TransaccionTable.Rows[i][0].ToString());
                         oResultadoOperacion.oEstado = TipoRespuesta.Exito;
                         oResultadoOperacion.EntidadDatos = code;
                     }

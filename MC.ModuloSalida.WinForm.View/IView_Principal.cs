@@ -21,6 +21,7 @@ namespace MC.ModuloSalida.WinForm.View
         string General_Events { set; }
         string IdCard { get; set; }
         string IdCardAutorizado { get; set; }
+        string IdTransaccion { get; set; }
         bool CicloActivo { get; set; }
         List<DtoAutorizado> lstDtoAutorizado { get; set; }
         List<DtoTarjetas> lstDtoTarjetas { get; set; }
@@ -39,7 +40,6 @@ namespace MC.ModuloSalida.WinForm.View
         bool VehiculoTalanquera { get; set; }
         bool VehiculoSalioTalanquera { get; set; }
         string PlacaSalidaRegistrada { get; set; }
-        string IdTransaccion { get; set; }
         string FechaPagoSalida { get; set; }
 
         

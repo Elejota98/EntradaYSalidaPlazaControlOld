@@ -270,7 +270,6 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                 case Pantalla.SalvaPantallas:
 
                     TbTag.Focus();
-
                    CapturaPlaca();
 
                     if (_frmPrincipal_Presenter.ValidarPlacaSalida())
@@ -451,7 +450,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                             }
 
                         }
-                        else if (_IdCardAutorizado != string.Empty && _sPlaca == "------")
+                        else if (_IdCardAutorizado != string.Empty)
                         {
                              CntAuto = 0;
                             bool TarOK = false;
@@ -460,7 +459,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                             oAutorizado.PlacaAuto = _sPlaca;
                             oAutorizado.IdTarjeta = _IdCardAutorizado;
 
-                            if (_frmPrincipal_Presenter.ObtenerAutorizadoPlaca(oAutorizado))
+                            if (_frmPrincipal_Presenter.ObtenerAutorizado(oAutorizado))
                             {
                                 oAutorizado.IdTarjeta = _lstDtoAutorizado[0].IdTarjeta.Trim('\t');
                                 _IdCardAutorizado = oAutorizado.IdTarjeta;
@@ -603,7 +602,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
 
                     if (!InfoModulo)
                     {
-                        _frmPrincipal_Presenter.TestConexionSuspendidoDispositivos();
+                        //_frmPrincipal_Presenter.TestConexionSuspendidoDispositivos();
                     }
                     if (Ssuspe == 45)
                     {
@@ -1038,48 +1037,108 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                     break;
 
                 case Pantalla.GraciasVisita:
-                    if (_frmPrincipal_Presenter.VehiculoTalanquera())
+                    if (Convert.ToBoolean(Globales.sPLC) == true)
                     {
-                        bool sound = false;
-                        if (!sound)
+                        if (_frmPrincipal_Presenter.VehiculoTalanquera())
                         {
-                            SoundPlayer simpleSound = new SoundPlayer(_sPathVehiculoSaliendo);
-                            simpleSound.Play();
-                            sound = true;
+                            bool sound = false;
+                            if (!sound)
+                            {
+                                SoundPlayer simpleSound = new SoundPlayer(_sPathVehiculoSaliendo);
+                                simpleSound.Play();
+                                sound = true;
+                            }
+                            Presentacion = Pantalla.VehiculoSaliendo;
+                            _IdCardAutorizado = string.Empty;
+                            _IdTransaccion = string.Empty;
+                            TbTag.Text = "";
                         }
-                        Presentacion = Pantalla.VehiculoSaliendo;
-                        _IdCardAutorizado = string.Empty;
-                        _IdTransaccion = string.Empty;
+                    }
+                    else
+                    {
+                        _frmPrincipal_Presenter.EstadoControl();
+                        if (_VehiculoTalanquera)
+                        {
+                            bool sound = false;
+                            if (!sound)
+                            {
+                                SoundPlayer simpleSound = new SoundPlayer(_sPathVehiculoSaliendo);
+                                simpleSound.Play();
+                                sound = true;
+                            }
+                            Presentacion = Pantalla.VehiculoSaliendo;
+                            _IdCardAutorizado = string.Empty;
+                            _IdTransaccion = string.Empty;
+                            TbTag.Text = "";
+                        }
                     }
                     break;
                 case Pantalla.GraciasVisitaAuto:
-                    if (_frmPrincipal_Presenter.VehiculoTalanquera())
-                    {
-                        bool sound = false;
 
-                        if (!sound)
-                        {
-                            SoundPlayer simpleSound = new SoundPlayer(_sPathVehiculoSaliendo);
-                            simpleSound.Play();
-                            sound = true;
-                        }
-                        Presentacion = Pantalla.VehiculoSaliendo;
-                        _IdCardAutorizado = "";
-                        _IdTransaccion = "";
-                        TbTag.Text = "";
-                    }
-                    break;
-                case Pantalla.VehiculoSaliendo:
-                    if (_frmPrincipal_Presenter.VehiculoSalioTalanquera())
+                    if (Convert.ToBoolean(Globales.sPLC) == true)
                     {
-                        if (_frmPrincipal_Presenter.LimpiarValoresPLC())
+                        if (_frmPrincipal_Presenter.VehiculoTalanquera())
                         {
-                            Presentacion = Pantalla.SalvaPantallas;
+                            bool sound = false;
+
+                            if (!sound)
+                            {
+                                SoundPlayer simpleSound = new SoundPlayer(_sPathVehiculoSaliendo);
+                                simpleSound.Play();
+                                sound = true;
+                            }
+                            Presentacion = Pantalla.VehiculoSaliendo;
                             _IdCardAutorizado = "";
                             _IdTransaccion = "";
                             TbTag.Text = "";
                         }
                     }
+                    else
+                    {
+                        _frmPrincipal_Presenter.EstadoControl();
+                        if (_VehiculoTalanquera)
+                        {
+                            bool sound = false;
+                            if (!sound)
+                            {
+                                SoundPlayer simpleSound = new SoundPlayer(_sPathVehiculoSaliendo);
+                                simpleSound.Play();
+                                sound = true;
+                            }
+                            Presentacion = Pantalla.VehiculoSaliendo;
+                            _IdCardAutorizado = "";
+                            _IdTransaccion = "";
+                            TbTag.Text = "";
+                        }
+                    }
+                    break;
+                case Pantalla.VehiculoSaliendo:
+                    if (Convert.ToBoolean(Globales.sPLC) == true)
+                    {
+                        if (_frmPrincipal_Presenter.VehiculoSalioTalanquera())
+                        {
+                            if (_frmPrincipal_Presenter.LimpiarValoresPLC())
+                            {
+                                Presentacion = Pantalla.SalvaPantallas;
+                                _IdCardAutorizado = "";
+                                _IdTransaccion = "";
+                                TbTag.Text = "";
+                            }
+                        }
+                    }
+                    else
+                    {
+                        //_frmPrincipal_Presenter.EstadoControl();
+                        if (cnt_timeout == (int)TimeOut.TimeOut_Alertas)
+                        {
+                            Presentacion = Pantalla.SalvaPantallas;
+                            _IdCardAutorizado = "";
+                            _IdTransaccion = "";
+                            TbTag.Text = "";
+                            VehiculoTalanquera = false;
+                        }
+                    }
+                   
                     break;
 
                 case Pantalla.TarjetaInvalida:
@@ -1546,9 +1605,6 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
 
             Presentacion = Pantalla.GraciasVisita;
 
-            _frmPrincipal_Presenter.AbrirTalanquera();
-
-
             SoundPlayer simpleSound = new SoundPlayer(_sPathGraciasVisita);
             simpleSound.Play();
 
@@ -1564,8 +1620,15 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
 
             _frmPrincipal_Presenter.RegistrarSalida(oTransaccion);
 
-
-            _frmPrincipal_Presenter.CapturarTarjeta();
+            if (Convert.ToBoolean(Globales.sPLC) == true)
+            {
+                _frmPrincipal_Presenter.AbrirTalanquera();
+            }
+            else
+            {
+                _frmPrincipal_Presenter.AperturaBarrera();
+            }
+            //_frmPrincipal_Presenter.CapturarTarjeta();
 
         }
         private void RegistroSalidaAutorizado(int Conteo)
@@ -1613,8 +1676,8 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
             }
                        
 
-            Thread ohilo = new Thread(unused => _frmPrincipal_Presenter.CapturaFoto("1", SecuenciaTransaccion));
-            ohilo.Start();
+            //Thread ohilo = new Thread(unused => _frmPrincipal_Presenter.CapturaFoto("1", SecuenciaTransaccion));
+            //ohilo.Start();
 
             #region Tarjeta
 
@@ -2265,7 +2328,15 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
             {
                 if (TbTag.Text != string.Empty)
                 {
-                    _IdTransaccion = TbTag.Text.Trim();
+                    if (TbTag.Text.Length > 15)
+                    {
+                        _IdTransaccion = TbTag.Text.Trim();
+                    }
+                    else
+                    {
+                        _IdCardAutorizado = TbTag.Text.Trim();
+
+                    }
                 }
                 else
                 {
@@ -2273,6 +2344,5 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                 }
             }
         }
-
     }
 }

@@ -1,0 +1,1844 @@
+2023/10/24 08:20:11.461 - INICIO REGISTRO
+2023/10/24 08:20:11.470 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 08:20:11.648 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 08:20:12.959 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 08:20:13.000 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 08:20:13.031 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 08:20:13.068 - MENSAJE: 
+2023/10/24 08:20:13.147 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:20:13.331 - MENSAJE: 
+2023/10/24 08:20:13.335 - MENSAJE: 
+2023/10/24 08:20:13.340 - MENSAJE: 
+2023/10/24 08:20:13.477 - MENSAJE: 
+2023/10/24 08:20:13.477 - MENSAJE: 
+2023/10/24 08:20:13.488 - MENSAJE: 
+2023/10/24 08:20:14.511 - MENSAJE: 
+2023/10/24 08:20:14.511 - MENSAJE: 
+2023/10/24 08:20:14.522 - MENSAJE: 
+2023/10/24 08:20:15.469 - MENSAJE: 
+2023/10/24 08:20:15.469 - MENSAJE: 
+2023/10/24 08:20:15.479 - MENSAJE: 
+2023/10/24 08:20:16.483 - MENSAJE: 
+2023/10/24 08:20:16.483 - MENSAJE: 
+2023/10/24 08:20:16.493 - MENSAJE: 
+2023/10/24 08:20:17.487 - MENSAJE: 
+2023/10/24 08:20:17.488 - MENSAJE: 
+2023/10/24 08:20:17.498 - MENSAJE: 
+2023/10/24 08:20:18.475 - MENSAJE: 
+2023/10/24 08:20:18.475 - MENSAJE: 
+2023/10/24 08:20:18.486 - MENSAJE: 
+2023/10/24 08:20:19.742 - MENSAJE: 
+2023/10/24 08:20:19.742 - MENSAJE: 
+2023/10/24 08:20:19.753 - MENSAJE: 
+2023/10/24 08:20:21.458 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 08:20:27.525 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:20:28.482 - MENSAJE: 
+2023/10/24 08:20:28.482 - MENSAJE: 
+2023/10/24 08:20:28.493 - MENSAJE: 
+2023/10/24 08:20:29.484 - MENSAJE: 
+2023/10/24 08:20:29.484 - MENSAJE: 
+2023/10/24 08:20:29.494 - MENSAJE: 
+2023/10/24 08:20:30.487 - MENSAJE: 
+2023/10/24 08:20:30.487 - MENSAJE: 
+2023/10/24 08:20:30.498 - MENSAJE: 
+2023/10/24 08:20:31.498 - MENSAJE: 
+2023/10/24 08:20:31.498 - MENSAJE: 
+2023/10/24 08:20:31.509 - MENSAJE: 
+2023/10/24 08:20:32.478 - MENSAJE: 
+2023/10/24 08:20:32.478 - MENSAJE: 
+2023/10/24 08:20:32.489 - MENSAJE: 
+2023/10/24 08:20:33.474 - MENSAJE: 
+2023/10/24 08:20:33.474 - MENSAJE: 
+2023/10/24 08:20:33.485 - MENSAJE: 
+2023/10/24 08:20:34.485 - MENSAJE: 
+2023/10/24 08:20:34.485 - MENSAJE: 
+2023/10/24 08:20:34.496 - MENSAJE: 
+2023/10/24 08:20:35.468 - MENSAJE: 
+2023/10/24 08:20:35.468 - MENSAJE: 
+2023/10/24 08:20:35.479 - MENSAJE: 
+2023/10/24 08:20:37.459 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 08:20:43.496 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:20:44.488 - MENSAJE: 
+2023/10/24 08:20:44.490 - MENSAJE: 
+2023/10/24 08:20:44.499 - MENSAJE: 
+2023/10/24 08:20:45.474 - MENSAJE: 
+2023/10/24 08:20:45.474 - MENSAJE: 
+2023/10/24 08:20:45.484 - MENSAJE: 
+2023/10/24 08:20:46.494 - MENSAJE: 
+2023/10/24 08:20:46.495 - MENSAJE: 
+2023/10/24 08:20:46.505 - MENSAJE: 
+2023/10/24 08:20:47.471 - MENSAJE: 
+2023/10/24 08:20:47.471 - MENSAJE: 
+2023/10/24 08:20:47.486 - MENSAJE: 
+2023/10/24 08:20:48.473 - MENSAJE: 
+2023/10/24 08:20:48.473 - MENSAJE: 
+2023/10/24 08:20:48.483 - MENSAJE: 
+2023/10/24 08:20:49.484 - MENSAJE: 
+2023/10/24 08:20:49.484 - MENSAJE: 
+2023/10/24 08:20:49.495 - MENSAJE: 
+2023/10/24 08:20:51.060 - MENSAJE: 
+2023/10/24 08:20:51.060 - MENSAJE: 
+2023/10/24 08:20:51.071 - MENSAJE: 
+2023/10/24 08:20:51.520 - MENSAJE: 
+2023/10/24 08:20:51.520 - MENSAJE: 
+2023/10/24 08:20:51.531 - MENSAJE: 
+2023/10/24 08:20:52.857 - MENSAJE: 
+2023/10/24 08:20:52.858 - MENSAJE: 
+2023/10/24 08:20:52.868 - MENSAJE: 
+2023/10/24 08:20:53.472 - MENSAJE: 
+2023/10/24 08:20:53.472 - MENSAJE: 
+2023/10/24 08:20:53.482 - MENSAJE: 
+2023/10/24 08:20:54.476 - MENSAJE: 
+2023/10/24 08:20:54.476 - MENSAJE: 
+2023/10/24 08:20:54.487 - MENSAJE: 
+2023/10/24 08:20:55.486 - MENSAJE: 
+2023/10/24 08:20:55.487 - MENSAJE: 
+2023/10/24 08:20:55.497 - MENSAJE: 
+2023/10/24 08:20:56.473 - MENSAJE: 
+2023/10/24 08:20:56.473 - MENSAJE: 
+2023/10/24 08:20:56.484 - MENSAJE: 
+2023/10/24 08:20:57.471 - MENSAJE: 
+2023/10/24 08:20:57.471 - MENSAJE: 
+2023/10/24 08:20:57.482 - MENSAJE: 
+2023/10/24 08:20:58.489 - MENSAJE: 
+2023/10/24 08:20:58.490 - MENSAJE: 
+2023/10/24 08:20:58.500 - MENSAJE: 
+2023/10/24 08:20:59.511 - MENSAJE: 
+2023/10/24 08:20:59.511 - MENSAJE: 
+2023/10/24 08:20:59.522 - MENSAJE: 
+2023/10/24 08:21:00.469 - MENSAJE: 
+2023/10/24 08:21:00.469 - MENSAJE: 
+2023/10/24 08:21:00.480 - MENSAJE: 
+2023/10/24 08:21:01.482 - MENSAJE: 
+2023/10/24 08:21:01.482 - MENSAJE: 
+2023/10/24 08:21:01.493 - MENSAJE: 
+2023/10/24 08:21:02.502 - MENSAJE: 
+2023/10/24 08:21:02.502 - MENSAJE: 
+2023/10/24 08:21:02.512 - MENSAJE: 
+2023/10/24 08:21:03.470 - MENSAJE: 
+2023/10/24 08:21:03.470 - MENSAJE: 
+2023/10/24 08:21:03.481 - MENSAJE: 
+2023/10/24 08:21:04.487 - MENSAJE: 
+2023/10/24 08:21:04.487 - MENSAJE: 
+2023/10/24 08:21:04.499 - MENSAJE: 
+2023/10/24 08:21:05.500 - MENSAJE: 
+2023/10/24 08:21:05.501 - MENSAJE: 
+2023/10/24 08:21:05.512 - MENSAJE: 
+2023/10/24 08:21:06.466 - MENSAJE: 
+2023/10/24 08:21:06.466 - MENSAJE: 
+2023/10/24 08:21:06.476 - MENSAJE: 
+2023/10/24 08:21:07.465 - MENSAJE: 
+2023/10/24 08:21:07.465 - MENSAJE: 
+2023/10/24 08:21:07.476 - MENSAJE: 
+2023/10/24 08:21:08.476 - MENSAJE: 
+2023/10/24 08:21:08.476 - MENSAJE: 
+2023/10/24 08:21:08.487 - MENSAJE: 
+2023/10/24 08:21:09.491 - MENSAJE: 
+2023/10/24 08:21:09.491 - MENSAJE: 
+2023/10/24 08:21:09.501 - MENSAJE: 
+2023/10/24 08:21:10.594 - MENSAJE: 
+2023/10/24 08:21:10.594 - MENSAJE: 
+2023/10/24 08:21:10.605 - MENSAJE: 
+2023/10/24 08:21:11.471 - MENSAJE: 
+2023/10/24 08:21:11.471 - MENSAJE: 
+2023/10/24 08:21:11.481 - MENSAJE: 
+2023/10/24 08:21:12.502 - MENSAJE: 
+2023/10/24 08:21:12.502 - MENSAJE: 
+2023/10/24 08:21:12.513 - MENSAJE: 
+2023/10/24 08:21:13.470 - MENSAJE: 
+2023/10/24 08:21:13.470 - MENSAJE: 
+2023/10/24 08:21:13.482 - MENSAJE: 
+2023/10/24 08:21:14.466 - MENSAJE: 
+2023/10/24 08:21:14.466 - MENSAJE: 
+2023/10/24 08:21:14.477 - MENSAJE: 
+2023/10/24 08:21:15.475 - MENSAJE: 
+2023/10/24 08:21:15.476 - MENSAJE: 
+2023/10/24 08:21:15.487 - MENSAJE: 
+2023/10/24 08:21:16.501 - MENSAJE: 
+2023/10/24 08:21:16.501 - MENSAJE: 
+2023/10/24 08:21:16.511 - MENSAJE: 
+2023/10/24 08:21:17.473 - MENSAJE: 
+2023/10/24 08:21:17.473 - MENSAJE: 
+2023/10/24 08:21:17.484 - MENSAJE: 
+2023/10/24 08:21:18.481 - MENSAJE: 
+2023/10/24 08:21:18.481 - MENSAJE: 
+2023/10/24 08:21:18.492 - MENSAJE: 
+2023/10/24 08:21:19.491 - MENSAJE: 
+2023/10/24 08:21:19.491 - MENSAJE: 
+2023/10/24 08:21:19.502 - MENSAJE: 
+2023/10/24 08:21:20.564 - MENSAJE: 
+2023/10/24 08:21:20.564 - MENSAJE: 
+2023/10/24 08:21:20.575 - MENSAJE: 
+2023/10/24 08:21:21.476 - MENSAJE: 
+2023/10/24 08:21:21.476 - MENSAJE: 
+2023/10/24 08:21:21.487 - MENSAJE: 
+2023/10/24 08:21:22.490 - MENSAJE: 
+2023/10/24 08:21:22.490 - MENSAJE: 
+2023/10/24 08:21:22.501 - MENSAJE: 
+2023/10/24 08:21:23.466 - MENSAJE: 
+2023/10/24 08:21:23.466 - MENSAJE: 
+2023/10/24 08:21:23.477 - MENSAJE: 
+2023/10/24 08:21:24.466 - MENSAJE: 
+2023/10/24 08:21:24.466 - MENSAJE: 
+2023/10/24 08:21:24.477 - MENSAJE: 
+2023/10/24 08:21:25.643 - MENSAJE: 
+2023/10/24 08:21:25.643 - MENSAJE: 
+2023/10/24 08:21:25.654 - MENSAJE: 
+2023/10/24 08:21:27.462 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 08:25:46.251 - INICIO REGISTRO
+2023/10/24 08:25:46.258 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 08:25:46.431 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 08:25:47.112 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 08:25:47.139 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 08:25:47.159 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 08:25:47.186 - MENSAJE: 
+2023/10/24 08:25:47.263 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:25:47.468 - MENSAJE: 
+2023/10/24 08:25:47.473 - MENSAJE: 
+2023/10/24 08:25:47.475 - MENSAJE: 
+2023/10/24 08:25:48.265 - MENSAJE: 
+2023/10/24 08:25:48.269 - MENSAJE: 
+2023/10/24 08:25:48.278 - MENSAJE: 
+2023/10/24 08:25:49.278 - MENSAJE: 
+2023/10/24 08:25:49.278 - MENSAJE: 
+2023/10/24 08:25:49.289 - MENSAJE: 
+2023/10/24 08:25:50.446 - MENSAJE: 
+2023/10/24 08:25:50.446 - MENSAJE: 
+2023/10/24 08:25:50.456 - MENSAJE: 
+2023/10/24 08:25:52.253 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 08:25:55.541 - MENSAJE: 24/10/2023 8:25:23 a. m.
+2023/10/24 08:25:55.542 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 08:25:55.569 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 08:25:55.569 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 08:25:55.570 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 08:25:55.570 - MENSAJE: HORAS :
+2023/10/24 08:25:55.571 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 08:25:55.739 - MENSAJE: 
+2023/10/24 08:25:55.783 - MENSAJE: 
+2023/10/24 08:25:55.824 - MENSAJE: Error Conexion PLC
+2023/10/24 08:25:56.381 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:25:56.382 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:25:57.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:25:57.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:25:58.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:25:58.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:25:59.253 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:25:59.254 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:00.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:00.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:01.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:01.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:02.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:02.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:03.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:03.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:04.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:04.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:05.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:05.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:06.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:06.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:07.256 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:07.257 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:08.256 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:08.257 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:09.256 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:09.257 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:10.256 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:10.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:11.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:11.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:12.256 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:12.257 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:13.256 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:13.257 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:14.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:14.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:15.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:15.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:16.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:16.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:17.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:17.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:18.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:18.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:19.256 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:19.257 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:20.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:20.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:21.259 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:21.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:22.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:22.254 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:23.259 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:23.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:24.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:24.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:25.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:25.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:26.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:26.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:27.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:27.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:28.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:28.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:29.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:29.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:30.259 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:30.260 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:31.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:31.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:32.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:32.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:33.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:33.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:34.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:34.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:35.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:35.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:36.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:36.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:37.259 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:37.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:38.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:38.254 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:39.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:39.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:40.261 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:40.262 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:41.261 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:41.262 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:42.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:42.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:43.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:43.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:44.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:44.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:45.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:45.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:46.259 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:46.260 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:47.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:47.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:48.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:48.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:49.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:49.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:50.259 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:50.260 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:51.259 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:51.260 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:52.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:52.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:53.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:53.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:54.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:54.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:55.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:55.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:56.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:56.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:57.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:57.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:58.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:58.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:26:59.256 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:26:59.257 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:00.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:00.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:01.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:01.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:02.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:02.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:03.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:03.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:04.253 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:04.254 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:05.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:05.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:06.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:06.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:07.253 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:07.254 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:08.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:08.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:09.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:09.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:10.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:10.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:11.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:11.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:12.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:12.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:13.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:13.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:14.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:14.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:15.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:15.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:16.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:16.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:17.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:17.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:18.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:18.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:19.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:19.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:20.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:20.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:21.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:21.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:22.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:22.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:23.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:23.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:24.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:24.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:25.256 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:25.257 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:26.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:26.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:27.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:27.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:28.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:28.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:29.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:29.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:30.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:30.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:31.259 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:31.260 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:32.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:32.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:33.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:33.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:34.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:34.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:35.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:35.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:36.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:36.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:37.256 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:37.257 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:38.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:38.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:39.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:39.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:40.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:40.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:41.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:41.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:42.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:42.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:43.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:43.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:44.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:44.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:45.261 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:45.262 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:46.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:46.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:47.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:47.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:48.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:48.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:49.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:49.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:50.265 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:50.266 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:51.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:51.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:52.253 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:52.254 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:53.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:53.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:54.253 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:54.254 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:55.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:55.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:56.253 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:56.254 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:57.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:57.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:58.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:58.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:27:59.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:27:59.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:00.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:00.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:01.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:01.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:02.261 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:02.262 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:03.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:03.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:04.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:04.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:05.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:05.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:06.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:06.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:07.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:07.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:08.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:08.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:09.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:09.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:10.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:10.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:11.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:11.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:12.259 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:12.260 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:13.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:13.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:14.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:14.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:15.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:15.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:16.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:16.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:17.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:17.262 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:18.259 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:18.260 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:19.253 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:19.254 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:20.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:20.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:21.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:21.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:22.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:22.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:23.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:23.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:24.261 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:24.262 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:25.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:25.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:26.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:26.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:27.261 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:27.262 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:28.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:28.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:29.256 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:29.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:30.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:30.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:31.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:31.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:32.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:32.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:33.261 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:33.262 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:34.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:34.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:35.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:35.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:36.261 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:36.262 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:37.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:37.255 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:38.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:38.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:39.259 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:39.260 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:40.253 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:40.254 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:41.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:41.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:42.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:42.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:43.263 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:43.264 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:44.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:44.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:45.257 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:45.258 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:46.259 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:46.260 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:47.261 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:47.262 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:48.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:48.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:49.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:49.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:50.262 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:50.263 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:51.260 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:51.261 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:52.258 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:52.259 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:53.264 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:53.265 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:54.261 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:54.262 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:55.255 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:55.256 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:56.254 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:56.254 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:28:57.256 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:28:57.257 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:29:11.767 - MENSAJE: Error_Conexion_Receptor
+2023/10/24 08:29:11.767 - MENSAJE: COM_PORT Puerto COM ocupado o no disponible...
+2023/10/24 08:29:42.013 - INICIO REGISTRO
+2023/10/24 08:29:42.021 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 08:29:42.206 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 08:29:42.867 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 08:29:42.898 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 08:29:42.920 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 08:29:42.950 - MENSAJE: 
+2023/10/24 08:29:43.028 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:29:45.186 - MENSAJE: 
+2023/10/24 08:29:45.188 - MENSAJE: 
+2023/10/24 08:29:45.190 - MENSAJE: 
+2023/10/24 08:29:47.327 - MENSAJE: 
+2023/10/24 08:29:47.328 - MENSAJE: 
+2023/10/24 08:29:47.340 - MENSAJE: 
+2023/10/24 08:29:47.447 - MENSAJE: 
+2023/10/24 08:29:47.447 - MENSAJE: 
+2023/10/24 08:29:47.458 - MENSAJE: 
+2023/10/24 08:29:48.053 - MENSAJE: 
+2023/10/24 08:29:48.053 - MENSAJE: 
+2023/10/24 08:29:48.064 - MENSAJE: 
+2023/10/24 08:29:49.035 - MENSAJE: 
+2023/10/24 08:29:49.035 - MENSAJE: 
+2023/10/24 08:29:49.047 - MENSAJE: 
+2023/10/24 08:29:50.033 - MENSAJE: 
+2023/10/24 08:29:50.034 - MENSAJE: 
+2023/10/24 08:29:50.045 - MENSAJE: 
+2023/10/24 08:29:51.048 - MENSAJE: 
+2023/10/24 08:29:51.049 - MENSAJE: 
+2023/10/24 08:29:51.059 - MENSAJE: 
+2023/10/24 08:29:53.024 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 08:29:53.056 - MENSAJE: 24/10/2023 8:25:23 a. m.
+2023/10/24 08:29:53.056 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 08:29:53.074 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 08:29:53.075 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 08:29:53.075 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 08:29:53.076 - MENSAJE: HORAS :
+2023/10/24 08:29:53.076 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 08:34:11.358 - MENSAJE: 
+2023/10/24 08:34:30.150 - MENSAJE: 
+2023/10/24 08:35:09.297 - INICIO REGISTRO
+2023/10/24 08:35:09.305 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 08:35:09.489 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 08:35:11.927 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 08:35:11.965 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 08:35:11.997 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 08:35:12.052 - MENSAJE: 
+2023/10/24 08:35:12.131 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:35:12.315 - MENSAJE: 
+2023/10/24 08:35:12.318 - MENSAJE: 
+2023/10/24 08:35:12.322 - MENSAJE: 
+2023/10/24 08:35:12.382 - MENSAJE: 
+2023/10/24 08:35:12.382 - MENSAJE: 
+2023/10/24 08:35:12.393 - MENSAJE: 
+2023/10/24 08:35:13.342 - MENSAJE: 
+2023/10/24 08:35:13.342 - MENSAJE: 
+2023/10/24 08:35:13.353 - MENSAJE: 
+2023/10/24 08:35:14.320 - MENSAJE: 
+2023/10/24 08:35:14.320 - MENSAJE: 
+2023/10/24 08:35:14.328 - MENSAJE: 
+2023/10/24 08:35:15.317 - MENSAJE: 
+2023/10/24 08:35:15.317 - MENSAJE: 
+2023/10/24 08:35:15.328 - MENSAJE: 
+2023/10/24 08:35:16.335 - MENSAJE: 
+2023/10/24 08:35:16.335 - MENSAJE: 
+2023/10/24 08:35:16.346 - MENSAJE: 
+2023/10/24 08:35:18.302 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 08:35:18.345 - MENSAJE: 24/10/2023 8:25:23 a. m.
+2023/10/24 08:35:18.346 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 08:35:18.380 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 08:35:18.381 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 08:35:18.381 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 08:35:18.382 - MENSAJE: HORAS :
+2023/10/24 08:35:18.382 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 08:35:35.429 - MENSAJE: 
+2023/10/24 08:35:35.468 - MENSAJE: 
+2023/10/24 08:35:35.514 - MENSAJE: Error Conexion PLC
+2023/10/24 08:36:02.680 - INICIO REGISTRO
+2023/10/24 08:36:02.688 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 08:36:02.863 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 08:36:03.530 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 08:36:03.556 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 08:36:03.590 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 08:36:03.616 - MENSAJE: 
+2023/10/24 08:36:03.694 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:36:03.899 - MENSAJE: 
+2023/10/24 08:36:03.899 - MENSAJE: 
+2023/10/24 08:36:03.903 - MENSAJE: 
+2023/10/24 08:36:04.693 - MENSAJE: 
+2023/10/24 08:36:04.696 - MENSAJE: 
+2023/10/24 08:36:04.704 - MENSAJE: 
+2023/10/24 08:36:05.699 - MENSAJE: 
+2023/10/24 08:36:05.699 - MENSAJE: 
+2023/10/24 08:36:05.709 - MENSAJE: 
+2023/10/24 08:36:06.714 - MENSAJE: 
+2023/10/24 08:36:06.714 - MENSAJE: 
+2023/10/24 08:36:06.725 - MENSAJE: 
+2023/10/24 08:36:08.680 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 08:36:08.721 - MENSAJE: 24/10/2023 8:25:23 a. m.
+2023/10/24 08:36:08.721 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 08:36:08.740 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 08:36:08.740 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 08:36:08.741 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 08:36:08.741 - MENSAJE: HORAS :
+2023/10/24 08:36:08.742 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 08:36:20.025 - MENSAJE: 
+2023/10/24 08:36:20.068 - MENSAJE: 
+2023/10/24 08:36:34.361 - MENSAJE: Error Conexion PLC
+2023/10/24 08:41:07.885 - INICIO REGISTRO
+2023/10/24 08:41:07.894 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 08:41:08.069 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 08:41:08.756 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 08:41:08.782 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 08:41:08.801 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 08:41:08.826 - MENSAJE: 
+2023/10/24 08:41:08.906 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:41:09.069 - MENSAJE: 
+2023/10/24 08:41:09.075 - MENSAJE: 
+2023/10/24 08:41:09.078 - MENSAJE: 
+2023/10/24 08:41:09.909 - MENSAJE: 
+2023/10/24 08:41:09.913 - MENSAJE: 
+2023/10/24 08:41:09.920 - MENSAJE: 
+2023/10/24 08:41:10.908 - MENSAJE: 
+2023/10/24 08:41:10.908 - MENSAJE: 
+2023/10/24 08:41:10.918 - MENSAJE: 
+2023/10/24 08:41:11.927 - MENSAJE: 
+2023/10/24 08:41:11.928 - MENSAJE: 
+2023/10/24 08:41:11.938 - MENSAJE: 
+2023/10/24 08:41:12.910 - MENSAJE: 
+2023/10/24 08:41:12.910 - MENSAJE: 
+2023/10/24 08:41:12.922 - MENSAJE: 
+2023/10/24 08:41:13.909 - MENSAJE: 
+2023/10/24 08:41:13.909 - MENSAJE: 
+2023/10/24 08:41:13.920 - MENSAJE: 
+2023/10/24 08:41:14.915 - MENSAJE: 
+2023/10/24 08:41:14.915 - MENSAJE: 
+2023/10/24 08:41:14.926 - MENSAJE: 
+2023/10/24 08:41:15.928 - MENSAJE: 
+2023/10/24 08:41:15.928 - MENSAJE: 
+2023/10/24 08:41:15.939 - MENSAJE: 
+2023/10/24 08:41:16.909 - MENSAJE: 
+2023/10/24 08:41:16.909 - MENSAJE: 
+2023/10/24 08:41:16.919 - MENSAJE: 
+2023/10/24 08:41:17.912 - MENSAJE: 
+2023/10/24 08:41:17.912 - MENSAJE: 
+2023/10/24 08:41:17.923 - MENSAJE: 
+2023/10/24 08:41:18.927 - MENSAJE: 
+2023/10/24 08:41:18.927 - MENSAJE: 
+2023/10/24 08:41:18.938 - MENSAJE: 
+2023/10/24 08:41:19.930 - MENSAJE: 
+2023/10/24 08:41:19.931 - MENSAJE: 
+2023/10/24 08:41:19.941 - MENSAJE: 
+2023/10/24 08:41:20.908 - MENSAJE: 
+2023/10/24 08:41:20.908 - MENSAJE: 
+2023/10/24 08:41:20.919 - MENSAJE: 
+2023/10/24 08:41:21.921 - MENSAJE: 
+2023/10/24 08:41:21.921 - MENSAJE: 
+2023/10/24 08:41:21.932 - MENSAJE: 
+2023/10/24 08:41:23.898 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 08:41:23.936 - MENSAJE: 24/10/2023 8:25:23 a. m.
+2023/10/24 08:41:23.937 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 08:41:23.959 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 08:41:23.959 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 08:41:23.960 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 08:41:23.960 - MENSAJE: HORAS :
+2023/10/24 08:41:23.961 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 08:41:26.971 - MENSAJE: 
+2023/10/24 08:41:27.020 - MENSAJE: 
+2023/10/24 08:41:27.061 - MENSAJE: Error Conexion PLC
+2023/10/24 08:41:37.540 - INICIO REGISTRO
+2023/10/24 08:41:37.551 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 08:41:37.756 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 08:41:38.403 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 08:41:38.428 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 08:41:38.448 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 08:41:38.473 - MENSAJE: 
+2023/10/24 08:41:38.546 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:41:38.704 - MENSAJE: 
+2023/10/24 08:41:39.596 - MENSAJE: 
+2023/10/24 08:41:40.568 - MENSAJE: 
+2023/10/24 08:41:42.557 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 08:41:42.593 - MENSAJE: 24/10/2023 8:25:23 a. m.
+2023/10/24 08:41:42.593 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 08:41:42.616 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 08:41:42.617 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 08:41:42.618 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 08:41:42.618 - MENSAJE: HORAS :
+2023/10/24 08:41:42.619 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 08:41:42.837 - MENSAJE: 
+2023/10/24 08:41:43.635 - MENSAJE: Error Conexion PLC
+2023/10/24 08:41:51.903 - INICIO REGISTRO
+2023/10/24 08:41:51.911 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 08:41:52.084 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 08:41:52.798 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 08:41:52.824 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 08:41:52.844 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 08:41:52.869 - MENSAJE: 
+2023/10/24 08:41:52.947 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:41:53.111 - MENSAJE: 
+2023/10/24 08:41:53.947 - MENSAJE: 
+2023/10/24 08:41:54.932 - MENSAJE: 
+2023/10/24 08:41:56.917 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 08:41:56.949 - MENSAJE: 24/10/2023 8:25:23 a. m.
+2023/10/24 08:41:56.950 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 08:41:56.967 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 08:41:56.968 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 08:41:56.969 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 08:41:56.969 - MENSAJE: HORAS :
+2023/10/24 08:41:56.969 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 08:42:07.264 - MENSAJE: 
+2023/10/24 08:43:37.581 - INICIO REGISTRO
+2023/10/24 08:43:37.589 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 08:43:37.763 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 08:43:38.447 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 08:43:38.472 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 08:43:38.490 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 08:43:38.514 - MENSAJE: 
+2023/10/24 08:43:38.592 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:43:38.804 - MENSAJE: 
+2023/10/24 08:43:38.809 - MENSAJE: 
+2023/10/24 08:43:38.812 - MENSAJE: 
+2023/10/24 08:43:39.599 - MENSAJE: 
+2023/10/24 08:43:39.599 - MENSAJE: 
+2023/10/24 08:43:39.609 - MENSAJE: 
+2023/10/24 08:43:40.599 - MENSAJE: 
+2023/10/24 08:43:40.600 - MENSAJE: 
+2023/10/24 08:43:40.610 - MENSAJE: 
+2023/10/24 08:43:42.589 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 08:43:42.623 - MENSAJE: 24/10/2023 8:25:23 a. m.
+2023/10/24 08:43:42.624 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 08:43:42.644 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 08:43:42.645 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 08:43:42.645 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 08:43:42.646 - MENSAJE: HORAS :
+2023/10/24 08:43:42.646 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 08:43:44.467 - MENSAJE: 
+2023/10/24 08:43:44.501 - MENSAJE: 
+2023/10/24 08:43:51.907 - MENSAJE: 
+2023/10/24 08:44:05.778 - MENSAJE: 
+2023/10/24 08:44:05.782 - MENSAJE: 
+2023/10/24 08:44:06.585 - MENSAJE: 
+2023/10/24 08:44:07.589 - MENSAJE: 
+2023/10/24 08:44:08.583 - MENSAJE: 
+2023/10/24 08:44:09.585 - MENSAJE: 
+2023/10/24 08:44:10.026 - MENSAJE: 
+2023/10/24 08:44:10.034 - MENSAJE: 
+2023/10/24 08:44:10.589 - MENSAJE: 
+2023/10/24 08:44:10.592 - MENSAJE: 
+2023/10/24 08:44:10.600 - MENSAJE: 
+2023/10/24 08:44:11.592 - MENSAJE: 
+2023/10/24 08:44:11.594 - MENSAJE: 
+2023/10/24 08:44:11.601 - MENSAJE: 
+2023/10/24 08:44:12.583 - MENSAJE: 
+2023/10/24 08:44:12.583 - MENSAJE: 
+2023/10/24 08:44:12.594 - MENSAJE: 
+2023/10/24 08:44:13.581 - MENSAJE: 
+2023/10/24 08:44:13.582 - MENSAJE: 
+2023/10/24 08:44:13.592 - MENSAJE: 
+2023/10/24 08:44:19.617 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:44:20.608 - MENSAJE: 
+2023/10/24 08:44:20.608 - MENSAJE: 
+2023/10/24 08:44:20.619 - MENSAJE: 
+2023/10/24 08:44:21.622 - MENSAJE: 
+2023/10/24 08:44:21.622 - MENSAJE: 
+2023/10/24 08:44:21.633 - MENSAJE: 
+2023/10/24 08:44:22.606 - MENSAJE: 
+2023/10/24 08:44:22.606 - MENSAJE: 
+2023/10/24 08:44:22.617 - MENSAJE: 
+2023/10/24 08:44:23.600 - MENSAJE: 
+2023/10/24 08:44:23.600 - MENSAJE: 
+2023/10/24 08:44:23.611 - MENSAJE: 
+2023/10/24 08:44:24.627 - MENSAJE: 
+2023/10/24 08:44:24.627 - MENSAJE: 
+2023/10/24 08:44:24.638 - MENSAJE: 
+2023/10/24 08:44:25.683 - MENSAJE: 
+2023/10/24 08:44:25.683 - MENSAJE: 
+2023/10/24 08:44:25.694 - MENSAJE: 
+2023/10/24 08:44:26.595 - MENSAJE: 
+2023/10/24 08:44:26.595 - MENSAJE: 
+2023/10/24 08:44:26.606 - MENSAJE: 
+2023/10/24 08:44:27.604 - MENSAJE: 
+2023/10/24 08:44:27.604 - MENSAJE: 
+2023/10/24 08:44:27.615 - MENSAJE: 
+2023/10/24 08:44:28.615 - MENSAJE: 
+2023/10/24 08:44:28.615 - MENSAJE: 
+2023/10/24 08:44:28.629 - MENSAJE: 
+2023/10/24 08:44:29.645 - MENSAJE: 
+2023/10/24 08:44:29.649 - MENSAJE: 
+2023/10/24 08:44:29.656 - MENSAJE: 
+2023/10/24 08:44:30.604 - MENSAJE: 
+2023/10/24 08:44:30.604 - MENSAJE: 
+2023/10/24 08:44:30.614 - MENSAJE: 
+2023/10/24 08:44:31.607 - MENSAJE: 
+2023/10/24 08:44:31.607 - MENSAJE: 
+2023/10/24 08:44:31.617 - MENSAJE: 
+2023/10/24 08:44:32.626 - MENSAJE: 
+2023/10/24 08:44:32.626 - MENSAJE: 
+2023/10/24 08:44:32.637 - MENSAJE: 
+2023/10/24 08:44:33.603 - MENSAJE: 
+2023/10/24 08:44:33.604 - MENSAJE: 
+2023/10/24 08:44:33.615 - MENSAJE: 
+2023/10/24 08:44:34.604 - MENSAJE: 
+2023/10/24 08:44:34.605 - MENSAJE: 
+2023/10/24 08:44:34.615 - MENSAJE: 
+2023/10/24 08:44:35.619 - MENSAJE: 
+2023/10/24 08:44:35.620 - MENSAJE: 
+2023/10/24 08:44:35.630 - MENSAJE: 
+2023/10/24 08:44:36.630 - MENSAJE: 
+2023/10/24 08:44:36.630 - MENSAJE: 
+2023/10/24 08:44:36.642 - MENSAJE: 
+2023/10/24 08:44:37.603 - MENSAJE: 
+2023/10/24 08:44:37.603 - MENSAJE: 
+2023/10/24 08:44:37.614 - MENSAJE: 
+2023/10/24 08:44:38.604 - MENSAJE: 
+2023/10/24 08:44:38.604 - MENSAJE: 
+2023/10/24 08:44:38.615 - MENSAJE: 
+2023/10/24 08:44:39.620 - MENSAJE: 
+2023/10/24 08:44:39.620 - MENSAJE: 
+2023/10/24 08:44:39.630 - MENSAJE: 
+2023/10/24 08:44:41.583 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 08:44:41.601 - MENSAJE: 24/10/2023 8:25:23 a. m.
+2023/10/24 08:44:41.602 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 08:44:41.615 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 08:44:41.616 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 08:44:41.617 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 08:44:41.617 - MENSAJE: HORAS :
+2023/10/24 08:44:41.618 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 08:44:41.695 - MENSAJE: 
+2023/10/24 08:44:41.695 - MENSAJE: 
+2023/10/24 08:44:42.590 - MENSAJE: 
+2023/10/24 08:44:48.621 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:44:49.604 - MENSAJE: 
+2023/10/24 08:44:50.602 - MENSAJE: 
+2023/10/24 08:44:51.613 - MENSAJE: 
+2023/10/24 08:44:52.594 - MENSAJE: 
+2023/10/24 08:44:53.602 - MENSAJE: 
+2023/10/24 08:44:54.604 - MENSAJE: 
+2023/10/24 08:44:55.614 - MENSAJE: 
+2023/10/24 08:44:56.594 - MENSAJE: 
+2023/10/24 08:44:58.587 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 08:44:58.604 - MENSAJE: 24/10/2023 8:25:23 a. m.
+2023/10/24 08:44:58.606 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 08:44:58.618 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 08:44:58.619 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 08:44:58.620 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 08:44:58.620 - MENSAJE: HORAS :
+2023/10/24 08:44:58.621 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 08:44:58.702 - MENSAJE: 
+2023/10/24 08:44:59.586 - MENSAJE: 
+2023/10/24 08:45:00.587 - MENSAJE: 
+2023/10/24 08:45:01.590 - MENSAJE: 
+2023/10/24 08:45:02.582 - MENSAJE: 
+2023/10/24 08:45:03.582 - MENSAJE: 
+2023/10/24 08:45:04.585 - MENSAJE: 
+2023/10/24 08:45:05.590 - MENSAJE: 
+2023/10/24 08:45:06.580 - MENSAJE: 
+2023/10/24 08:45:07.256 - MENSAJE: 
+2023/10/24 08:45:07.263 - MENSAJE: 
+2023/10/24 08:45:07.586 - MENSAJE: 
+2023/10/24 08:45:07.586 - MENSAJE: 
+2023/10/24 08:45:07.597 - MENSAJE: 
+2023/10/24 08:45:08.590 - MENSAJE: 
+2023/10/24 08:45:08.590 - MENSAJE: 
+2023/10/24 08:45:08.601 - MENSAJE: 
+2023/10/24 08:45:09.580 - MENSAJE: 
+2023/10/24 08:45:09.580 - MENSAJE: 
+2023/10/24 08:45:09.591 - MENSAJE: 
+2023/10/24 08:45:10.583 - MENSAJE: 
+2023/10/24 08:45:10.583 - MENSAJE: 
+2023/10/24 08:45:10.594 - MENSAJE: 
+2023/10/24 08:45:16.624 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:45:17.599 - MENSAJE: 
+2023/10/24 08:45:17.599 - MENSAJE: 
+2023/10/24 08:45:17.609 - MENSAJE: 
+2023/10/24 08:45:18.602 - MENSAJE: 
+2023/10/24 08:45:18.602 - MENSAJE: 
+2023/10/24 08:45:18.612 - MENSAJE: 
+2023/10/24 08:45:19.604 - MENSAJE: 
+2023/10/24 08:45:19.604 - MENSAJE: 
+2023/10/24 08:45:19.615 - MENSAJE: 
+2023/10/24 08:45:20.616 - MENSAJE: 
+2023/10/24 08:45:20.617 - MENSAJE: 
+2023/10/24 08:45:20.632 - MENSAJE: 
+2023/10/24 08:45:21.601 - MENSAJE: 
+2023/10/24 08:45:21.601 - MENSAJE: 
+2023/10/24 08:45:21.611 - MENSAJE: 
+2023/10/24 08:45:22.607 - MENSAJE: 
+2023/10/24 08:45:22.608 - MENSAJE: 
+2023/10/24 08:45:22.619 - MENSAJE: 
+2023/10/24 08:45:23.616 - MENSAJE: 
+2023/10/24 08:45:23.616 - MENSAJE: 
+2023/10/24 08:45:23.627 - MENSAJE: 
+2023/10/24 08:45:24.622 - MENSAJE: 
+2023/10/24 08:45:24.622 - MENSAJE: 
+2023/10/24 08:45:24.632 - MENSAJE: 
+2023/10/24 08:45:25.640 - MENSAJE: 
+2023/10/24 08:45:25.640 - MENSAJE: 
+2023/10/24 08:45:25.650 - MENSAJE: 
+2023/10/24 08:45:26.598 - MENSAJE: 
+2023/10/24 08:45:26.598 - MENSAJE: 
+2023/10/24 08:45:26.609 - MENSAJE: 
+2023/10/24 08:45:27.608 - MENSAJE: 
+2023/10/24 08:45:27.608 - MENSAJE: 
+2023/10/24 08:45:27.618 - MENSAJE: 
+2023/10/24 08:45:28.621 - MENSAJE: 
+2023/10/24 08:45:28.621 - MENSAJE: 
+2023/10/24 08:45:28.632 - MENSAJE: 
+2023/10/24 08:45:29.595 - MENSAJE: 
+2023/10/24 08:45:29.595 - MENSAJE: 
+2023/10/24 08:45:29.607 - MENSAJE: 
+2023/10/24 08:45:30.602 - MENSAJE: 
+2023/10/24 08:45:30.603 - MENSAJE: 
+2023/10/24 08:45:30.613 - MENSAJE: 
+2023/10/24 08:45:32.590 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 08:45:32.607 - MENSAJE: 24/10/2023 8:25:23 a. m.
+2023/10/24 08:45:32.608 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 08:45:32.620 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 08:45:32.621 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 08:45:32.621 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 08:45:32.622 - MENSAJE: HORAS :
+2023/10/24 08:45:32.623 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 08:45:38.614 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:45:39.609 - MENSAJE: 
+2023/10/24 08:45:39.610 - MENSAJE: 
+2023/10/24 08:45:39.620 - MENSAJE: 
+2023/10/24 08:45:40.624 - MENSAJE: 
+2023/10/24 08:45:40.624 - MENSAJE: 
+2023/10/24 08:45:40.635 - MENSAJE: 
+2023/10/24 08:45:41.597 - MENSAJE: 
+2023/10/24 08:45:41.597 - MENSAJE: 
+2023/10/24 08:45:41.608 - MENSAJE: 
+2023/10/24 08:45:42.600 - MENSAJE: 
+2023/10/24 08:45:42.600 - MENSAJE: 
+2023/10/24 08:45:42.611 - MENSAJE: 
+2023/10/24 08:45:43.611 - MENSAJE: 
+2023/10/24 08:45:43.612 - MENSAJE: 
+2023/10/24 08:45:43.621 - MENSAJE: 
+2023/10/24 08:45:44.625 - MENSAJE: 
+2023/10/24 08:45:44.625 - MENSAJE: 
+2023/10/24 08:45:44.636 - MENSAJE: 
+2023/10/24 08:45:45.599 - MENSAJE: 
+2023/10/24 08:45:45.599 - MENSAJE: 
+2023/10/24 08:45:45.610 - MENSAJE: 
+2023/10/24 08:45:46.603 - MENSAJE: 
+2023/10/24 08:45:46.604 - MENSAJE: 
+2023/10/24 08:45:46.614 - MENSAJE: 
+2023/10/24 08:45:47.613 - MENSAJE: 
+2023/10/24 08:45:47.613 - MENSAJE: 
+2023/10/24 08:45:47.624 - MENSAJE: 
+2023/10/24 08:45:48.598 - MENSAJE: 
+2023/10/24 08:45:48.598 - MENSAJE: 
+2023/10/24 08:45:48.609 - MENSAJE: 
+2023/10/24 08:45:49.600 - MENSAJE: 
+2023/10/24 08:45:49.600 - MENSAJE: 
+2023/10/24 08:45:49.611 - MENSAJE: 
+2023/10/24 08:45:50.621 - MENSAJE: 
+2023/10/24 08:45:50.621 - MENSAJE: 
+2023/10/24 08:45:50.631 - MENSAJE: 
+2023/10/24 08:45:51.619 - MENSAJE: 
+2023/10/24 08:45:51.618 - MENSAJE: 
+2023/10/24 08:45:51.629 - MENSAJE: 
+2023/10/24 08:45:52.595 - MENSAJE: 
+2023/10/24 08:45:52.595 - MENSAJE: 
+2023/10/24 08:45:52.605 - MENSAJE: 
+2023/10/24 08:45:53.603 - MENSAJE: 
+2023/10/24 08:45:53.603 - MENSAJE: 
+2023/10/24 08:45:53.614 - MENSAJE: 
+2023/10/24 08:45:54.610 - MENSAJE: 
+2023/10/24 08:45:54.611 - MENSAJE: 
+2023/10/24 08:45:54.621 - MENSAJE: 
+2023/10/24 08:45:55.622 - MENSAJE: 
+2023/10/24 08:45:55.623 - MENSAJE: 
+2023/10/24 08:45:55.633 - MENSAJE: 
+2023/10/24 08:45:56.599 - MENSAJE: 
+2023/10/24 08:45:56.599 - MENSAJE: 
+2023/10/24 08:45:56.610 - MENSAJE: 
+2023/10/24 08:45:57.602 - MENSAJE: 
+2023/10/24 08:45:57.602 - MENSAJE: 
+2023/10/24 08:45:57.612 - MENSAJE: 
+2023/10/24 08:54:19.928 - INICIO REGISTRO
+2023/10/24 08:54:19.937 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 08:54:20.118 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 08:54:20.795 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 08:54:20.821 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 08:54:20.842 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 08:54:20.868 - MENSAJE: 
+2023/10/24 08:54:20.946 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:54:21.104 - MENSAJE: 
+2023/10/24 08:54:21.105 - MENSAJE: 
+2023/10/24 08:54:21.131 - MENSAJE: 
+2023/10/24 08:54:21.934 - MENSAJE: 
+2023/10/24 08:54:21.938 - MENSAJE: 
+2023/10/24 08:54:21.947 - MENSAJE: 
+2023/10/24 08:54:22.949 - MENSAJE: 
+2023/10/24 08:54:22.949 - MENSAJE: 
+2023/10/24 08:54:22.959 - MENSAJE: 
+2023/10/24 08:54:23.963 - MENSAJE: 
+2023/10/24 08:54:23.963 - MENSAJE: 
+2023/10/24 08:54:23.974 - MENSAJE: 
+2023/10/24 08:54:24.939 - MENSAJE: 
+2023/10/24 08:54:24.939 - MENSAJE: 
+2023/10/24 08:54:24.949 - MENSAJE: 
+2023/10/24 08:54:25.941 - MENSAJE: 
+2023/10/24 08:54:25.942 - MENSAJE: 
+2023/10/24 08:54:25.953 - MENSAJE: 
+2023/10/24 08:54:26.956 - MENSAJE: 
+2023/10/24 08:54:26.957 - MENSAJE: 
+2023/10/24 08:54:26.967 - MENSAJE: 
+2023/10/24 08:54:27.969 - MENSAJE: 
+2023/10/24 08:54:27.969 - MENSAJE: 
+2023/10/24 08:54:27.980 - MENSAJE: 
+2023/10/24 08:54:28.940 - MENSAJE: 
+2023/10/24 08:54:28.940 - MENSAJE: 
+2023/10/24 08:54:28.950 - MENSAJE: 
+2023/10/24 08:54:29.953 - MENSAJE: 
+2023/10/24 08:54:29.953 - MENSAJE: 
+2023/10/24 08:54:29.964 - MENSAJE: 
+2023/10/24 08:54:30.967 - MENSAJE: 
+2023/10/24 08:54:30.967 - MENSAJE: 
+2023/10/24 08:54:30.977 - MENSAJE: 
+2023/10/24 08:55:33.693 - INICIO REGISTRO
+2023/10/24 08:55:33.701 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 08:55:33.883 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 08:55:34.543 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 08:55:34.568 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 08:55:34.589 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 08:55:34.616 - MENSAJE: 
+2023/10/24 08:55:34.692 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:55:34.868 - MENSAJE: 
+2023/10/24 08:55:34.870 - MENSAJE: 
+2023/10/24 08:55:34.871 - MENSAJE: 
+2023/10/24 08:55:35.716 - MENSAJE: 
+2023/10/24 08:55:35.717 - MENSAJE: 
+2023/10/24 08:55:35.729 - MENSAJE: 
+2023/10/24 08:55:36.711 - MENSAJE: 
+2023/10/24 08:55:36.711 - MENSAJE: 
+2023/10/24 08:55:36.722 - MENSAJE: 
+2023/10/24 08:55:37.729 - MENSAJE: 
+2023/10/24 08:55:37.731 - MENSAJE: 
+2023/10/24 08:55:37.739 - MENSAJE: 
+2023/10/24 08:55:38.706 - MENSAJE: 
+2023/10/24 08:55:38.707 - MENSAJE: 
+2023/10/24 08:55:38.716 - MENSAJE: 
+2023/10/24 08:55:39.714 - MENSAJE: 
+2023/10/24 08:55:39.715 - MENSAJE: 
+2023/10/24 08:55:39.724 - MENSAJE: 
+2023/10/24 08:55:40.709 - MENSAJE: 
+2023/10/24 08:55:40.709 - MENSAJE: 
+2023/10/24 08:55:40.720 - MENSAJE: 
+2023/10/24 08:55:41.734 - MENSAJE: 
+2023/10/24 08:55:41.735 - MENSAJE: 
+2023/10/24 08:55:41.744 - MENSAJE: 
+2023/10/24 08:55:42.746 - MENSAJE: 
+2023/10/24 08:55:42.747 - MENSAJE: 
+2023/10/24 08:55:42.757 - MENSAJE: 
+2023/10/24 08:55:43.709 - MENSAJE: 
+2023/10/24 08:55:43.710 - MENSAJE: 
+2023/10/24 08:55:43.720 - MENSAJE: 
+2023/10/24 08:55:44.712 - MENSAJE: 
+2023/10/24 08:55:44.712 - MENSAJE: 
+2023/10/24 08:55:44.722 - MENSAJE: 
+2023/10/24 08:55:45.727 - MENSAJE: 
+2023/10/24 08:55:45.727 - MENSAJE: 
+2023/10/24 08:55:45.738 - MENSAJE: 
+2023/10/24 08:55:46.740 - MENSAJE: 
+2023/10/24 08:55:46.744 - MENSAJE: 
+2023/10/24 08:55:46.751 - MENSAJE: 
+2023/10/24 08:55:47.708 - MENSAJE: 
+2023/10/24 08:55:47.709 - MENSAJE: 
+2023/10/24 08:55:47.719 - MENSAJE: 
+2023/10/24 08:55:48.718 - MENSAJE: 
+2023/10/24 08:55:48.718 - MENSAJE: 
+2023/10/24 08:55:48.728 - MENSAJE: 
+2023/10/24 08:55:49.729 - MENSAJE: 
+2023/10/24 08:55:49.729 - MENSAJE: 
+2023/10/24 08:55:49.739 - MENSAJE: 
+2023/10/24 08:55:50.712 - MENSAJE: 
+2023/10/24 08:55:50.713 - MENSAJE: 
+2023/10/24 08:55:50.723 - MENSAJE: 
+2023/10/24 08:55:51.711 - MENSAJE: 
+2023/10/24 08:55:51.712 - MENSAJE: 
+2023/10/24 08:55:51.722 - MENSAJE: 
+2023/10/24 08:55:53.695 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:55:53.776 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:55:54.697 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:55:54.733 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:55:55.697 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:55:55.729 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:55:56.697 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:55:56.735 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:55:57.699 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:55:57.733 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:55:58.696 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:55:58.728 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:55:59.699 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:55:59.738 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:56:00.698 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:56:00.733 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:56:01.699 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:56:01.738 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:56:02.698 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:56:02.737 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:56:03.691 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:56:03.730 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:56:04.699 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:56:04.738 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:56:05.691 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:56:05.733 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:56:06.690 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:56:06.728 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:56:07.697 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:56:07.737 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:56:08.695 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:56:08.733 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:56:09.696 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:56:09.731 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:56:10.697 - MENSAJE: Front End Secuencia IdTranasaccion: 2FA000
+2023/10/24 08:56:10.719 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ServiceProxy.ProxyService.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ServiceProxy\Salida\ProxyService_Salida.cs:línea 834
+   en MC.ModuloSalida.WinForm.Model.Model.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Model\Salida\Model_Salida.cs:línea 200
+   en MC.ModuloSalida.WinForm.Presenter.frmPrincipal_Presenter.ObtenerDatosPagosSalida(String idTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.Presenter\frmPrincipal_Presenter.cs:línea 259
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1738
+2023/10/24 08:56:34.425 - INICIO REGISTRO
+2023/10/24 08:56:34.433 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 08:56:34.611 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 08:56:35.316 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 08:56:35.340 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 08:56:35.360 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 08:56:35.386 - MENSAJE: 
+2023/10/24 08:56:35.463 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:56:35.633 - MENSAJE: 
+2023/10/24 08:56:35.634 - MENSAJE: 
+2023/10/24 08:56:35.635 - MENSAJE: 
+2023/10/24 08:56:36.456 - MENSAJE: 
+2023/10/24 08:56:36.461 - MENSAJE: 
+2023/10/24 08:56:36.469 - MENSAJE: 
+2023/10/24 08:56:37.470 - MENSAJE: 
+2023/10/24 08:56:37.470 - MENSAJE: 
+2023/10/24 08:56:37.483 - MENSAJE: 
+2023/10/24 08:59:29.876 - INICIO REGISTRO
+2023/10/24 08:59:29.883 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 08:59:30.059 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 08:59:30.745 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 08:59:30.774 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 08:59:30.794 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 08:59:30.825 - MENSAJE: 
+2023/10/24 08:59:30.903 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 08:59:31.120 - MENSAJE: 
+2023/10/24 08:59:31.125 - MENSAJE: 
+2023/10/24 08:59:31.128 - MENSAJE: 
+2023/10/24 08:59:31.890 - MENSAJE: 
+2023/10/24 08:59:31.899 - MENSAJE: 
+2023/10/24 08:59:31.901 - MENSAJE: 
+2023/10/24 08:59:32.908 - MENSAJE: 
+2023/10/24 08:59:32.908 - MENSAJE: 
+2023/10/24 08:59:32.919 - MENSAJE: 
+2023/10/24 08:59:33.923 - MENSAJE: 
+2023/10/24 08:59:33.923 - MENSAJE: 
+2023/10/24 08:59:33.934 - MENSAJE: 
+2023/10/24 08:59:54.694 - MENSAJE: 
+2023/10/24 08:59:54.696 - MENSAJE: 
+2023/10/24 08:59:54.700 - MENSAJE: 
+2023/10/24 09:01:01.627 - INICIO REGISTRO
+2023/10/24 09:01:01.635 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 09:01:01.824 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 09:01:02.518 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 09:01:02.544 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 09:01:02.564 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 09:01:02.589 - MENSAJE: 
+2023/10/24 09:01:02.668 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 09:01:02.874 - MENSAJE: 
+2023/10/24 09:01:02.874 - MENSAJE: 
+2023/10/24 09:01:02.877 - MENSAJE: 
+2023/10/24 09:01:03.656 - MENSAJE: 
+2023/10/24 09:01:03.662 - MENSAJE: 
+2023/10/24 09:01:03.667 - MENSAJE: 
+2023/10/24 09:01:04.682 - MENSAJE: 
+2023/10/24 09:01:04.682 - MENSAJE: 
+2023/10/24 09:01:04.693 - MENSAJE: 
+2023/10/24 09:01:05.639 - MENSAJE: 
+2023/10/24 09:01:05.639 - MENSAJE: 
+2023/10/24 09:01:05.650 - MENSAJE: 
+2023/10/24 09:01:20.219 - MENSAJE: 
+2023/10/24 09:01:20.224 - MENSAJE: 
+2023/10/24 09:01:20.537 - MENSAJE: 
+2023/10/24 09:01:29.530 - MENSAJE: ID TARJETA = 2FA000
+2023/10/24 09:01:38.217 - MENSAJE: TARJETA ESTADO TRUE
+2023/10/24 09:01:43.159 - MENSAJE: Obtener Datos Autorizado ok
+2023/10/24 09:01:44.335 - MENSAJE: Comparacion IDTARJETA OK
+2023/10/24 09:01:45.327 - MENSAJE: Comparacion IDESTACIONAMIENTO OK
+2023/10/24 09:01:46.215 - MENSAJE: Validacion Fechas Vigencia ok
+2023/10/24 09:01:56.464 - MENSAJE: Secuencia 00010101000000311
+2023/10/24 09:02:06.153 - MENSAJE: 
+2023/10/24 09:02:07.657 - MENSAJE: 
+2023/10/24 09:02:35.384 - MENSAJE: RegistrarSalida 
+2023/10/24 09:02:35.528 - MENSAJE: 
+2023/10/24 09:02:35.536 - MENSAJE: 
+2023/10/24 09:02:35.539 - MENSAJE: 
+2023/10/24 09:02:35.632 - MENSAJE: 
+2023/10/24 09:02:35.632 - MENSAJE: 
+2023/10/24 09:02:35.642 - MENSAJE: 
+2023/10/24 09:02:36.636 - MENSAJE: 
+2023/10/24 09:02:36.637 - MENSAJE: 
+2023/10/24 09:02:36.648 - MENSAJE: 
+2023/10/24 09:02:37.631 - MENSAJE: 
+2023/10/24 09:02:37.633 - MENSAJE: 
+2023/10/24 09:02:37.641 - MENSAJE: 
+2023/10/24 09:02:38.635 - MENSAJE: 
+2023/10/24 09:02:38.635 - MENSAJE: 
+2023/10/24 09:02:38.646 - MENSAJE: 
+2023/10/24 09:02:39.629 - MENSAJE: 
+2023/10/24 09:02:39.629 - MENSAJE: 
+2023/10/24 09:02:39.639 - MENSAJE: 
+2023/10/24 09:02:40.635 - MENSAJE: 
+2023/10/24 09:02:40.635 - MENSAJE: 
+2023/10/24 09:02:40.646 - MENSAJE: 
+2023/10/24 09:02:41.637 - MENSAJE: 
+2023/10/24 09:02:41.637 - MENSAJE: 
+2023/10/24 09:02:41.648 - MENSAJE: 
+2023/10/24 09:02:42.630 - MENSAJE: 
+2023/10/24 09:02:42.630 - MENSAJE: 
+2023/10/24 09:02:42.641 - MENSAJE: 
+2023/10/24 09:02:43.636 - MENSAJE: 
+2023/10/24 09:02:43.636 - MENSAJE: 
+2023/10/24 09:02:43.647 - MENSAJE: 
+2023/10/24 09:02:44.630 - MENSAJE: 
+2023/10/24 09:02:44.630 - MENSAJE: 
+2023/10/24 09:02:44.641 - MENSAJE: 
+2023/10/24 09:02:45.636 - MENSAJE: 
+2023/10/24 09:02:45.636 - MENSAJE: 
+2023/10/24 09:02:45.646 - MENSAJE: 
+2023/10/24 09:02:46.627 - MENSAJE: 
+2023/10/24 09:02:46.628 - MENSAJE: 
+2023/10/24 09:02:46.638 - MENSAJE: 
+2023/10/24 09:02:52.670 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 09:02:53.644 - MENSAJE: 
+2023/10/24 09:02:53.645 - MENSAJE: 
+2023/10/24 09:02:53.655 - MENSAJE: 
+2023/10/24 09:02:54.654 - MENSAJE: 
+2023/10/24 09:02:54.654 - MENSAJE: 
+2023/10/24 09:02:54.665 - MENSAJE: 
+2023/10/24 09:02:55.671 - MENSAJE: 
+2023/10/24 09:02:55.671 - MENSAJE: 
+2023/10/24 09:02:55.681 - MENSAJE: 
+2023/10/24 09:02:56.641 - MENSAJE: 
+2023/10/24 09:02:56.641 - MENSAJE: 
+2023/10/24 09:02:56.652 - MENSAJE: 
+2023/10/24 09:02:57.650 - MENSAJE: 
+2023/10/24 09:02:57.650 - MENSAJE: 
+2023/10/24 09:02:57.661 - MENSAJE: 
+2023/10/24 09:02:58.672 - MENSAJE: 
+2023/10/24 09:02:58.673 - MENSAJE: 
+2023/10/24 09:02:58.683 - MENSAJE: 
+2023/10/24 09:02:59.669 - MENSAJE: 
+2023/10/24 09:02:59.669 - MENSAJE: 
+2023/10/24 09:02:59.680 - MENSAJE: 
+2023/10/24 09:03:00.645 - MENSAJE: 
+2023/10/24 09:03:00.645 - MENSAJE: 
+2023/10/24 09:03:00.656 - MENSAJE: 
+2023/10/24 09:03:01.648 - MENSAJE: 
+2023/10/24 09:03:01.648 - MENSAJE: 
+2023/10/24 09:03:01.659 - MENSAJE: 
+2023/10/24 09:03:02.662 - MENSAJE: 
+2023/10/24 09:03:02.662 - MENSAJE: 
+2023/10/24 09:03:02.673 - MENSAJE: 
+2023/10/24 09:03:03.672 - MENSAJE: 
+2023/10/24 09:03:03.672 - MENSAJE: 
+2023/10/24 09:03:03.683 - MENSAJE: 
+2023/10/24 09:03:04.647 - MENSAJE: 
+2023/10/24 09:03:04.647 - MENSAJE: 
+2023/10/24 09:03:04.658 - MENSAJE: 
+2023/10/24 09:03:05.651 - MENSAJE: 
+2023/10/24 09:03:05.651 - MENSAJE: 
+2023/10/24 09:03:05.662 - MENSAJE: 
+2023/10/24 09:03:06.655 - MENSAJE: 
+2023/10/24 09:03:06.655 - MENSAJE: 
+2023/10/24 09:03:06.666 - MENSAJE: 
+2023/10/24 09:03:07.669 - MENSAJE: 
+2023/10/24 09:03:07.669 - MENSAJE: 
+2023/10/24 09:03:07.680 - MENSAJE: 
+2023/10/24 09:03:08.643 - MENSAJE: 
+2023/10/24 09:03:08.644 - MENSAJE: 
+2023/10/24 09:03:08.655 - MENSAJE: 
+2023/10/24 09:03:09.645 - MENSAJE: 
+2023/10/24 09:03:09.645 - MENSAJE: 
+2023/10/24 09:03:09.656 - MENSAJE: 
+2023/10/24 09:03:10.661 - MENSAJE: 
+2023/10/24 09:03:10.662 - MENSAJE: 
+2023/10/24 09:03:10.672 - MENSAJE: 
+2023/10/24 09:03:11.640 - MENSAJE: 
+2023/10/24 09:03:11.640 - MENSAJE: 
+2023/10/24 09:03:11.651 - MENSAJE: 
+2023/10/24 09:03:12.642 - MENSAJE: 
+2023/10/24 09:03:12.642 - MENSAJE: 
+2023/10/24 09:03:12.653 - MENSAJE: 
+2023/10/24 09:03:13.645 - MENSAJE: 
+2023/10/24 09:03:13.646 - MENSAJE: 
+2023/10/24 09:03:13.656 - MENSAJE: 
+2023/10/24 09:03:14.659 - MENSAJE: 
+2023/10/24 09:03:14.659 - MENSAJE: 
+2023/10/24 09:03:14.670 - MENSAJE: 
+2023/10/24 09:03:15.687 - MENSAJE: 
+2023/10/24 09:03:15.687 - MENSAJE: 
+2023/10/24 09:03:15.698 - MENSAJE: 
+2023/10/24 09:03:16.699 - MENSAJE: 
+2023/10/24 09:03:16.699 - MENSAJE: 
+2023/10/24 09:03:16.710 - MENSAJE: 
+2023/10/24 09:03:17.648 - MENSAJE: 
+2023/10/24 09:03:17.648 - MENSAJE: 
+2023/10/24 09:03:17.659 - MENSAJE: 
+2023/10/24 09:03:18.672 - MENSAJE: 
+2023/10/24 09:03:18.672 - MENSAJE: 
+2023/10/24 09:03:18.682 - MENSAJE: 
+2023/10/24 09:03:19.672 - MENSAJE: 
+2023/10/24 09:03:19.672 - MENSAJE: 
+2023/10/24 09:03:19.683 - MENSAJE: 
+2023/10/24 09:03:20.647 - MENSAJE: 
+2023/10/24 09:03:20.647 - MENSAJE: 
+2023/10/24 09:03:20.657 - MENSAJE: 
+2023/10/24 09:03:21.650 - MENSAJE: 
+2023/10/24 09:03:21.650 - MENSAJE: 
+2023/10/24 09:03:21.661 - MENSAJE: 
+2023/10/24 09:03:22.662 - MENSAJE: 
+2023/10/24 09:03:22.663 - MENSAJE: 
+2023/10/24 09:03:22.673 - MENSAJE: 
+2023/10/24 09:03:23.685 - MENSAJE: 
+2023/10/24 09:03:23.685 - MENSAJE: 
+2023/10/24 09:03:23.695 - MENSAJE: 
+2023/10/24 09:03:24.646 - MENSAJE: 
+2023/10/24 09:03:24.646 - MENSAJE: 
+2023/10/24 09:03:24.658 - MENSAJE: 
+2023/10/24 09:03:25.651 - MENSAJE: 
+2023/10/24 09:03:25.652 - MENSAJE: 
+2023/10/24 09:03:25.663 - MENSAJE: 
+2023/10/24 09:03:26.655 - MENSAJE: 
+2023/10/24 09:03:26.656 - MENSAJE: 
+2023/10/24 09:03:26.667 - MENSAJE: 
+2023/10/24 09:03:27.674 - MENSAJE: 
+2023/10/24 09:03:27.675 - MENSAJE: 
+2023/10/24 09:03:27.685 - MENSAJE: 
+2023/10/24 09:03:28.642 - MENSAJE: 
+2023/10/24 09:03:28.642 - MENSAJE: 
+2023/10/24 09:03:28.653 - MENSAJE: 
+2023/10/24 09:03:29.651 - MENSAJE: 
+2023/10/24 09:03:29.651 - MENSAJE: 
+2023/10/24 09:03:29.661 - MENSAJE: 
+2023/10/24 09:03:30.665 - MENSAJE: 
+2023/10/24 09:03:30.665 - MENSAJE: 
+2023/10/24 09:03:30.676 - MENSAJE: 
+2023/10/24 09:03:31.641 - MENSAJE: 
+2023/10/24 09:03:31.641 - MENSAJE: 
+2023/10/24 09:03:31.652 - MENSAJE: 
+2023/10/24 09:03:32.648 - MENSAJE: 
+2023/10/24 09:03:32.648 - MENSAJE: 
+2023/10/24 09:03:32.659 - MENSAJE: 
+2023/10/24 09:05:14.780 - INICIO REGISTRO
+2023/10/24 09:05:14.791 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/10/24 09:05:14.994 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/10/24 09:05:15.674 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/10/24 09:05:15.700 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/10/24 09:05:15.723 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/10/24 09:05:15.748 - MENSAJE: 
+2023/10/24 09:05:15.828 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 09:05:15.987 - MENSAJE: 
+2023/10/24 09:05:15.992 - MENSAJE: 
+2023/10/24 09:05:15.995 - MENSAJE: 
+2023/10/24 09:05:16.822 - MENSAJE: 
+2023/10/24 09:05:16.826 - MENSAJE: 
+2023/10/24 09:05:16.834 - MENSAJE: 
+2023/10/24 09:05:21.236 - MENSAJE: 
+2023/10/24 09:05:21.242 - MENSAJE: 
+2023/10/24 09:05:21.252 - MENSAJE: 
+2023/10/24 09:05:22.790 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102409042811
+2023/10/24 09:05:22.828 - MENSAJE: 24/10/2023 9:04:58 a. m.
+2023/10/24 09:05:22.829 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 09:05:22.850 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 09:05:22.850 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 09:05:22.851 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 09:05:22.851 - MENSAJE: HORAS :
+2023/10/24 09:05:22.852 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 09:05:22.895 - MENSAJE: 
+2023/10/24 09:05:22.896 - MENSAJE: 
+2023/10/24 09:05:23.794 - MENSAJE: 
+2023/10/24 09:05:24.792 - MENSAJE: 
+2023/10/24 09:05:25.787 - MENSAJE: 
+2023/10/24 09:05:26.789 - MENSAJE: 
+2023/10/24 09:05:27.793 - MENSAJE: 
+2023/10/24 09:05:28.791 - MENSAJE: 
+2023/10/24 09:05:29.790 - MENSAJE: 
+2023/10/24 09:05:30.791 - MENSAJE: 
+2023/10/24 09:05:31.789 - MENSAJE: 
+2023/10/24 09:05:32.791 - MENSAJE: 
+2023/10/24 09:05:33.789 - MENSAJE: 
+2023/10/24 09:05:34.029 - MENSAJE: 
+2023/10/24 09:05:34.040 - MENSAJE: 
+2023/10/24 09:05:34.787 - MENSAJE: 
+2023/10/24 09:05:34.788 - MENSAJE: 
+2023/10/24 09:05:34.803 - MENSAJE: 
+2023/10/24 09:05:40.854 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 09:05:41.798 - MENSAJE: 
+2023/10/24 09:05:41.798 - MENSAJE: 
+2023/10/24 09:05:41.809 - MENSAJE: 
+2023/10/24 09:05:42.810 - MENSAJE: 
+2023/10/24 09:05:42.810 - MENSAJE: 
+2023/10/24 09:05:42.821 - MENSAJE: 
+2023/10/24 09:05:43.829 - MENSAJE: 
+2023/10/24 09:05:43.831 - MENSAJE: 
+2023/10/24 09:05:43.841 - MENSAJE: 
+2023/10/24 09:05:44.801 - MENSAJE: 
+2023/10/24 09:05:44.802 - MENSAJE: 
+2023/10/24 09:05:44.813 - MENSAJE: 
+2023/10/24 09:05:45.823 - MENSAJE: 
+2023/10/24 09:05:45.823 - MENSAJE: 
+2023/10/24 09:05:45.834 - MENSAJE: 
+2023/10/24 09:05:46.817 - MENSAJE: 
+2023/10/24 09:05:46.817 - MENSAJE: 
+2023/10/24 09:05:46.828 - MENSAJE: 
+2023/10/24 09:05:47.828 - MENSAJE: 
+2023/10/24 09:05:47.828 - MENSAJE: 
+2023/10/24 09:05:47.839 - MENSAJE: 
+2023/10/24 09:05:48.801 - MENSAJE: 
+2023/10/24 09:05:48.801 - MENSAJE: 
+2023/10/24 09:05:48.812 - MENSAJE: 
+2023/10/24 09:05:49.862 - MENSAJE: 
+2023/10/24 09:05:49.862 - MENSAJE: 
+2023/10/24 09:05:49.873 - MENSAJE: 
+2023/10/24 09:05:50.819 - MENSAJE: 
+2023/10/24 09:05:50.819 - MENSAJE: 
+2023/10/24 09:05:50.831 - MENSAJE: 
+2023/10/24 09:05:50.855 - MENSAJE: ID TARJETA = 2FA000
+2023/10/24 09:05:50.874 - MENSAJE: TARJETA ESTADO TRUE
+2023/10/24 09:05:50.881 - MENSAJE: Obtener Datos Autorizado ok
+2023/10/24 09:05:50.882 - MENSAJE: Comparacion IDTARJETA OK
+2023/10/24 09:05:50.883 - MENSAJE: Comparacion IDESTACIONAMIENTO OK
+2023/10/24 09:05:50.884 - MENSAJE: Validacion Fechas Vigencia ok
+2023/10/24 09:05:56.824 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 09:05:57.798 - MENSAJE: 
+2023/10/24 09:05:57.799 - MENSAJE: 
+2023/10/24 09:05:57.809 - MENSAJE: 
+2023/10/24 09:05:58.806 - MENSAJE: 
+2023/10/24 09:05:58.806 - MENSAJE: 
+2023/10/24 09:05:58.817 - MENSAJE: 
+2023/10/24 09:05:59.810 - MENSAJE: 
+2023/10/24 09:05:59.810 - MENSAJE: 
+2023/10/24 09:05:59.820 - MENSAJE: 
+2023/10/24 09:06:00.824 - MENSAJE: 
+2023/10/24 09:06:00.824 - MENSAJE: 
+2023/10/24 09:06:00.835 - MENSAJE: 
+2023/10/24 09:06:01.804 - MENSAJE: 
+2023/10/24 09:06:01.804 - MENSAJE: 
+2023/10/24 09:06:01.815 - MENSAJE: 
+2023/10/24 09:06:02.855 - MENSAJE: 
+2023/10/24 09:06:02.855 - MENSAJE: 
+2023/10/24 09:06:02.865 - MENSAJE: 
+2023/10/24 09:06:03.817 - MENSAJE: 
+2023/10/24 09:06:03.817 - MENSAJE: 
+2023/10/24 09:06:03.827 - MENSAJE: 
+2023/10/24 09:06:05.787 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102409042811
+2023/10/24 09:06:05.806 - MENSAJE: 24/10/2023 9:04:58 a. m.
+2023/10/24 09:06:05.807 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 09:06:05.818 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 09:06:05.819 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 09:06:05.820 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 09:06:05.821 - MENSAJE: HORAS :
+2023/10/24 09:06:05.822 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 09:06:05.833 - MENSAJE: 
+2023/10/24 09:06:05.833 - MENSAJE: 
+2023/10/24 09:06:06.791 - MENSAJE: 
+2023/10/24 09:06:12.826 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 09:06:13.800 - MENSAJE: 
+2023/10/24 09:06:14.802 - MENSAJE: 
+2023/10/24 09:06:14.943 - MENSAJE: 
+2023/10/24 09:06:14.954 - MENSAJE: 
+2023/10/24 09:06:15.815 - MENSAJE: 
+2023/10/24 09:06:15.815 - MENSAJE: 
+2023/10/24 09:06:15.831 - MENSAJE: 
+2023/10/24 09:06:16.832 - MENSAJE: 
+2023/10/24 09:06:16.832 - MENSAJE: 
+2023/10/24 09:06:16.843 - MENSAJE: 
+2023/10/24 09:06:17.797 - MENSAJE: 
+2023/10/24 09:06:17.797 - MENSAJE: 
+2023/10/24 09:06:17.808 - MENSAJE: 
+2023/10/24 09:06:18.806 - MENSAJE: 
+2023/10/24 09:06:18.806 - MENSAJE: 
+2023/10/24 09:06:18.817 - MENSAJE: 
+2023/10/24 09:06:19.817 - MENSAJE: 
+2023/10/24 09:06:19.818 - MENSAJE: 
+2023/10/24 09:06:19.828 - MENSAJE: 
+2023/10/24 09:06:20.850 - MENSAJE: 
+2023/10/24 09:06:20.850 - MENSAJE: 
+2023/10/24 09:06:20.861 - MENSAJE: 
+2023/10/24 09:06:21.804 - MENSAJE: 
+2023/10/24 09:06:21.805 - MENSAJE: 
+2023/10/24 09:06:21.816 - MENSAJE: 
+2023/10/24 09:06:22.819 - MENSAJE: 
+2023/10/24 09:06:22.819 - MENSAJE: 
+2023/10/24 09:06:22.830 - MENSAJE: 
+2023/10/24 09:06:23.820 - MENSAJE: 
+2023/10/24 09:06:23.820 - MENSAJE: 
+2023/10/24 09:06:23.831 - MENSAJE: 
+2023/10/24 09:06:24.797 - MENSAJE: 
+2023/10/24 09:06:24.797 - MENSAJE: 
+2023/10/24 09:06:24.808 - MENSAJE: 
+2023/10/24 09:06:25.802 - MENSAJE: 
+2023/10/24 09:06:25.803 - MENSAJE: 
+2023/10/24 09:06:25.814 - MENSAJE: 
+2023/10/24 09:06:27.787 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 09:06:27.801 - MENSAJE: 24/10/2023 8:25:23 a. m.
+2023/10/24 09:06:27.802 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 09:06:27.814 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 09:06:27.815 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 09:06:27.816 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 09:06:27.817 - MENSAJE: HORAS :
+2023/10/24 09:06:27.817 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 09:06:33.825 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 09:06:34.826 - MENSAJE: 
+2023/10/24 09:06:34.826 - MENSAJE: 
+2023/10/24 09:06:34.837 - MENSAJE: 
+2023/10/24 09:06:35.827 - MENSAJE: 
+2023/10/24 09:06:35.828 - MENSAJE: 
+2023/10/24 09:06:35.838 - MENSAJE: 
+2023/10/24 09:06:37.791 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102409042811
+2023/10/24 09:06:37.810 - MENSAJE: 24/10/2023 9:04:58 a. m.
+2023/10/24 09:06:37.812 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 09:06:37.824 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 09:06:37.825 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 09:06:37.826 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 09:06:37.827 - MENSAJE: HORAS :
+2023/10/24 09:06:37.828 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 09:06:37.841 - MENSAJE: 
+2023/10/24 09:06:37.842 - MENSAJE: 
+2023/10/24 09:06:38.792 - MENSAJE: 
+2023/10/24 09:06:44.828 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 09:06:45.795 - MENSAJE: 
+2023/10/24 09:06:46.803 - MENSAJE: 
+2023/10/24 09:06:47.815 - MENSAJE: 
+2023/10/24 09:06:48.832 - MENSAJE: 
+2023/10/24 09:06:49.800 - MENSAJE: 
+2023/10/24 09:06:50.812 - MENSAJE: 
+2023/10/24 09:06:51.812 - MENSAJE: 
+2023/10/24 09:06:52.838 - MENSAJE: 
+2023/10/24 09:06:52.846 - MENSAJE: ID TARJETA = 2FA000
+2023/10/24 09:06:52.853 - MENSAJE: TARJETA ESTADO TRUE
+2023/10/24 09:06:52.861 - MENSAJE: Obtener Datos Autorizado ok
+2023/10/24 09:06:52.862 - MENSAJE: Comparacion IDTARJETA OK
+2023/10/24 09:06:52.862 - MENSAJE: Comparacion IDESTACIONAMIENTO OK
+2023/10/24 09:06:52.863 - MENSAJE: Validacion Fechas Vigencia ok
+2023/10/24 09:06:58.819 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 09:06:59.819 - MENSAJE: 
+2023/10/24 09:07:00.826 - MENSAJE: 
+2023/10/24 09:07:01.804 - MENSAJE: 
+2023/10/24 09:07:02.801 - MENSAJE: 
+2023/10/24 09:07:03.395 - MENSAJE: 
+2023/10/24 09:07:03.403 - MENSAJE: 
+2023/10/24 09:07:03.816 - MENSAJE: 
+2023/10/24 09:07:03.816 - MENSAJE: 
+2023/10/24 09:07:03.826 - MENSAJE: 
+2023/10/24 09:07:04.796 - MENSAJE: 
+2023/10/24 09:07:04.797 - MENSAJE: 
+2023/10/24 09:07:04.812 - MENSAJE: 
+2023/10/24 09:07:05.846 - MENSAJE: 
+2023/10/24 09:07:05.846 - MENSAJE: 
+2023/10/24 09:07:05.856 - MENSAJE: 
+2023/10/24 09:07:06.805 - MENSAJE: 
+2023/10/24 09:07:06.805 - MENSAJE: 
+2023/10/24 09:07:06.816 - MENSAJE: 
+2023/10/24 09:07:07.817 - MENSAJE: 
+2023/10/24 09:07:07.817 - MENSAJE: 
+2023/10/24 09:07:07.828 - MENSAJE: 
+2023/10/24 09:07:08.799 - MENSAJE: 
+2023/10/24 09:07:08.799 - MENSAJE: 
+2023/10/24 09:07:08.810 - MENSAJE: 
+2023/10/24 09:07:09.804 - MENSAJE: 
+2023/10/24 09:07:09.804 - MENSAJE: 
+2023/10/24 09:07:09.814 - MENSAJE: 
+2023/10/24 09:07:11.792 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102408190911
+2023/10/24 09:07:11.809 - MENSAJE: 24/10/2023 8:25:23 a. m.
+2023/10/24 09:07:11.810 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 09:07:11.822 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 09:07:11.824 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 09:07:11.825 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 09:07:11.825 - MENSAJE: HORAS :
+2023/10/24 09:07:11.826 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 09:07:17.825 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 09:07:18.809 - MENSAJE: 
+2023/10/24 09:07:18.810 - MENSAJE: 
+2023/10/24 09:07:18.820 - MENSAJE: 
+2023/10/24 09:07:19.830 - MENSAJE: 
+2023/10/24 09:07:19.830 - MENSAJE: 
+2023/10/24 09:07:19.841 - MENSAJE: 
+2023/10/24 09:07:21.787 - MENSAJE: Front End Secuencia IdTranasaccion: 2023102409042811
+2023/10/24 09:07:21.803 - MENSAJE: 24/10/2023 9:04:58 a. m.
+2023/10/24 09:07:21.804 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/10/24 09:07:21.818 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/10/24 09:07:21.819 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/10/24 09:07:21.820 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/10/24 09:07:21.820 - MENSAJE: HORAS :
+2023/10/24 09:07:21.821 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/10/24 09:07:21.832 - MENSAJE: 
+2023/10/24 09:07:21.832 - MENSAJE: 
+2023/10/24 09:07:22.788 - MENSAJE: 
+2023/10/24 09:07:23.790 - MENSAJE: 
+2023/10/24 09:07:24.787 - MENSAJE: 
+2023/10/24 09:07:25.792 - MENSAJE: 
+2023/10/24 09:07:26.789 - MENSAJE: 
+2023/10/24 09:07:27.785 - MENSAJE: 
+2023/10/24 09:07:28.787 - MENSAJE: 
+2023/10/24 09:07:29.790 - MENSAJE: 
+2023/10/24 09:07:30.789 - MENSAJE: 
+2023/10/24 09:07:31.788 - MENSAJE: 
+2023/10/24 09:07:32.788 - MENSAJE: 
+2023/10/24 09:07:33.793 - MENSAJE: 
+2023/10/24 09:07:34.230 - MENSAJE: 
+2023/10/24 09:07:34.241 - MENSAJE: 
+2023/10/24 09:07:34.790 - MENSAJE: 
+2023/10/24 09:07:34.790 - MENSAJE: 
+2023/10/24 09:07:34.807 - MENSAJE: 
+2023/10/24 09:07:40.824 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/10/24 09:07:41.802 - MENSAJE: 
+2023/10/24 09:07:41.802 - MENSAJE: 
+2023/10/24 09:07:41.813 - MENSAJE: 
+2023/10/24 09:07:42.804 - MENSAJE: 
+2023/10/24 09:07:42.804 - MENSAJE: 
+2023/10/24 09:07:42.815 - MENSAJE: 
+2023/10/24 09:07:43.815 - MENSAJE: 
+2023/10/24 09:07:43.815 - MENSAJE: 
+2023/10/24 09:07:43.826 - MENSAJE: 
+2023/10/24 09:07:44.826 - MENSAJE: 
+2023/10/24 09:07:44.827 - MENSAJE: 
+2023/10/24 09:07:44.837 - MENSAJE: 
+2023/10/24 09:07:45.800 - MENSAJE: 
+2023/10/24 09:07:45.800 - MENSAJE: 
+2023/10/24 09:07:45.811 - MENSAJE: 
+2023/10/24 09:07:46.807 - MENSAJE: 
+2023/10/24 09:07:46.807 - MENSAJE: 
+2023/10/24 09:07:46.818 - MENSAJE: 
+2023/10/24 09:07:47.816 - MENSAJE: 
+2023/10/24 09:07:47.817 - MENSAJE: 
+2023/10/24 09:07:47.828 - MENSAJE: 
