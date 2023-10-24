@@ -255,6 +255,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
         }
         private void frmPrincipal_Load(object sender, EventArgs e)
         {
+            TbTag.GotFocus += TabGotFocus;
             Inicio();
         }
         #endregion
@@ -2210,6 +2211,10 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                 File.Delete(rutaPlacaGuardada);
             }
         }
+        private void TabGotFocus(object sender, EventArgs e)
+        {
+            TbTag.Focus();
+        }
         #endregion
 
         #region IView
@@ -2339,14 +2344,16 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
             {
                 if (TbTag.Text != string.Empty)
                 {
-                    if (TbTag.Text.Length > 15)
-                    {
-                        _IdTransaccion = TbTag.Text.Trim();
-                    }
-                    else
+                    string IdCarAutorizadoNew = TbTag.Text.Trim();
+
+                    if (IdCarAutorizadoNew == _IdCardAutorizado)
                     {
                         _IdCardAutorizado = TbTag.Text.Trim();
 
+                    }
+                    else
+                    {
+                        _IdCardAutorizado = IdCarAutorizadoNew;
                     }
                 }
                 else
