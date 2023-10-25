@@ -25,5 +25,6 @@ namespace MC.ModuloSalida.WinForm.Model
         ResultadoOperacion ObtenerAutorizadoPlaca(Autorizado oAutorizado);
         ResultadoOperacion ObtenerDatosPagosSalida(string idTransaccion);
         ResultadoOperacion ValidarSalida(long idTransaccion);
+        ResultadoOperacion ValidarCortesia(long idTransaccion);
     }
 }

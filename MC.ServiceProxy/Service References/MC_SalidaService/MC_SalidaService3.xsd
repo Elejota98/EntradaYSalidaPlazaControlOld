@@ -225,4 +225,18 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
+  <xs:element name="getValidarCortesia">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q33="http://www.MillensCorp.com/types/" minOccurs="0" name="request" nillable="true" type="q33:getValidarCortesia_Request" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValidarCortesiaResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q34="http://www.MillensCorp.com/types/" minOccurs="0" name="getValidarCortesiaResult" nillable="true" type="q34:getValidarCortesia_Response" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
 </xs:schema>

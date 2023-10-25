@@ -781,6 +781,51 @@ namespace MC.DataService
             return oResultadoOperacion;
         }
 
+        public ResultadoOperacion ValidarCortesia(long idTransaccion)
+        {
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            DataSetTransacciones.P_ValidarCortesiaDataTable _ValidarCortesiaTable = new DataSetTransacciones.P_ValidarCortesiaDataTable();
+            DataSetTransaccionesTableAdapters.P_ValidarCortesiaTableAdapter _ValidarCortesiaAdapter = new DataSetTransaccionesTableAdapters.P_ValidarCortesiaTableAdapter();
+
+
+            string resultado = string.Empty;
+
+            try
+            {
+                _ValidarCortesiaTable.Constraints.Clear();
+
+                if (_ValidarCortesiaAdapter.Fill(_ValidarCortesiaTable, idTransaccion) > 0)
+                {
+                    oResultadoOperacion.oEstado = TipoRespuesta.Exito;
+                    oResultadoOperacion.Mensaje = "Info Partes OK";
+
+                    for (int i = 0; i < _ValidarCortesiaTable.Rows.Count; i++)
+                    {
+                        resultado = _ValidarCortesiaTable.Rows[i][0].ToString();
+                    }
+
+                    oResultadoOperacion.EntidadDatos = resultado;
+                    oResultadoOperacion.oEstado = TipoRespuesta.Exito;
+                }
+                else
+                {
+                    oResultadoOperacion.oEstado = TipoRespuesta.Exito;
+                    oResultadoOperacion.EntidadDatos = resultado;
+                    oResultadoOperacion.Mensaje = "Usuario no registrado en base de datos";
+                }
+            }
+            catch (Exception ex)
+            {
+                // Generar LOG DataBase Exception
+                string exMessage = ex.ToString();
+                oResultadoOperacion.oEstado = TipoRespuesta.Error;
+            }
+
+            return oResultadoOperacion;
+        }
+
+
         public ResultadoOperacion ValidarPlacaSalida(string oModulo)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();

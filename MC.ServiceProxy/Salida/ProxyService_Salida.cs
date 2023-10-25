@@ -823,6 +823,67 @@ namespace MC.ServiceProxy
             return oResultadoOperacion;
         }
 
+        public ResultadoOperacion ValidarCortesiaSalida(long idTransaccion)
+        {
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            bool bCortesia = false;
+
+            getValidarCortesia_Request request = new getValidarCortesia_Request();
+            request.RequestId = NuevoRequestId;
+
+
+            request.sIdTransaccion = idTransaccion;
+
+
+            getValidarCortesia_Response response = null;
+
+            try
+            {
+                SafeProxy.DoAction<SalidaServiceClient>(_MC_SalidaService, client =>
+                { response = client.getValidarCortesia(request); });
+            }
+            catch (System.Exception)
+            {
+                oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                oResultadoOperacion.Mensaje = "Error conexion Modulo Service";
+                return oResultadoOperacion;
+            }
+
+            if (response != null)
+            {
+                if (request.RequestId == response.CorrelationId)
+                {
+                    if (response.Acknowledge == ServiceProxy.MC_SalidaService.AcknowledgeType.Success)
+                    {
+                        bCortesia = response.bCortesia;
+                    }
+                    else
+                    {
+                        oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                        oResultadoOperacion.Mensaje = response.Message;
+                        return oResultadoOperacion;
+                    }
+                }
+                else
+                {
+                    oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                    oResultadoOperacion.Mensaje = "Respuesta Invalida Modulo Service: getValidarClave";
+                    return oResultadoOperacion;
+                }
+            }
+            else
+            {
+                oResultadoOperacion.oEstado = TipoRespuesta.Error;
+                oResultadoOperacion.Mensaje = "Error Respuesta Modulo Service: getValidarClave";
+                return oResultadoOperacion;
+            }
+
+            oResultadoOperacion.EntidadDatos = bCortesia;
+
+            return oResultadoOperacion;
+        }
+
         public ResultadoOperacion ValidarPlacaSalida(string IdModulo)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();

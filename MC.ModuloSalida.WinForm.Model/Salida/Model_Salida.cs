@@ -193,6 +193,20 @@ namespace MC.ModuloSalida.WinForm.Model
             return oResultadoOperacion;
         }
 
+        public ResultadoOperacion ValidarCortesia(long idTransaccion)
+        {
+            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+
+            oResultadoOperacion = _ProxyServicios.ValidarCortesiaSalida(idTransaccion);
+
+            if (oResultadoOperacion.oEstado == TipoRespuesta.Error)
+            {
+                // Generar Alarma para Base de Datos
+            }
+
+            return oResultadoOperacion;
+        }
+
         public ResultadoOperacion ValidarPlacaSalida(string IdModulo)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();

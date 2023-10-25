@@ -482,4 +482,24 @@
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="getValidarSalida_Response" nillable="true" type="tns:getValidarSalida_Response" />
+  <xs:complexType name="getValidarCortesia_Request">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q29="http://www.mc.com.co/types/" base="q29:RequestBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="sIdTransaccion" type="xs:long" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getValidarCortesia_Request" nillable="true" type="tns:getValidarCortesia_Request" />
+  <xs:complexType name="getValidarCortesia_Response">
+    <xs:complexContent mixed="false">
+      <xs:extension xmlns:q30="http://www.mc.com.co/types/" base="q30:ResponseBase">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="bCortesia" type="xs:boolean" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="getValidarCortesia_Response" nillable="true" type="tns:getValidarCortesia_Response" />
 </xs:schema>

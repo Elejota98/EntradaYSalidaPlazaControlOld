@@ -58,5 +58,8 @@ namespace MC.SalidaService.ServiceContracts
 
         [OperationContract]
         getValidarSalida_Response getValidarSalida(getValidarSalida_Request request);
+
+        [OperationContract]
+        getValidarCortesia_Response getValidarCortesia(getValidarCortesia_Request request);
     }
 }

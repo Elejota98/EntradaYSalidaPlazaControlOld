@@ -30,6 +30,7 @@ namespace MC.ServiceProxy.MC_SalidaService {
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Request))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Request))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarSalida_Request))]
+    [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarCortesia_Request))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getPartesModulo_Request))]
     public partial class RequestBase : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
         
@@ -369,6 +370,29 @@ namespace MC.ServiceProxy.MC_SalidaService {
     [System.Runtime.Serialization.DataContractAttribute(Name="getValidarSalida_Request", Namespace="http://www.MillensCorp.com/types/")]
     [System.SerializableAttribute()]
     public partial class getValidarSalida_Request : MC.ServiceProxy.MC_SalidaService.RequestBase {
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private long sIdTransaccionField;
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public long sIdTransaccion {
+            get {
+                return this.sIdTransaccionField;
+            }
+            set {
+                if ((this.sIdTransaccionField.Equals(value) != true)) {
+                    this.sIdTransaccionField = value;
+                    this.RaisePropertyChanged("sIdTransaccion");
+                }
+            }
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="getValidarCortesia_Request", Namespace="http://www.MillensCorp.com/types/")]
+    [System.SerializableAttribute()]
+    public partial class getValidarCortesia_Request : MC.ServiceProxy.MC_SalidaService.RequestBase {
         
         [System.Runtime.Serialization.OptionalFieldAttribute()]
         private long sIdTransaccionField;
@@ -1676,6 +1700,7 @@ namespace MC.ServiceProxy.MC_SalidaService {
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Response))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getObtenerDatosPagos_Response))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarSalida_Response))]
+    [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getValidarCortesia_Response))]
     [System.Runtime.Serialization.KnownTypeAttribute(typeof(MC.ServiceProxy.MC_SalidaService.getPartesModulo_Response))]
     public partial class ResponseBase : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
         
@@ -2108,6 +2133,29 @@ namespace MC.ServiceProxy.MC_SalidaService {
                 if ((this.bIngresoField.Equals(value) != true)) {
                     this.bIngresoField = value;
                     this.RaisePropertyChanged("bIngreso");
+                }
+            }
+        }
+    }
+    
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="getValidarCortesia_Response", Namespace="http://www.MillensCorp.com/types/")]
+    [System.SerializableAttribute()]
+    public partial class getValidarCortesia_Response : MC.ServiceProxy.MC_SalidaService.ResponseBase {
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private bool bCortesiaField;
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public bool bCortesia {
+            get {
+                return this.bCortesiaField;
+            }
+            set {
+                if ((this.bCortesiaField.Equals(value) != true)) {
+                    this.bCortesiaField = value;
+                    this.RaisePropertyChanged("bCortesia");
                 }
             }
         }
@@ -3223,6 +3271,12 @@ namespace MC.ServiceProxy.MC_SalidaService {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ISalidaService/getValidarSalida", ReplyAction="http://tempuri.org/ISalidaService/getValidarSalidaResponse")]
         System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getValidarSalida_Response> getValidarSalidaAsync(MC.ServiceProxy.MC_SalidaService.getValidarSalida_Request request);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ISalidaService/getValidarCortesia", ReplyAction="http://tempuri.org/ISalidaService/getValidarCortesiaResponse")]
+        MC.ServiceProxy.MC_SalidaService.getValidarCortesia_Response getValidarCortesia(MC.ServiceProxy.MC_SalidaService.getValidarCortesia_Request request);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ISalidaService/getValidarCortesia", ReplyAction="http://tempuri.org/ISalidaService/getValidarCortesiaResponse")]
+        System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getValidarCortesia_Response> getValidarCortesiaAsync(MC.ServiceProxy.MC_SalidaService.getValidarCortesia_Request request);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -3378,6 +3432,14 @@ namespace MC.ServiceProxy.MC_SalidaService {
         
         public System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getValidarSalida_Response> getValidarSalidaAsync(MC.ServiceProxy.MC_SalidaService.getValidarSalida_Request request) {
             return base.Channel.getValidarSalidaAsync(request);
+        }
+        
+        public MC.ServiceProxy.MC_SalidaService.getValidarCortesia_Response getValidarCortesia(MC.ServiceProxy.MC_SalidaService.getValidarCortesia_Request request) {
+            return base.Channel.getValidarCortesia(request);
+        }
+        
+        public System.Threading.Tasks.Task<MC.ServiceProxy.MC_SalidaService.getValidarCortesia_Response> getValidarCortesiaAsync(MC.ServiceProxy.MC_SalidaService.getValidarCortesia_Request request) {
+            return base.Channel.getValidarCortesiaAsync(request);
         }
     }
 }

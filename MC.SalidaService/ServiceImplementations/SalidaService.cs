@@ -382,6 +382,35 @@ namespace MC.SalidaService.ServiceImplementations
             return response;
         }
 
+        public getValidarCortesia_Response getValidarCortesia(getValidarCortesia_Request request)
+        {
+            getValidarCortesia_Response response = new getValidarCortesia_Response();
+
+            response.CorrelationId = request.RequestId;
+
+            if (!ValidRequest(request, response))
+                return response;
+
+            ResultadoOperacion oResultadoOperacion = _DataService.ValidarCortesia(request.sIdTransaccion);
+            if (oResultadoOperacion.oEstado == TipoRespuesta.Exito)
+            {
+                if (oResultadoOperacion.EntidadDatos.ToString() != string.Empty)
+                {
+                    response.bCortesia = true;
+                }
+                else
+                {
+                    response.bCortesia = false;
+                }
+            }
+            else
+            {
+                response.Acknowledge = AcknowledgeType.Failure;
+                response.Message = oResultadoOperacion.Mensaje;
+            }
+
+            return response;
+        }
 
         public getValidarPlacaSalida_Response getValidarPlacaSalida(getValidarPlacaSalida_Request request)
         {

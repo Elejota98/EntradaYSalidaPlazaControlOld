@@ -217,6 +217,9 @@
     <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getTarjetas_Response.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>
+    <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getValidarCortesia_Response.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
     <None Include="Service References\MC_SalidaService\MC.ServiceProxy.MC_SalidaService.getValidarPlacaSalida_Response.datasource">
       <DependentUpon>Reference.svcmap</DependentUpon>
     </None>

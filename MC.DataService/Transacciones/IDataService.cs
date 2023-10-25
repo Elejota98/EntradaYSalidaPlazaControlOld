@@ -46,5 +46,7 @@ namespace MC.DataService
         ResultadoOperacion ObtenerDatosPagoSalida(string Secuencia);
 
         ResultadoOperacion ValidarIngreso(long idTransaccion);
+
+        ResultadoOperacion ValidarCortesia(long idTransaccion);
     }
 }
