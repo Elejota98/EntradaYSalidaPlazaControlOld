@@ -1537,7 +1537,6 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                 }
                                                 else
                                                 {
-
                                                     #region OLD
                                                     //simpleSound = new SoundPlayer(_sPathTarjetaSinRegistroSalida);
                                                     //simpleSound.Play();
@@ -2233,7 +2232,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             if (e.KeyChar == (char)13)
             {
 
-                if (TbTag.Text != string.Empty && TbTag.Text.Length <= 17)
+                if (TbTag.Text != string.Empty && TbTag.Text.Length <= 10)
                 {
                     string IdCarAutorizadoNew = TbTag.Text.Trim();
 

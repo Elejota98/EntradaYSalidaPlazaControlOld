@@ -16,7 +16,7 @@ namespace MC.BusinessObjects.Enums
         TimeOut_RegistroPago = 120,
         TimeOut_IngresoPIN = 240,
         TimeOut_ValidacionOTP = 60,
-        TimeOut_Alertas = 6,
+        TimeOut_Alertas = 4,
         TimeOut_InserteTarjeta = 10,
         TimeOut_TarjetaMocha = 10,
         TimeOut_MensualidadVencida = 3,

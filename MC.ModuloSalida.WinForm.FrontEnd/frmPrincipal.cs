@@ -390,8 +390,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                                             bAutoVencida = false;
                                                             bTarjetaInvalida = false;
                                                             CntAuto = i;
+                                                            _IdCardAutorizado = "";
+                                                            _IdTransaccion = "";
                                                             TbTag.Text = "";
-                                                            IdCardAutorizado = "";
                                                             break;
                                                         }
                                                         else
@@ -401,8 +402,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                                             Presentacion = Pantalla.TarjetaSinRegistroEntrada;
                                                             bAutoVencida = false;
                                                             bTarjetaInvalida = false;
+                                                            _IdCardAutorizado = "";
+                                                            _IdTransaccion = "";
                                                             TbTag.Text = "";
-                                                            IdCardAutorizado = "";
                                                             break;
                                                         }
                                                     }
@@ -426,6 +428,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                         if (ok)
                                         {
                                             RegistroSalidaAutorizado(CntAuto);
+                                            _IdCardAutorizado = "";
+                                            _IdTransaccion = "";
+                                            TbTag.Text = "";
                                         }
                                         else if (bAutoVencida)
                                         {
@@ -558,14 +563,17 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                         if (ok)
                                         {
                                             RegistroSalidaAutorizado(CntAuto);
+                                            TbTag.Text = string.Empty;
+                                            _IdCardAutorizado = "";
+                                            _IdTransaccion = "";
                                         }
                                         else if (bAutoVencida)
                                         {
                                             SoundPlayer simpleSound = new SoundPlayer(_sPathAutoVencida);
                                             simpleSound.Play();
+                                            TbTag.Text = string.Empty;
                                             _IdCardAutorizado = "";
                                             _IdTransaccion = "";
-                                            TbTag.Text = "";
                                             Presentacion = Pantalla.AutorizacionVencida;
                                           
                                         }
@@ -573,9 +581,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                         {
                                             SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
                                             simpleSound.Play();
+                                            TbTag.Text = string.Empty;
                                             _IdCardAutorizado = "";
                                             _IdTransaccion = "";
-                                            TbTag.Text = "";
                                             Presentacion = Pantalla.TarjetaInvalida;
                                             
                                         }
@@ -584,9 +592,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                     {
                                         SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
                                         simpleSound.Play();
+                                        TbTag.Text = string.Empty;
                                         _IdCardAutorizado = "";
                                         _IdTransaccion = "";
-                                        TbTag.Text = "";
                                         Presentacion = Pantalla.TarjetaInvalida;
                                     }
                                 }
@@ -594,9 +602,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                 {
                                     SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
                                     simpleSound.Play();
+                                    TbTag.Text = string.Empty;
                                     _IdCardAutorizado = "";
                                     _IdTransaccion = "";
-                                    TbTag.Text = "";
                                     Presentacion = Pantalla.TarjetaInvalida;
                                 }
 
@@ -745,9 +753,6 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                                         bAutoVencida = false;
                                                         bTarjetaInvalida = false;
                                                         CntAuto = i;
-                                                        _IdCardAutorizado = "";
-                                                        _IdTransaccion = "";
-                                                        TbTag.Text = "";
                                                         break;
                                                     }
                                                     else
@@ -757,9 +762,6 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                                         Presentacion = Pantalla.TarjetaSinRegistroEntrada;
                                                         bAutoVencida = false;
                                                         bTarjetaInvalida = false;
-                                                        _IdCardAutorizado = "";
-                                                        _IdTransaccion = "";
-                                                        TbTag.Text = "";
                                                         break;
                                                     }
                                                 }
@@ -783,6 +785,8 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                     if (ok)
                                     {
                                         RegistroSalidaAutorizado(CntAuto);
+                                        TbTag.Text = string.Empty;
+                                        _IdCardAutorizado = "";
                                     }
                                     else if (bAutoVencida)
                                     {
@@ -1137,9 +1141,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                 sound = true;
                             }
                             Presentacion = Pantalla.VehiculoSaliendo;
-                            _IdCardAutorizado = string.Empty;
-                            _IdTransaccion = string.Empty;
-                            TbTag.Text = "";
+
                         }
                     }
                     else
@@ -1155,9 +1157,8 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                 sound = true;
                             }
                             Presentacion = Pantalla.VehiculoSaliendo;
-                            _IdCardAutorizado = string.Empty;
-                            _IdTransaccion = string.Empty;
-                            TbTag.Text = "";
+                            _IdCardAutorizado = IdCardAutorizado;
+
                         }
                     }
                     break;
@@ -1169,9 +1170,8 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                             if (_frmPrincipal_Presenter.LimpiarValoresPLC())
                             {
                                 Presentacion = Pantalla.SalvaPantallas;
-                                _IdCardAutorizado = string.Empty;
-                                _IdTransaccion = string.Empty;
-                                TbTag.Text = "";
+                                _IdCardAutorizado = IdCardAutorizado;
+
                             }
                         }
                     }
@@ -1181,10 +1181,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                         if (cnt_timeout == (int)TimeOut.TimeOut_Alertas)
                         {
                             Presentacion = Pantalla.SalvaPantallas;
-                            _IdCardAutorizado = "";
-                            _IdTransaccion = "";
-                            TbTag.Text = "";
-                            VehiculoTalanquera = false;
+                            _IdCardAutorizado = IdCardAutorizado;
+                            _IdCardAutorizado = IdCardAutorizado;
+
                         }
                     }
                    
@@ -1208,9 +1207,8 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
 
                 case Pantalla.TarjetaSinRegistroEntrada:
                     if (cnt_timeout == (int)TimeOut.TimeOut_Alertas)
-                    {
-                        Presentacion = Pantalla.SalvaPantallas;
-                        _IdCardAutorizado = IdCardAutorizado;
+                    {                       
+                       Presentacion = Pantalla.SalvaPantallas;
                     }
                     break;
 
@@ -2380,8 +2378,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
         private void TbTag_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (e.KeyChar == (char)13)
-            { 
-                if (TbTag.Text != string.Empty && TbTag.Text.Length <= 17)
+            {
+
+                if (TbTag.Text != string.Empty && TbTag.Text.Length <= 10)
                 {
                     string IdCarAutorizadoNew = TbTag.Text.Trim();
 
@@ -2399,7 +2398,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                 }
                 else
                 {
-                    TbTag.Text = string.Empty;
+                    _IdTransaccion = TbTag.Text.Trim();
                 }
             }
             }
