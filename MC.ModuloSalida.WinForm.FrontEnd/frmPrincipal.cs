@@ -517,30 +517,45 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                                 {
                                                     General_Events = "Comparacion IDESTACIONAMIENTO OK";
 
-                                                    if (_lstDtoAutorizado[i].EstadoAutorizacion && _lstDtoAutorizado[i].Estado && DateTime.Now >= _lstDtoAutorizado[i].FechaInicial && DateTime.Now <= _lstDtoAutorizado[i].FechaFinal)
+                                                    if (_lstDtoAutorizado[i].EstadoAutorizacion && _lstDtoAutorizado[i].Estado && DateTime.Now >= _lstDtoAutorizado[i].FechaInicial)
                                                     {
-                                                        General_Events = "Validacion Fechas Vigencia ok";
+                                                        DateTime fechahoy = DateTime.Now;
+                                                        DateTime fechafinauto = Convert.ToDateTime(_lstDtoAutorizado[i].FechaFinal);
 
-                                                        if (_frmPrincipal_Presenter.ValidarSalidaAuto(oAutorizado.IdTarjeta) == true)
+                                                        DateTime FechaEntrada = fechahoy;
+                                                        DateTime FechaActual = fechafinauto;
+                                                        TimeSpan Calculo = FechaEntrada - FechaActual;
+
+                                                        if (Calculo.Days <= 5)
                                                         {
-                                                            ok = true;
-                                                            bAutoVencida = false;
-                                                            bTarjetaInvalida = false;
-                                                            CntAuto = i;
-                                                            break;
+
+                                                            General_Events = "Validacion Fechas Vigencia ok";
+
+                                                            if (_frmPrincipal_Presenter.ValidarSalidaAuto(oAutorizado.IdTarjeta) == true)
+                                                            {
+                                                                ok = true;
+                                                                bAutoVencida = false;
+                                                                bTarjetaInvalida = false;
+                                                                CntAuto = i;
+                                                                break;
+                                                            }
+                                                            else
+                                                            {
+                                                                SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaSinRegistroEntrada);
+                                                                simpleSound.Play();
+                                                                _IdCardAutorizado = "";
+                                                                _IdTransaccion = "";
+                                                                TbTag.Text = "";
+                                                                Presentacion = Pantalla.TarjetaSinRegistroEntrada;
+                                                                bAutoVencida = false;
+                                                                bTarjetaInvalida = false;
+
+                                                                break;
+                                                            }
                                                         }
                                                         else
                                                         {
-                                                            SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaSinRegistroEntrada);
-                                                            simpleSound.Play();
-                                                            _IdCardAutorizado = "";
-                                                            _IdTransaccion = "";
-                                                            TbTag.Text = "";
-                                                            Presentacion = Pantalla.TarjetaSinRegistroEntrada;
-                                                            bAutoVencida = false;
-                                                            bTarjetaInvalida = false;
-                                                        
-                                                            break;
+                                                            bAutoVencida = true;
                                                         }
                                                     }
                                                     else
@@ -1845,6 +1860,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                                     simpleSound.Play();
                                                     Presentacion = Pantalla.TarjetaSinPago;
                                                     ok = false;
+                                                    _IdCardAutorizado = "";
+                                                    _IdTransaccion = "";
+                                                    TbTag.Text = "";
                                                     //break;
                                                 }
                                                 else
@@ -1914,6 +1932,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                                 //break;
                                             }
                                             //}
+
                                         }
                                         else
                                         {
@@ -1932,6 +1951,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                 SoundPlayer simpleSound = new SoundPlayer(_sPathSinPago);
                                 simpleSound.Play();
                                 Presentacion = Pantalla.TarjetaSinPago;
+                                _IdCardAutorizado = "";
+                                _IdTransaccion = "";
+                                TbTag.Text = "";
                                 //break;
                             }
                         }
@@ -1945,6 +1967,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                         SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaSinRegistroEntrada);
                         simpleSound.Play();
                         Presentacion = Pantalla.TarjetaSinRegistroEntrada;
+                        _IdCardAutorizado = "";
+                        _IdTransaccion = "";
+                        TbTag.Text = "";
                     }
 
 
