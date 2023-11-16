@@ -1205,8 +1205,6 @@ C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.ModuloEntra
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.Properties.Resources.resources
 C:\Users\Admin\Documents\backup\EntradaControladora\CodigoEntrada\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.GenerateResource.Cache
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe.config
-C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\Interop.ShockwaveFlashObjects.dll
-C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.ResolveComReference.cache
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
@@ -1274,8 +1272,6 @@ C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Modu
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.pdb
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.pdb
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.pdb
-C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Interop.ShockwaveFlashObjects.dll
-C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.resources
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.Properties.Resources.resources
@@ -1371,8 +1367,6 @@ C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Modu
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Tickets\ReportPrintDocument.cs
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\zxing.dll
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\zxing.xml
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\Interop.ShockwaveFlashObjects.dll
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Tickets\TicketEntrada.rdlc
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Tickets\ReportPrintDocument.cs
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Microsoft.ReportViewer.Common.dll
@@ -1381,8 +1375,6 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Microsoft.ReportViewer.WebForms.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\zxing.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\zxing.xml
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Interop.ShockwaveFlashObjects.dll
-D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\RdlCompile.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\RdlCompile.compiled

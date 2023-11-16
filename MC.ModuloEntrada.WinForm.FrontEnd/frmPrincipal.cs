@@ -1085,119 +1085,72 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                             if (_lstDtoAutorizado[i].IdEstacionamiento == Convert.ToInt64(Globales.iCodigoEstacionamiento))
                                             {
 
-                                                if (_lstDtoAutorizado[i].EstadoAutorizacion && _lstDtoAutorizado[i].Estado && DateTime.Now >= _lstDtoAutorizado[i].FechaInicial)
+                                                if (_lstDtoAutorizado[i].EstadoAutorizacion && _lstDtoAutorizado[i].Estado && DateTime.Now >= _lstDtoAutorizado[i].FechaInicial && DateTime.Now <= _lstDtoAutorizado[i].FechaFinal)
                                                 {
-                                                     DateTime fechahoy = DateTime.Now;
-                                                        DateTime fechafinauto = Convert.ToDateTime(_lstDtoAutorizado[i].FechaFinal);
+                                                    if (_frmPrincipal_Presenter.ValidarIngresoAuto(_lstDtoAutorizado[i].IdTarjeta))
+                                                    {
+                                                        ok2 = true;
+                                                        bAutoVencida2 = false;
+                                                        CntAuto = i;
+                                                        break;
+                                                    }
+                                                    else
+                                                    {
 
-                                                        DateTime FechaEntrada = fechahoy;
-                                                        DateTime FechaActual = fechafinauto;
-                                                        TimeSpan Calculo = FechaEntrada - FechaActual;
+                                                        #region OLD
+                                                        //simpleSound = new SoundPlayer(_sPathTarjetaSinRegistroSalida);
+                                                        //simpleSound.Play();
+                                                        //Presentacion = Pantalla.TarjetaSinRegistroSalida;
+                                                        //break;
+                                                        ////General_Events = "TarjetaSinRegistroSalida";
+                                                        //////ok = true;
+                                                        //////bAutoVencida = false;
+                                                        //////bTarjetaInvalida = false;
+                                                        //////CntAuto = i;
+                                                        //////break;
+                                                        #endregion
 
-                                                        if (Calculo.Days <= 5)
+                                                        simpleSound = new SoundPlayer(_sPathMensualidadUso);
+                                                        simpleSound.Play();
+                                                        _IdCardAutorizado = "USO";
+
+                                                        if (Globales.sCarrilMixto == "NO")
                                                         {
+                                                            VehiculoMoto = true;
+                                                            #region Tarjeta
+                                                            //escribir
+                                                            //_Tarjeta.ActiveCycle = true;
+                                                            //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
+                                                            //_Tarjeta.EntrancePlate = _sPlaca;
+                                                            //_Tarjeta.DateTimeEntrance = _FechaCompleta;
+                                                            //_Tarjeta.EntranceModule = Globales.sSerial;
 
-                                                            if (_frmPrincipal_Presenter.ValidarIngresoAuto(_lstDtoAutorizado[i].IdTarjeta))
-                                                            {
-                                                                ok2 = true;
-                                                                bAutoVencida2 = false;
-                                                                CntAuto = i;
-                                                                break;
-                                                            }
-                                                            else
-                                                            {
-
-                                                                #region OLD
-                                                                //simpleSound = new SoundPlayer(_sPathTarjetaSinRegistroSalida);
-                                                                //simpleSound.Play();
-                                                                //Presentacion = Pantalla.TarjetaSinRegistroSalida;
-                                                                //break;
-                                                                ////General_Events = "TarjetaSinRegistroSalida";
-                                                                //////ok = true;
-                                                                //////bAutoVencida = false;
-                                                                //////bTarjetaInvalida = false;
-                                                                //////CntAuto = i;
-                                                                //////break;
-                                                                #endregion
-
-                                                                simpleSound = new SoundPlayer(_sPathMensualidadUso);
-                                                                simpleSound.Play();
-                                                                _IdCardAutorizado = "USO";
-
-                                                                if (Globales.sCarrilMixto == "NO")
-                                                                {
-                                                                    VehiculoMoto = true;
-                                                                    #region Tarjeta
-                                                                    //escribir
-                                                                    //_Tarjeta.ActiveCycle = true;
-                                                                    //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
-                                                                    //_Tarjeta.EntrancePlate = _sPlaca;
-                                                                    //_Tarjeta.DateTimeEntrance = _FechaCompleta;
-                                                                    //_Tarjeta.EntranceModule = Globales.sSerial;
-
-                                                                    //_frmPrincipal_Presenter.Escribirtarjeta();
-                                                                    #endregion
-                                                                }
-                                                                else
-                                                                {
-                                                                    VehiculoMoto = false;
-                                                                    #region Tarjeta
-                                                                    //escribir
-                                                                    //_Tarjeta.ActiveCycle = true;
-                                                                    //_Tarjeta.EntrancePlate = _sPlaca;
-                                                                    //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
-                                                                    //_Tarjeta.DateTimeEntrance = _FechaCompleta;
-                                                                    //_Tarjeta.EntranceModule = Globales.sSerial;
-
-                                                                    //_frmPrincipal_Presenter.Escribirtarjeta();
-                                                                    #endregion
-                                                                }
-                                                                //Presentacion = Pantalla.TarjetaSinRegistroSalida;
-                                                                break;
-                                                                ////General_Events = "TarjetaSinRegistroSalida";
-                                                                ////ok = true;
-                                                                ////bAutoVencida = false;
-                                                                ////bTarjetaInvalida = false;
-                                                                ////CntAuto = i;
-                                                                ////break;
-                                                            }
+                                                            //_frmPrincipal_Presenter.Escribirtarjeta();
+                                                            #endregion
                                                         }
                                                         else
                                                         {
-                                                            simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
-                                                            simpleSound.Play();
-                                                            bAutoVencida2 = true;
-                                                            Presentacion = Pantalla.SalvaPantallas;
-                                                            TbTag.Text = "";
-                                                            _IdCardAutorizado = "";
-                                                            if (_VehiculoMueble == false)
-                                                            {
-                                                                VehiculoMoto = true;
-                                                                #region Tarjeta
-                                                                //escribir
-                                                                //_Tarjeta.ActiveCycle = true;
-                                                                //_Tarjeta.DateTimeEntrance = _FechaCompleta;
-                                                                //_Tarjeta.EntranceModule = Globales.sSerial;
-                                                                //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
+                                                            VehiculoMoto = false;
+                                                            #region Tarjeta
+                                                            //escribir
+                                                            //_Tarjeta.ActiveCycle = true;
+                                                            //_Tarjeta.EntrancePlate = _sPlaca;
+                                                            //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
+                                                            //_Tarjeta.DateTimeEntrance = _FechaCompleta;
+                                                            //_Tarjeta.EntranceModule = Globales.sSerial;
 
-                                                                //_frmPrincipal_Presenter.Escribirtarjeta();
-                                                                #endregion
-                                                            }
-                                                            else
-                                                            {
-                                                                VehiculoMoto = false;
-
-                                                                #region Tarjeta
-                                                                //escribir
-                                                                //_Tarjeta.ActiveCycle = true;
-                                                                //_Tarjeta.DateTimeEntrance = _FechaCompleta;
-                                                                //_Tarjeta.EntranceModule = Globales.sSerial;
-                                                                //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
-
-                                                                //_frmPrincipal_Presenter.Escribirtarjeta();
-                                                                #endregion
-                                                            }
+                                                            //_frmPrincipal_Presenter.Escribirtarjeta();
+                                                            #endregion
                                                         }
+                                                        //Presentacion = Pantalla.TarjetaSinRegistroSalida;
+                                                        break;
+                                                        ////General_Events = "TarjetaSinRegistroSalida";
+                                                        ////ok = true;
+                                                        ////bAutoVencida = false;
+                                                        ////bTarjetaInvalida = false;
+                                                        ////CntAuto = i;
+                                                        ////break;
+                                                    }
 
                                                 }
                                                 else
@@ -1573,100 +1526,45 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                         if (_lstDtoAutorizado[i].IdEstacionamiento == Convert.ToInt64(Globales.iCodigoEstacionamiento))
                                         {
 
-                                            if (_lstDtoAutorizado[i].EstadoAutorizacion && _lstDtoAutorizado[i].Estado && DateTime.Now >= _lstDtoAutorizado[i].FechaInicial)
+                                            if (_lstDtoAutorizado[i].EstadoAutorizacion && _lstDtoAutorizado[i].Estado && DateTime.Now >= _lstDtoAutorizado[i].FechaInicial && DateTime.Now <= _lstDtoAutorizado[i].FechaFinal)
                                             {
-                                                DateTime fechahoy = DateTime.Now;
-                                                DateTime fechafinauto = Convert.ToDateTime(_lstDtoAutorizado[i].FechaFinal);
-
-                                                DateTime FechaEntrada = fechahoy;
-                                                DateTime FechaActual = fechafinauto;
-                                                TimeSpan Calculo = FechaEntrada - FechaActual;
-
-                                                if (Calculo.Days <= 5)
+                                                if (_frmPrincipal_Presenter.ValidarIngresoAuto(_lstDtoAutorizado[i].IdTarjeta))
                                                 {
-
-                                                    if (_frmPrincipal_Presenter.ValidarIngresoAuto(_lstDtoAutorizado[i].IdTarjeta))
-                                                    {
-                                                        ok2 = true;
-                                                        bAutoVencida2 = false;
-                                                        CntAuto = i;
-                                                        break;
-                                                    }
-                                                    else
-                                                    {
-
-                                                        #region OLD
-                                                        //simpleSound = new SoundPlayer(_sPathTarjetaSinRegistroSalida);
-                                                        //simpleSound.Play();
-                                                        //Presentacion = Pantalla.TarjetaSinRegistroSalida;
-                                                        //break;
-                                                        ////General_Events = "TarjetaSinRegistroSalida";
-                                                        //////ok = true;
-                                                        //////bAutoVencida = false;
-                                                        //////bTarjetaInvalida = false;
-                                                        //////CntAuto = i;
-                                                        //////break;
-                                                        #endregion
-
-                                                        simpleSound = new SoundPlayer(_sPathMensualidadUso);
-                                                        simpleSound.Play();
-                                                        _IdCardAutorizado = "USO";
-
-                                                        if (Globales.sCarrilMixto == "NO")
-                                                        {
-                                                            VehiculoMoto = true;
-                                                            #region Tarjeta
-                                                            //escribir
-                                                            //_Tarjeta.ActiveCycle = true;
-                                                            //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
-                                                            //_Tarjeta.EntrancePlate = _sPlaca;
-                                                            //_Tarjeta.DateTimeEntrance = _FechaCompleta;
-                                                            //_Tarjeta.EntranceModule = Globales.sSerial;
-
-                                                            //_frmPrincipal_Presenter.Escribirtarjeta();
-                                                            #endregion
-                                                        }
-                                                        else
-                                                        {
-                                                            VehiculoMoto = false;
-                                                            #region Tarjeta
-                                                            //escribir
-                                                            //_Tarjeta.ActiveCycle = true;
-                                                            //_Tarjeta.EntrancePlate = _sPlaca;
-                                                            //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
-                                                            //_Tarjeta.DateTimeEntrance = _FechaCompleta;
-                                                            //_Tarjeta.EntranceModule = Globales.sSerial;
-
-                                                            //_frmPrincipal_Presenter.Escribirtarjeta();
-                                                            #endregion
-                                                        }
-                                                        //Presentacion = Pantalla.TarjetaSinRegistroSalida;
-                                                        break;
-                                                        ////General_Events = "TarjetaSinRegistroSalida";
-                                                        ////ok = true;
-                                                        ////bAutoVencida = false;
-                                                        ////bTarjetaInvalida = false;
-                                                        ////CntAuto = i;
-                                                        ////break;
-                                                    }
+                                                    ok2 = true;
+                                                    bAutoVencida2 = false;
+                                                    CntAuto = i;
+                                                    break;
                                                 }
                                                 else
                                                 {
-                                                    simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
-                                                    simpleSound.Play();
-                                                    bAutoVencida2 = true;
-                                                    Presentacion = Pantalla.SalvaPantallas;
-                                                    TbTag.Text = "";
-                                                    _IdCardAutorizado = "";
-                                                    if (_VehiculoMueble == false)
+
+                                                    #region OLD
+                                                    //simpleSound = new SoundPlayer(_sPathTarjetaSinRegistroSalida);
+                                                    //simpleSound.Play();
+                                                    //Presentacion = Pantalla.TarjetaSinRegistroSalida;
+                                                    //break;
+                                                    ////General_Events = "TarjetaSinRegistroSalida";
+                                                    //////ok = true;
+                                                    //////bAutoVencida = false;
+                                                    //////bTarjetaInvalida = false;
+                                                    //////CntAuto = i;
+                                                    //////break;
+                                                    #endregion
+
+                                                   SoundPlayer simpleSoundNew = new SoundPlayer(_sPathMensualidadUso);
+                                                    simpleSoundNew.Play();
+                                                    _IdCardAutorizado = "USO";
+
+                                                    if (Globales.sCarrilMixto == "NO")
                                                     {
                                                         VehiculoMoto = true;
                                                         #region Tarjeta
                                                         //escribir
                                                         //_Tarjeta.ActiveCycle = true;
+                                                        //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
+                                                        //_Tarjeta.EntrancePlate = _sPlaca;
                                                         //_Tarjeta.DateTimeEntrance = _FechaCompleta;
                                                         //_Tarjeta.EntranceModule = Globales.sSerial;
-                                                        //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.MOTORCYCLE;
 
                                                         //_frmPrincipal_Presenter.Escribirtarjeta();
                                                         #endregion
@@ -1674,17 +1572,28 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                     else
                                                     {
                                                         VehiculoMoto = false;
-
                                                         #region Tarjeta
                                                         //escribir
                                                         //_Tarjeta.ActiveCycle = true;
+                                                        //_Tarjeta.EntrancePlate = _sPlaca;
+                                                        //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
                                                         //_Tarjeta.DateTimeEntrance = _FechaCompleta;
                                                         //_Tarjeta.EntranceModule = Globales.sSerial;
-                                                        //_Tarjeta.TypeVehicle = TYPEVEHICLE_TARJETAPARKING_V1.AUTOMOBILE;
 
                                                         //_frmPrincipal_Presenter.Escribirtarjeta();
                                                         #endregion
                                                     }
+                                                    Presentacion = Pantalla.SalvaPantallas;
+                                                    TbTag.Text = "";
+                                                    _IdCardAutorizado = "";
+                                                    //Presentacion = Pantalla.TarjetaSinRegistroSalida;
+                                                    break;
+                                                    ////General_Events = "TarjetaSinRegistroSalida";
+                                                    ////ok = true;
+                                                    ////bAutoVencida = false;
+                                                    ////bTarjetaInvalida = false;
+                                                    ////CntAuto = i;
+                                                    ////break;
                                                 }
 
                                             }
@@ -1735,9 +1644,10 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                                     if (ok2)
                                     {
-                                        RegistroEntradaAutorizado(CntAuto);
                                         TbTag.Text = string.Empty;
                                         _IdCardAutorizado = "";
+                                        RegistroEntradaAutorizado(CntAuto);
+                                        
 
                                     }
                                     //else if (bAutoVencida2)
@@ -2324,7 +2234,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             if (e.KeyChar == (char)13)
             {
 
-                if (TbTag.Text != string.Empty && TbTag.Text.Length <= 10)
+                if (TbTag.Text != string.Empty && TbTag.Text.Length <= 17)
                 {
                     string IdCarAutorizadoNew = TbTag.Text.Trim();
 
