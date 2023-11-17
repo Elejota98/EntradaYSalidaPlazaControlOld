@@ -1047,9 +1047,9 @@ namespace MC.ModuloSalida.WinForm.Presenter
             }
             else
             {
-                View.General_Events = "Error (Presenter EnviarImagenesServidor): " + oResultadoOperacion.Mensaje;
+                View.General_Events = "Error (Presenter - Sin Cortesía): " + oResultadoOperacion.Mensaje;
 
-                ok = true;
+                ok = false;
             }
             return ok;
         }
