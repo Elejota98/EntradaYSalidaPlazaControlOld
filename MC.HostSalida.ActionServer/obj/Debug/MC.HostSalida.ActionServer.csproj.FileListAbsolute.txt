@@ -219,3 +219,16 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServe
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.HostSalida.ActionServer.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.HostSalida.ActionServer.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.SalidaService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.BaseService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.DataService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.SalidaService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.DataService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.pdb

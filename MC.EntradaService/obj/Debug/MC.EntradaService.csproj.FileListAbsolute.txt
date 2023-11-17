@@ -252,3 +252,16 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Deb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.EntradaService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.EntradaService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.BaseService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.BusinessService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.DataService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.Utilidades.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.BaseService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.DataService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.pdb

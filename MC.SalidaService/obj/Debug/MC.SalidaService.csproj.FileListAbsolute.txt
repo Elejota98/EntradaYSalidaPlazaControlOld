@@ -219,3 +219,16 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.SalidaService\bin\Debu
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.SalidaService\obj\Debug\MC.SalidaService.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.SalidaService\obj\Debug\MC.SalidaService.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.SalidaService\obj\Debug\MC.SalidaService.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SalidaService\bin\Debug\MC.SalidaService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SalidaService\bin\Debug\MC.SalidaService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SalidaService\bin\Debug\MC.BaseService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SalidaService\bin\Debug\MC.BusinessService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SalidaService\bin\Debug\MC.DataService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SalidaService\bin\Debug\MC.Utilidades.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SalidaService\bin\Debug\MC.BaseService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SalidaService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SalidaService\bin\Debug\MC.DataService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SalidaService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SalidaService\obj\Debug\MC.SalidaService.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SalidaService\obj\Debug\MC.SalidaService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.SalidaService\obj\Debug\MC.SalidaService.pdb

@@ -219,3 +219,16 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionS
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.Sincronizacion.ActionServer.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.Sincronizacion.ActionServer.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.SincronizacionService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.BaseService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.DataService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.SincronizacionService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.DataService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.pdb

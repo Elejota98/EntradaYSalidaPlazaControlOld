@@ -219,3 +219,16 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\MC.EntradaService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\MC.BaseService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\MC.DataService.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\bin\MC.DataService.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb

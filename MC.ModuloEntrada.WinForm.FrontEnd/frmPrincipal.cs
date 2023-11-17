@@ -263,6 +263,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             SsinTar++;
             Ssuspe++;
             cnt_timeout++;
+
             switch (_Presentacion)
             {
                   
@@ -295,7 +296,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                     //_frmPrincipal_Presenter.StateDispenserNew();
 
                     //if (!_SinTarjetas)
-                    //{
+                    //{  
                         if (Convert.ToBoolean(Globales.sPLC) == true)
                         {
 
@@ -1381,7 +1382,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                         //_frmPrincipal_Presenter.Escribirtarjeta();
                                                         #endregion
                                                     }
-                                                    Presentacion = Pantalla.SalvaPantallas;
+                                                    Presentacion = Pantalla.RetireTarjeta;
                                                     TbTag.Text = "";
                                                     _IdCardAutorizado = "";
                                                     //Presentacion = Pantalla.TarjetaSinRegistroSalida;
@@ -1459,6 +1460,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                     RegistroEntrada();
                                     TbTag.Text = "";
                                     _IdCardAutorizado = "";
+                                    //Presentacion = Pantalla.SalvaPantallas;
 
                                     //if (_VehiculoMueble==false)
                                     //{
@@ -1491,7 +1493,6 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                             }
                             else if (_IdCardAutorizado != string.Empty)
                             {
-
                                 SoundPlayer simpleSound = new SoundPlayer(_sPathBienvenido);
                                 simpleSound.Play();
 
@@ -3237,7 +3238,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             //{
             //    Console.WriteLine(ex.Message);
             //}
-            #endregion
+            #endregion           
             string Placa = string.Empty;
             string rutaPlaca = string.Empty;
 

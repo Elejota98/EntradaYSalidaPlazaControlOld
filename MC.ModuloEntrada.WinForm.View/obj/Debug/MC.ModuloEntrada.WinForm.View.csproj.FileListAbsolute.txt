@@ -210,3 +210,14 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.dll
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.pdb
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.pdb
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.pdb
