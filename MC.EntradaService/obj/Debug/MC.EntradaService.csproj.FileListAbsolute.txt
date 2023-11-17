@@ -265,3 +265,16 @@ C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Entra
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.EntradaService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.EntradaService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.BaseService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.BusinessService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.DataService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.Utilidades.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.BaseService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.DataService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.pdb

@@ -229,3 +229,14 @@ C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.WCFPr
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.WCFProxy\obj\Debug\MC.WCFProxy.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.WCFProxy\obj\Debug\MC.WCFProxy.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.WCFProxy\obj\Debug\MC.WCFProxy.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.WCFProxy\bin\Debug\MC.WCFProxy.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.WCFProxy\bin\Debug\MC.WCFProxy.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.WCFProxy\bin\Debug\MC.Exception.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.WCFProxy\bin\Debug\MC.Global.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.WCFProxy\bin\Debug\MC.Utilidades.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.WCFProxy\bin\Debug\MC.Exception.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.WCFProxy\bin\Debug\MC.Global.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.WCFProxy\bin\Debug\MC.Utilidades.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.WCFProxy\obj\Debug\MC.WCFProxy.csprojResolveAssemblyReference.cache
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.WCFProxy\obj\Debug\MC.WCFProxy.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.WCFProxy\obj\Debug\MC.WCFProxy.pdb

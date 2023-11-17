@@ -1038,6 +1038,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
 
                                             if (ValidarSalida(SecuenciaTransaccion))
                                             {
+                                                _IdTransaccion = "";
                                                 RegistroSalida();
                                                 bTarjetaInvalida = false;
                                             }
@@ -1078,6 +1079,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
 
                         if (ValidarSalida(SecuenciaTransaccion))
                         {
+                            _IdTransaccion = "";
                             RegistroSalida();
                             bTarjetaInvalida = false;
                         }
@@ -1198,7 +1200,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                             Presentacion = Pantalla.SalvaPantallas;
                             _IdCardAutorizado = IdCardAutorizado;
                             _IdCardAutorizado = IdCardAutorizado;
-
+                            _IdTransaccion = string.Empty;
                         }
                     }
                    
@@ -2407,7 +2409,6 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
         {
             if (e.KeyChar == (char)13)
             {
-
                 if (TbTag.Text != string.Empty && TbTag.Text.Length <= 10)
                 {
                     string IdCarAutorizadoNew = TbTag.Text.Trim();

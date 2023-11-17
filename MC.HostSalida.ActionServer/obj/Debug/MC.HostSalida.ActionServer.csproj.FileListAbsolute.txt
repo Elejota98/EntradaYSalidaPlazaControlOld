@@ -232,3 +232,16 @@ C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostS
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.HostSalida.ActionServer.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.HostSalida.ActionServer.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.SalidaService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.BaseService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.DataService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.SalidaService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.DataService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.pdb

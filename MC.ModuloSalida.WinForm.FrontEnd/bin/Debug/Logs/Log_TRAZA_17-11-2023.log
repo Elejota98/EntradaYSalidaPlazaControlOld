@@ -46,3 +46,316 @@
 2023/11/17 09:49:19.801 - MENSAJE: 
 2023/11/17 09:49:19.801 - MENSAJE: 
 2023/11/17 09:49:19.812 - MENSAJE: 
+2023/11/17 03:39:49.516 - INICIO REGISTRO
+2023/11/17 03:39:49.524 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/17 03:39:49.701 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/17 03:39:50.294 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/17 03:39:50.320 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/17 03:39:50.342 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/17 03:39:50.450 - MENSAJE: 
+2023/11/17 03:40:29.464 - INICIO REGISTRO
+2023/11/17 03:40:29.473 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/17 03:40:29.665 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/17 03:40:34.290 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/17 03:40:34.319 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/17 03:40:34.349 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/17 03:40:34.625 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:40:38.701 - MENSAJE: ID TARJETA = 2FE600
+2023/11/17 03:40:38.758 - MENSAJE: TARJETA ESTADO TRUE
+2023/11/17 03:40:38.768 - MENSAJE: Obtener Datos Autorizado ok
+2023/11/17 03:40:38.768 - MENSAJE: Comparacion IDTARJETA OK
+2023/11/17 03:40:38.769 - MENSAJE: Comparacion IDESTACIONAMIENTO OK
+2023/11/17 03:40:38.771 - MENSAJE: Validacion Fechas Vigencia ok
+2023/11/17 03:40:38.810 - MENSAJE: Secuencia 00010101000000311
+2023/11/17 03:40:38.877 - MENSAJE: RegistrarSalida 
+2023/11/17 03:40:57.619 - MENSAJE: 
+2023/11/17 03:40:57.630 - MENSAJE: 
+2023/11/17 03:40:58.638 - MENSAJE: 
+2023/11/17 03:40:58.638 - MENSAJE: 
+2023/11/17 03:40:58.649 - MENSAJE: 
+2023/11/17 03:41:02.745 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:41:03.729 - MENSAJE: 
+2023/11/17 03:41:07.731 - MENSAJE: ID TARJETA = 2FE600
+2023/11/17 03:41:07.740 - MENSAJE: TARJETA ESTADO TRUE
+2023/11/17 03:41:07.749 - MENSAJE: Obtener Datos Autorizado ok
+2023/11/17 03:41:07.750 - MENSAJE: Comparacion IDTARJETA OK
+2023/11/17 03:41:07.751 - MENSAJE: Comparacion IDESTACIONAMIENTO OK
+2023/11/17 03:41:07.751 - MENSAJE: Validacion Fechas Vigencia ok
+2023/11/17 03:41:07.782 - MENSAJE: Secuencia 00010101000000311
+2023/11/17 03:41:07.814 - MENSAJE: RegistrarSalida 
+2023/11/17 03:41:12.744 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:42:03.993 - INICIO REGISTRO
+2023/11/17 03:42:04.001 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/17 03:42:04.172 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/17 03:42:04.657 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/17 03:42:04.684 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/17 03:42:04.704 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/17 03:42:04.812 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:42:05.049 - MENSAJE: 
+2023/11/17 03:42:05.054 - MENSAJE: 
+2023/11/17 03:42:06.023 - MENSAJE: 
+2023/11/17 03:42:30.966 - MENSAJE: ID TARJETA = 2FE600
+2023/11/17 03:42:33.607 - MENSAJE: TARJETA ESTADO TRUE
+2023/11/17 03:42:37.018 - MENSAJE: Obtener Datos Autorizado ok
+2023/11/17 03:42:39.091 - MENSAJE: Comparacion IDTARJETA OK
+2023/11/17 03:42:41.376 - MENSAJE: Comparacion IDESTACIONAMIENTO OK
+2023/11/17 03:42:45.296 - MENSAJE: Validacion Fechas Vigencia ok
+2023/11/17 03:43:04.126 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:43:13.836 - MENSAJE: ID TARJETA = 2FE500
+2023/11/17 03:43:13.855 - MENSAJE: TARJETA ESTADO TRUE
+2023/11/17 03:43:13.867 - MENSAJE: Obtener Datos Autorizado ok
+2023/11/17 03:43:13.868 - MENSAJE: Comparacion IDTARJETA OK
+2023/11/17 03:43:13.868 - MENSAJE: Comparacion IDESTACIONAMIENTO OK
+2023/11/17 03:43:13.869 - MENSAJE: Validacion Fechas Vigencia ok
+2023/11/17 03:43:13.883 - MENSAJE: Secuencia 00010101000000311
+2023/11/17 03:43:13.939 - MENSAJE: RegistrarSalida 
+2023/11/17 03:43:18.155 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:43:32.441 - MENSAJE: 
+2023/11/17 03:43:32.454 - MENSAJE: 
+2023/11/17 03:43:33.229 - MENSAJE: 
+2023/11/17 03:43:33.229 - MENSAJE: 
+2023/11/17 03:43:33.239 - MENSAJE: 
+2023/11/17 03:43:34.240 - MENSAJE: 
+2023/11/17 03:43:37.302 - MENSAJE: ID TARJETA = 2FE500
+2023/11/17 03:43:37.309 - MENSAJE: TARJETA ESTADO TRUE
+2023/11/17 03:43:37.317 - MENSAJE: Obtener Datos Autorizado ok
+2023/11/17 03:43:37.317 - MENSAJE: Comparacion IDTARJETA OK
+2023/11/17 03:43:37.318 - MENSAJE: Comparacion IDESTACIONAMIENTO OK
+2023/11/17 03:43:37.319 - MENSAJE: Validacion Fechas Vigencia ok
+2023/11/17 03:43:37.341 - MENSAJE: Secuencia 00010101000000311
+2023/11/17 03:43:37.364 - MENSAJE: RegistrarSalida 
+2023/11/17 03:43:42.296 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:43:54.300 - MENSAJE: Front End Secuencia IdTranasaccion: 2023111714331911
+2023/11/17 03:43:54.389 - MENSAJE: 17/11/2023 3:35:39 p. m.
+2023/11/17 03:43:54.390 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/11/17 03:43:54.411 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/11/17 03:43:54.411 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/11/17 03:43:54.412 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/11/17 03:43:54.413 - MENSAJE: HORAS :
+2023/11/17 03:43:54.413 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/11/17 03:43:59.383 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:44:02.361 - MENSAJE: Front End Secuencia IdTranasaccion: 2023111714331911
+2023/11/17 03:44:02.412 - MENSAJE: 17/11/2023 3:35:39 p. m.
+2023/11/17 03:44:02.413 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/11/17 03:44:02.424 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/11/17 03:44:02.425 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/11/17 03:44:02.426 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/11/17 03:44:02.427 - MENSAJE: HORAS :
+2023/11/17 03:44:02.428 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/11/17 03:44:07.421 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:44:10.383 - MENSAJE: Front End Secuencia IdTranasaccion: 2023111714331911
+2023/11/17 03:44:10.446 - MENSAJE: 17/11/2023 3:35:39 p. m.
+2023/11/17 03:44:10.447 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/11/17 03:44:10.459 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/11/17 03:44:10.460 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/11/17 03:44:10.461 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/11/17 03:44:10.462 - MENSAJE: HORAS :
+2023/11/17 03:44:10.462 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/11/17 03:44:11.687 - MENSAJE: 
+2023/11/17 03:44:11.697 - MENSAJE: 
+2023/11/17 03:44:15.430 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:44:16.481 - MENSAJE: 
+2023/11/17 03:44:18.433 - MENSAJE: Front End Secuencia IdTranasaccion: 2023111714331911
+2023/11/17 03:44:18.471 - MENSAJE: 17/11/2023 3:35:39 p. m.
+2023/11/17 03:44:18.472 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/11/17 03:44:18.482 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/11/17 03:44:18.483 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/11/17 03:44:18.487 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/11/17 03:44:18.488 - MENSAJE: HORAS :
+2023/11/17 03:44:18.488 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/11/17 03:44:33.949 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:45:37.901 - INICIO REGISTRO
+2023/11/17 03:45:37.911 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/17 03:45:38.086 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/17 03:45:38.548 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/17 03:45:38.576 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/17 03:45:38.599 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/17 03:45:38.712 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:45:44.912 - MENSAJE: Front End Secuencia IdTranasaccion: 2023111714214411
+2023/11/17 03:45:44.982 - MENSAJE: 17/11/2023 3:35:50 p. m.
+2023/11/17 03:45:44.982 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/11/17 03:45:45.011 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/11/17 03:45:45.012 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/11/17 03:45:45.013 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/11/17 03:45:45.014 - MENSAJE: HORAS :
+2023/11/17 03:45:45.015 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/11/17 03:45:57.344 - MENSAJE: 
+2023/11/17 03:45:57.355 - MENSAJE: 
+2023/11/17 03:45:58.010 - MENSAJE: 
+2023/11/17 03:45:58.010 - MENSAJE: 
+2023/11/17 03:45:58.021 - MENSAJE: 
+2023/11/17 03:46:02.071 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:46:03.100 - MENSAJE: 
+2023/11/17 03:46:08.125 - MENSAJE: 
+2023/11/17 03:46:08.135 - MENSAJE: 
+2023/11/17 03:46:09.121 - MENSAJE: 
+2023/11/17 03:46:09.121 - MENSAJE: 
+2023/11/17 03:46:09.130 - MENSAJE: 
+2023/11/17 03:46:10.133 - MENSAJE: 
+2023/11/17 03:46:10.133 - MENSAJE: 
+2023/11/17 03:46:10.144 - MENSAJE: 
+2023/11/17 03:46:11.184 - MENSAJE: 
+2023/11/17 03:46:17.081 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117142144112023111715021611
+2023/11/17 03:46:17.126 - MENSAJE: ErrorSystem.OverflowException: Valor demasiado grande o demasiado pequeño para Int64.
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:46:18.090 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117142144112023111715021611
+2023/11/17 03:46:18.128 - MENSAJE: ErrorSystem.OverflowException: Valor demasiado grande o demasiado pequeño para Int64.
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:46:19.091 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117142144112023111715021611
+2023/11/17 03:46:19.120 - MENSAJE: ErrorSystem.OverflowException: Valor demasiado grande o demasiado pequeño para Int64.
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:46:20.093 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117142144112023111715021611
+2023/11/17 03:46:20.128 - MENSAJE: ErrorSystem.OverflowException: Valor demasiado grande o demasiado pequeño para Int64.
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:46:21.098 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117142144112023111715021611
+2023/11/17 03:46:21.129 - MENSAJE: ErrorSystem.OverflowException: Valor demasiado grande o demasiado pequeño para Int64.
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:46:22.103 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117142144112023111715021611
+2023/11/17 03:46:22.136 - MENSAJE: ErrorSystem.OverflowException: Valor demasiado grande o demasiado pequeño para Int64.
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:46:23.098 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117142144112023111715021611
+2023/11/17 03:46:23.131 - MENSAJE: ErrorSystem.OverflowException: Valor demasiado grande o demasiado pequeño para Int64.
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:46:24.106 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117142144112023111715021611
+2023/11/17 03:46:24.140 - MENSAJE: ErrorSystem.OverflowException: Valor demasiado grande o demasiado pequeño para Int64.
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:46:25.094 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117142144112023111715021611
+2023/11/17 03:46:25.134 - MENSAJE: ErrorSystem.OverflowException: Valor demasiado grande o demasiado pequeño para Int64.
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:46:26.104 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117142144112023111715021611
+2023/11/17 03:46:26.135 - MENSAJE: ErrorSystem.OverflowException: Valor demasiado grande o demasiado pequeño para Int64.
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:46:27.102 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117142144112023111715021611
+2023/11/17 03:46:27.134 - MENSAJE: ErrorSystem.OverflowException: Valor demasiado grande o demasiado pequeño para Int64.
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:46:28.106 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117142144112023111715021611
+2023/11/17 03:46:28.143 - MENSAJE: ErrorSystem.OverflowException: Valor demasiado grande o demasiado pequeño para Int64.
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:46:29.100 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117142144112023111715021611
+2023/11/17 03:46:29.134 - MENSAJE: ErrorSystem.OverflowException: Valor demasiado grande o demasiado pequeño para Int64.
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:46:33.651 - INICIO REGISTRO
+2023/11/17 03:46:33.660 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/17 03:46:33.872 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/17 03:46:34.325 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/17 03:46:34.350 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/17 03:46:34.370 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/17 03:46:34.481 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:46:41.711 - MENSAJE: Front End Secuencia IdTranasaccion: 2023111715021611
+2023/11/17 03:46:41.793 - MENSAJE: 17/11/2023 3:44:16 p. m.
+2023/11/17 03:46:41.793 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/11/17 03:46:41.810 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/11/17 03:46:41.811 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/11/17 03:46:41.812 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/11/17 03:46:41.812 - MENSAJE: HORAS :
+2023/11/17 03:46:41.813 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/11/17 03:47:00.409 - MENSAJE: 
+2023/11/17 03:47:00.419 - MENSAJE: 
+2023/11/17 03:47:00.830 - MENSAJE: 
+2023/11/17 03:47:00.829 - MENSAJE: 
+2023/11/17 03:47:00.841 - MENSAJE: 
+2023/11/17 03:47:04.893 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:47:05.883 - MENSAJE: 
+2023/11/17 03:47:09.895 - MENSAJE: 
+2023/11/17 03:47:09.897 - MENSAJE: 
+2023/11/17 03:47:09.904 - MENSAJE: 
+2023/11/17 03:47:10.888 - MENSAJE: 
+2023/11/17 03:47:10.888 - MENSAJE: 
+2023/11/17 03:47:10.899 - MENSAJE: 
+2023/11/17 03:47:11.911 - MENSAJE: 
+2023/11/17 03:47:11.912 - MENSAJE: 
+2023/11/17 03:47:11.922 - MENSAJE: 
+2023/11/17 03:47:12.910 - MENSAJE: 
+2023/11/17 03:47:15.922 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117150216112FE600 2FE500
+2023/11/17 03:47:15.971 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:47:16.951 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117150216112FE600 2FE500
+2023/11/17 03:47:16.985 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:47:17.961 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117150216112FE600 2FE500
+2023/11/17 03:47:17.999 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:47:18.956 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117150216112FE600 2FE500
+2023/11/17 03:47:18.991 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:47:19.967 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117150216112FE600 2FE500
+2023/11/17 03:47:20.004 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:47:20.962 - MENSAJE: Front End Secuencia IdTranasaccion: 20231117150216112FE600 2FE500
+2023/11/17 03:47:20.999 - MENSAJE: ErrorSystem.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   en System.Convert.ToInt64(String value)
+   en MC.ModuloSalida.WinForm.FrontEnd.frmPrincipal.ValidarSalida(String SecuenciaTransaccion) en c:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.FrontEnd\frmPrincipal.cs:línea 1784
+2023/11/17 03:47:36.790 - INICIO REGISTRO
+2023/11/17 03:47:36.798 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/17 03:47:36.972 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/17 03:47:37.409 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/17 03:47:37.442 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/17 03:47:37.462 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/17 03:47:37.571 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:49:30.443 - MENSAJE: Front End Secuencia IdTranasaccion: 2023111714385711
+2023/11/17 03:49:32.228 - MENSAJE: 17/11/2023 3:35:18 p. m.
+2023/11/17 03:49:32.229 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/11/17 03:49:32.246 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/11/17 03:49:32.246 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/11/17 03:49:32.247 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/11/17 03:49:32.248 - MENSAJE: HORAS :
+2023/11/17 03:49:32.248 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/11/17 03:49:42.898 - MENSAJE: 17/11/2023 3:35:18 p. m.
+2023/11/17 03:49:43.963 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/11/17 03:49:50.575 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/11/17 03:49:51.246 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/11/17 03:49:53.724 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/11/17 03:49:54.806 - MENSAJE: HORAS :
+2023/11/17 03:49:56.662 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO
+2023/11/17 03:50:05.350 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/17 03:51:02.824 - MENSAJE: Front End Secuencia IdTranasaccion: 2023111715100611
+2023/11/17 03:51:03.206 - MENSAJE: 17/11/2023 3:48:20 p. m.
+2023/11/17 03:51:03.207 - MENSAJE: ANTES DE OBTENER EVENTO
+2023/11/17 03:51:03.218 - MENSAJE: ERROR Presenter ObtenerEvento
+2023/11/17 03:51:03.218 - MENSAJE: DESPUES DE OBTENER EVENTO
+2023/11/17 03:51:03.219 - MENSAJE: CALCULO TIEMPO FECHA ACTUAL CON LA FECHA DEL EVENTO
+2023/11/17 03:51:03.219 - MENSAJE: HORAS :
+2023/11/17 03:51:03.220 - MENSAJE: HORAS VACIO CALCULA TIMEPO DE REPAGO

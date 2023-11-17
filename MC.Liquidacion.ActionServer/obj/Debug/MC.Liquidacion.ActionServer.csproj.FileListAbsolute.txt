@@ -232,3 +232,16 @@ C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Liqui
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
