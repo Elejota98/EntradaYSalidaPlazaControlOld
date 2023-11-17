@@ -1247,7 +1247,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                                 else
                                 {
-                                    if (_Moto)
+
+                                    if (Globales.sCarrilMixto == "NO")
                                     {
 
                                         VehiculoMoto = true;
@@ -2644,7 +2645,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             oTransaccion.ModuloEntrada = Globales.sSerial;
             oTransaccion.PlacaEntrada = _sPlaca;
 
-            if (_Moto)
+            if (VehiculoMoto)
             {
                 oTransaccion.TipoVehiculo = 2;
             }
@@ -3264,8 +3265,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             }
             else
             {
-                //_sPlaca = "------";
-                _sPlaca = "FPQ674";
+                _sPlaca = "------";
             }
 
         }

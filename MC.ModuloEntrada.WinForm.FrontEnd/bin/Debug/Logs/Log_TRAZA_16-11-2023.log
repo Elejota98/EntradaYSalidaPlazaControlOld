@@ -1,0 +1,33 @@
+2023/11/16 10:18:45.892 - INICIO REGISTRO
+2023/11/16 10:18:49.362 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/16 10:18:50.562 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/16 10:18:56.377 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/16 10:18:57.549 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/16 10:18:58.761 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/16 10:19:05.098 - MENSAJE: 
+2023/11/16 10:19:12.143 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/16 10:19:12.254 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/11/16 10:19:12.333 - MENSAJE: (FrontEnd Antes CapturaPlaca) FPQ674
+2023/11/16 10:19:12.376 - MENSAJE: 
+2023/11/16 10:19:12.407 - MENSAJE: 
+2023/11/16 10:19:12.429 - MENSAJE: oAutorizado.PlacaAuto : FPQ674
+2023/11/16 10:19:13.072 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/11/16 10:19:15.933 - MENSAJE: 
+2023/11/16 10:19:15.933 - MENSAJE: 
+2023/11/16 10:19:15.990 - MENSAJE: 
+2023/11/16 10:19:15.995 - MENSAJE: 
+2023/11/16 10:19:16.354 - MENSAJE: 
+2023/11/16 10:19:17.393 - MENSAJE: 
+2023/11/16 10:19:30.219 - INICIO REGISTRO
+2023/11/16 10:19:30.226 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/16 10:19:30.338 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/16 10:19:30.758 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/16 10:19:30.784 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/16 10:19:30.803 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/16 10:19:30.829 - MENSAJE: 
+2023/11/16 10:19:30.912 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/16 10:19:35.755 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/11/16 10:19:36.955 - MENSAJE: (FrontEnd Antes CapturaPlaca) FPQ674
+2023/11/16 10:19:42.211 - MENSAJE: 
+2023/11/16 10:19:42.216 - MENSAJE: 
+2023/11/16 10:19:43.385 - MENSAJE: 
