@@ -86,6 +86,5 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BusinessService\obj\De
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BusinessService\bin\Debug\MC.BusinessService.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
-C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BusinessService\obj\Debug\MC.BusinessService.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BusinessService\obj\Debug\MC.BusinessService.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BusinessService\obj\Debug\MC.BusinessService.pdb

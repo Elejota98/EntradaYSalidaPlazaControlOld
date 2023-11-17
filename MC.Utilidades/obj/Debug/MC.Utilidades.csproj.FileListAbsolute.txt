@@ -89,6 +89,5 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Utilidades\obj\Debug\M
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.Utilidades\obj\Debug\MC.Utilidades.pdb
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Utilidades\bin\Debug\MC.Utilidades.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Utilidades\bin\Debug\MC.Utilidades.pdb
-C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Utilidades\obj\Debug\MC.Utilidades.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Utilidades\obj\Debug\MC.Utilidades.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Utilidades\obj\Debug\MC.Utilidades.pdb

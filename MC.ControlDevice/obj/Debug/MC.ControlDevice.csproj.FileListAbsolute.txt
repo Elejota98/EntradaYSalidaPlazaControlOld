@@ -49,6 +49,5 @@ C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Contr
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ControlDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ControlDevice\bin\Debug\EGlobalT.Device.Tools.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ControlDevice\bin\Debug\MC.BusinessObjects.pdb
-C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.pdb
