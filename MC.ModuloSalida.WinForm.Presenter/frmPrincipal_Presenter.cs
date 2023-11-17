@@ -1111,7 +1111,10 @@ namespace MC.ModuloSalida.WinForm.Presenter
                 case StatesControl.Conexion_Exitosa:
                     View.ControlReady = true;
                     //oResultadoOperacion = i.resultString;
-                    View.General_Events = oResultadoOperacion.Mensaje;
+                    if (oResultadoOperacion.Mensaje != "")
+                    {
+                        View.General_Events = oResultadoOperacion.Mensaje;
+                    }
                     break;
                 #endregion
 
@@ -1164,7 +1167,10 @@ namespace MC.ModuloSalida.WinForm.Presenter
                 #region NoHayCarro
                 case StatesControl.NoHayCarro:
                     View.VehiculoMueble = false;
-                    View.General_Events = oResultadoOperacion.Mensaje;
+                    if (oResultadoOperacion.Mensaje != "")
+                    {
+                        View.General_Events = oResultadoOperacion.Mensaje;
+                    }
                     break;
                 #endregion
 

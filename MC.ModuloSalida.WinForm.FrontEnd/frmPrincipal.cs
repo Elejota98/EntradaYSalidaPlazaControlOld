@@ -1888,6 +1888,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                         {
                                             SoundPlayer simpleSound = new SoundPlayer(_sPathExcedioTiempo);
                                             simpleSound.Play();
+                                            _IdCardAutorizado = "";
+                                            _IdTransaccion = "";
+                                            TbTag.Text = "";
                                             Presentacion = Pantalla.ExcedioTiempo;
                                         }
                                         else
