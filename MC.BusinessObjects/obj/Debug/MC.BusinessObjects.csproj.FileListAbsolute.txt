@@ -146,3 +146,4 @@ C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.BusinessObjects\bin\D
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache
