@@ -1,0 +1,7 @@
+2023/11/18 10:18:08.493 - INICIO REGISTRO
+2023/11/18 10:18:08.503 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/18 10:18:08.673 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/18 10:18:09.567 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/18 10:18:09.623 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/18 10:18:09.661 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/18 10:18:09.924 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
