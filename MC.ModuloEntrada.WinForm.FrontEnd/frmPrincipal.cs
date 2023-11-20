@@ -1652,7 +1652,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                     else
                     {
                         _frmPrincipal_Presenter.EstadoControl();
-                        if (_VehiculoMueble==true)
+                        if (_VehiculoTalanquera == true)
                         {
                             bool sound = false;
                             //_frmPrincipal_Presenter.AlistarTarjeta();
@@ -1717,13 +1717,18 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                     }
                     else
                     {
-                        //_frmPrincipal_Presenter.EstadoControl();
-                        if (cnt_timeout == (int)TimeOut.TimeOut_Alertas)
+                        _frmPrincipal_Presenter.EstadoControl();
+                        if (_VehiculoTalanquera == false)
                         {
-                           Presentacion = Pantalla.SalvaPantallas;
-                            //VehiculoTalanquera = false;
-                            _IdCardAutorizado = IdCardAutorizado;
+                            Presentacion = Pantalla.SalvaPantallas;
                         }
+                        //if (cnt_timeout == (int)TimeOut.TimeOut_Alertas)
+                        //{
+                        //    Thread.Sleep(1300);
+                        //   Presentacion = Pantalla.SalvaPantallas;
+                        //    //VehiculoTalanquera = false;
+                        //    _IdCardAutorizado = IdCardAutorizado;
+                        //}
                     }
                     break;
 
@@ -2216,7 +2221,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             }
             
             _frmPrincipal_Presenter.RegistrarEntrada(oTransaccion);
-            Imprimir(oTransaccion);
+            //Imprimir(oTransaccion);
             EliminarPlaca();
             TbTag.Text = "";
             _IdCardAutorizado = "";

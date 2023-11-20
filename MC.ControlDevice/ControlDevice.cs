@@ -82,6 +82,7 @@ namespace MC.ControlDevice
                         oResultadoOperacion.Mensaje = "Vehiculo en mueble";
 
                     }
+                    //string BB = Response.Substring(4, 1);
                     if (Response.Substring(4, 1) == "1")
                     {
                         //_sBarrera = true;
