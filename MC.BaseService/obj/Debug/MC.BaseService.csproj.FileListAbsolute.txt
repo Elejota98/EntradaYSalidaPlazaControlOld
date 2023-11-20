@@ -88,7 +88,6 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.pdb
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BaseService\bin\Debug\MC.BaseService.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BaseService\bin\Debug\MC.BaseService.pdb
-C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.pdb
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache

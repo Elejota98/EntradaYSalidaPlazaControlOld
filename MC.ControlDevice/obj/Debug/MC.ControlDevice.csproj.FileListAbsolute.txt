@@ -50,6 +50,7 @@ C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Contr
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ControlDevice\bin\Debug\MC.BusinessObjects.pdb
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.pdb
+<<<<<<< HEAD
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ControlDevice\bin\Debug\MC.ControlDevice.dll
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ControlDevice\bin\Debug\MC.ControlDevice.pdb
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ControlDevice\bin\Debug\MC.BusinessObjects.dll
@@ -59,3 +60,6 @@ C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ControlDevice\bin\Deb
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.dll
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.pdb
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.csprojResolveAssemblyReference.cache
+=======
+C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.csprojResolveAssemblyReference.cache
+>>>>>>> b30f843e1b0c0bd28f568c04ce5eb06191c81b7c

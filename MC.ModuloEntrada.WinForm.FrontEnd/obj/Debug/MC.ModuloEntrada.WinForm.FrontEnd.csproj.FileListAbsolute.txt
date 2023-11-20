@@ -1379,8 +1379,6 @@ D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\RdlCompile.cache
 D:\PROYECTOS\PLAZA CENTRAL\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\RdlCompile.compiled
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe.config
-C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\Interop.ShockwaveFlashObjects.dll
-C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csproj.ResolveComReference.cache
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.exe
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.pdb
@@ -1461,8 +1459,6 @@ C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Modul
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.WCFProxy.pdb
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Exception.pdb
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\MC.Global.pdb
-C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\Interop.ShockwaveFlashObjects.dll
-C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.frmPrincipal.resources
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.FrontEnd\obj\Debug\MC.ModuloEntrada.WinForm.FrontEnd.Properties.Resources.resources
