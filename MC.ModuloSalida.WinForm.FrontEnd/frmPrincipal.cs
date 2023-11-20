@@ -333,7 +333,6 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                             Autorizado oAutorizado = new Autorizado();
                             oAutorizado.PlacaAuto = _sPlaca;
 
-
                             if (_frmPrincipal_Presenter.ObtenerAutorizadoPlaca(oAutorizado))
                             {
                                 oAutorizado.IdTarjeta = _lstDtoAutorizado[0].IdTarjeta.Trim('\t');
@@ -1094,9 +1093,6 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                             bTarjetaInvalida = true;
                         }
                     }
-
-
-
                     else
                     {
                         if (cnt_timeout == (int)TimeOut.TimeOut_TarjetaMocha)
@@ -1199,14 +1195,19 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                     }
                     else
                     {
-                        //_frmPrincipal_Presenter.EstadoControl();
-                        if (cnt_timeout == (int)TimeOut.TimeOut_Alertas)
+                        _frmPrincipal_Presenter.EstadoControl();
+                        if (_VehiculoTalanquera == false)
                         {
+                            TbTag.Text = "";
+                            _IdTransaccion = "";
+                            _IdCardAutorizado = "";
                             Presentacion = Pantalla.SalvaPantallas;
-                            _IdCardAutorizado = IdCardAutorizado;
-                            _IdCardAutorizado = IdCardAutorizado;
-                            _IdTransaccion = string.Empty;
+
                         }
+                        //if (cnt_timeout == (int)TimeOut.TimeOut_Alertas)
+                        //{
+                           
+                        //}
                     }
                    
                     break;
@@ -1986,6 +1987,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                 }
                 else
                 {
+                    _IdCardAutorizado = "";
+                    _IdTransaccion = "";
+                    TbTag.Text = "";
                     ok = true;
                 }
 

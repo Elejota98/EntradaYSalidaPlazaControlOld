@@ -148,3 +148,17 @@
 2023/11/20 11:03:04.574 - MENSAJE: 
 2023/11/20 11:03:04.585 - MENSAJE: 
 2023/11/20 11:03:05.587 - MENSAJE: 
+2023/11/20 05:03:49.187 - INICIO REGISTRO
+2023/11/20 05:03:49.195 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/20 05:03:49.382 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/20 05:03:49.982 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/20 05:03:50.013 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/20 05:03:50.036 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/20 05:03:50.276 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/20 05:04:32.723 - INICIO REGISTRO
+2023/11/20 05:04:32.732 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/20 05:04:32.908 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/20 05:04:33.378 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/20 05:04:33.413 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/20 05:04:33.434 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/20 05:04:33.542 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
