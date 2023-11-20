@@ -1530,7 +1530,7 @@ namespace MC.ModuloEntrada.WinForm.Presenter
                 #region VehiculoMueble
                 case StatesControl.VehiculoMueble:
                     View.VehiculoMueble = true;
-                    View.VehiculoTalanquera = false;
+                    View.VehiculoTalanquera = true;
                     if (i.resultString.EntidadDatos != null)
                     {
                         if (i.resultString.EntidadDatos == "Carro")
@@ -1563,7 +1563,6 @@ namespace MC.ModuloEntrada.WinForm.Presenter
                 #region NoHayCarro
                 case StatesControl.NoHayCarro:
                     View.VehiculoMueble = false;
-                    View.VehiculoTalanquera = false;
                     View.General_Events = oResultadoOperacion.Mensaje;
                     break;
                 #endregion
