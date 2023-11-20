@@ -1167,6 +1167,8 @@ namespace MC.ModuloSalida.WinForm.Presenter
                 #region NoHayCarro
                 case StatesControl.NoHayCarro:
                     View.VehiculoMueble = false;
+                    View.VehiculoTalanquera = false;
+
                     if (oResultadoOperacion.Mensaje != "")
                     {
                         View.General_Events = oResultadoOperacion.Mensaje;

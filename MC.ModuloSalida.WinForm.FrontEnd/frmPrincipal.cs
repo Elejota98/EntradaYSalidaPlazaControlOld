@@ -427,10 +427,11 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
 
                                         if (ok)
                                         {
-                                            RegistroSalidaAutorizado(CntAuto);
                                             _IdCardAutorizado = "";
                                             _IdTransaccion = "";
                                             TbTag.Text = "";
+                                            RegistroSalidaAutorizado(CntAuto);
+                                         
                                         }
                                         else if (bAutoVencida)
                                         {
@@ -1038,7 +1039,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
 
                                             if (ValidarSalida(SecuenciaTransaccion))
                                             {
+                                                TbTag.Text = "";
                                                 _IdTransaccion = "";
+                                                _IdCardAutorizado = "";
                                                 RegistroSalida();
                                                 bTarjetaInvalida = false;
                                             }
@@ -1079,7 +1082,9 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
 
                         if (ValidarSalida(SecuenciaTransaccion))
                         {
+                            TbTag.Text = "";
                             _IdTransaccion = "";
+                            _IdCardAutorizado = "";
                             RegistroSalida();
                             bTarjetaInvalida = false;
                         }
