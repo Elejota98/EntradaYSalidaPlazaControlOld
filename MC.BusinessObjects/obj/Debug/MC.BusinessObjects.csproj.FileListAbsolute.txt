@@ -136,7 +136,6 @@ C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Busin
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.pdb
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BusinessObjects\bin\Debug\EGlobalT.Device.SmartCard.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BusinessObjects\bin\Debug\EGlobalT.Device.Tools.dll
-C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.dll
