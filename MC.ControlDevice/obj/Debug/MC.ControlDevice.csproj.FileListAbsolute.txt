@@ -62,4 +62,8 @@ C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Deb
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.csprojResolveAssemblyReference.cache
 =======
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.csprojResolveAssemblyReference.cache
+<<<<<<< HEAD
 >>>>>>> b30f843e1b0c0bd28f568c04ce5eb06191c81b7c
+=======
+C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.ControlDevice\obj\Debug\MC.ControlDevice.csprojResolveAssemblyReference.cache
+>>>>>>> e3868e3b4f9508d19c4507d80885ae3cb17e2e06

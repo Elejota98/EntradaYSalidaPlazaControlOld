@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.IO.Ports;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace MC.ControlDevice
@@ -33,7 +34,7 @@ namespace MC.ControlDevice
         private void _ComPort_DataReceived(object sender, SerialDataReceivedEventArgs e)
         {
            ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
-            //Thread.Sleep(500);
+            Thread.Sleep(500);
             string indata = _ComPort.ReadExisting();
             string[] RESULT = indata.Split('\n', '\r');
             string Response = RESULT[0].ToString();
@@ -81,6 +82,7 @@ namespace MC.ControlDevice
                         oResultadoOperacion.Mensaje = "Vehiculo en mueble";
 
                     }
+                    //string BB = Response.Substring(4, 1);
                     if (Response.Substring(4, 1) == "1")
                     {
                         //_sBarrera = true;

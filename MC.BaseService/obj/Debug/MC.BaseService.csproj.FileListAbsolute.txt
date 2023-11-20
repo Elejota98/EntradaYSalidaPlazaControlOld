@@ -90,9 +90,12 @@ C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BaseS
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BaseService\bin\Debug\MC.BaseService.pdb
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.pdb
+<<<<<<< HEAD
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.BaseService\bin\Debug\MC.BaseService.dll
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.BaseService\bin\Debug\MC.BaseService.pdb
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.dll
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.pdb
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> e3868e3b4f9508d19c4507d80885ae3cb17e2e06
