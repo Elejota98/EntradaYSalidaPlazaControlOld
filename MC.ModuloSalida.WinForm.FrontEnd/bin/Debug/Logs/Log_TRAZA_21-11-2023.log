@@ -1,0 +1,49 @@
+2023/11/21 09:49:39.049 - INICIO REGISTRO
+2023/11/21 09:49:39.057 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/21 09:49:39.232 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/21 09:49:40.157 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/21 09:49:40.209 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/21 09:49:40.241 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/21 09:49:40.361 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/21 09:49:41.298 - MENSAJE: 
+2023/11/21 09:49:42.086 - MENSAJE: 
+2023/11/21 09:49:44.696 - MENSAJE: 
+2023/11/21 09:49:54.017 - MENSAJE: 
+2023/11/21 09:50:01.999 - MENSAJE: ID TARJETA = 001c53
+2023/11/21 09:50:09.103 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/21 09:50:19.328 - INICIO REGISTRO
+2023/11/21 09:50:19.336 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/21 09:50:19.505 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/21 09:50:20.312 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/21 09:50:20.340 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/21 09:50:20.360 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/21 09:50:20.468 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/21 09:51:11.871 - INICIO REGISTRO
+2023/11/21 09:51:11.878 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/21 09:51:12.051 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/21 09:51:12.802 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/21 09:51:12.829 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/21 09:51:12.849 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/21 09:51:12.958 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/21 09:51:14.950 - MENSAJE: ID TARJETA = 7a6800
+2023/11/21 09:51:41.655 - INICIO REGISTRO
+2023/11/21 09:51:41.663 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/21 09:51:41.847 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/21 09:51:42.598 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/21 09:51:42.626 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/21 09:51:42.646 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/21 09:51:42.752 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/21 09:51:43.741 - MENSAJE: ID TARJETA = 7a6800
+2023/11/21 09:57:20.214 - INICIO REGISTRO
+2023/11/21 09:57:20.223 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/21 09:57:20.398 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/21 09:57:21.156 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/21 09:57:21.184 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/21 09:57:21.209 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/21 09:57:21.315 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/11/21 09:57:23.313 - MENSAJE: ID TARJETA = 7a6800
+2023/11/21 09:58:23.163 - MENSAJE: TARJETA ESTADO TRUE
+2023/11/21 09:58:27.871 - MENSAJE: Obtener Datos Autorizado ok
+2023/11/21 09:58:29.937 - MENSAJE: Comparacion IDTARJETA OK
+2023/11/21 09:58:31.040 - MENSAJE: Comparacion IDESTACIONAMIENTO OK
+2023/11/21 09:58:34.196 - MENSAJE: Validacion Fechas Vigencia ok
