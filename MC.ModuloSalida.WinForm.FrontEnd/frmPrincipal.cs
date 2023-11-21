@@ -2418,8 +2418,11 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
         {
             if (e.KeyChar == (char)13)
             {
+                TbTag.Text = "001c53";
+                    
                 if (TbTag.Text != string.Empty && TbTag.Text.Length <= 10)
                 {
+
                     string IdCarAutorizadoNew = TbTag.Text.Trim();
 
                     if (IdCarAutorizadoNew == _IdCardAutorizado)
