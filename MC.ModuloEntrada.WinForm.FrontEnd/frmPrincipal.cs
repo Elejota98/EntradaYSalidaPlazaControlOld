@@ -1803,19 +1803,27 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                 if (TbTag.Text != string.Empty && TbTag.Text.Length <= 17)
                 {
-                    string IdCarAutorizadoNew = TbTag.Text.Trim();
-
-                    if (IdCarAutorizadoNew == _IdCardAutorizado)
+                    if (_IdCardAutorizado == TbTag.Text)
                     {
-                        _IdCardAutorizado = TbTag.Text.Trim();
-                        
+                        TbTag.Text = "";
                     }
                     else
                     {
-                        _IdCardAutorizado = IdCarAutorizadoNew;
-                    }
+                        string IdCarAutorizadoNew = TbTag.Text.Trim();
 
-                    
+                        if (IdCarAutorizadoNew == _IdCardAutorizado)
+                        {
+                            _IdCardAutorizado = TbTag.Text.Trim();
+                            TbTag.Text = "";
+
+                        }
+                        else
+                        {
+                            _IdCardAutorizado = IdCarAutorizadoNew;
+                            TbTag.Text = "";
+
+                        }
+                    }                    
                 }
                 else
                 {

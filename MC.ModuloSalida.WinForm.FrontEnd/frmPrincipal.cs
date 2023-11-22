@@ -2395,24 +2395,50 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
             {                    
                 if (TbTag.Text != string.Empty && TbTag.Text.Length <= 10)
                 {
-
-                    string IdCarAutorizadoNew = TbTag.Text.Trim();
-
-                    if (IdCarAutorizadoNew == _IdCardAutorizado)
+                    if (_IdCardAutorizado == TbTag.Text)
                     {
-                    _IdCardAutorizado = TbTag.Text.Trim();
-                        
+                        TbTag.Text = "";
+                        TbTag.Focus();
+                    }
+                    else if (_IdTransaccion == TbTag.Text)
+                    {
+                        TbTag.Text = "";
+                        TbTag.Focus();
                     }
                     else
                     {
-                        _IdCardAutorizado = IdCarAutorizadoNew;
-                    }
+                        string IdCarAutorizadoNew = TbTag.Text.Trim();
 
-                    
+                        if (IdCarAutorizadoNew == _IdCardAutorizado)
+                        {
+                            _IdCardAutorizado = TbTag.Text.Trim();
+
+                        }
+                        else
+                        {
+                            _IdCardAutorizado = IdCarAutorizadoNew;
+                            TbTag.Text = "";
+                        }
+                    }   
                 }
                 else
                 {
-                    _IdTransaccion = TbTag.Text.Trim();
+                    if (_IdCardAutorizado == TbTag.Text)
+                    {
+                        TbTag.Text = "";
+                        TbTag.Focus();
+                    }
+                    else if (_IdTransaccion == TbTag.Text)
+                    {
+                        TbTag.Text = "";
+                        TbTag.Focus();
+                    }
+                    else
+                    {
+                        _IdTransaccion = TbTag.Text.Trim();
+                        TbTag.Text = "";
+                    }
+                
                 }
             }
             }
