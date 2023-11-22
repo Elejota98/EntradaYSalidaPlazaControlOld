@@ -47,3 +47,10 @@
 2023/11/21 09:58:29.937 - MENSAJE: Comparacion IDTARJETA OK
 2023/11/21 09:58:31.040 - MENSAJE: Comparacion IDESTACIONAMIENTO OK
 2023/11/21 09:58:34.196 - MENSAJE: Validacion Fechas Vigencia ok
+2023/11/21 12:13:43.744 - INICIO REGISTRO
+2023/11/21 12:13:43.752 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/11/21 12:13:43.928 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/11/21 12:13:46.167 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/11/21 12:13:46.233 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/11/21 12:13:46.293 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/11/21 12:13:46.414 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
