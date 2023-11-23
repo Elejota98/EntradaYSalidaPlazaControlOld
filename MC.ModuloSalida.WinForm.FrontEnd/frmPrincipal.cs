@@ -270,7 +270,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
             {
                 case Pantalla.SalvaPantallas:
 
-                    TbTag.Focus();
+                    //TbTag.Focus();
                    CapturaPlaca();
 
                     if (_frmPrincipal_Presenter.ValidarPlacaSalida())
@@ -2395,50 +2395,61 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
             {                    
                 if (TbTag.Text != string.Empty && TbTag.Text.Length <= 10)
                 {
-                    if (_IdCardAutorizado == TbTag.Text)
-                    {
-                        TbTag.Text = "";
-                        TbTag.Focus();
-                    }
-                    else if (_IdTransaccion == TbTag.Text)
-                    {
-                        TbTag.Text = "";
-                        TbTag.Focus();
-                    }
-                    else
-                    {
-                        string IdCarAutorizadoNew = TbTag.Text.Trim();
+                    #region Old
+                    //if (_IdCardAutorizado == TbTag.Text)
+                    //{
+                    //    TbTag.Text = "";
+                    //    TbTag.Focus();
+                    //}
+                    //else if (_IdTransaccion == TbTag.Text)
+                    //{
+                    //    TbTag.Text = "";
+                    //    TbTag.Focus();
+                    //}
+                    //else
+                    //{
+                    //    string IdCarAutorizadoNew = TbTag.Text.Trim();
 
-                        if (IdCarAutorizadoNew == _IdCardAutorizado)
-                        {
-                            _IdCardAutorizado = TbTag.Text.Trim();
+                    //    if (IdCarAutorizadoNew == _IdCardAutorizado)
+                    //    {
+                    //        _IdCardAutorizado = TbTag.Text.Trim();
+                    //        TbTag.Text = "";
 
-                        }
-                        else
-                        {
-                            _IdCardAutorizado = IdCarAutorizadoNew;
-                            TbTag.Text = "";
-                        }
-                    }   
+                    //    }
+                    //    else
+                    //    {
+                    //        _IdCardAutorizado = IdCarAutorizadoNew;
+                    //        TbTag.Text = "";
+                    //    }
+                    //}   
+#endregion
+                    _IdCardAutorizado = TbTag.Text.Trim();
+                    TbTag.Text = "";
                 }
                 else
                 {
-                    if (_IdCardAutorizado == TbTag.Text)
-                    {
-                        TbTag.Text = "";
-                        TbTag.Focus();
-                    }
-                    else if (_IdTransaccion == TbTag.Text)
-                    {
-                        TbTag.Text = "";
-                        TbTag.Focus();
-                    }
-                    else
-                    {
-                        _IdTransaccion = TbTag.Text.Trim();
-                        TbTag.Text = "";
-                    }
-                
+                    #region Old
+                    //if (_IdTransaccion == TbTag.Text)
+                    //{
+                    //    TbTag.Text = "";
+                    //    TbTag.Focus();
+                    //}
+                    //else if (_IdTransaccion == TbTag.Text)
+                    //{
+                    //    TbTag.Text = "";
+                    //    TbTag.Focus();
+                    //}
+                    //else
+                    //{
+                    //    _IdTransaccion = TbTag.Text.Trim();
+                    //    TbTag.Text = "";
+                    //}
+
+                    #endregion
+
+                    _IdTransaccion = TbTag.Text.Trim();
+                    TbTag.Text = "";
+
                 }
             }
             }

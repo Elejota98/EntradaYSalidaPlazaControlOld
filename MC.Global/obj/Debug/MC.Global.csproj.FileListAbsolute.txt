@@ -158,4 +158,3 @@ C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Global\bin\Debug\M
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Global\bin\Debug\MC.Utilidades.pdb
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Global\obj\Debug\MC.Global.dll
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Global\obj\Debug\MC.Global.pdb
-C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Global\obj\Debug\MC.Global.csprojResolveAssemblyReference.cache
