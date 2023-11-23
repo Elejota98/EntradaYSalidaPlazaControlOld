@@ -245,3 +245,16 @@ C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.Action
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.csprojResolveAssemblyReference.cache
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.dll
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.Sincronizacion.ActionServer.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.Sincronizacion.ActionServer.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.SincronizacionService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.BaseService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.DataService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.SincronizacionService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\bin\MC.DataService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Sincronizacion.ActionServer\obj\Debug\MC.Sincronizacion.ActionServer.pdb

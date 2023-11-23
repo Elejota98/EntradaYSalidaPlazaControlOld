@@ -221,3 +221,14 @@ C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Modul
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.dll
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.ModuloEntrada.WinForm.View.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloEntrada.WinForm.View\obj\Debug\MC.ModuloEntrada.WinForm.View.pdb

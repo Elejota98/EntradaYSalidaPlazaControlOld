@@ -234,3 +234,14 @@ C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\bin\Debu
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\obj\Debug\MC.CRT603Device.csprojResolveAssemblyReference.cache
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\obj\Debug\MC.CRT603Device.dll
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\obj\Debug\MC.CRT603Device.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\bin\Debug\MC.CRT603Device.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\bin\Debug\MC.CRT603Device.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\bin\Debug\GS.Apdu.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\bin\Debug\GS.HexLibrary.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\obj\Debug\MC.CRT603Device.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\obj\Debug\MC.CRT603Device.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.CRT603Device\obj\Debug\MC.CRT603Device.pdb

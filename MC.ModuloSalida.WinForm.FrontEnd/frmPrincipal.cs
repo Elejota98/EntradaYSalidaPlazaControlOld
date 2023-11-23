@@ -609,7 +609,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                         }
                         else if (_IdTransaccion != string.Empty && _IdTransaccion != "")
                         {
-                            Presentacion = Pantalla.InserteTarjeta;
+                            Presentacion = Pantalla.ProcesandoTransaccion;
                         }
 
                         if (_frmPrincipal_Presenter.ObtenerEventoDispo())

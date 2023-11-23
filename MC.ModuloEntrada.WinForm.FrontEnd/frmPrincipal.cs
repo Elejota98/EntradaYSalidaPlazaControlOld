@@ -268,9 +268,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             {
                   
                 case Pantalla.SalvaPantallas:
-                    TbTag.Focus();
                     //PLACAS
-
                                 General_Events = "(FrontEnd Antes CapturaPlaca)";
                                 CapturaPlacaNew();
                                 if (_frmPrincipal_Presenter.ValidarPlacaEntrada())
@@ -725,8 +723,9 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                     else
                                     {
                                         //_frmPrincipal_Presenter.EstadoControl();
+                                        LimpiarDatosLectura();
                                         RegistroEntrada();
-                                        TbTag.Text = string.Empty;
+                                      
                                         //if (_VehiculoMueble==false)
                                         //{
                                         //    VehiculoMoto = true;
@@ -835,6 +834,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                             //_frmPrincipal_Presenter.Escribirtarjeta();
                                                             #endregion
                                                         }
+                                                        Presentacion = Pantalla.SalvaPantallas;
+                                                        LimpiarDatosLectura();
                                                         //Presentacion = Pantalla.TarjetaSinRegistroSalida;
                                                         break;
                                                         ////General_Events = "TarjetaSinRegistroSalida";
@@ -851,9 +852,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                     simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
                                                     simpleSound.Play();
                                                     bAutoVencida2 = true;
-                                                    Presentacion = Pantalla.SalvaPantallas;
-                                                    TbTag.Text = "";
-                                                    _IdCardAutorizado = "";
+                                                    LimpiarDatosLectura();
+                                                    Presentacion = Pantalla.SalvaPantallas;                                                   
                                                     if (_VehiculoMueble == false)
                                                     {
                                                         VehiculoMoto = true;
@@ -893,6 +893,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                                         if (ok2)
                                         {
+                                            LimpiarDatosLectura();
                                             RegistroEntradaAutorizado(CntAuto);
                                         }
                                         //else if (bAutoVencida2)
@@ -905,9 +906,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                     else
                                     {
                                         //_frmPrincipal_Presenter.EstadoControl();
-                                        RegistroEntrada();
-                                        TbTag.Text = "";
-                                        _IdCardAutorizado = "";
+                                        LimpiarDatosLectura();
+                                        RegistroEntrada();                                       
                                         //if (_VehiculoMueble==false)
                                         //{
                                         //    VehiculoMoto = true;
@@ -957,6 +957,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                         //_frmPrincipal_Presenter.Escribirtarjeta();
                                         //General_Events = "(FrontEnd Despues EscribirTarjetaNew)";
                                         #endregion
+                                        LimpiarDatosLectura();
                                         Presentacion = Pantalla.RetireTarjeta;
                                     }
                                     else
@@ -973,7 +974,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                         //_frmPrincipal_Presenter.Escribirtarjeta();
                                         //General_Events = "(FrontEnd Despues EscribirTarjetaNew)";
                                         #endregion
-
+                                        LimpiarDatosLectura();
                                         Presentacion = Pantalla.RetireTarjeta;
                                     }
                                 }
@@ -1075,9 +1076,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                         //_frmPrincipal_Presenter.Escribirtarjeta();
                                                         #endregion
                                                     }
-                                                    Presentacion = Pantalla.RetireTarjeta;
-                                                    TbTag.Text = "";
-                                                    _IdCardAutorizado = "";
+                                                    LimpiarDatosLectura();
+                                                    Presentacion = Pantalla.SalvaPantallas;
                                                     //Presentacion = Pantalla.TarjetaSinRegistroSalida;
                                                     break;
                                                     ////General_Events = "TarjetaSinRegistroSalida";
@@ -1094,8 +1094,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                 simpleSoundNew = new SoundPlayer(_sPathAutoVencida);
                                                 simpleSoundNew.Play();
                                                 bAutoVencida2 = true;
-                                                TbTag.Text = "";
-                                                IdCardAutorizado = "";
+                                                LimpiarDatosLectura();
                                                 Presentacion = Pantalla.AutorizacionVencida;
                                                 if (_VehiculoMueble == false)
                                                 {
@@ -1136,9 +1135,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                                     if (ok2)
                                     {
-                                        RegistroEntradaAutorizado(CntAuto);
-                                        TbTag.Text = "";
-                                        _IdCardAutorizado = "";
+                                        LimpiarDatosLectura();
+                                        RegistroEntradaAutorizado(CntAuto);                                       
                                     }
                                     //else if (bAutoVencida2)
                                     //{
@@ -1264,9 +1262,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                         //_frmPrincipal_Presenter.Escribirtarjeta();
                                                         #endregion
                                                     }
+                                                    LimpiarDatosLectura();
                                                     Presentacion = Pantalla.SalvaPantallas;
-                                                    TbTag.Text = "";
-                                                    _IdCardAutorizado = "";
                                                     //Presentacion = Pantalla.TarjetaSinRegistroSalida;
                                                     break;
                                                     ////General_Events = "TarjetaSinRegistroSalida";
@@ -1283,8 +1280,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                 SoundPlayer simpleSoundNew = new SoundPlayer(_sPathAutoVencida);
                                                 simpleSoundNew.Play();
                                                 bAutoVencida2 = true;
-                                                TbTag.Text = "";
-                                                IdCardAutorizado = "";
+                                                LimpiarDatosLectura();
                                                 Presentacion = Pantalla.AutorizacionVencida;
                                                 if (_VehiculoMueble == false)
                                                 {
@@ -1325,11 +1321,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                                     if (ok2)
                                     {
-                                        TbTag.Text = string.Empty;
-                                        _IdCardAutorizado = "";
+                                        LimpiarDatosLectura();
                                         RegistroEntradaAutorizado(CntAuto);
-
-
                                     }
                                     //else if (bAutoVencida2)
                                     //{
@@ -1341,9 +1334,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                 else
                                 {
                                     //_frmPrincipal_Presenter.EstadoControl();
+                                    LimpiarDatosLectura();
                                     Presentacion = Pantalla.RetireTarjeta;
-                                    TbTag.Text = "";
-                                    _IdCardAutorizado = "";
                                     //if (_VehiculoMueble==false)
                                     //{
                                     //    VehiculoMoto = true;
@@ -1472,9 +1464,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                         //_frmPrincipal_Presenter.Escribirtarjeta();
                                                         #endregion
                                                     }
+                                                    LimpiarDatosLectura();
                                                     Presentacion = Pantalla.SalvaPantallas;
-                                                    TbTag.Text = "";
-                                                    _IdCardAutorizado = "";
                                                     //Presentacion = Pantalla.TarjetaSinRegistroSalida;
                                                     break;
                                                     ////General_Events = "TarjetaSinRegistroSalida";
@@ -1491,8 +1482,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                 SoundPlayer simpleSoundNew = new SoundPlayer(_sPathAutoVencida);
                                                 simpleSoundNew.Play();
                                                 bAutoVencida2 = true;
-                                                TbTag.Text = "";
-                                                IdCardAutorizado = "";
+                                                LimpiarDatosLectura();
                                                 Presentacion = Pantalla.AutorizacionVencida;
                                                 if (_VehiculoMueble == false)
                                                 {
@@ -1533,11 +1523,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
 
                                     if (ok2)
                                     {
-                                        TbTag.Text = string.Empty;
-                                        _IdCardAutorizado = "";
+                                        LimpiarDatosLectura();
                                         RegistroEntradaAutorizado(CntAuto);
-
-
                                     }
                                     //else if (bAutoVencida2)
                                     //{
@@ -1549,9 +1536,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                 else
                                 {
                                     //_frmPrincipal_Presenter.EstadoControl();
+                                    LimpiarDatosLectura();
                                     Presentacion = Pantalla.RetireTarjeta;
-                                    TbTag.Text = "";
-                                    _IdCardAutorizado = "";
                                     //if (_VehiculoMueble==false)
                                     //{
                                     //    VehiculoMoto = true;
@@ -2229,10 +2215,9 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             }
             
             _frmPrincipal_Presenter.RegistrarEntrada(oTransaccion);
-            //Imprimir(oTransaccion);
+            Imprimir(oTransaccion);
             EliminarPlaca();
-            TbTag.Text = "";
-            _IdCardAutorizado = "";
+            LimpiarDatosLectura();
             Presentacion = Pantalla.DisfruteVisita;
 
             if (Convert.ToBoolean(Globales.sPLC) == true)
@@ -2394,7 +2379,12 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
         {
 
         }
+        private void LimpiarDatosLectura()
+        {
+            TbTag.Text = "";
+            _IdCardAutorizado = "";
 
+        }
         private void TabGotFocus(object sender, EventArgs e)
         {
             TbTag.Focus();

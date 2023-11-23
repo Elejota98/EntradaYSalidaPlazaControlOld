@@ -167,3 +167,11 @@ C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\bin\Debug
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\obj\Debug\MC.DataService.csprojResolveAssemblyReference.cache
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\obj\Debug\MC.DataService.dll
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\obj\Debug\MC.DataService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\bin\Debug\MC.DataService.dll.config
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\bin\Debug\MC.DataService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\bin\Debug\MC.DataService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\bin\Debug\MC.BusinessService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\obj\Debug\MC.DataService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\obj\Debug\MC.DataService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\obj\Debug\MC.DataService.csprojResolveAssemblyReference.cache

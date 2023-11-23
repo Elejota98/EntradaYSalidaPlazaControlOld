@@ -245,3 +245,16 @@ C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\obj\Debug\MC.EnvioImagenesService.csprojResolveAssemblyReference.cache
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\obj\Debug\MC.EnvioImagenesService.dll
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\obj\Debug\MC.EnvioImagenesService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\bin\Debug\MC.EnvioImagenesService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\bin\Debug\MC.EnvioImagenesService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\bin\Debug\MC.BaseService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\bin\Debug\MC.BusinessService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\bin\Debug\MC.DataService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\bin\Debug\MC.BaseService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\bin\Debug\MC.DataService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\obj\Debug\MC.EnvioImagenesService.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\obj\Debug\MC.EnvioImagenesService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EnvioImagenesService\obj\Debug\MC.EnvioImagenesService.pdb

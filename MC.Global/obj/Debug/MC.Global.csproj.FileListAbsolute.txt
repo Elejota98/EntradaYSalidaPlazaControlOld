@@ -152,3 +152,10 @@ C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Global\bin\Debug\MC.U
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Global\obj\Debug\MC.Global.dll
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Global\obj\Debug\MC.Global.pdb
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Global\obj\Debug\MC.Global.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Global\bin\Debug\MC.Global.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Global\bin\Debug\MC.Global.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Global\bin\Debug\MC.Utilidades.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Global\bin\Debug\MC.Utilidades.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Global\obj\Debug\MC.Global.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Global\obj\Debug\MC.Global.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Global\obj\Debug\MC.Global.csprojResolveAssemblyReference.cache

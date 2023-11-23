@@ -245,3 +245,16 @@ C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServ
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.csprojResolveAssemblyReference.cache
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.dll
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.HostSalida.ActionServer.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.HostSalida.ActionServer.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.SalidaService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.BaseService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.DataService.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.SalidaService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\bin\MC.DataService.pdb
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.dll
+C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.pdb
