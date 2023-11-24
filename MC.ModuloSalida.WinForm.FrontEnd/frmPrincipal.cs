@@ -474,7 +474,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                 _Tarjeta.CodeCard = oAutorizado.IdTarjeta;
                                 General_Events = "ID TARJETA = " + oAutorizado.IdTarjeta;
 
-                                
+
                                 if (_frmPrincipal_Presenter.ObtenerTarjetas())
                                 {
                                     for (int i = 0; i < _lstDtoTarjetas.Count; i++)
@@ -570,7 +570,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                         if (ok)
                                         {
                                             RegistroSalidaAutorizado(CntAuto);
-                                            LimpiarDatosLectora();                                           
+                                            LimpiarDatosLectora();
                                         }
                                         else if (bAutoVencida)
                                         {
@@ -578,7 +578,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                             simpleSound.Play();
                                             LimpiarDatosLectora();
                                             Presentacion = Pantalla.AutorizacionVencida;
-                                          
+
                                         }
                                         else if (bTarjetaInvalida)
                                         {
@@ -586,7 +586,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                             simpleSound.Play();
                                             LimpiarDatosLectora();
                                             Presentacion = Pantalla.TarjetaInvalida;
-                                            
+
                                         }
                                     }
                                     else
@@ -606,6 +606,14 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                                 }
 
                             }
+                            else
+                            {
+                                SoundPlayer simpleSound = new SoundPlayer(_sPathTarjetaInvalida);
+                                simpleSound.Play();
+                                LimpiarDatosLectora();
+                                Presentacion = Pantalla.TarjetaInvalida;
+                            }
+
                         }
                         else if (_IdTransaccion != string.Empty && _IdTransaccion != "")
                         {
