@@ -214,3 +214,12 @@ C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Exception\bin\Debug\MC.
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Exception\obj\Debug\MC.Exception.dll
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Exception\obj\Debug\MC.Exception.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Exception\bin\Debug\MC.Exception.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Exception\bin\Debug\MC.Exception.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Exception\bin\Debug\MC.Global.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Exception\bin\Debug\MC.Utilidades.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Exception\bin\Debug\MC.Global.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Exception\bin\Debug\MC.Utilidades.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Exception\obj\Debug\MC.Exception.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Exception\obj\Debug\MC.Exception.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Exception\obj\Debug\MC.Exception.pdb

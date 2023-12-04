@@ -427,3 +427,22 @@ C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.M
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.dll
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ModuloEntrada.WinForm.Model.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\EGlobalT.Device.SmartCard.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\EGlobalT.Device.Tools.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.BusinessObjects.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.ServiceProxy.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.WCFProxy.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Utilidades.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Exception.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\bin\Debug\MC.Global.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloEntrada.WinForm.Model\obj\Debug\MC.ModuloEntrada.WinForm.Model.pdb

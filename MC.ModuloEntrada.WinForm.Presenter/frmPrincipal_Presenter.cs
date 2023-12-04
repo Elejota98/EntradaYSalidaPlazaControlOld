@@ -1160,10 +1160,13 @@ namespace MC.ModuloEntrada.WinForm.Presenter
         #region Barrera
         public bool ObtenerEventoDispo()
         {
+            Modulo oModulo = new Modulo();
+            oModulo.IdModulo = Globales.sSerial;
+
             bool ok = false;
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
 
-            oResultadoOperacion = Model.ObtenerEventoDispo();
+            oResultadoOperacion = Model.ObtenerEventoDispo(oModulo);
 
             if (oResultadoOperacion.oEstado == TipoRespuesta.Exito)
             {

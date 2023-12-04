@@ -304,3 +304,16 @@ C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debu
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\obj\Debug\MC.EntradaService.dll
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.EntradaService.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.EntradaService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.BaseService.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.BusinessService.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.DataService.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.Utilidades.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.BaseService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.BusinessService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.DataService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.Utilidades.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.EntradaService\obj\Debug\MC.EntradaService.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.EntradaService\obj\Debug\MC.EntradaService.pdb

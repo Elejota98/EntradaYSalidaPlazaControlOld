@@ -159,3 +159,9 @@ C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.BusinessObjects\bin\Deb
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.BusinessObjects\bin\Debug\EGlobalT.Device.Tools.dll
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.BusinessObjects\bin\Debug\MC.BusinessObjects.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.BusinessObjects\bin\Debug\EGlobalT.Device.SmartCard.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.BusinessObjects\bin\Debug\EGlobalT.Device.Tools.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb

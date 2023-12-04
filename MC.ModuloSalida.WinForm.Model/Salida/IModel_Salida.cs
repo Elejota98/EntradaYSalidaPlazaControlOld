@@ -18,7 +18,7 @@ namespace MC.ModuloSalida.WinForm.Model
         ResultadoOperacion SolucionarTodasAlarmas(Modulo oModulo);
         ResultadoOperacion ObtenerTarjetas(Modulo oModulo);
         ResultadoOperacion ObtenerEvento(long Secuencia);
-        ResultadoOperacion ObtenerEventoDispo();
+        ResultadoOperacion ObtenerEventoDispo(Modulo oModulo);
         ResultadoOperacion ActualizarEventoDispositivo(long IdEvento);
         ResultadoOperacion ValidarSalidaAuto(string IDCARD);
         ResultadoOperacion ValidarPlacaSalida(string IdModulo);

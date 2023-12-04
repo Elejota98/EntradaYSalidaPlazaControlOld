@@ -101,3 +101,14 @@ C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinFo
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.csprojResolveAssemblyReference.cache
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.dll
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\MC.ModuloSalida.WinForm.View.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\MC.ModuloSalida.WinForm.View.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\MC.BusinessObjects.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\MC.Utilidades.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\EGlobalT.Device.SmartCard.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\EGlobalT.Device.Tools.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\MC.BusinessObjects.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\MC.Utilidades.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.pdb

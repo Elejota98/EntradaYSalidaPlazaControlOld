@@ -365,6 +365,7 @@
       <xs:extension xmlns:q17="http://www.mc.com.co/types/" base="q17:RequestBase">
         <xs:sequence>
           <xs:element minOccurs="0" name="oIdEvento" type="xs:long" />
+          <xs:element minOccurs="0" name="oModulo" nillable="true" type="tns:ServiceModulo" />
         </xs:sequence>
       </xs:extension>
     </xs:complexContent>

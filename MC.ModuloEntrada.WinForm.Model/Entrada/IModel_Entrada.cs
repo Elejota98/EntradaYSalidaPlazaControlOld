@@ -17,7 +17,7 @@ namespace MC.ModuloEntrada.WinForm.Model
         ResultadoOperacion ObtenerAutorizado(Autorizado oAutorizado);
         ResultadoOperacion SolucionarTodasAlarmas(Modulo oModulo);
         ResultadoOperacion ObtenerTarjetas(Modulo oModulo);
-        ResultadoOperacion ObtenerEventoDispo();
+        ResultadoOperacion ObtenerEventoDispo(Modulo oModulo);
         ResultadoOperacion ActualizarEventoDispositivo(long IdEvento);
         ResultadoOperacion ValidarIngreso(string IDCARD);
         ResultadoOperacion ObtenerAutorizadoPlaca(Autorizado oAutorizado);

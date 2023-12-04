@@ -282,6 +282,9 @@ namespace MC.ServiceProxy.MC_SalidaService {
         [System.Runtime.Serialization.OptionalFieldAttribute()]
         private long oIdEventoField;
         
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private MC.ServiceProxy.MC_SalidaService.ServiceModulo oModuloField;
+        
         [System.Runtime.Serialization.DataMemberAttribute()]
         public long oIdEvento {
             get {
@@ -291,6 +294,19 @@ namespace MC.ServiceProxy.MC_SalidaService {
                 if ((this.oIdEventoField.Equals(value) != true)) {
                     this.oIdEventoField = value;
                     this.RaisePropertyChanged("oIdEvento");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public MC.ServiceProxy.MC_SalidaService.ServiceModulo oModulo {
+            get {
+                return this.oModuloField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.oModuloField, value) != true)) {
+                    this.oModuloField = value;
+                    this.RaisePropertyChanged("oModulo");
                 }
             }
         }

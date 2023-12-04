@@ -271,3 +271,16 @@ C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.dll
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\bin\MC.HostSalida.ActionServer.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\bin\MC.HostSalida.ActionServer.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\bin\MC.SalidaService.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\bin\MC.BaseService.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\bin\MC.BusinessService.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\bin\MC.DataService.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\bin\MC.SalidaService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\bin\MC.BaseService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\bin\MC.BusinessService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\bin\MC.DataService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.HostSalida.ActionServer\obj\Debug\MC.HostSalida.ActionServer.pdb

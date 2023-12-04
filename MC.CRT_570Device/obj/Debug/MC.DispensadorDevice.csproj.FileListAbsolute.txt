@@ -160,3 +160,13 @@ C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.CRT_570Device\bin\Debug
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.CRT_570Device\bin\Debug\MC.CRT_570Device.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.CRT_570Device\bin\Debug\EGlobalT.Device.SmartCard.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.CRT_570Device\bin\Debug\GS.HexLibrary.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.CRT_570Device\bin\Debug\EGlobalT.Device.Tools.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.CRT_570Device\bin\Debug\MC.BusinessObjects.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.CRT_570Device\obj\Debug\MC.DispensadorDevice.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.CRT_570Device\obj\Debug\MC.CRT_570Device.pdb

@@ -1594,7 +1594,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
         }
         private async Task<bool> ConectarDispositivos()
         {
-            //return true;
+            return true;
             bool ok = false;
 
             if (Convert.ToBoolean(Globales.sPLC) == true)

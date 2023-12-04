@@ -137,11 +137,11 @@ namespace MC.ModuloEntrada.WinForm.Model
             return oResultadoOperacion;
         }
 
-        public ResultadoOperacion ObtenerEventoDispo()
+        public ResultadoOperacion ObtenerEventoDispo(Modulo oModulo)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
 
-            oResultadoOperacion = _ProxyServicios.ObtenerEventoDispositivo();
+            oResultadoOperacion = _ProxyServicios.ObtenerEventoDispositivo(oModulo);
 
             if (oResultadoOperacion.oEstado == TipoRespuesta.Error)
             {

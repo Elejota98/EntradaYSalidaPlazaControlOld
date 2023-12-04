@@ -1,0 +1,23 @@
+2023/12/04 11:48:20.219 - INICIO REGISTRO
+2023/12/04 11:48:20.224 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/12/04 11:48:20.274 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/12/04 11:48:20.792 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/12/04 11:48:20.821 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/12/04 11:48:20.847 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/12/04 11:48:20.898 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 11:48:38.870 - INICIO REGISTRO
+2023/12/04 11:48:38.874 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/12/04 11:48:38.944 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/12/04 11:48:39.408 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/12/04 11:48:39.422 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/12/04 11:48:39.437 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/12/04 11:48:39.483 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 11:49:34.643 - INICIO REGISTRO
+2023/12/04 11:49:34.647 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/12/04 11:49:34.696 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/12/04 11:49:35.453 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/12/04 11:49:35.475 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/12/04 11:49:35.493 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/12/04 11:49:35.556 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 11:50:09.754 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 11:50:17.363 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK

@@ -18,7 +18,7 @@ namespace MC.ServiceProxy
         ResultadoOperacion SolucionarTodasAlarmasSalida(Modulo oModulo);
         ResultadoOperacion ObtenerTarjetasSalida(Modulo oModulo);
         ResultadoOperacion ObtenerEvento(long Secuencia);
-        ResultadoOperacion ObtenerEventoDispositivoSalida();
+        ResultadoOperacion ObtenerEventoDispositivoSalida(Modulo oModulo);
         ResultadoOperacion ActualizarEventoDispositivoSalida(long IdEventoDsipo);
         ResultadoOperacion ValidarSalidaAuto(string IDCARD);
         ResultadoOperacion ValidarPlacaSalida(string IdModulo);

@@ -107,3 +107,8 @@ C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Utilidades\bin\Debug\MC
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Utilidades\obj\Debug\MC.Utilidades.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Utilidades\obj\Debug\MC.Utilidades.dll
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Utilidades\obj\Debug\MC.Utilidades.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Utilidades\bin\Debug\MC.Utilidades.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Utilidades\bin\Debug\MC.Utilidades.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Utilidades\obj\Debug\MC.Utilidades.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Utilidades\obj\Debug\MC.Utilidades.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Utilidades\obj\Debug\MC.Utilidades.pdb

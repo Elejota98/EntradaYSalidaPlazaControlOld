@@ -586,12 +586,17 @@ namespace MC.ServiceProxy
             return oResultadoOperacion;
         }
 
-        public ResultadoOperacion ObtenerEventoDispositivo()
+        public ResultadoOperacion ObtenerEventoDispositivo(Modulo oModulo)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
 
             getEventosDispositivo_Request request = new getEventosDispositivo_Request();
             request.RequestId = NuevoRequestId;
+
+            ServiceModulo oServiceModulo = new ServiceModulo();
+            oServiceModulo.IdModulo = oModulo.IdModulo;
+
+            request.oModulo = oServiceModulo;
 
             getEventosDispositivo_Response response = null;
 

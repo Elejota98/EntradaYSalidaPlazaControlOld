@@ -271,3 +271,16 @@ C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\bin\M
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\bin\MC.Host.ActionServer.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\bin\MC.Host.ActionServer.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\bin\MC.EntradaService.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\bin\MC.BaseService.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\bin\MC.BusinessService.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\bin\MC.DataService.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\bin\MC.EntradaService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\bin\MC.BaseService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\bin\MC.BusinessService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\bin\MC.DataService.pdb
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\obj\Debug\MC.HostEntrada.ActionServer.csprojResolveAssemblyReference.cache
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.dll
+D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Host.ActionServer\obj\Debug\MC.Host.ActionServer.pdb
