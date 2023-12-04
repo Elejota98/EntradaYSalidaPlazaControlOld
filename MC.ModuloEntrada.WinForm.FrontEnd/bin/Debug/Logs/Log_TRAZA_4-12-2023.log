@@ -1604,3 +1604,125 @@
 2023/12/04 03:28:36.901 - MENSAJE: (FrontEnd Antes CapturaPlaca)
 2023/12/04 03:28:36.931 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
 2023/12/04 03:28:36.932 - MENSAJE: 
+2023/12/04 03:48:49.715 - INICIO REGISTRO
+2023/12/04 03:48:49.735 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/12/04 03:48:49.859 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/12/04 03:48:53.825 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/12/04 03:48:53.898 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/12/04 03:48:53.932 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/12/04 03:48:54.171 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:49:06.372 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 03:49:18.820 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2023/12/04 03:49:32.355 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 03:49:32.378 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2023/12/04 03:49:42.764 - MENSAJE: Vehiculo en el mueble
+2023/12/04 03:49:42.823 - MENSAJE: Captura de placa: SUB59D
+2023/12/04 03:49:43.754 - MENSAJE: Registrar Entrada OK
+2023/12/04 03:49:44.263 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 03:49:46.964 - MENSAJE: Apertura Barrera
+2023/12/04 03:49:47.016 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 03:49:55.743 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 03:49:55.786 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:50:00.751 - MENSAJE: Vehiculo en el mueble
+2023/12/04 03:50:00.780 - MENSAJE: Captura de placa: OVY56G
+2023/12/04 03:50:01.755 - MENSAJE: Registrar Entrada OK
+2023/12/04 03:50:01.766 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 03:50:02.574 - MENSAJE: Apertura Barrera
+2023/12/04 03:50:07.749 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 03:50:09.744 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 03:50:09.786 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:50:13.763 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 03:50:13.780 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2023/12/04 03:50:49.756 - MENSAJE: Vehiculo en el mueble
+2023/12/04 03:50:49.802 - MENSAJE: Captura de placa: RNB40D
+2023/12/04 03:50:50.754 - MENSAJE: Registrar Entrada OK
+2023/12/04 03:50:50.776 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 03:50:51.637 - MENSAJE: Apertura Barrera
+2023/12/04 03:51:02.757 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 03:51:03.748 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 03:51:03.795 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:55:02.780 - MENSAJE: Vehiculo en el mueble
+2023/12/04 03:55:02.876 - MENSAJE: Captura de placa: OWP66G
+2023/12/04 03:55:03.776 - MENSAJE: Registrar Entrada OK
+2023/12/04 03:55:03.805 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 03:55:04.672 - MENSAJE: Apertura Barrera
+2023/12/04 03:55:11.780 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 03:55:12.788 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 03:55:12.828 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:59:38.783 - MENSAJE: Vehiculo en el mueble
+2023/12/04 03:59:38.823 - MENSAJE: Captura de placa: NED14G
+2023/12/04 03:59:39.818 - MENSAJE: Registrar Entrada OK
+2023/12/04 03:59:39.834 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 03:59:40.721 - MENSAJE: Apertura Barrera
+2023/12/04 03:59:46.779 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 03:59:47.788 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 03:59:47.837 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 04:03:17.800 - MENSAJE: Vehiculo en el mueble
+2023/12/04 04:03:17.833 - MENSAJE: Captura de placa: ------
+2023/12/04 04:03:18.801 - MENSAJE: Registrar Entrada OK
+2023/12/04 04:03:18.825 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 04:03:19.701 - MENSAJE: Apertura Barrera
+2023/12/04 04:03:26.802 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 04:03:28.793 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 04:03:28.828 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 04:03:38.790 - MENSAJE: Vehiculo en el mueble
+2023/12/04 04:03:38.841 - MENSAJE: Captura de placa: HC54EE
+2023/12/04 04:03:39.826 - MENSAJE: Registrar Entrada OK
+2023/12/04 04:03:39.844 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 04:03:40.637 - MENSAJE: Apertura Barrera
+2023/12/04 04:03:52.794 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 04:03:53.803 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 04:03:53.845 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 04:03:55.799 - MENSAJE: Vehiculo en el mueble
+2023/12/04 04:03:55.851 - MENSAJE: Captura de placa: QGO59G
+2023/12/04 04:03:56.800 - MENSAJE: Registrar Entrada OK
+2023/12/04 04:03:56.827 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 04:03:57.615 - MENSAJE: Apertura Barrera
+2023/12/04 04:04:02.800 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 04:04:03.797 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 04:04:03.833 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 04:04:06.803 - MENSAJE: Vehiculo en el mueble
+2023/12/04 04:04:06.857 - MENSAJE: Captura de placa: GSH19E
+2023/12/04 04:04:07.801 - MENSAJE: Registrar Entrada OK
+2023/12/04 04:04:07.816 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 04:04:08.614 - MENSAJE: Apertura Barrera
+2023/12/04 04:04:18.792 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 04:04:19.792 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 04:04:19.829 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 04:04:23.794 - MENSAJE: Vehiculo en el mueble
+2023/12/04 04:04:23.825 - MENSAJE: Captura de placa: ELQ75F
+2023/12/04 04:04:24.814 - MENSAJE: Registrar Entrada OK
+2023/12/04 04:04:24.824 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 04:04:25.699 - MENSAJE: Apertura Barrera
+2023/12/04 04:04:35.805 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 04:04:36.800 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 04:04:36.827 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 04:11:45.842 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 04:11:45.856 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2023/12/04 04:12:10.948 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 04:13:19.364 - INICIO REGISTRO
+2023/12/04 04:13:19.379 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/12/04 04:13:19.495 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/12/04 04:13:20.147 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/12/04 04:13:20.174 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/12/04 04:13:20.198 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/12/04 04:13:20.306 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 04:13:27.381 - MENSAJE: Vehiculo en el mueble
+2023/12/04 04:13:27.453 - MENSAJE: Captura de placa: SBO45C
+2023/12/04 04:13:28.375 - MENSAJE: Registrar Entrada OK
+2023/12/04 04:13:28.435 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 04:13:30.505 - MENSAJE: Apertura Barrera
+2023/12/04 04:13:37.392 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 04:13:38.374 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 04:13:38.444 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 04:14:10.904 - INICIO REGISTRO
+2023/12/04 04:14:10.919 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/12/04 04:14:11.039 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/12/04 04:14:11.701 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/12/04 04:14:11.731 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/12/04 04:14:11.754 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/12/04 04:14:11.866 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 04:14:17.926 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 04:14:17.945 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2023/12/04 04:14:41.928 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 04:14:41.956 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK

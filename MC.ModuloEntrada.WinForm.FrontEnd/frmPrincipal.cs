@@ -268,23 +268,44 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
             {
                   
                 case Pantalla.SalvaPantallas:
-                    //PLACAS
-                                General_Events = "(FrontEnd Antes CapturaPlaca)";
-                                CapturaPlacaNew();
-                                if (_frmPrincipal_Presenter.ValidarPlacaEntrada())
-                                {
-                                    if (_PlacaRegistrada == _sPlaca)
-                                    {
-                                        CapturaPlacaNew();
-                                    }
-                                    if (_sPlaca == _PlacaRegistrada)
-                                    {
-                                        _sPlaca = "------";
-                                    }
-                                }
-                                General_Events = "(FrontEnd Antes CapturaPlaca) " + _sPlaca;
 
-                    _SinTarjetas = false;
+
+                    if (_frmPrincipal_Presenter.ObtenerEventoDispo())
+                    {
+                        string[] Resul = _Barrera.Split(';');
+
+                        if (Resul[0].ToString() == Globales.sSerial)
+                        {
+                            if (Convert.ToBoolean(Globales.sPLC) == true)
+                            {
+                                _frmPrincipal_Presenter.AbrirTalanquera();
+                            }
+                            else
+                            {
+                                _frmPrincipal_Presenter.AperturaBarrera();
+                                _frmPrincipal_Presenter.ActualizarEventoDispo(Convert.ToInt64(Resul[1]));
+
+                            }
+                        }
+
+                    }
+                    //PLACAS
+                    //            General_Events = "(FrontEnd Antes CapturaPlaca)";
+                    //            CapturaPlacaNew();
+                    //            if (_frmPrincipal_Presenter.ValidarPlacaEntrada())
+                    //            {
+                    //                if (_PlacaRegistrada == _sPlaca)
+                    //                {
+                    //                    CapturaPlacaNew();
+                    //                }
+                    //                if (_sPlaca == _PlacaRegistrada)
+                    //                {
+                    //                    _sPlaca = "------";
+                    //                }
+                    //            }
+                    //            General_Events = "(FrontEnd Antes CapturaPlaca) " + _sPlaca;
+
+                    //_SinTarjetas = false;
   
                         if (Convert.ToBoolean(Globales.sPLC) == true)
                         {
@@ -1848,27 +1869,8 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                 #endregion
                             }
                    
-                        }
+                        }                   
 
-                        if (_frmPrincipal_Presenter.ObtenerEventoDispo())
-                        {
-                            string[] Resul = _Barrera.Split(';');
-
-                            if (Resul[0].ToString() == Globales.sSerial)
-                            {
-                                if (Convert.ToBoolean(Globales.sPLC) == true)
-                                {
-                                    _frmPrincipal_Presenter.AbrirTalanquera();
-                                }
-                                else
-                                {
-                                    _frmPrincipal_Presenter.AperturaBarrera();
-                                    _frmPrincipal_Presenter.ActualizarEventoDispo(Convert.ToInt64(Resul[1]));
-
-                                }
-                            }
-
-                        }
                     //}
                     //}
                     break;

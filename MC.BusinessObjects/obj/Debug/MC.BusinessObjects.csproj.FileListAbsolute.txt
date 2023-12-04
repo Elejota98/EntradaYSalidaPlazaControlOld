@@ -165,3 +165,4 @@ D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.BusinessObje
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.BusinessObjects\bin\Debug\EGlobalT.Device.Tools.dll
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.dll
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.BusinessObjects\obj\Debug\MC.BusinessObjects.csprojResolveAssemblyReference.cache

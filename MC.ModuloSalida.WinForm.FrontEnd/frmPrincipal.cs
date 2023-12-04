@@ -271,7 +271,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                 case Pantalla.SalvaPantallas:
 
                     //TbTag.Focus();
-                   CapturaPlaca();
+                   //CapturaPlaca();
 
                     if (_frmPrincipal_Presenter.ValidarPlacaSalida())
                     {

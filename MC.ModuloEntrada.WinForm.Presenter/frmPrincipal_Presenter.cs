@@ -1504,7 +1504,10 @@ namespace MC.ModuloEntrada.WinForm.Presenter
                 #region Error_Conexion
                 case StatesControl.Error_Conexion:
                     View.ControlReady = false;
-                    View.General_Events = oResultadoOperacion.Mensaje;
+                    if (oResultadoOperacion.Mensaje != "")
+                    {
+                        View.General_Events = oResultadoOperacion.Mensaje;
+                    }
                     break;
                 #endregion
 
@@ -1512,14 +1515,20 @@ namespace MC.ModuloEntrada.WinForm.Presenter
                 case StatesControl.Conexion_Exitosa:
                     View.ControlReady = true;
                     //oResultadoOperacion = i.resultString;
-                    View.General_Events = oResultadoOperacion.Mensaje;
+                    if (oResultadoOperacion.Mensaje != "")
+                    {
+                        View.General_Events = oResultadoOperacion.Mensaje;
+                    }
                     break;
                 #endregion
 
                 #region BotonPresionado
                 case StatesControl.BotonPresionado:
                     View.BotonPresionado = true;
-                    View.General_Events = oResultadoOperacion.Mensaje;
+                    if (oResultadoOperacion.Mensaje != "")
+                    {
+                        View.General_Events = oResultadoOperacion.Mensaje;
+                    }
                     break;
                 #endregion
 
@@ -1544,14 +1553,20 @@ namespace MC.ModuloEntrada.WinForm.Presenter
                             View.Moto = true;
                         }
                     }
-                    View.General_Events = oResultadoOperacion.Mensaje;
+                    if (oResultadoOperacion.Mensaje != "")
+                    {
+                        View.General_Events = oResultadoOperacion.Mensaje;
+                    }
                     break;
                 #endregion
 
                 #region VehiculoTalanquera
                 case StatesControl.VehiculoTalanquera:
                     View.VehiculoTalanquera = true;
-                    View.General_Events = oResultadoOperacion.Mensaje;
+                    if (oResultadoOperacion.Mensaje != "")
+                    {
+                        View.General_Events = oResultadoOperacion.Mensaje;
+                    }
                     break;
                 #endregion
 
@@ -1566,7 +1581,10 @@ namespace MC.ModuloEntrada.WinForm.Presenter
                 case StatesControl.NoHayCarro:
                     View.VehiculoMueble = false;
                     View.VehiculoTalanquera = false;
-                    View.General_Events = oResultadoOperacion.Mensaje;
+                    if (oResultadoOperacion.Mensaje != "")
+                    {
+                        View.General_Events = oResultadoOperacion.Mensaje;
+                    }
                     break;
                 #endregion
 
