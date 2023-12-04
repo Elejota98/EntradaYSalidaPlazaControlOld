@@ -626,12 +626,18 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
 
                             if (Resul[0].ToString() == Globales.sSerial)
                             {
-                                _frmPrincipal_Presenter.AbrirTalanquera();
+                                if (Convert.ToBoolean(Globales.sPLC) == true)
+                                {
+                                    _frmPrincipal_Presenter.AbrirTalanquera();
+                                }
+                                else
+                                {
+                                    _frmPrincipal_Presenter.AperturaBarrera();
+                                    _frmPrincipal_Presenter.ActualizarEventoDispo(Convert.ToInt64(Resul[1]));
+
+                                }
                             }
-                            if (Resul[0].ToString() == Globales.sSerial)
-                            {
-                                _frmPrincipal_Presenter.ActualizarEventoDispo(Convert.ToInt64(Resul[1]));
-                            }
+
                         }
                     }
 
@@ -1644,7 +1650,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
 
             oTransaccion.CarrilSalida = Convert.ToInt32(Globales.sCarril);
             oTransaccion.IdEstacionamiento = Convert.ToInt64(Globales.iCodigoEstacionamiento);
-            oTransaccion.IdTarjeta = _Tarjeta.CodeCard;
+            oTransaccion.IdTarjeta = "NULL";
             oTransaccion.IdTransaccion = Convert.ToInt64(SecuenciaTransaccion);
             oTransaccion.ModuloSalida = Globales.sSerial;
             oTransaccion.PlacaSalida = _sPlaca;

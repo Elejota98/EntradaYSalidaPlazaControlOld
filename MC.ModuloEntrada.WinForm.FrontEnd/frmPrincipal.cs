@@ -1863,10 +1863,11 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                 else
                                 {
                                     _frmPrincipal_Presenter.AperturaBarrera();
+                                    _frmPrincipal_Presenter.ActualizarEventoDispo(Convert.ToInt64(Resul[1]));
+
                                 }
                             }
 
-                            _frmPrincipal_Presenter.ActualizarEventoDispo(Convert.ToInt64(Resul[1]));
                         }
                     //}
                     //}
