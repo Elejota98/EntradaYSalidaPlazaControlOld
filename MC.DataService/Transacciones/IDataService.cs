@@ -33,7 +33,7 @@ namespace MC.DataService
 
         ResultadoOperacion ObtenerEvento(long Secuencia);
 
-        ResultadoOperacion ObtenerEventoDisposito();
+        ResultadoOperacion ObtenerEventoDisposito(Modulo oModulo);
 
         ResultadoOperacion ActualizarEvento(long IdEvento);
 

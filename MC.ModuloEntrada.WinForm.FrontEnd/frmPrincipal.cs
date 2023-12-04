@@ -1097,7 +1097,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                         #endregion
                                     }
                                     LimpiarDatosLectura();
-                                    Presentacion = Pantalla.SalvaPantallas;
+                                    Presentacion = Pantalla.RetireTarjeta;
 
                                     #region Old
 
@@ -1238,7 +1238,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                                         #endregion
                                                     }
                                                     LimpiarDatosLectura();
-                                                    Presentacion = Pantalla.SalvaPantallas;
+                                                    Presentacion = Pantalla.RetireTarjeta;
                                                     //Presentacion = Pantalla.TarjetaSinRegistroSalida;
                                                     break;
                                                     ////General_Events = "TarjetaSinRegistroSalida";
@@ -1817,7 +1817,7 @@ namespace MC.ModuloEntrada.WinForm.FrontEnd
                                         #endregion
                                     }
                                     LimpiarDatosLectura();
-                                    Presentacion = Pantalla.SalvaPantallas;
+                                    Presentacion = Pantalla.RetireTarjeta;
                                     //if (_VehiculoMueble==false)
                                     //{
                                     //    VehiculoMoto = true;

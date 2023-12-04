@@ -247,7 +247,7 @@ namespace MC.EntradaService.ServiceImplementations
             if (!ValidRequest(request, response))
                 return response;
 
-            ResultadoOperacion oResultadoOperacion = _DataService.ObtenerEventoDisposito();
+            ResultadoOperacion oResultadoOperacion = _DataService.ObtenerEventoDisposito(request.oModulo);
             if (oResultadoOperacion.oEstado == TipoRespuesta.Exito)
             {
                 response.oResult = (string)oResultadoOperacion.EntidadDatos;

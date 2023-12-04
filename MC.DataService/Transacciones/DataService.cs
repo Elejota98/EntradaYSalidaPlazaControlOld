@@ -607,7 +607,7 @@ namespace MC.DataService
             return oResultadoOperacion;
         }
 
-        public ResultadoOperacion ObtenerEventoDisposito()
+        public ResultadoOperacion ObtenerEventoDisposito(Modulo oModulo)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
 
@@ -621,7 +621,7 @@ namespace MC.DataService
             {
                 _InfoEventoTable.Constraints.Clear();
 
-                if (_InfoEventoAdapter.Fill(_InfoEventoTable) > 0)
+                if (_InfoEventoAdapter.Fill(_InfoEventoTable, oModulo.IdModulo) > 0)
                 {
                     oResultadoOperacion.oEstado = TipoRespuesta.Exito;
                     oResultadoOperacion.Mensaje = "Info transaccion OK";

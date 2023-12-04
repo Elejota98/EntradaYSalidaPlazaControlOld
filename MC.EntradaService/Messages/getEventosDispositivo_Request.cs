@@ -14,5 +14,8 @@ namespace MC.EntradaService.Messages
     {
         [DataMember]
         public long oIdEvento;
+
+        [DataMember]
+        public Modulo oModulo;
     }
 }
