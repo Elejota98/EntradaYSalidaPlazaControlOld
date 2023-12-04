@@ -847,3 +847,760 @@
 2023/12/04 12:19:27.143 - MENSAJE: (Presenter ObtenerEventoDispo) OK
 2023/12/04 12:19:30.692 - MENSAJE: 
 2023/12/04 12:19:32.217 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2023/12/04 03:15:07.085 - INICIO REGISTRO
+2023/12/04 03:15:07.105 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/12/04 03:15:07.241 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/12/04 03:15:17.304 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/12/04 03:15:17.418 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/12/04 03:15:17.462 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/12/04 03:15:17.801 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:15:18.089 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:15:18.159 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:15:18.225 - MENSAJE: 
+2023/12/04 03:15:18.306 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:15:18.336 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:15:18.360 - MENSAJE: 
+2023/12/04 03:15:19.120 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:15:19.174 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:15:19.212 - MENSAJE: 
+2023/12/04 03:15:20.120 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:15:20.202 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:15:20.225 - MENSAJE: 
+2023/12/04 03:15:21.131 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:15:21.195 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:15:21.218 - MENSAJE: 
+2023/12/04 03:15:22.127 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:15:22.182 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:15:22.206 - MENSAJE: 
+2023/12/04 03:15:23.124 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:15:23.171 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:15:23.192 - MENSAJE: 
+2023/12/04 03:15:24.127 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:15:24.169 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:15:24.190 - MENSAJE: 
+2023/12/04 03:15:25.138 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:15:25.168 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:15:25.189 - MENSAJE: 
+2023/12/04 03:15:26.117 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:15:26.168 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:15:26.190 - MENSAJE: 
+2023/12/04 03:15:27.141 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:15:27.188 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:15:27.209 - MENSAJE: 
+2023/12/04 03:15:28.119 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:15:28.176 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:15:28.199 - MENSAJE: 
+2023/12/04 03:15:29.118 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:15:29.175 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:15:29.197 - MENSAJE: 
+2023/12/04 03:16:20.509 - INICIO REGISTRO
+2023/12/04 03:16:20.527 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/12/04 03:16:20.651 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/12/04 03:16:21.402 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/12/04 03:16:21.442 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/12/04 03:16:21.464 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/12/04 03:16:22.306 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:16:22.435 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:16:22.493 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:16:22.572 - MENSAJE: 
+2023/12/04 03:16:46.094 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 03:16:50.478 - MENSAJE: 
+2023/12/04 03:18:35.538 - INICIO REGISTRO
+2023/12/04 03:18:35.554 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/12/04 03:18:35.682 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/12/04 03:18:36.360 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/12/04 03:18:36.391 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/12/04 03:18:36.420 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/12/04 03:18:37.134 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:18:37.259 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:18:37.298 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:18:37.361 - MENSAJE: 
+2023/12/04 03:18:38.064 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 03:18:40.105 - MENSAJE: 
+2023/12/04 03:18:40.690 - MENSAJE: 
+2023/12/04 03:18:57.204 - MENSAJE: 
+2023/12/04 03:19:01.719 - MENSAJE: 
+2023/12/04 03:21:51.995 - INICIO REGISTRO
+2023/12/04 03:21:52.013 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/12/04 03:21:52.134 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/12/04 03:21:52.852 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/12/04 03:21:52.882 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/12/04 03:21:52.906 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/12/04 03:21:52.939 - MENSAJE: 
+2023/12/04 03:21:53.018 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:22:01.824 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:22:01.895 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:22:01.903 - MENSAJE: 
+2023/12/04 03:22:03.055 - MENSAJE: 
+2023/12/04 03:22:03.083 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 03:22:10.662 - MENSAJE: 
+2023/12/04 03:22:13.139 - MENSAJE: 
+2023/12/04 03:22:21.746 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2023/12/04 03:22:24.588 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:22:24.630 - MENSAJE: (FrontEnd Antes CapturaPlaca) JYW53G
+2023/12/04 03:22:24.631 - MENSAJE: 
+2023/12/04 03:22:24.632 - MENSAJE: oAutorizado.PlacaAuto : JYW53G
+2023/12/04 03:22:24.718 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:22:28.404 - MENSAJE: 
+2023/12/04 03:22:28.449 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:22:28.478 - MENSAJE: (FrontEnd Antes CapturaPlaca) JYW53G
+2023/12/04 03:22:28.479 - MENSAJE: 
+2023/12/04 03:22:28.480 - MENSAJE: oAutorizado.PlacaAuto : JYW53G
+2023/12/04 03:22:28.515 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:22:28.982 - MENSAJE: 
+2023/12/04 03:22:29.014 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:22:29.041 - MENSAJE: (FrontEnd Antes CapturaPlaca) JYW53G
+2023/12/04 03:22:29.042 - MENSAJE: 
+2023/12/04 03:22:29.043 - MENSAJE: Vehiculo en el mueble
+2023/12/04 03:22:29.075 - MENSAJE: Captura de placa: JYW53G
+2023/12/04 03:22:29.545 - MENSAJE: 
+2023/12/04 03:22:30.016 - MENSAJE: Registrar Entrada OK
+2023/12/04 03:22:30.527 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 03:22:33.034 - MENSAJE: Apertura Barrera
+2023/12/04 03:22:33.035 - MENSAJE: 
+2023/12/04 03:24:33.215 - INICIO REGISTRO
+2023/12/04 03:24:33.233 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/12/04 03:24:33.353 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/12/04 03:24:34.063 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/12/04 03:24:34.099 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/12/04 03:24:34.124 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/12/04 03:24:34.154 - MENSAJE: 
+2023/12/04 03:24:34.234 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:24:34.359 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:24:34.410 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:24:34.415 - MENSAJE: 
+2023/12/04 03:24:46.853 - INICIO REGISTRO
+2023/12/04 03:24:46.868 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/12/04 03:24:46.987 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/12/04 03:24:47.674 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/12/04 03:24:47.702 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/12/04 03:24:47.723 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/12/04 03:24:47.749 - MENSAJE: 
+2023/12/04 03:24:47.831 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:24:47.980 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:24:48.041 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:24:48.045 - MENSAJE: 
+2023/12/04 03:25:02.835 - MENSAJE: 
+2023/12/04 03:25:04.760 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:05.934 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:06.278 - MENSAJE: 
+2023/12/04 03:25:06.833 - MENSAJE: 
+2023/12/04 03:25:06.848 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 03:25:09.066 - MENSAJE: 
+2023/12/04 03:25:13.334 - MENSAJE: 
+2023/12/04 03:25:13.352 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2023/12/04 03:25:13.383 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:13.440 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:13.440 - MENSAJE: 
+2023/12/04 03:25:16.875 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:16.925 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:16.926 - MENSAJE: 
+2023/12/04 03:25:16.960 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:17.014 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:17.015 - MENSAJE: 
+2023/12/04 03:25:17.437 - MENSAJE: 
+2023/12/04 03:25:17.888 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:17.946 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:17.947 - MENSAJE: 
+2023/12/04 03:25:18.450 - MENSAJE: 
+2023/12/04 03:25:18.884 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:18.937 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:18.938 - MENSAJE: 
+2023/12/04 03:25:19.443 - MENSAJE: 
+2023/12/04 03:25:19.895 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:19.951 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:19.953 - MENSAJE: 
+2023/12/04 03:25:20.455 - MENSAJE: 
+2023/12/04 03:25:20.891 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:20.922 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:20.927 - MENSAJE: 
+2023/12/04 03:25:21.436 - MENSAJE: 
+2023/12/04 03:25:21.888 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:21.938 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:21.940 - MENSAJE: 
+2023/12/04 03:25:22.450 - MENSAJE: 
+2023/12/04 03:25:22.889 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:22.931 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:22.932 - MENSAJE: 
+2023/12/04 03:25:23.437 - MENSAJE: 
+2023/12/04 03:25:23.890 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:23.944 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:23.945 - MENSAJE: 
+2023/12/04 03:25:24.458 - MENSAJE: 
+2023/12/04 03:25:24.897 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:24.940 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:24.941 - MENSAJE: 
+2023/12/04 03:25:33.447 - MENSAJE: 
+2023/12/04 03:25:33.463 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 03:25:39.909 - MENSAJE: 
+2023/12/04 03:25:41.058 - MENSAJE: 
+2023/12/04 03:25:45.374 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2023/12/04 03:25:45.447 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:45.480 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:45.481 - MENSAJE: 
+2023/12/04 03:25:47.949 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:47.989 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:47.990 - MENSAJE: 
+2023/12/04 03:25:48.448 - MENSAJE: 
+2023/12/04 03:25:48.884 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:48.916 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:48.917 - MENSAJE: 
+2023/12/04 03:25:49.433 - MENSAJE: 
+2023/12/04 03:25:49.883 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:49.913 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:49.914 - MENSAJE: 
+2023/12/04 03:25:50.427 - MENSAJE: 
+2023/12/04 03:25:50.891 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:50.921 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:50.923 - MENSAJE: 
+2023/12/04 03:25:51.437 - MENSAJE: 
+2023/12/04 03:25:51.889 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:51.920 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:51.921 - MENSAJE: 
+2023/12/04 03:25:52.432 - MENSAJE: 
+2023/12/04 03:25:52.885 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:52.917 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:52.918 - MENSAJE: 
+2023/12/04 03:25:53.431 - MENSAJE: 
+2023/12/04 03:25:53.884 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:53.914 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:53.916 - MENSAJE: 
+2023/12/04 03:25:54.428 - MENSAJE: 
+2023/12/04 03:25:54.896 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:54.933 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:54.935 - MENSAJE: 
+2023/12/04 03:25:55.439 - MENSAJE: 
+2023/12/04 03:25:55.892 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:55.919 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:55.920 - MENSAJE: 
+2023/12/04 03:25:56.435 - MENSAJE: 
+2023/12/04 03:25:56.886 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:56.931 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:56.932 - MENSAJE: 
+2023/12/04 03:25:57.433 - MENSAJE: 
+2023/12/04 03:25:57.884 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:57.937 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:57.938 - MENSAJE: 
+2023/12/04 03:25:57.951 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 03:25:57.953 - MENSAJE: 
+2023/12/04 03:25:57.965 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2023/12/04 03:25:58.445 - MENSAJE: 
+2023/12/04 03:25:58.896 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:58.929 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:58.930 - MENSAJE: 
+2023/12/04 03:25:59.885 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:25:59.933 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:25:59.935 - MENSAJE: 
+2023/12/04 03:26:00.896 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:00.935 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:00.936 - MENSAJE: 
+2023/12/04 03:26:01.886 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:01.920 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:01.922 - MENSAJE: 
+2023/12/04 03:26:02.894 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:02.940 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:02.941 - MENSAJE: 
+2023/12/04 03:26:03.781 - MENSAJE: 
+2023/12/04 03:26:03.891 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:03.931 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:03.932 - MENSAJE: 
+2023/12/04 03:26:04.433 - MENSAJE: 
+2023/12/04 03:26:04.885 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:04.941 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:04.942 - MENSAJE: 
+2023/12/04 03:26:05.450 - MENSAJE: 
+2023/12/04 03:26:05.888 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:05.987 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:05.989 - MENSAJE: 
+2023/12/04 03:26:06.496 - MENSAJE: 
+2023/12/04 03:26:06.887 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:06.948 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:06.950 - MENSAJE: 
+2023/12/04 03:26:07.459 - MENSAJE: 
+2023/12/04 03:26:07.895 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:07.948 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:07.949 - MENSAJE: 
+2023/12/04 03:26:08.456 - MENSAJE: 
+2023/12/04 03:26:08.889 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:08.945 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:08.947 - MENSAJE: 
+2023/12/04 03:26:09.462 - MENSAJE: 
+2023/12/04 03:26:09.898 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:09.971 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:09.972 - MENSAJE: 
+2023/12/04 03:26:10.474 - MENSAJE: 
+2023/12/04 03:26:10.892 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:10.924 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:10.925 - MENSAJE: 
+2023/12/04 03:26:10.951 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 03:26:10.953 - MENSAJE: 
+2023/12/04 03:26:10.967 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2023/12/04 03:26:11.435 - MENSAJE: 
+2023/12/04 03:26:11.887 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:11.917 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:11.918 - MENSAJE: 
+2023/12/04 03:26:12.887 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:12.944 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:12.945 - MENSAJE: 
+2023/12/04 03:26:13.896 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:13.935 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:13.937 - MENSAJE: 
+2023/12/04 03:26:14.891 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:14.925 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:14.926 - MENSAJE: 
+2023/12/04 03:26:15.886 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:15.917 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:15.918 - MENSAJE: 
+2023/12/04 03:26:16.884 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:16.929 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:16.930 - MENSAJE: 
+2023/12/04 03:26:17.897 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:17.945 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:17.946 - MENSAJE: 
+2023/12/04 03:26:18.893 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:18.924 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:18.926 - MENSAJE: 
+2023/12/04 03:26:19.888 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:19.932 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:19.933 - MENSAJE: 
+2023/12/04 03:26:20.839 - MENSAJE: 
+2023/12/04 03:26:20.887 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:20.918 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:20.919 - MENSAJE: 
+2023/12/04 03:26:21.433 - MENSAJE: 
+2023/12/04 03:26:21.886 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:21.935 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:21.937 - MENSAJE: 
+2023/12/04 03:26:22.448 - MENSAJE: 
+2023/12/04 03:26:22.896 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:22.926 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:22.927 - MENSAJE: 
+2023/12/04 03:26:23.443 - MENSAJE: 
+2023/12/04 03:26:23.883 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:23.916 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:23.917 - MENSAJE: 
+2023/12/04 03:26:24.422 - MENSAJE: 
+2023/12/04 03:26:24.887 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:24.920 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:24.921 - MENSAJE: 
+2023/12/04 03:26:25.432 - MENSAJE: 
+2023/12/04 03:26:25.897 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:25.928 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:25.929 - MENSAJE: 
+2023/12/04 03:26:26.444 - MENSAJE: 
+2023/12/04 03:26:26.932 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:26.980 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:26.981 - MENSAJE: 
+2023/12/04 03:26:27.485 - MENSAJE: 
+2023/12/04 03:26:27.924 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:27.968 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:27.969 - MENSAJE: 
+2023/12/04 03:26:28.480 - MENSAJE: 
+2023/12/04 03:26:28.887 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:28.917 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:28.918 - MENSAJE: 
+2023/12/04 03:26:29.432 - MENSAJE: 
+2023/12/04 03:26:29.921 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:29.951 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:29.952 - MENSAJE: 
+2023/12/04 03:26:30.454 - MENSAJE: 
+2023/12/04 03:26:30.919 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:30.953 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:30.954 - MENSAJE: 
+2023/12/04 03:26:31.465 - MENSAJE: 
+2023/12/04 03:26:31.907 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:32.055 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:32.057 - MENSAJE: 
+2023/12/04 03:26:32.568 - MENSAJE: 
+2023/12/04 03:26:32.900 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:32.934 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:32.935 - MENSAJE: 
+2023/12/04 03:26:33.437 - MENSAJE: 
+2023/12/04 03:26:33.894 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:33.926 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:33.927 - MENSAJE: 
+2023/12/04 03:26:33.928 - MENSAJE: Vehiculo en el mueble
+2023/12/04 03:26:33.959 - MENSAJE: Captura de placa: ------
+2023/12/04 03:26:34.437 - MENSAJE: 
+2023/12/04 03:26:34.886 - MENSAJE: Registrar Entrada OK
+2023/12/04 03:26:34.977 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 03:26:37.146 - MENSAJE: Apertura Barrera
+2023/12/04 03:26:37.147 - MENSAJE: 
+2023/12/04 03:26:37.200 - MENSAJE: 
+2023/12/04 03:26:37.655 - MENSAJE: 
+2023/12/04 03:26:37.891 - MENSAJE: 
+2023/12/04 03:26:38.887 - MENSAJE: 
+2023/12/04 03:26:39.893 - MENSAJE: 
+2023/12/04 03:26:40.883 - MENSAJE: 
+2023/12/04 03:26:41.898 - MENSAJE: 
+2023/12/04 03:26:42.887 - MENSAJE: 
+2023/12/04 03:26:43.884 - MENSAJE: 
+2023/12/04 03:26:44.506 - MENSAJE: 
+2023/12/04 03:26:44.897 - MENSAJE: 
+2023/12/04 03:26:44.914 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 03:26:45.410 - MENSAJE: 
+2023/12/04 03:26:45.895 - MENSAJE: 
+2023/12/04 03:26:45.896 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 03:26:45.942 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:26:46.409 - MENSAJE: 
+2023/12/04 03:26:46.894 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:46.939 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:46.941 - MENSAJE: 
+2023/12/04 03:26:47.454 - MENSAJE: 
+2023/12/04 03:26:47.892 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:47.954 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:47.956 - MENSAJE: 
+2023/12/04 03:26:48.470 - MENSAJE: 
+2023/12/04 03:26:48.891 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:48.924 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:48.925 - MENSAJE: 
+2023/12/04 03:26:49.434 - MENSAJE: 
+2023/12/04 03:26:49.887 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:49.920 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:49.922 - MENSAJE: 
+2023/12/04 03:26:50.432 - MENSAJE: 
+2023/12/04 03:26:50.884 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:50.924 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:50.925 - MENSAJE: 
+2023/12/04 03:26:51.429 - MENSAJE: 
+2023/12/04 03:26:51.896 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:51.928 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:51.929 - MENSAJE: 
+2023/12/04 03:26:52.439 - MENSAJE: 
+2023/12/04 03:26:52.893 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:52.934 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:52.935 - MENSAJE: 
+2023/12/04 03:26:53.437 - MENSAJE: 
+2023/12/04 03:26:53.890 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:53.947 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:53.948 - MENSAJE: 
+2023/12/04 03:26:54.449 - MENSAJE: 
+2023/12/04 03:26:54.885 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:54.933 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:54.934 - MENSAJE: 
+2023/12/04 03:26:55.446 - MENSAJE: 
+2023/12/04 03:26:55.896 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:55.953 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:55.954 - MENSAJE: 
+2023/12/04 03:26:56.458 - MENSAJE: 
+2023/12/04 03:26:56.896 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:56.947 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:56.948 - MENSAJE: 
+2023/12/04 03:26:57.453 - MENSAJE: 
+2023/12/04 03:26:57.889 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:57.918 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:26:57.919 - MENSAJE: 
+2023/12/04 03:26:58.432 - MENSAJE: 
+2023/12/04 03:26:58.885 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:58.936 - MENSAJE: (FrontEnd Antes CapturaPlaca) ZZFU1E
+2023/12/04 03:26:58.937 - MENSAJE: 
+2023/12/04 03:26:58.939 - MENSAJE: oAutorizado.PlacaAuto : ZZFU1E
+2023/12/04 03:26:59.004 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:26:59.442 - MENSAJE: 
+2023/12/04 03:26:59.893 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:26:59.934 - MENSAJE: (FrontEnd Antes CapturaPlaca) ZZFU1E
+2023/12/04 03:26:59.935 - MENSAJE: 
+2023/12/04 03:26:59.936 - MENSAJE: Vehiculo en el mueble
+2023/12/04 03:26:59.970 - MENSAJE: Captura de placa: ZZFU1E
+2023/12/04 03:27:00.440 - MENSAJE: 
+2023/12/04 03:27:00.895 - MENSAJE: Registrar Entrada OK
+2023/12/04 03:27:00.914 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 03:27:01.738 - MENSAJE: Apertura Barrera
+2023/12/04 03:27:01.739 - MENSAJE: 
+2023/12/04 03:27:01.884 - MENSAJE: 
+2023/12/04 03:27:02.243 - MENSAJE: 
+2023/12/04 03:27:02.895 - MENSAJE: 
+2023/12/04 03:27:03.891 - MENSAJE: 
+2023/12/04 03:27:04.886 - MENSAJE: 
+2023/12/04 03:27:05.896 - MENSAJE: 
+2023/12/04 03:27:06.885 - MENSAJE: 
+2023/12/04 03:27:07.895 - MENSAJE: 
+2023/12/04 03:27:08.887 - MENSAJE: 
+2023/12/04 03:27:09.598 - MENSAJE: 
+2023/12/04 03:27:09.893 - MENSAJE: 
+2023/12/04 03:27:09.895 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 03:27:10.408 - MENSAJE: 
+2023/12/04 03:27:10.891 - MENSAJE: 
+2023/12/04 03:27:11.407 - MENSAJE: 
+2023/12/04 03:27:11.893 - MENSAJE: 
+2023/12/04 03:27:11.895 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 03:27:11.934 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:27:12.398 - MENSAJE: 
+2023/12/04 03:27:12.896 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:12.940 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:12.941 - MENSAJE: 
+2023/12/04 03:27:13.457 - MENSAJE: 
+2023/12/04 03:27:13.891 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:13.932 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:13.933 - MENSAJE: 
+2023/12/04 03:27:14.439 - MENSAJE: 
+2023/12/04 03:27:14.892 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:14.946 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:14.947 - MENSAJE: 
+2023/12/04 03:27:15.452 - MENSAJE: 
+2023/12/04 03:27:15.890 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:15.935 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:15.936 - MENSAJE: 
+2023/12/04 03:27:16.450 - MENSAJE: 
+2023/12/04 03:27:16.887 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:16.915 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:16.916 - MENSAJE: 
+2023/12/04 03:27:17.431 - MENSAJE: 
+2023/12/04 03:27:17.883 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:17.937 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:17.939 - MENSAJE: 
+2023/12/04 03:27:18.443 - MENSAJE: 
+2023/12/04 03:27:18.894 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:18.925 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:18.926 - MENSAJE: 
+2023/12/04 03:27:19.434 - MENSAJE: 
+2023/12/04 03:27:19.886 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:19.915 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:19.916 - MENSAJE: 
+2023/12/04 03:27:20.417 - MENSAJE: 
+2023/12/04 03:27:20.883 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:20.921 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:20.922 - MENSAJE: 
+2023/12/04 03:27:21.426 - MENSAJE: 
+2023/12/04 03:27:21.891 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:21.936 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:21.937 - MENSAJE: 
+2023/12/04 03:27:22.452 - MENSAJE: 
+2023/12/04 03:27:22.889 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:22.933 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:22.935 - MENSAJE: 
+2023/12/04 03:27:23.447 - MENSAJE: 
+2023/12/04 03:27:23.898 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:23.931 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:23.932 - MENSAJE: 
+2023/12/04 03:27:24.445 - MENSAJE: 
+2023/12/04 03:27:24.896 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:24.944 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:24.945 - MENSAJE: 
+2023/12/04 03:27:25.457 - MENSAJE: 
+2023/12/04 03:27:25.893 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:25.951 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:25.953 - MENSAJE: 
+2023/12/04 03:27:26.468 - MENSAJE: 
+2023/12/04 03:27:26.890 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:26.941 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:26.943 - MENSAJE: 
+2023/12/04 03:27:26.955 - MENSAJE: (Presenter ObtenerEventoDispo) OK
+2023/12/04 03:27:26.957 - MENSAJE: 
+2023/12/04 03:27:26.971 - MENSAJE: (Presenter ActualizarEventoDispositivo) OK
+2023/12/04 03:27:27.448 - MENSAJE: 
+2023/12/04 03:27:27.897 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:27.951 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:27.952 - MENSAJE: 
+2023/12/04 03:27:28.891 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:28.942 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:28.943 - MENSAJE: 
+2023/12/04 03:27:29.897 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:29.937 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:29.938 - MENSAJE: 
+2023/12/04 03:27:30.895 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:30.941 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:30.942 - MENSAJE: 
+2023/12/04 03:27:31.894 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:31.955 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:31.956 - MENSAJE: 
+2023/12/04 03:27:32.890 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:32.927 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:32.928 - MENSAJE: 
+2023/12/04 03:27:33.883 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:33.936 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:33.937 - MENSAJE: 
+2023/12/04 03:27:34.895 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:34.953 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:34.954 - MENSAJE: 
+2023/12/04 03:27:35.890 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:35.943 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:35.944 - MENSAJE: 
+2023/12/04 03:27:36.888 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:36.942 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:36.943 - MENSAJE: 
+2023/12/04 03:27:37.887 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:37.922 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:37.923 - MENSAJE: 
+2023/12/04 03:27:38.898 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:38.934 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:38.935 - MENSAJE: 
+2023/12/04 03:27:39.892 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:39.928 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:39.929 - MENSAJE: 
+2023/12/04 03:27:40.888 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:40.925 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:40.926 - MENSAJE: 
+2023/12/04 03:27:41.649 - MENSAJE: 
+2023/12/04 03:27:41.897 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:41.945 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:41.946 - MENSAJE: 
+2023/12/04 03:27:42.462 - MENSAJE: 
+2023/12/04 03:27:42.897 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:42.953 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:42.954 - MENSAJE: 
+2023/12/04 03:27:43.456 - MENSAJE: 
+2023/12/04 03:27:43.890 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:43.945 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:43.947 - MENSAJE: 
+2023/12/04 03:27:44.453 - MENSAJE: 
+2023/12/04 03:27:44.886 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:44.927 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:27:44.928 - MENSAJE: 
+2023/12/04 03:27:45.436 - MENSAJE: 
+2023/12/04 03:27:45.889 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:45.938 - MENSAJE: (FrontEnd Antes CapturaPlaca) LJL21D
+2023/12/04 03:27:45.939 - MENSAJE: 
+2023/12/04 03:27:45.940 - MENSAJE: oAutorizado.PlacaAuto : LJL21D
+2023/12/04 03:27:45.990 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:27:46.450 - MENSAJE: 
+2023/12/04 03:27:46.883 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:46.929 - MENSAJE: (FrontEnd Antes CapturaPlaca) LJL21D
+2023/12/04 03:27:46.930 - MENSAJE: 
+2023/12/04 03:27:46.931 - MENSAJE: oAutorizado.PlacaAuto : LJL21D
+2023/12/04 03:27:46.977 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:27:47.444 - MENSAJE: 
+2023/12/04 03:27:47.894 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:47.928 - MENSAJE: (FrontEnd Antes CapturaPlaca) LJL21D
+2023/12/04 03:27:47.929 - MENSAJE: 
+2023/12/04 03:27:47.930 - MENSAJE: oAutorizado.PlacaAuto : LJL21D
+2023/12/04 03:27:47.977 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:27:48.440 - MENSAJE: 
+2023/12/04 03:27:48.889 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:27:48.935 - MENSAJE: (FrontEnd Antes CapturaPlaca) LJL21D
+2023/12/04 03:27:48.936 - MENSAJE: 
+2023/12/04 03:27:48.937 - MENSAJE: Vehiculo en el mueble
+2023/12/04 03:27:48.965 - MENSAJE: Captura de placa: LJL21D
+2023/12/04 03:27:49.452 - MENSAJE: 
+2023/12/04 03:27:49.888 - MENSAJE: Registrar Entrada OK
+2023/12/04 03:27:49.913 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 03:27:50.795 - MENSAJE: Apertura Barrera
+2023/12/04 03:27:50.796 - MENSAJE: 
+2023/12/04 03:27:50.895 - MENSAJE: 
+2023/12/04 03:27:51.312 - MENSAJE: 
+2023/12/04 03:27:51.891 - MENSAJE: 
+2023/12/04 03:27:52.887 - MENSAJE: 
+2023/12/04 03:27:53.895 - MENSAJE: 
+2023/12/04 03:27:54.891 - MENSAJE: 
+2023/12/04 03:27:55.884 - MENSAJE: 
+2023/12/04 03:27:56.892 - MENSAJE: 
+2023/12/04 03:27:57.897 - MENSAJE: 
+2023/12/04 03:27:58.893 - MENSAJE: 
+2023/12/04 03:27:59.885 - MENSAJE: 
+2023/12/04 03:28:00.898 - MENSAJE: 
+2023/12/04 03:28:01.889 - MENSAJE: 
+2023/12/04 03:28:02.887 - MENSAJE: 
+2023/12/04 03:28:03.474 - MENSAJE: 
+2023/12/04 03:28:03.893 - MENSAJE: 
+2023/12/04 03:28:03.895 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 03:28:04.399 - MENSAJE: 
+2023/12/04 03:28:04.896 - MENSAJE: 
+2023/12/04 03:28:04.897 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 03:28:04.940 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:28:05.398 - MENSAJE: 
+2023/12/04 03:28:05.895 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:05.923 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:28:05.924 - MENSAJE: 
+2023/12/04 03:28:06.437 - MENSAJE: 
+2023/12/04 03:28:06.886 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:06.930 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:28:06.931 - MENSAJE: 
+2023/12/04 03:28:07.436 - MENSAJE: 
+2023/12/04 03:28:07.886 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:07.914 - MENSAJE: (FrontEnd Antes CapturaPlaca) RIT24C
+2023/12/04 03:28:07.915 - MENSAJE: 
+2023/12/04 03:28:07.915 - MENSAJE: oAutorizado.PlacaAuto : RIT24C
+2023/12/04 03:28:07.949 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:28:08.416 - MENSAJE: 
+2023/12/04 03:28:08.896 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:08.948 - MENSAJE: (FrontEnd Antes CapturaPlaca) RIT24C
+2023/12/04 03:28:08.950 - MENSAJE: 
+2023/12/04 03:28:08.951 - MENSAJE: oAutorizado.PlacaAuto : RIT24C
+2023/12/04 03:28:08.999 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:28:09.455 - MENSAJE: 
+2023/12/04 03:28:09.893 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:09.924 - MENSAJE: (FrontEnd Antes CapturaPlaca) RIT24C
+2023/12/04 03:28:09.925 - MENSAJE: 
+2023/12/04 03:28:09.926 - MENSAJE: oAutorizado.PlacaAuto : RIT24C
+2023/12/04 03:28:09.970 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:28:10.436 - MENSAJE: 
+2023/12/04 03:28:10.890 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:10.921 - MENSAJE: (FrontEnd Antes CapturaPlaca) RIT24C
+2023/12/04 03:28:10.922 - MENSAJE: 
+2023/12/04 03:28:10.923 - MENSAJE: oAutorizado.PlacaAuto : RIT24C
+2023/12/04 03:28:10.975 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:28:11.435 - MENSAJE: 
+2023/12/04 03:28:11.885 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:11.916 - MENSAJE: (FrontEnd Antes CapturaPlaca) RIT24C
+2023/12/04 03:28:11.917 - MENSAJE: 
+2023/12/04 03:28:11.918 - MENSAJE: Vehiculo en el mueble
+2023/12/04 03:28:11.951 - MENSAJE: Captura de placa: RIT24C
+2023/12/04 03:28:12.433 - MENSAJE: 
+2023/12/04 03:28:12.886 - MENSAJE: Registrar Entrada OK
+2023/12/04 03:28:12.895 - MENSAJE: FrondEnd-Imprimir -> Funcion imprimir Ticket.
+2023/12/04 03:28:13.716 - MENSAJE: Apertura Barrera
+2023/12/04 03:28:13.717 - MENSAJE: 
+2023/12/04 03:28:13.895 - MENSAJE: 
+2023/12/04 03:28:14.222 - MENSAJE: 
+2023/12/04 03:28:14.894 - MENSAJE: 
+2023/12/04 03:28:15.889 - MENSAJE: 
+2023/12/04 03:28:16.897 - MENSAJE: 
+2023/12/04 03:28:17.890 - MENSAJE: 
+2023/12/04 03:28:18.896 - MENSAJE: 
+2023/12/04 03:28:19.888 - MENSAJE: 
+2023/12/04 03:28:20.886 - MENSAJE: 
+2023/12/04 03:28:21.896 - MENSAJE: 
+2023/12/04 03:28:22.890 - MENSAJE: 
+2023/12/04 03:28:23.603 - MENSAJE: 
+2023/12/04 03:28:23.896 - MENSAJE: 
+2023/12/04 03:28:23.898 - MENSAJE: Registro correcto del vehiculo en el sistema
+2023/12/04 03:28:24.411 - MENSAJE: 
+2023/12/04 03:28:24.894 - MENSAJE: 
+2023/12/04 03:28:25.406 - MENSAJE: 
+2023/12/04 03:28:25.886 - MENSAJE: 
+2023/12/04 03:28:25.887 - MENSAJE: Vehiculo ya entró y pasó por la tanqquera
+2023/12/04 03:28:25.922 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 03:28:26.401 - MENSAJE: 
+2023/12/04 03:28:26.898 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:26.932 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:28:26.933 - MENSAJE: 
+2023/12/04 03:28:27.441 - MENSAJE: 
+2023/12/04 03:28:27.925 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:27.956 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:28:27.956 - MENSAJE: 
+2023/12/04 03:28:28.467 - MENSAJE: 
+2023/12/04 03:28:28.930 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:28.964 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:28:28.965 - MENSAJE: 
+2023/12/04 03:28:29.467 - MENSAJE: 
+2023/12/04 03:28:29.927 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:29.979 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:28:29.980 - MENSAJE: 
+2023/12/04 03:28:30.493 - MENSAJE: 
+2023/12/04 03:28:30.921 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:30.950 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:28:30.951 - MENSAJE: 
+2023/12/04 03:28:31.455 - MENSAJE: 
+2023/12/04 03:28:31.911 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:31.957 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:28:31.958 - MENSAJE: 
+2023/12/04 03:28:32.463 - MENSAJE: 
+2023/12/04 03:28:32.907 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:32.939 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:28:32.940 - MENSAJE: 
+2023/12/04 03:28:33.441 - MENSAJE: 
+2023/12/04 03:28:33.910 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:33.939 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:28:33.940 - MENSAJE: 
+2023/12/04 03:28:34.442 - MENSAJE: 
+2023/12/04 03:28:34.910 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:34.938 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:28:34.939 - MENSAJE: 
+2023/12/04 03:28:35.452 - MENSAJE: 
+2023/12/04 03:28:35.903 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:35.953 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:28:35.957 - MENSAJE: 
+2023/12/04 03:28:36.464 - MENSAJE: 
+2023/12/04 03:28:36.901 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 03:28:36.931 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 03:28:36.932 - MENSAJE: 

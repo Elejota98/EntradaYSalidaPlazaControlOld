@@ -12,40 +12,40 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/MC.BaseService.dll">
-      <publishTime>12/04/2023 11:24:09</publishTime>
+      <publishTime>12/04/2023 15:14:49</publishTime>
     </File>
     <File Include="bin/MC.BaseService.pdb">
-      <publishTime>12/04/2023 11:24:09</publishTime>
+      <publishTime>12/04/2023 15:14:49</publishTime>
     </File>
     <File Include="bin/MC.BusinessService.dll">
-      <publishTime>12/04/2023 11:24:09</publishTime>
+      <publishTime>12/04/2023 15:14:49</publishTime>
     </File>
     <File Include="bin/MC.BusinessService.pdb">
-      <publishTime>12/04/2023 11:24:09</publishTime>
+      <publishTime>12/04/2023 15:14:49</publishTime>
     </File>
     <File Include="bin/MC.DataService.dll">
-      <publishTime>12/04/2023 11:57:22</publishTime>
+      <publishTime>12/04/2023 15:28:45</publishTime>
     </File>
     <File Include="bin/MC.DataService.pdb">
-      <publishTime>12/04/2023 11:57:22</publishTime>
+      <publishTime>12/04/2023 15:28:45</publishTime>
     </File>
     <File Include="bin/MC.EntradaService.dll">
-      <publishTime>12/04/2023 11:57:23</publishTime>
+      <publishTime>12/04/2023 15:28:46</publishTime>
     </File>
     <File Include="bin/MC.EntradaService.pdb">
-      <publishTime>12/04/2023 11:57:23</publishTime>
+      <publishTime>12/04/2023 15:28:46</publishTime>
     </File>
     <File Include="bin/MC.Host.ActionServer.dll">
-      <publishTime>12/04/2023 11:57:23</publishTime>
+      <publishTime>12/04/2023 15:28:48</publishTime>
     </File>
     <File Include="bin/MC.Host.ActionServer.pdb">
-      <publishTime>12/04/2023 11:57:23</publishTime>
+      <publishTime>12/04/2023 15:28:48</publishTime>
     </File>
     <File Include="MC_EntradaService.svc">
-      <publishTime>12/04/2023 11:17:51</publishTime>
+      <publishTime>12/04/2023 14:48:56</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>12/04/2023 12:01:18</publishTime>
+      <publishTime>12/04/2023 15:29:44</publishTime>
     </File>
   </ItemGroup>
 </Project>
