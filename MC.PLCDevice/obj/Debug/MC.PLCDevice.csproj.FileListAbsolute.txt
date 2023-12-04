@@ -318,3 +318,17 @@ C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.PLCDevice\bin\Debu
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.PLCDevice\bin\Debug\MC.PLCDevice.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.PLCDevice\bin\Debug\MC.PLCDevice.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.PLCDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.PLCDevice\bin\Debug\MC.Utilidades.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.PLCDevice\bin\Debug\Modbus.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.PLCDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.PLCDevice\bin\Debug\log4net.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.PLCDevice\bin\Debug\Unme.Common.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.PLCDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.PLCDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.PLCDevice\bin\Debug\MC.Utilidades.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.PLCDevice\obj\Debug\MC.PLCDevice.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.PLCDevice\obj\Debug\MC.PLCDevice.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.PLCDevice\obj\Debug\MC.PLCDevice.pdb

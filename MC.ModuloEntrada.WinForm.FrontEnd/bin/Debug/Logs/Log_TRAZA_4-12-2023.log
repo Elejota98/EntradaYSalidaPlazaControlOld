@@ -1,0 +1,41 @@
+2023/12/04 10:23:02.073 - INICIO REGISTRO
+2023/12/04 10:23:02.084 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/12/04 10:23:02.221 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/12/04 10:23:02.809 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/12/04 10:23:02.837 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/12/04 10:23:02.861 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/12/04 10:23:02.891 - MENSAJE: 
+2023/12/04 10:23:03.141 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 10:23:03.241 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 10:23:03.297 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 10:23:03.331 - MENSAJE: 
+2023/12/04 10:23:11.511 - MENSAJE: 
+2023/12/04 10:23:12.103 - MENSAJE: 
+2023/12/04 10:23:14.788 - MENSAJE: 
+2023/12/04 10:23:21.083 - MENSAJE: 
+2023/12/04 10:23:21.084 - MENSAJE: 
+2023/12/04 10:23:21.667 - MENSAJE: 
+2023/12/04 10:23:24.296 - MENSAJE: Vehiculo en el mueble
+2023/12/04 10:23:25.625 - MENSAJE: Captura de placa: ------
+2023/12/04 10:23:39.768 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 10:23:44.558 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 10:23:47.008 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 10:23:49.844 - MENSAJE: 
+2023/12/04 10:24:22.838 - INICIO REGISTRO
+2023/12/04 10:24:22.846 - MENSAJE: (FrondEnd CargaRecursos): Carga Controles - OK
+2023/12/04 10:24:23.013 - MENSAJE: (FrondEnd CargaImagenes): Carga Imagenes - OK
+2023/12/04 10:24:23.510 - MENSAJE: (Presenter ObtenerInfoModulo) OK
+2023/12/04 10:24:23.540 - MENSAJE: (Presenter ObtenerInfoPartes) OK
+2023/12/04 10:24:23.563 - MENSAJE: (Presenter ObtenerInfoParametros) OK
+2023/12/04 10:24:23.591 - MENSAJE: 
+2023/12/04 10:24:23.688 - MENSAJE: (PRESENTER) Error Borrado Varibales PLC
+2023/12/04 10:24:23.843 - MENSAJE: (FrontEnd Antes CapturaPlaca)
+2023/12/04 10:24:23.886 - MENSAJE: (FrontEnd Antes CapturaPlaca) ------
+2023/12/04 10:24:23.891 - MENSAJE: 
+2023/12/04 10:24:27.252 - MENSAJE: Vehiculo en el mueble
+2023/12/04 10:24:28.279 - MENSAJE: 
+2023/12/04 10:24:28.711 - MENSAJE: Captura de placa: ------
+2023/12/04 10:24:53.743 - MENSAJE: Registrar Entrada OK
+2023/12/04 10:25:14.825 - MENSAJE: Registrar Entrada OK
+2023/12/04 10:25:30.496 - MENSAJE: 
+2023/12/04 10:25:31.608 - MENSAJE: 

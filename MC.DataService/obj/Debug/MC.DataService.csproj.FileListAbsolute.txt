@@ -175,3 +175,10 @@ C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\bin\De
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\obj\Debug\MC.DataService.dll
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\obj\Debug\MC.DataService.pdb
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.DataService\obj\Debug\MC.DataService.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.DataService\bin\Debug\MC.DataService.dll.config
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.DataService\bin\Debug\MC.DataService.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.DataService\bin\Debug\MC.DataService.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.DataService\bin\Debug\MC.BusinessService.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.DataService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.DataService\obj\Debug\MC.DataService.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.DataService\obj\Debug\MC.DataService.pdb

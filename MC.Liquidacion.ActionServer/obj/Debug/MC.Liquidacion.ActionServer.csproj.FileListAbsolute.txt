@@ -258,3 +258,16 @@ C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.Action
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Liquidacion.ActionServer\bin\MC.Liquidacion.ActionServer.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Liquidacion.ActionServer\bin\MC.BaseService.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Liquidacion.ActionServer\bin\MC.BusinessService.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Liquidacion.ActionServer\bin\MC.DataService.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Liquidacion.ActionServer\bin\MC.LiquidacionService.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Liquidacion.ActionServer\bin\MC.BaseService.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Liquidacion.ActionServer\bin\MC.BusinessService.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Liquidacion.ActionServer\bin\MC.DataService.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Liquidacion.ActionServer\obj\Debug\MC.Liquidacion.ActionServer.pdb

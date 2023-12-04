@@ -99,3 +99,8 @@ C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
 =======
 >>>>>>> e3868e3b4f9508d19c4507d80885ae3cb17e2e06
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.BaseService\bin\Debug\MC.BaseService.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.BaseService\bin\Debug\MC.BaseService.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.BaseService\obj\Debug\MC.BaseService.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.BaseService\obj\Debug\MC.BaseService.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.BaseService\obj\Debug\MC.BaseService.pdb

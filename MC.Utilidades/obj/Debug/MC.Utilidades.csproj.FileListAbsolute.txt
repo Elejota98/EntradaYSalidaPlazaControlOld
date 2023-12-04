@@ -93,14 +93,17 @@ C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Utili
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Utilidades\obj\Debug\MC.Utilidades.pdb
 <<<<<<< HEAD
 C:\Users\Salida\Documents\Parquearse Install\EntradaYSalida-PlazaCentral\MC.Utilidades\obj\Debug\MC.Utilidades.csprojResolveAssemblyReference.cache
-<<<<<<< HEAD
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Utilidades\bin\Debug\MC.Utilidades.dll
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Utilidades\bin\Debug\MC.Utilidades.pdb
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Utilidades\obj\Debug\MC.Utilidades.dll
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Utilidades\obj\Debug\MC.Utilidades.pdb
 C:\Users\Parquearse\Desktop\EntradaYSalida-PlazaCentral\MC.Utilidades\obj\Debug\MC.Utilidades.csprojResolveAssemblyReference.cache
 =======
-=======
 >>>>>>> e3868e3b4f9508d19c4507d80885ae3cb17e2e06
 C:\Users\Salida\Documents\ParquearseInstall\EntradaYSalida-PlazaCentral\MC.Utilidades\obj\Debug\MC.Utilidades.csprojResolveAssemblyReference.cache
 >>>>>>> b30f843e1b0c0bd28f568c04ce5eb06191c81b7c
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Utilidades\bin\Debug\MC.Utilidades.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Utilidades\bin\Debug\MC.Utilidades.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Utilidades\obj\Debug\MC.Utilidades.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Utilidades\obj\Debug\MC.Utilidades.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.Utilidades\obj\Debug\MC.Utilidades.pdb

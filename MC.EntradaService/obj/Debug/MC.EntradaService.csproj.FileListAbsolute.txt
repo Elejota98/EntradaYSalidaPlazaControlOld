@@ -291,3 +291,16 @@ C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\bin
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.dll
 C:\Users\Administrador\Desktop\EntradaYSalida-PlazaCentral\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.EntradaService.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.EntradaService.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.BaseService.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.BusinessService.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.DataService.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.Utilidades.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.BaseService.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.DataService.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\obj\Debug\MC.EntradaService.csprojResolveAssemblyReference.cache
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\obj\Debug\MC.EntradaService.dll
+C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.EntradaService\obj\Debug\MC.EntradaService.pdb
