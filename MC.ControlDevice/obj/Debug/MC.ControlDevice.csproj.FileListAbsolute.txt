@@ -83,3 +83,12 @@ D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ControlDevic
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ControlDevice\obj\Debug\MC.ControlDevice.csprojResolveAssemblyReference.cache
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ControlDevice\obj\Debug\MC.ControlDevice.dll
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.ControlDevice\obj\Debug\MC.ControlDevice.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ControlDevice\bin\Debug\MC.ControlDevice.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ControlDevice\bin\Debug\MC.ControlDevice.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ControlDevice\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ControlDevice\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ControlDevice\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ControlDevice\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ControlDevice\obj\Debug\MC.ControlDevice.csprojResolveAssemblyReference.cache
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ControlDevice\obj\Debug\MC.ControlDevice.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ControlDevice\obj\Debug\MC.ControlDevice.pdb

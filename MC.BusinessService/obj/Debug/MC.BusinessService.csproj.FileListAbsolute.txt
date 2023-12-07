@@ -109,3 +109,8 @@ D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.BusinessServ
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.BusinessService\obj\Debug\MC.BusinessService.csprojResolveAssemblyReference.cache
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.BusinessService\obj\Debug\MC.BusinessService.dll
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.BusinessService\obj\Debug\MC.BusinessService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.BusinessService\bin\Debug\MC.BusinessService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.BusinessService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.BusinessService\obj\Debug\MC.BusinessService.csprojResolveAssemblyReference.cache
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.BusinessService\obj\Debug\MC.BusinessService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.BusinessService\obj\Debug\MC.BusinessService.pdb

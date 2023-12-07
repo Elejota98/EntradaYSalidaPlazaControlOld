@@ -123,3 +123,14 @@ C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.Vi
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.csprojResolveAssemblyReference.cache
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.dll
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\MC.ModuloSalida.WinForm.View.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\MC.ModuloSalida.WinForm.View.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\MC.BusinessObjects.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\MC.Utilidades.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\EGlobalT.Device.SmartCard.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\EGlobalT.Device.Tools.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\MC.BusinessObjects.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\bin\Debug\MC.Utilidades.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.csprojResolveAssemblyReference.cache
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.ModuloSalida.WinForm.View\obj\Debug\MC.ModuloSalida.WinForm.View.pdb

@@ -270,6 +270,26 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
             {
                 case Pantalla.SalvaPantallas:
 
+
+                    if (_frmPrincipal_Presenter.ObtenerEventoDispo())
+                    {
+                        string[] Resul = _Barrera.Split(';');
+
+                        if (Resul[0].ToString() == Globales.sSerial)
+                        {
+                            if (Convert.ToBoolean(Globales.sPLC) == true)
+                            {
+                                _frmPrincipal_Presenter.AbrirTalanquera();
+                            }
+                            else
+                            {
+                                _frmPrincipal_Presenter.AperturaBarrera();
+                                _frmPrincipal_Presenter.ActualizarEventoDispo(Convert.ToInt64(Resul[1]));
+
+                            }
+                        }
+
+                    }
                     //TbTag.Focus();
                    //CapturaPlaca();
 
@@ -617,28 +637,11 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
                         }
                         else if (_IdTransaccion != string.Empty && _IdTransaccion != "")
                         {
+                          
                             Presentacion = Pantalla.ProcesandoTransaccion;
                         }
 
-                        if (_frmPrincipal_Presenter.ObtenerEventoDispo())
-                        {
-                            string[] Resul = _Barrera.Split(';');
-
-                            if (Resul[0].ToString() == Globales.sSerial)
-                            {
-                                if (Convert.ToBoolean(Globales.sPLC) == true)
-                                {
-                                    _frmPrincipal_Presenter.AbrirTalanquera();
-                                }
-                                else
-                                {
-                                    _frmPrincipal_Presenter.AperturaBarrera();
-                                    _frmPrincipal_Presenter.ActualizarEventoDispo(Convert.ToInt64(Resul[1]));
-
-                                }
-                            }
-
-                        }
+                      
                     }
 
                     //}
@@ -1594,7 +1597,7 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
         }
         private async Task<bool> ConectarDispositivos()
         {
-            return true;
+            //return true;
             bool ok = false;
 
             if (Convert.ToBoolean(Globales.sPLC) == true)
@@ -1650,9 +1653,13 @@ namespace MC.ModuloSalida.WinForm.FrontEnd
 
             oTransaccion.CarrilSalida = Convert.ToInt32(Globales.sCarril);
             oTransaccion.IdEstacionamiento = Convert.ToInt64(Globales.iCodigoEstacionamiento);
-            oTransaccion.IdTarjeta = "NULL";
+            oTransaccion.IdTarjeta =  null;
             oTransaccion.IdTransaccion = Convert.ToInt64(SecuenciaTransaccion);
             oTransaccion.ModuloSalida = Globales.sSerial;
+            if (_sPlaca == "")
+            {
+                _sPlaca = "------";
+            }
             oTransaccion.PlacaSalida = _sPlaca;
 
             _frmPrincipal_Presenter.RegistrarSalida(oTransaccion);

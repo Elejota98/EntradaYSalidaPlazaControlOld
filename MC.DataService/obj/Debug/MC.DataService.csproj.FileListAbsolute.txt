@@ -189,3 +189,10 @@ D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.DataService\
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.DataService\bin\Debug\MC.BusinessService.pdb
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.DataService\obj\Debug\MC.DataService.dll
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.DataService\obj\Debug\MC.DataService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.DataService\bin\Debug\MC.DataService.dll.config
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.DataService\bin\Debug\MC.DataService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.DataService\bin\Debug\MC.DataService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.DataService\bin\Debug\MC.BusinessService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.DataService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.DataService\obj\Debug\MC.DataService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.DataService\obj\Debug\MC.DataService.pdb

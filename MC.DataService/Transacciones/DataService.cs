@@ -531,6 +531,7 @@ namespace MC.DataService
         public ResultadoOperacion RegistrarTransaccionSalida(Transaccion oTransaccion)
         {
             ResultadoOperacion oResultadoOperacion = new ResultadoOperacion();
+            
 
             DataSetTransacciones.P_RegistrarSalidaDataTable _TransaccionTable = new DataSetTransacciones.P_RegistrarSalidaDataTable();
             DataSetTransaccionesTableAdapters.P_RegistrarSalidaTableAdapter _TransaccionAdapter = new DataSetTransaccionesTableAdapters.P_RegistrarSalidaTableAdapter();
@@ -542,7 +543,7 @@ namespace MC.DataService
                 if (_TransaccionAdapter.Fill(_TransaccionTable, oTransaccion.IdTransaccion, oTransaccion.CarrilSalida, oTransaccion.ModuloSalida, oTransaccion.IdEstacionamiento, oTransaccion.IdTarjeta, oTransaccion.PlacaSalida) > 0)
                 {
                     for (int i = 0; i < _TransaccionTable.Rows.Count; i++)
-                    {
+                    {  
 
                         long code = Convert.ToInt64(_TransaccionTable.Rows[i][0].ToString());
                         oResultadoOperacion.oEstado = TipoRespuesta.Exito;

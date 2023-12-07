@@ -282,3 +282,16 @@ D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Sincronizaci
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.dll
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.pdb
 C:\Users\Salida\Desktop\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.csprojResolveAssemblyReference.cache
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\bin\Debug\MC.SincronizacionService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\bin\Debug\MC.SincronizacionService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\bin\Debug\MC.BaseService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\bin\Debug\MC.BusinessService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\bin\Debug\MC.DataService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\bin\Debug\MC.Utilidades.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\bin\Debug\MC.BaseService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\bin\Debug\MC.BusinessService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\bin\Debug\MC.DataService.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\bin\Debug\MC.Utilidades.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.csprojResolveAssemblyReference.cache
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.SincronizacionService\obj\Debug\MC.SincronizacionService.pdb

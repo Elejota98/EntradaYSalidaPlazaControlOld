@@ -170,3 +170,9 @@ D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Global\bin\D
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Global\bin\Debug\MC.Utilidades.pdb
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Global\obj\Debug\MC.Global.dll
 D:\PROYECTOS\PLAZA CENTRAL\Codigos\EntradaYSalidaPlazaControlOld\MC.Global\obj\Debug\MC.Global.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.Global\bin\Debug\MC.Global.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.Global\bin\Debug\MC.Global.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.Global\bin\Debug\MC.Utilidades.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.Global\bin\Debug\MC.Utilidades.pdb
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.Global\obj\Debug\MC.Global.dll
+C:\Users\Parquearse\Desktop\EntradaYSalidaPlazaControlOld\MC.Global\obj\Debug\MC.Global.pdb
